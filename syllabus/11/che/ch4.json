@@ -1,0 +1,64 @@
+[
+  {
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topics": [
+      "Kössel-Lewis Approach to Chemical Bonding",
+      "Ionic or Electrovalent Bond",
+      "Bond Parameters",
+      "The Valence Shell Electron Pair Repulsion (VSEPR) Theory",
+      "Valence Bond Theory",
+      "Hybridisation",
+      "Molecular Orbital Theory",
+      "Bonding in Some Homonuclear Diatomic Molecules",
+      "Hydrogen Bonding"
+    ]
+  },
+  {
+    "chapter": "Mole Concept and Molar Masses",
+    "topics": [
+      "Mathematical Calculations"
+    ]
+  },
+  {
+    "chapter": "Concentration of Solutions",
+    "topics": [
+      "Mathematical Calculations"
+    ]
+  },
+  {
+    "chapter": "Percentage Composition",
+    "topics": [
+      "Mathematical Calculations"
+    ]
+  },
+  {
+    "chapter": "Empirical and Molecular Formulas",
+    "topics": [
+      "Mathematical Calculations"
+    ]
+  },
+  {
+    "chapter": "Acid-Base Reactions",
+    "topics": [
+      "Mathematical Calculations"
+    ]
+  },
+  {
+    "chapter": "pH and pOH Calculations",
+    "topics": [
+      "Mathematical Calculations"
+    ]
+  },
+  {
+    "chapter": "Thermodynamics",
+    "topics": [
+      "Mathematical Calculations"
+    ]
+  },
+  {
+    "chapter": "Gaseous State",
+    "topics": [
+      "Mathematical Calculations"
+    ]
+  }
+]

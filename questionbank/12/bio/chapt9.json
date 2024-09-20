@@ -1,0 +1,4344 @@
+[
+  {
+    "qno": 1,
+    "questionText": "Which of the following is a core technique that enabled the birth of modern biotechnology?",
+    "options": [
+      {
+        "text": "Genetic engineering",
+        "isCorrect": true
+      },
+      {
+        "text": "Traditional breeding",
+        "isCorrect": false
+      },
+      {
+        "text": "Photosynthesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Chemotherapy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Genetic engineering involves altering the genetic material (DNA and RNA) and is a core technique in modern biotechnology.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Bioprocess engineering in biotechnology primarily focuses on which of the following?",
+    "options": [
+      {
+        "text": "Maintenance of sterile conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "Genetic modification",
+        "isCorrect": false
+      },
+      {
+        "text": "Creating vaccines",
+        "isCorrect": false
+      },
+      {
+        "text": "Producing antibiotics",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bioprocess engineering involves maintaining sterile conditions to allow the growth of desired microorganisms for biotechnological product manufacturing.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "What is the purpose of the 'origin of replication' in genetic engineering?",
+    "options": [
+      {
+        "text": "To initiate DNA replication",
+        "isCorrect": true
+      },
+      {
+        "text": "To terminate protein synthesis",
+        "isCorrect": false
+      },
+      {
+        "text": "To bind ribosomes",
+        "isCorrect": false
+      },
+      {
+        "text": "To degrade mRNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The 'origin of replication' is a specific DNA sequence where replication begins, allowing the DNA to be duplicated within the host organism.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which enzyme is known as 'molecular scissors' in the context of genetic engineering?",
+    "options": [
+      {
+        "text": "Restriction enzymes",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction enzymes cut DNA at specific sites, making them essential tools in genetic engineering.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "In the process of creating recombinant DNA, which enzyme is responsible for joining the DNA fragments?",
+    "options": [
+      {
+        "text": "DNA ligase",
+        "isCorrect": true
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      },
+      {
+        "text": "Helicase",
+        "isCorrect": false
+      },
+      {
+        "text": "Topoisomerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase joins the ends of DNA fragments, creating a continuous DNA molecule.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which process in biotechnology allows the introduction of only desirable genes without unwanted ones?",
+    "options": [
+      {
+        "text": "Genetic engineering",
+        "isCorrect": true
+      },
+      {
+        "text": "Traditional hybridization",
+        "isCorrect": false
+      },
+      {
+        "text": "Mutagenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-breeding",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Genetic engineering enables the isolation and introduction of specific desirable genes without introducing undesirable ones.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 7,
+    "questionText": "What is the function of restriction endonucleases in genetic engineering?",
+    "options": [
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": true
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases are enzymes that cut DNA at specific nucleotide sequences.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "What is the role of DNA ligase in the creation of recombinant DNA?",
+    "options": [
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To unwind DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is used to join cut DNA fragments, forming a continuous DNA molecule.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which component in a chromosome allows for the replication of an alien piece of DNA in an organism?",
+    "options": [
+      {
+        "text": "Origin of replication",
+        "isCorrect": true
+      },
+      {
+        "text": "Telomere",
+        "isCorrect": false
+      },
+      {
+        "text": "Centromere",
+        "isCorrect": false
+      },
+      {
+        "text": "Promoter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The origin of replication is a specific DNA sequence that initiates DNA replication, allowing an alien piece of DNA to replicate within the host organism.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "In genetic engineering, what is a plasmid primarily used for?",
+    "options": [
+      {
+        "text": "As a vector to transfer DNA",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate independently",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize proteins",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids act as vectors to transfer an alien piece of DNA into the host organism.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which enzyme facilitates the cutting of DNA at specific locations?",
+    "options": [
+      {
+        "text": "Restriction endonuclease",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Topoisomerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases are enzymes that cut DNA at specific nucleotide sequences.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the primary purpose of genetic engineering in biotechnology?",
+    "options": [
+      {
+        "text": "To alter the genetic material of organisms",
+        "isCorrect": true
+      },
+      {
+        "text": "To produce antibiotics",
+        "isCorrect": false
+      },
+      {
+        "text": "To grow crops",
+        "isCorrect": false
+      },
+      {
+        "text": "To breed animals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Genetic engineering involves altering the genetic material (DNA and RNA) of organisms to achieve desired traits.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which process involves the use of restriction enzymes, DNA ligase, and vectors?",
+    "options": [
+      {
+        "text": "Recombinant DNA technology",
+        "isCorrect": true
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      },
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": false
+      },
+      {
+        "text": "Southern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Recombinant DNA technology uses restriction enzymes to cut DNA, DNA ligase to join DNA fragments, and vectors to transfer DNA into host cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which feature of a chromosome is essential for the replication of an alien DNA?",
+    "options": [
+      {
+        "text": "Origin of replication",
+        "isCorrect": true
+      },
+      {
+        "text": "Centromere",
+        "isCorrect": false
+      },
+      {
+        "text": "Telomere",
+        "isCorrect": false
+      },
+      {
+        "text": "Promoter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The origin of replication is a specific DNA sequence where DNA replication begins, allowing alien DNA to replicate within the host organism.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the role of DNA ligase in genetic engineering?",
+    "options": [
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To unwind DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is an enzyme that joins the ends of DNA fragments, forming a continuous DNA molecule.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "What is the role of the enzyme DNA ligase in genetic engineering?",
+    "options": [
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To unwind DNA strands",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is responsible for joining DNA fragments by forming phosphodiester bonds, creating a continuous DNA strand.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which of the following best describes the role of plasmids in genetic engineering?",
+    "options": [
+      {
+        "text": "Vectors for gene transfer",
+        "isCorrect": true
+      },
+      {
+        "text": "Sites for DNA replication",
+        "isCorrect": false
+      },
+      {
+        "text": "Enzymes for DNA cutting",
+        "isCorrect": false
+      },
+      {
+        "text": "Proteins for DNA synthesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids are small, circular DNA molecules that act as vectors to transfer foreign DNA into host cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which component of a chromosome allows for the integration and replication of foreign DNA?",
+    "options": [
+      {
+        "text": "Origin of replication",
+        "isCorrect": true
+      },
+      {
+        "text": "Centromere",
+        "isCorrect": false
+      },
+      {
+        "text": "Telomere",
+        "isCorrect": false
+      },
+      {
+        "text": "Enhancer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The origin of replication is a specific DNA sequence where DNA replication begins, allowing foreign DNA to integrate and replicate within the host organism.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "In the context of genetic engineering, what is the purpose of restriction endonucleases?",
+    "options": [
+      {
+        "text": "To cut DNA at specific sequences",
+        "isCorrect": true
+      },
+      {
+        "text": "To synthesize DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "To repair DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases are enzymes that cut DNA at specific nucleotide sequences, enabling the manipulation of DNA for genetic engineering.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which of the following is a characteristic feature of recombinant DNA?",
+    "options": [
+      {
+        "text": "It contains DNA from different sources",
+        "isCorrect": true
+      },
+      {
+        "text": "It is naturally occurring",
+        "isCorrect": false
+      },
+      {
+        "text": "It cannot be replicated",
+        "isCorrect": false
+      },
+      {
+        "text": "It lacks genetic material",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Recombinant DNA is artificially created by combining DNA from different sources, resulting in a new genetic combination.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "What is the primary objective of genetic engineering?",
+    "options": [
+      {
+        "text": "To alter the genetic makeup of an organism",
+        "isCorrect": true
+      },
+      {
+        "text": "To breed new species",
+        "isCorrect": false
+      },
+      {
+        "text": "To produce new chemicals",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize food",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main goal of genetic engineering is to alter the genetic material of an organism to achieve desired traits or produce specific proteins.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which enzyme is used to join two DNA fragments together in the process of creating recombinant DNA?",
+    "options": [
+      {
+        "text": "DNA ligase",
+        "isCorrect": true
+      },
+      {
+        "text": "Restriction endonuclease",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Helicase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is an enzyme that joins two DNA fragments together by forming phosphodiester bonds between them.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "What is the role of restriction endonucleases in genetic engineering?",
+    "options": [
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": true
+      },
+      {
+        "text": "To synthesize DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "To repair DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases are enzymes that cut DNA at specific nucleotide sequences, enabling the manipulation of DNA for genetic engineering.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 24,
+    "questionText": "In the context of biotechnology, what is a plasmid used for?",
+    "options": [
+      {
+        "text": "As a vector to transfer DNA",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate independently",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize proteins",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids are small, circular DNA molecules that act as vectors to transfer foreign DNA into host cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which of the following best describes the function of DNA ligase?",
+    "options": [
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To unwind DNA strands",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is responsible for joining DNA fragments by forming phosphodiester bonds, creating a continuous DNA strand.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which enzyme is known as 'molecular scissors' in the context of genetic engineering?",
+    "options": [
+      {
+        "text": "Restriction endonucleases",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases cut DNA at specific sites, making them essential tools in genetic engineering.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "What is the function of the 'origin of replication' in genetic engineering?",
+    "options": [
+      {
+        "text": "To initiate DNA replication",
+        "isCorrect": true
+      },
+      {
+        "text": "To terminate protein synthesis",
+        "isCorrect": false
+      },
+      {
+        "text": "To bind ribosomes",
+        "isCorrect": false
+      },
+      {
+        "text": "To degrade mRNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The 'origin of replication' is a specific DNA sequence where replication begins, allowing the DNA to be duplicated within the host organism.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which of the following best describes the primary use of plasmids in genetic engineering?",
+    "options": [
+      {
+        "text": "As vectors for gene transfer",
+        "isCorrect": true
+      },
+      {
+        "text": "As sites for DNA replication",
+        "isCorrect": false
+      },
+      {
+        "text": "As enzymes for DNA cutting",
+        "isCorrect": false
+      },
+      {
+        "text": "As proteins for DNA synthesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids are small, circular DNA molecules that act as vectors to transfer foreign DNA into host cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "What is a key advantage of genetic engineering over traditional breeding methods?",
+    "options": [
+      {
+        "text": "It allows the introduction of only desirable genes",
+        "isCorrect": true
+      },
+      {
+        "text": "It is less expensive",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a faster process",
+        "isCorrect": false
+      },
+      {
+        "text": "It does not require laboratory equipment",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Genetic engineering allows for the precise introduction of desirable genes without including unwanted traits.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 30,
+    "questionText": "Which process in biotechnology involves the manipulation of an organism's genetic material?",
+    "options": [
+      {
+        "text": "Genetic engineering",
+        "isCorrect": true
+      },
+      {
+        "text": "Fermentation",
+        "isCorrect": false
+      },
+      {
+        "text": "Photosynthesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrolysis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Genetic engineering involves altering the genetic material (DNA and RNA) of an organism to achieve desired traits.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 31,
+    "questionText": "What is the purpose of the 'origin of replication' in a chromosome?",
+    "options": [
+      {
+        "text": "To initiate DNA replication",
+        "isCorrect": true
+      },
+      {
+        "text": "To terminate transcription",
+        "isCorrect": false
+      },
+      {
+        "text": "To bind ribosomes",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect telomeres",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The 'origin of replication' is a specific DNA sequence where replication begins, allowing the DNA to be duplicated within the host organism.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 32,
+    "questionText": "Which enzyme is used to cut DNA at specific nucleotide sequences?",
+    "options": [
+      {
+        "text": "Restriction endonuclease",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Helicase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases are enzymes that cut DNA at specific nucleotide sequences, enabling the manipulation of DNA for genetic engineering.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 33,
+    "questionText": "What is the role of plasmids in genetic engineering?",
+    "options": [
+      {
+        "text": "Vectors for gene transfer",
+        "isCorrect": true
+      },
+      {
+        "text": "Enzymes for DNA cutting",
+        "isCorrect": false
+      },
+      {
+        "text": "Proteins for DNA synthesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Sites for DNA replication",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids are small, circular DNA molecules that act as vectors to transfer foreign DNA into host cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 34,
+    "questionText": "Which enzyme is essential for joining DNA fragments in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "DNA ligase",
+        "isCorrect": true
+      },
+      {
+        "text": "Restriction endonuclease",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Helicase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is an enzyme that joins two DNA fragments together by forming phosphodiester bonds between them.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "What is the function of restriction endonucleases in genetic engineering?",
+    "options": [
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": true
+      },
+      {
+        "text": "To synthesize DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "To repair DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases are enzymes that cut DNA at specific nucleotide sequences, enabling the manipulation of DNA for genetic engineering.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 37,
+    "questionText": "What is the role of DNA ligase in genetic engineering?",
+    "options": [
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To unwind DNA strands",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is responsible for joining DNA fragments by forming phosphodiester bonds, creating a continuous DNA strand.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 41,
+    "questionText": "Which of the following is NOT a core technique in modern biotechnology?",
+    "options": [
+      {
+        "text": "Fermentation",
+        "isCorrect": true
+      },
+      {
+        "text": "Genetic engineering",
+        "isCorrect": false
+      },
+      {
+        "text": "Bioprocess engineering",
+        "isCorrect": false
+      },
+      {
+        "text": "Gene cloning",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fermentation is a traditional biotechnology process, whereas genetic engineering and bioprocess engineering are core techniques in modern biotechnology.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 42,
+    "questionText": "What is the primary function of restriction endonucleases in genetic engineering?",
+    "options": [
+      {
+        "text": "To cut DNA at specific sequences",
+        "isCorrect": true
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To unwind DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases are enzymes that cut DNA at specific nucleotide sequences, enabling precise manipulation of DNA for genetic engineering.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 43,
+    "questionText": "In genetic engineering, what is the purpose of DNA ligase?",
+    "options": [
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is an enzyme that joins DNA fragments by forming phosphodiester bonds, creating a continuous DNA molecule.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 44,
+    "questionText": "Which feature of a chromosome allows for the replication of an alien DNA within a host organism?",
+    "options": [
+      {
+        "text": "Origin of replication",
+        "isCorrect": true
+      },
+      {
+        "text": "Telomere",
+        "isCorrect": false
+      },
+      {
+        "text": "Centromere",
+        "isCorrect": false
+      },
+      {
+        "text": "Promoter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The origin of replication is a specific DNA sequence where replication begins, allowing an alien piece of DNA to replicate within the host organism.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 45,
+    "questionText": "What is the primary use of plasmids in genetic engineering?",
+    "options": [
+      {
+        "text": "As vectors to transfer DNA",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate independently",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize proteins",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids are small, circular DNA molecules that act as vectors to transfer foreign DNA into host cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 46,
+    "questionText": "Which enzyme is referred to as 'molecular scissors' in genetic engineering?",
+    "options": [
+      {
+        "text": "Restriction endonucleases",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases cut DNA at specific sites, making them essential tools in genetic engineering.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 47,
+    "questionText": "What is the function of the 'origin of replication' in a plasmid used in genetic engineering?",
+    "options": [
+      {
+        "text": "To initiate DNA replication",
+        "isCorrect": true
+      },
+      {
+        "text": "To terminate protein synthesis",
+        "isCorrect": false
+      },
+      {
+        "text": "To bind ribosomes",
+        "isCorrect": false
+      },
+      {
+        "text": "To degrade mRNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The 'origin of replication' is a specific DNA sequence where replication begins, allowing the plasmid to be duplicated within the host organism.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 48,
+    "questionText": "Which of the following describes the role of plasmids in genetic engineering?",
+    "options": [
+      {
+        "text": "Vectors for gene transfer",
+        "isCorrect": true
+      },
+      {
+        "text": "Sites for DNA replication",
+        "isCorrect": false
+      },
+      {
+        "text": "Enzymes for DNA cutting",
+        "isCorrect": false
+      },
+      {
+        "text": "Proteins for DNA synthesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids are small, circular DNA molecules that act as vectors to transfer foreign DNA into host cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 49,
+    "questionText": "What is the role of DNA ligase in the process of creating recombinant DNA?",
+    "options": [
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To unwind DNA strands",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is an enzyme that joins the ends of DNA fragments, forming a continuous DNA molecule.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 50,
+    "questionText": "Which enzyme is known as 'molecular scissors' in genetic engineering?",
+    "options": [
+      {
+        "text": "Restriction endonucleases",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases cut DNA at specific sites, making them essential tools in genetic engineering.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 51,
+    "questionText": "What is the primary objective of genetic engineering in biotechnology?",
+    "options": [
+      {
+        "text": "To alter the genetic makeup of an organism",
+        "isCorrect": true
+      },
+      {
+        "text": "To breed new species",
+        "isCorrect": false
+      },
+      {
+        "text": "To produce new chemicals",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize food",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main goal of genetic engineering is to alter the genetic material of an organism to achieve desired traits or produce specific proteins.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 53,
+    "questionText": "What is the primary purpose of genetic engineering?",
+    "options": [
+      {
+        "text": "To alter the genetic makeup of an organism",
+        "isCorrect": true
+      },
+      {
+        "text": "To breed new species",
+        "isCorrect": false
+      },
+      {
+        "text": "To produce new chemicals",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize food",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main goal of genetic engineering is to alter the genetic material of an organism to achieve desired traits or produce specific proteins.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 61,
+    "questionText": "Which enzyme is used to join DNA fragments in the creation of recombinant DNA?",
+    "options": [
+      {
+        "text": "DNA ligase",
+        "isCorrect": true
+      },
+      {
+        "text": "Restriction endonuclease",
+        "isCorrect": false
+      },
+      {
+        "text": "Helicase",
+        "isCorrect": false
+      },
+      {
+        "text": "Topoisomerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase joins the ends of DNA fragments, creating a continuous DNA molecule.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 62,
+    "questionText": "What is the role of restriction endonucleases in genetic engineering?",
+    "options": [
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": true
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases are enzymes that cut DNA at specific nucleotide sequences, enabling the precise manipulation of DNA.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 63,
+    "questionText": "Which component of a chromosome is crucial for the replication of an alien DNA in an organism?",
+    "options": [
+      {
+        "text": "Origin of replication",
+        "isCorrect": true
+      },
+      {
+        "text": "Centromere",
+        "isCorrect": false
+      },
+      {
+        "text": "Telomere",
+        "isCorrect": false
+      },
+      {
+        "text": "Promoter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The origin of replication is a specific DNA sequence where replication begins, allowing an alien piece of DNA to replicate within the host organism.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 64,
+    "questionText": "In the context of genetic engineering, what is the purpose of plasmids?",
+    "options": [
+      {
+        "text": "As vectors to transfer DNA",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize proteins",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids are small, circular DNA molecules that act as vectors to transfer foreign DNA into host cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 81,
+    "questionText": "Which of the following is a key feature of genetic engineering?",
+    "options": [
+      {
+        "text": "Modification of genetic material",
+        "isCorrect": true
+      },
+      {
+        "text": "Use of natural selection",
+        "isCorrect": false
+      },
+      {
+        "text": "Production of energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Cell division",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Genetic engineering involves the deliberate modification of the genetic material (DNA and RNA) of an organism.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 82,
+    "questionText": "What is the primary role of bioprocess engineering in biotechnology?",
+    "options": [
+      {
+        "text": "To maintain sterile conditions for microbial growth",
+        "isCorrect": true
+      },
+      {
+        "text": "To alter the genetic material",
+        "isCorrect": false
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bioprocess engineering ensures the maintenance of sterile conditions to facilitate the growth of desired microorganisms for biotechnological product manufacturing.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 83,
+    "questionText": "Which enzyme is essential for the process of creating recombinant DNA?",
+    "options": [
+      {
+        "text": "DNA ligase",
+        "isCorrect": true
+      },
+      {
+        "text": "Restriction endonuclease",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Helicase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase joins the ends of DNA fragments, creating a continuous DNA molecule, which is essential for creating recombinant DNA.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 84,
+    "questionText": "What is the primary function of the 'origin of replication' in a plasmid?",
+    "options": [
+      {
+        "text": "To initiate DNA replication",
+        "isCorrect": true
+      },
+      {
+        "text": "To bind ribosomes",
+        "isCorrect": false
+      },
+      {
+        "text": "To terminate transcription",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect telomeres",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The 'origin of replication' is a specific DNA sequence where replication begins, allowing the plasmid to be duplicated within the host organism.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 85,
+    "questionText": "Which of the following best describes the use of plasmids in genetic engineering?",
+    "options": [
+      {
+        "text": "As vectors for gene transfer",
+        "isCorrect": true
+      },
+      {
+        "text": "As sites for DNA replication",
+        "isCorrect": false
+      },
+      {
+        "text": "As enzymes for DNA cutting",
+        "isCorrect": false
+      },
+      {
+        "text": "As proteins for DNA synthesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids are small, circular DNA molecules that act as vectors to transfer foreign DNA into host cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 86,
+    "questionText": "What is the role of restriction endonucleases in genetic engineering?",
+    "options": [
+      {
+        "text": "To cut DNA at specific sequences",
+        "isCorrect": true
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases are enzymes that cut DNA at specific nucleotide sequences, enabling precise manipulation of DNA for genetic engineering.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 87,
+    "questionText": "Which of the following is a key feature of recombinant DNA?",
+    "options": [
+      {
+        "text": "It contains DNA from different sources",
+        "isCorrect": true
+      },
+      {
+        "text": "It is naturally occurring",
+        "isCorrect": false
+      },
+      {
+        "text": "It cannot be replicated",
+        "isCorrect": false
+      },
+      {
+        "text": "It lacks genetic material",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Recombinant DNA is artificially created by combining DNA from different sources, resulting in a new genetic combination.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 88,
+    "questionText": "What is the primary purpose of genetic engineering in biotechnology?",
+    "options": [
+      {
+        "text": "To alter the genetic makeup of an organism",
+        "isCorrect": true
+      },
+      {
+        "text": "To breed new species",
+        "isCorrect": false
+      },
+      {
+        "text": "To produce new chemicals",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize food",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main goal of genetic engineering is to alter the genetic material of an organism to achieve desired traits or produce specific proteins.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 93,
+    "questionText": "What is the primary role of restriction endonucleases in genetic engineering?",
+    "options": [
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": true
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To unwind DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases are enzymes that cut DNA at specific nucleotide sequences, enabling precise manipulation of DNA for genetic engineering.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "HARD"
+  },
+  {
+    "qno": 95,
+    "questionText": "In genetic engineering, which enzyme is responsible for joining DNA fragments?",
+    "options": [
+      {
+        "text": "DNA ligase",
+        "isCorrect": true
+      },
+      {
+        "text": "Restriction endonuclease",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Helicase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is an enzyme that joins DNA fragments by forming phosphodiester bonds, creating a continuous DNA molecule.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 96,
+    "questionText": "What is the primary purpose of plasmids in genetic engineering?",
+    "options": [
+      {
+        "text": "As vectors to transfer DNA",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize proteins",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids are small, circular DNA molecules that act as vectors to transfer foreign DNA into host cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 106,
+    "questionText": "What is the primary function of plasmids in genetic engineering?",
+    "options": [
+      {
+        "text": "As vectors to transfer DNA",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize proteins",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids are small, circular DNA molecules that act as vectors to transfer foreign DNA into host cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.1 Principles of Biotechnology",
+    "level": "EASY"
+  },
+  {
+    "qno": 1,
+    "questionText": "Which of the following tools is essential for cutting DNA at specific sequences in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "Restriction enzymes",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction enzymes cut DNA at specific sequences, enabling the manipulation of DNA fragments in recombinant DNA technology.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "What is the role of DNA ligase in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is an enzyme that joins the ends of DNA fragments, forming a continuous DNA molecule.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which enzyme is used to amplify specific DNA sequences in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "DNA polymerase",
+        "isCorrect": true
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA polymerase is used in the Polymerase Chain Reaction (PCR) to amplify specific DNA sequences.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is the purpose of vectors in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "To transfer DNA into host cells",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize proteins",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Vectors, such as plasmids, are used to transfer foreign DNA into host cells in recombinant DNA technology.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which of the following is a commonly used vector in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "Plasmids",
+        "isCorrect": true
+      },
+      {
+        "text": "Ribosomes",
+        "isCorrect": false
+      },
+      {
+        "text": "Mitochondria",
+        "isCorrect": false
+      },
+      {
+        "text": "Chloroplasts",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids are small, circular DNA molecules commonly used as vectors to transfer foreign DNA into host cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which of the following techniques is used to separate DNA fragments based on their size?",
+    "options": [
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": true
+      },
+      {
+        "text": "Centrifugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Spectrophotometry",
+        "isCorrect": false
+      },
+      {
+        "text": "Chromatography",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gel electrophoresis is a technique used to separate DNA fragments based on their size by applying an electric field.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 7,
+    "questionText": "What is the purpose of the Polymerase Chain Reaction (PCR) in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "To amplify specific DNA sequences",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "To degrade RNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "PCR is used to amplify specific DNA sequences, making millions of copies of a particular DNA segment.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which of the following is NOT a tool used in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "Telomerase",
+        "isCorrect": true
+      },
+      {
+        "text": "Restriction enzymes",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "Vectors",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Telomerase is an enzyme that adds repetitive nucleotide sequences to the ends of chromosomes, but it is not typically used in recombinant DNA technology.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which technique is used to visualize DNA fragments separated by gel electrophoresis?",
+    "options": [
+      {
+        "text": "Staining with ethidium bromide",
+        "isCorrect": true
+      },
+      {
+        "text": "Fluorescence microscopy",
+        "isCorrect": false
+      },
+      {
+        "text": "Electron microscopy",
+        "isCorrect": false
+      },
+      {
+        "text": "Phase contrast microscopy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethidium bromide is a fluorescent dye used to stain DNA fragments in a gel, allowing them to be visualized under UV light.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following enzymes is used to create a complementary DNA (cDNA) strand from an mRNA template?",
+    "options": [
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reverse transcriptase synthesizes a complementary DNA (cDNA) strand from an mRNA template, a key step in many molecular biology techniques.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which of the following is used as a vector to introduce foreign DNA into a plant cell?",
+    "options": [
+      {
+        "text": "Ti plasmid",
+        "isCorrect": true
+      },
+      {
+        "text": "Lambda phage",
+        "isCorrect": false
+      },
+      {
+        "text": "BAC",
+        "isCorrect": false
+      },
+      {
+        "text": "Cosmid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ti plasmid, derived from the bacterium Agrobacterium tumefaciens, is commonly used to introduce foreign DNA into plant cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the role of selectable markers in plasmid vectors?",
+    "options": [
+      {
+        "text": "To identify cells that have taken up the plasmid",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To amplify DNA sequences",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Selectable markers are genes that confer resistance to antibiotics or other selective agents, allowing identification of cells that have taken up the plasmid.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which enzyme is used to synthesize DNA from an RNA template?",
+    "options": [
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reverse transcriptase synthesizes a complementary DNA (cDNA) strand from an RNA template.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which type of enzyme is used to create 'sticky ends' in DNA molecules for cloning?",
+    "options": [
+      {
+        "text": "Restriction enzymes",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction enzymes cut DNA at specific sequences, creating 'sticky ends' that can be joined with complementary DNA fragments.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which of the following tools is used to amplify DNA sequences in the Polymerase Chain Reaction (PCR)?",
+    "options": [
+      {
+        "text": "DNA polymerase",
+        "isCorrect": true
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA polymerase is the enzyme used in PCR to amplify specific DNA sequences.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which technique involves separating DNA fragments based on their size using an electric field?",
+    "options": [
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": true
+      },
+      {
+        "text": "Centrifugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Chromatography",
+        "isCorrect": false
+      },
+      {
+        "text": "Spectrophotometry",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gel electrophoresis separates DNA fragments based on size by applying an electric field to a gel matrix.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "What is the purpose of using a probe in DNA hybridization techniques?",
+    "options": [
+      {
+        "text": "To detect specific DNA sequences",
+        "isCorrect": true
+      },
+      {
+        "text": "To amplify DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A probe is a labeled DNA or RNA sequence used to detect the presence of complementary sequences in DNA samples through hybridization.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which vector is commonly used for cloning large fragments of DNA in bacterial systems?",
+    "options": [
+      {
+        "text": "Bacterial Artificial Chromosome (BAC)",
+        "isCorrect": true
+      },
+      {
+        "text": "Ti plasmid",
+        "isCorrect": false
+      },
+      {
+        "text": "Cosmid",
+        "isCorrect": false
+      },
+      {
+        "text": "Phage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "BACs are used to clone large DNA fragments in bacterial systems, allowing the study of large genomic regions.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which method is used to insert recombinant DNA into bacterial cells?",
+    "options": [
+      {
+        "text": "Transformation",
+        "isCorrect": true
+      },
+      {
+        "text": "Transduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Conjugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Electroporation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Transformation involves the uptake of recombinant DNA by bacterial cells, allowing the expression of foreign genes.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which enzyme is used to insert an RNA sequence into a DNA sequence?",
+    "options": [
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reverse transcriptase synthesizes complementary DNA (cDNA) from an RNA template, integrating the RNA sequence into the DNA.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which of the following tools is used to insert foreign DNA into a host cell using a virus?",
+    "options": [
+      {
+        "text": "Transduction",
+        "isCorrect": true
+      },
+      {
+        "text": "Transformation",
+        "isCorrect": false
+      },
+      {
+        "text": "Conjugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Electroporation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Transduction involves the use of a virus to transfer foreign DNA into a host cell.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which enzyme is used to seal the nicks and join the Okazaki fragments during DNA replication?",
+    "options": [
+      {
+        "text": "DNA ligase",
+        "isCorrect": true
+      },
+      {
+        "text": "Helicase",
+        "isCorrect": false
+      },
+      {
+        "text": "Primase",
+        "isCorrect": false
+      },
+      {
+        "text": "Topoisomerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase seals nicks and joins the Okazaki fragments on the lagging strand during DNA replication.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "What is the function of electroporation in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "To increase cell membrane permeability",
+        "isCorrect": true
+      },
+      {
+        "text": "To amplify DNA sequences",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electroporation uses an electrical field to increase cell membrane permeability, allowing the uptake of foreign DNA.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which type of vector is specifically used for gene cloning in yeast cells?",
+    "options": [
+      {
+        "text": "Yeast Artificial Chromosome (YAC)",
+        "isCorrect": true
+      },
+      {
+        "text": "Bacterial Artificial Chromosome (BAC)",
+        "isCorrect": false
+      },
+      {
+        "text": "Plasmid",
+        "isCorrect": false
+      },
+      {
+        "text": "Cosmid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Yeast Artificial Chromosomes (YACs) are vectors used for gene cloning in yeast cells, capable of carrying large DNA inserts.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which technique is used to amplify a specific DNA sequence in vitro?",
+    "options": [
+      {
+        "text": "Polymerase Chain Reaction (PCR)",
+        "isCorrect": true
+      },
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA sequencing",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polymerase Chain Reaction (PCR) is a technique used to amplify specific DNA sequences in vitro, creating millions of copies of the target sequence.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which of the following is used to visualize DNA fragments separated by agarose gel electrophoresis?",
+    "options": [
+      {
+        "text": "Ethidium bromide",
+        "isCorrect": true
+      },
+      {
+        "text": "Coomassie blue",
+        "isCorrect": false
+      },
+      {
+        "text": "Silver stain",
+        "isCorrect": false
+      },
+      {
+        "text": "Crystal violet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethidium bromide is a fluorescent dye used to stain DNA fragments in agarose gel electrophoresis, allowing visualization under UV light.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "What is the purpose of using a genomic library in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "To store and maintain DNA sequences from an organism's genome",
+        "isCorrect": true
+      },
+      {
+        "text": "To amplify DNA sequences",
+        "isCorrect": false
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A genomic library is a collection of DNA sequences from an organism's genome, stored in vectors, to facilitate study and manipulation of genes.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which enzyme is used to generate a DNA copy of an RNA molecule?",
+    "options": [
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": true
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reverse transcriptase synthesizes complementary DNA (cDNA) from an RNA template, a key step in creating cDNA libraries.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "Which of the following is NOT a component of a typical plasmid vector?",
+    "options": [
+      {
+        "text": "Origin of replication",
+        "isCorrect": false
+      },
+      {
+        "text": "Selectable marker",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction site",
+        "isCorrect": false
+      },
+      {
+        "text": "Telomere",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Telomeres are repetitive DNA sequences at the ends of eukaryotic chromosomes, not components of plasmid vectors used in recombinant DNA technology.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 30,
+    "questionText": "Which method is commonly used to determine the sequence of nucleotides in a DNA molecule?",
+    "options": [
+      {
+        "text": "DNA sequencing",
+        "isCorrect": true
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      },
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": false
+      },
+      {
+        "text": "Southern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA sequencing is a technique used to determine the exact sequence of nucleotides in a DNA molecule, providing essential information for genetic studies.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which enzyme is commonly used to cut DNA at specific nucleotide sequences in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "Restriction endonucleases",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases are enzymes that recognize and cut DNA at specific nucleotide sequences, essential for DNA manipulation in recombinant DNA technology.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 32,
+    "questionText": "What is the purpose of using the heat-stable enzyme Taq polymerase in PCR?",
+    "options": [
+      {
+        "text": "To withstand the high temperatures used during the PCR cycles",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Taq polymerase is a heat-stable DNA polymerase that remains active during the high-temperature cycles of PCR, enabling the amplification of DNA.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 33,
+    "questionText": "Which of the following is NOT a type of cloning vector?",
+    "options": [
+      {
+        "text": "Lambda phage",
+        "isCorrect": false
+      },
+      {
+        "text": "Cosmid",
+        "isCorrect": false
+      },
+      {
+        "text": "BAC",
+        "isCorrect": false
+      },
+      {
+        "text": "Ribosome",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Ribosomes are cellular structures involved in protein synthesis, not cloning vectors used in recombinant DNA technology.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 34,
+    "questionText": "What is the role of selectable markers in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "To identify cells that have taken up the foreign DNA",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To amplify DNA sequences",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Selectable markers are genes that confer resistance to antibiotics or other selective agents, allowing identification of cells that have taken up the foreign DNA.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "Which enzyme is used to make a DNA copy from an RNA template in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": true
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction endonuclease",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reverse transcriptase synthesizes complementary DNA (cDNA) from an RNA template, an essential step in creating cDNA libraries.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 36,
+    "questionText": "Which method is used to separate DNA fragments by size using an electric field?",
+    "options": [
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": true
+      },
+      {
+        "text": "Centrifugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Chromatography",
+        "isCorrect": false
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gel electrophoresis separates DNA fragments by size using an electric field, allowing visualization of the fragments in a gel matrix.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 37,
+    "questionText": "Which of the following vectors is used for cloning large DNA fragments in bacterial systems?",
+    "options": [
+      {
+        "text": "Bacterial Artificial Chromosome (BAC)",
+        "isCorrect": true
+      },
+      {
+        "text": "Plasmid",
+        "isCorrect": false
+      },
+      {
+        "text": "Cosmid",
+        "isCorrect": false
+      },
+      {
+        "text": "Lambda phage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "BACs are used for cloning large DNA fragments in bacterial systems, facilitating the study of large genomic regions.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 38,
+    "questionText": "What is the purpose of a probe in DNA hybridization techniques?",
+    "options": [
+      {
+        "text": "To detect specific DNA sequences",
+        "isCorrect": true
+      },
+      {
+        "text": "To amplify DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A probe is a labeled DNA or RNA sequence used to detect the presence of complementary sequences in DNA samples through hybridization.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 39,
+    "questionText": "Which enzyme is used to insert RNA sequences into DNA during the creation of cDNA libraries?",
+    "options": [
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": true
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reverse transcriptase synthesizes complementary DNA (cDNA) from an RNA template, an essential step in creating cDNA libraries.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 40,
+    "questionText": "Which of the following is used to identify and isolate specific DNA sequences in a genomic library?",
+    "options": [
+      {
+        "text": "Hybridization with labeled probes",
+        "isCorrect": true
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      },
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": false
+      },
+      {
+        "text": "Southern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hybridization with labeled probes allows the identification and isolation of specific DNA sequences in a genomic library by binding to complementary sequences.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 41,
+    "questionText": "What is the function of selectable markers in plasmid vectors?",
+    "options": [
+      {
+        "text": "To identify cells that have taken up the plasmid",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To unwind DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Selectable markers are genes that confer resistance to antibiotics or other selective agents, allowing identification of cells that have taken up the plasmid.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 42,
+    "questionText": "Which enzyme is responsible for synthesizing DNA from an RNA template?",
+    "options": [
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reverse transcriptase synthesizes complementary DNA (cDNA) from an RNA template, a key step in creating cDNA libraries.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 43,
+    "questionText": "Which of the following techniques is used to amplify DNA sequences in vitro?",
+    "options": [
+      {
+        "text": "Polymerase Chain Reaction (PCR)",
+        "isCorrect": true
+      },
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA sequencing",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polymerase Chain Reaction (PCR) is used to amplify specific DNA sequences in vitro, creating millions of copies of the target sequence.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 46,
+    "questionText": "Which vector is commonly used to introduce foreign DNA into plant cells?",
+    "options": [
+      {
+        "text": "Ti plasmid",
+        "isCorrect": true
+      },
+      {
+        "text": "Lambda phage",
+        "isCorrect": false
+      },
+      {
+        "text": "BAC",
+        "isCorrect": false
+      },
+      {
+        "text": "Cosmid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ti plasmid, derived from the bacterium Agrobacterium tumefaciens, is commonly used to introduce foreign DNA into plant cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 47,
+    "questionText": "Which technique involves separating DNA fragments based on their size?",
+    "options": [
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": true
+      },
+      {
+        "text": "Centrifugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Spectrophotometry",
+        "isCorrect": false
+      },
+      {
+        "text": "Chromatography",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gel electrophoresis is a technique used to separate DNA fragments based on their size by applying an electric field.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 49,
+    "questionText": "Which enzyme is used to create 'sticky ends' in DNA molecules for cloning?",
+    "options": [
+      {
+        "text": "Restriction enzymes",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction enzymes cut DNA at specific sequences, creating 'sticky ends' that can be joined with complementary DNA fragments.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 74,
+    "questionText": "Which technique is used to amplify DNA sequences in vitro?",
+    "options": [
+      {
+        "text": "Polymerase Chain Reaction (PCR)",
+        "isCorrect": true
+      },
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA sequencing",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polymerase Chain Reaction (PCR) is used to amplify specific DNA sequences in vitro, creating millions of copies of the target sequence.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 75,
+    "questionText": "What is the primary role of DNA ligase in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is an enzyme that joins the ends of DNA fragments, forming a continuous DNA molecule.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 76,
+    "questionText": "Which of the following techniques is used to visualize DNA fragments separated by gel electrophoresis?",
+    "options": [
+      {
+        "text": "Staining with ethidium bromide",
+        "isCorrect": true
+      },
+      {
+        "text": "Fluorescence microscopy",
+        "isCorrect": false
+      },
+      {
+        "text": "Electron microscopy",
+        "isCorrect": false
+      },
+      {
+        "text": "Phase contrast microscopy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethidium bromide is a fluorescent dye used to stain DNA fragments in a gel, allowing them to be visualized under UV light.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 83,
+    "questionText": "Which of the following is a common feature of all cloning vectors?",
+    "options": [
+      {
+        "text": "Origin of replication",
+        "isCorrect": true
+      },
+      {
+        "text": "Antibiotic resistance gene",
+        "isCorrect": false
+      },
+      {
+        "text": "Reporter gene",
+        "isCorrect": false
+      },
+      {
+        "text": "Multiple cloning site",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "All cloning vectors have an origin of replication, which allows them to be replicated within a host cell.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 84,
+    "questionText": "Which of the following is NOT a component of a typical plasmid vector?",
+    "options": [
+      {
+        "text": "Telomere",
+        "isCorrect": true
+      },
+      {
+        "text": "Origin of replication",
+        "isCorrect": false
+      },
+      {
+        "text": "Selectable marker",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction site",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Telomeres are repetitive DNA sequences at the ends of eukaryotic chromosomes, not components of plasmid vectors used in recombinant DNA technology.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 85,
+    "questionText": "Which technique involves the separation of DNA fragments by size using an electric field?",
+    "options": [
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": true
+      },
+      {
+        "text": "Centrifugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Spectrophotometry",
+        "isCorrect": false
+      },
+      {
+        "text": "Chromatography",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gel electrophoresis separates DNA fragments by size using an electric field, allowing visualization of the fragments in a gel matrix.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 93,
+    "questionText": "Which technique involves the use of a fluorescent dye to visualize DNA fragments in a gel?",
+    "options": [
+      {
+        "text": "Ethidium bromide staining",
+        "isCorrect": true
+      },
+      {
+        "text": "Silver staining",
+        "isCorrect": false
+      },
+      {
+        "text": "Coomassie blue staining",
+        "isCorrect": false
+      },
+      {
+        "text": "Crystal violet staining",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethidium bromide is a fluorescent dye used to stain DNA fragments in a gel, allowing visualization under UV light.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 94,
+    "questionText": "Which of the following is a common application of the Polymerase Chain Reaction (PCR)?",
+    "options": [
+      {
+        "text": "DNA amplification",
+        "isCorrect": true
+      },
+      {
+        "text": "Protein synthesis",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA splicing",
+        "isCorrect": false
+      },
+      {
+        "text": "Lipid analysis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "PCR is commonly used to amplify specific DNA sequences, creating millions of copies of the target sequence for various applications.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 95,
+    "questionText": "Which enzyme is used to seal nicks in the sugar-phosphate backbone of DNA during molecular cloning?",
+    "options": [
+      {
+        "text": "DNA ligase",
+        "isCorrect": true
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is an enzyme that seals nicks in the sugar-phosphate backbone of DNA, forming a continuous DNA molecule.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 96,
+    "questionText": "Which vector is used to clone very large DNA fragments in yeast cells?",
+    "options": [
+      {
+        "text": "Yeast Artificial Chromosome (YAC)",
+        "isCorrect": true
+      },
+      {
+        "text": "Bacterial Artificial Chromosome (BAC)",
+        "isCorrect": false
+      },
+      {
+        "text": "Cosmid",
+        "isCorrect": false
+      },
+      {
+        "text": "Plasmid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Yeast Artificial Chromosomes (YACs) are vectors used for cloning very large DNA fragments in yeast cells, capable of carrying large DNA inserts.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 97,
+    "questionText": "What is the primary function of restriction enzymes in genetic engineering?",
+    "options": [
+      {
+        "text": "To cut DNA at specific sequences",
+        "isCorrect": true
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction enzymes recognize and cut DNA at specific sequences, allowing precise manipulation of DNA fragments in genetic engineering.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 98,
+    "questionText": "Which enzyme is essential for the Polymerase Chain Reaction (PCR) due to its heat stability?",
+    "options": [
+      {
+        "text": "Taq polymerase",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Taq polymerase is a heat-stable DNA polymerase that remains active during the high-temperature cycles of PCR, enabling DNA amplification.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 100,
+    "questionText": "Which method is used to introduce foreign DNA into bacterial cells by making them competent?",
+    "options": [
+      {
+        "text": "Transformation",
+        "isCorrect": true
+      },
+      {
+        "text": "Transduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Conjugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Electroporation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Transformation involves making bacterial cells competent to take up foreign DNA, allowing genetic manipulation.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 101,
+    "questionText": "Which technique is used to determine the exact sequence of nucleotides in a DNA molecule?",
+    "options": [
+      {
+        "text": "DNA sequencing",
+        "isCorrect": true
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      },
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA sequencing is a technique used to determine the exact sequence of nucleotides in a DNA molecule, providing essential information for genetic studies.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 102,
+    "questionText": "Which enzyme is used to synthesize a complementary DNA strand from an RNA template?",
+    "options": [
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reverse transcriptase synthesizes complementary DNA (cDNA) from an RNA template, an essential step in many molecular biology techniques.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 103,
+    "questionText": "Which method is commonly used to introduce recombinant DNA into eukaryotic cells?",
+    "options": [
+      {
+        "text": "Transfection",
+        "isCorrect": true
+      },
+      {
+        "text": "Transformation",
+        "isCorrect": false
+      },
+      {
+        "text": "Conjugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Transduction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Transfection is a method used to introduce recombinant DNA into eukaryotic cells, allowing for genetic manipulation and expression studies.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 104,
+    "questionText": "What is the primary purpose of a genomic library in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "To store and maintain DNA sequences from an organism's genome",
+        "isCorrect": true
+      },
+      {
+        "text": "To amplify DNA sequences",
+        "isCorrect": false
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To join DNA fragments",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A genomic library is a collection of DNA sequences from an organism's genome, stored in vectors, to facilitate study and manipulation of genes.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 107,
+    "questionText": "Which of the following techniques is used to separate DNA fragments by size using an electric field?",
+    "options": [
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": true
+      },
+      {
+        "text": "Centrifugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Chromatography",
+        "isCorrect": false
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gel electrophoresis separates DNA fragments by size using an electric field, allowing visualization of the fragments in a gel matrix.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 114,
+    "questionText": "Which of the following techniques involves the use of fluorescently labeled probes to detect specific DNA sequences?",
+    "options": [
+      {
+        "text": "Fluorescence in situ hybridization (FISH)",
+        "isCorrect": true
+      },
+      {
+        "text": "Southern blotting",
+        "isCorrect": false
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorescence in situ hybridization (FISH) uses fluorescently labeled probes to detect specific DNA sequences in chromosomes or other DNA samples.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 117,
+    "questionText": "Which technique is used to amplify specific DNA sequences in vitro?",
+    "options": [
+      {
+        "text": "Polymerase Chain Reaction (PCR)",
+        "isCorrect": true
+      },
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA sequencing",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polymerase Chain Reaction (PCR) is used to amplify specific DNA sequences in vitro, creating millions of copies of the target sequence.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 119,
+    "questionText": "Which technique is used to separate DNA fragments by size using an electric field?",
+    "options": [
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": true
+      },
+      {
+        "text": "Centrifugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Chromatography",
+        "isCorrect": false
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gel electrophoresis separates DNA fragments by size using an electric field, allowing visualization of the fragments in a gel matrix.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.2 Tools of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is the first step in the process of recombinant DNA technology?",
+    "options": [
+      {
+        "text": "Isolation of genetic material",
+        "isCorrect": true
+      },
+      {
+        "text": "Ligation of DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "Amplification of gene of interest",
+        "isCorrect": false
+      },
+      {
+        "text": "Insertion of recombinant DNA into the host",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The first step in recombinant DNA technology is the isolation of genetic material (DNA) from the donor organism.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which enzyme is used to cut DNA into fragments during the process of recombinant DNA technology?",
+    "options": [
+      {
+        "text": "Restriction endonucleases",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases are enzymes that cut DNA at specific nucleotide sequences, creating fragments necessary for cloning.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "What is the purpose of using a vector in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "To carry the gene of interest into the host cell",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize RNA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A vector, such as a plasmid, is used to carry the gene of interest into the host cell, enabling its expression and replication.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which technique is commonly used to amplify the gene of interest in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "Polymerase Chain Reaction (PCR)",
+        "isCorrect": true
+      },
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA sequencing",
+        "isCorrect": false
+      },
+      {
+        "text": "Southern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "PCR is used to amplify the gene of interest, creating millions of copies for further manipulation and cloning.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 5,
+    "questionText": "What is the purpose of the ligation step in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "To join DNA fragments together",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To amplify DNA sequences",
+        "isCorrect": false
+      },
+      {
+        "text": "To isolate genetic material",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ligation involves the joining of DNA fragments, including the gene of interest and vector, to form a continuous DNA molecule.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which process involves the uptake of recombinant DNA by a host cell?",
+    "options": [
+      {
+        "text": "Transformation",
+        "isCorrect": true
+      },
+      {
+        "text": "Transduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Conjugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Electroporation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Transformation is the process by which a host cell takes up recombinant DNA, allowing for genetic manipulation and expression.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "What is the purpose of using selectable markers in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "To identify cells that have taken up the recombinant DNA",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To isolate genetic material",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Selectable markers are genes that confer resistance to antibiotics or other selective agents, allowing identification of cells that have taken up the recombinant DNA.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which technique is used to confirm the presence of the gene of interest in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": true
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA sequencing",
+        "isCorrect": false
+      },
+      {
+        "text": "Southern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gel electrophoresis is used to separate and visualize DNA fragments, confirming the presence of the gene of interest in recombinant DNA samples.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 9,
+    "questionText": "What is the purpose of using an antibiotic resistance gene as a selectable marker?",
+    "options": [
+      {
+        "text": "To identify cells that have taken up the recombinant DNA",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To amplify DNA sequences",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An antibiotic resistance gene allows cells that have taken up the recombinant DNA to survive in the presence of the antibiotic, facilitating their identification.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which enzyme is used to amplify DNA sequences during the Polymerase Chain Reaction (PCR)?",
+    "options": [
+      {
+        "text": "Taq polymerase",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Taq polymerase is a heat-stable DNA polymerase used in PCR to amplify specific DNA sequences.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which method involves the introduction of recombinant DNA into a host cell using an electrical pulse?",
+    "options": [
+      {
+        "text": "Electroporation",
+        "isCorrect": true
+      },
+      {
+        "text": "Transformation",
+        "isCorrect": false
+      },
+      {
+        "text": "Transduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Conjugation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electroporation uses an electrical pulse to create temporary pores in cell membranes, allowing the uptake of recombinant DNA.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the purpose of using a reporter gene in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "To monitor the expression of the gene of interest",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To replicate DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To amplify DNA sequences",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reporter genes, such as GFP (green fluorescent protein), are used to monitor the expression of the gene of interest by producing an easily detectable product.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which step in recombinant DNA technology involves the insertion of the recombinant plasmid into a host cell?",
+    "options": [
+      {
+        "text": "Transformation",
+        "isCorrect": true
+      },
+      {
+        "text": "Ligation",
+        "isCorrect": false
+      },
+      {
+        "text": "Amplification",
+        "isCorrect": false
+      },
+      {
+        "text": "Isolation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Transformation is the process by which a host cell takes up the recombinant plasmid, allowing for genetic manipulation and expression.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which of the following is used to separate and analyze DNA fragments based on size?",
+    "options": [
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": true
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA sequencing",
+        "isCorrect": false
+      },
+      {
+        "text": "Southern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gel electrophoresis is a technique used to separate DNA fragments based on size by applying an electric field to a gel matrix.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which enzyme is used to join the ends of DNA fragments together during the ligation step?",
+    "options": [
+      {
+        "text": "DNA ligase",
+        "isCorrect": true
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is an enzyme that joins the ends of DNA fragments, forming a continuous DNA molecule during the ligation step.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which process is used to confirm the integration of recombinant DNA into the host genome?",
+    "options": [
+      {
+        "text": "Southern blotting",
+        "isCorrect": true
+      },
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": false
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Southern blotting is a technique used to detect specific DNA sequences in a DNA sample, confirming the integration of recombinant DNA into the host genome.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which step involves the amplification of the gene of interest using PCR?",
+    "options": [
+      {
+        "text": "Amplification",
+        "isCorrect": true
+      },
+      {
+        "text": "Ligation",
+        "isCorrect": false
+      },
+      {
+        "text": "Transformation",
+        "isCorrect": false
+      },
+      {
+        "text": "Isolation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Amplification involves using PCR to create multiple copies of the gene of interest, making it available for cloning and analysis.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which of the following methods is used to introduce recombinant DNA into animal cells?",
+    "options": [
+      {
+        "text": "Microinjection",
+        "isCorrect": true
+      },
+      {
+        "text": "Electroporation",
+        "isCorrect": false
+      },
+      {
+        "text": "Transformation",
+        "isCorrect": false
+      },
+      {
+        "text": "Transduction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Microinjection is a technique used to introduce recombinant DNA directly into animal cells by injecting it into the cell nucleus.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which of the following is a commonly used vector for gene cloning in bacterial systems?",
+    "options": [
+      {
+        "text": "Plasmids",
+        "isCorrect": true
+      },
+      {
+        "text": "BACs",
+        "isCorrect": false
+      },
+      {
+        "text": "YACs",
+        "isCorrect": false
+      },
+      {
+        "text": "Cosmids",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids are small, circular DNA molecules commonly used as vectors to transfer foreign DNA into bacterial cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which technique is used to amplify the gene of interest in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "Polymerase Chain Reaction (PCR)",
+        "isCorrect": true
+      },
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA sequencing",
+        "isCorrect": false
+      },
+      {
+        "text": "Southern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "PCR is used to amplify the gene of interest, creating millions of copies for further manipulation and cloning.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which method is used to confirm the presence of recombinant DNA in a host cell?",
+    "options": [
+      {
+        "text": "Southern blotting",
+        "isCorrect": true
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern blotting",
+        "isCorrect": false
+      },
+      {
+        "text": "Western blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Southern blotting is a technique used to detect specific DNA sequences in DNA samples, confirming the presence of recombinant DNA.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 32,
+    "questionText": "Which step in recombinant DNA technology involves the amplification of the gene of interest?",
+    "options": [
+      {
+        "text": "Polymerase Chain Reaction (PCR)",
+        "isCorrect": true
+      },
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": false
+      },
+      {
+        "text": "Ligation",
+        "isCorrect": false
+      },
+      {
+        "text": "Transformation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "PCR is used to amplify the gene of interest, creating millions of copies for further manipulation and cloning.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 33,
+    "questionText": "What is the primary purpose of using selectable markers in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "To identify cells that have taken up the recombinant DNA",
+        "isCorrect": true
+      },
+      {
+        "text": "To cut DNA at specific sites",
+        "isCorrect": false
+      },
+      {
+        "text": "To amplify DNA sequences",
+        "isCorrect": false
+      },
+      {
+        "text": "To synthesize proteins",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Selectable markers are genes that confer resistance to antibiotics or other selective agents, allowing identification of cells that have taken up the recombinant DNA.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 34,
+    "questionText": "Which enzyme is responsible for joining the ends of DNA fragments together during the ligation step?",
+    "options": [
+      {
+        "text": "DNA ligase",
+        "isCorrect": true
+      },
+      {
+        "text": "Restriction enzyme",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DNA ligase is an enzyme that joins the ends of DNA fragments, forming a continuous DNA molecule during the ligation step.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 37,
+    "questionText": "Which method is used to separate DNA fragments based on their size?",
+    "options": [
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": true
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      },
+      {
+        "text": "Southern blotting",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gel electrophoresis is a technique used to separate DNA fragments based on size by applying an electric field to a gel matrix.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 38,
+    "questionText": "Which of the following techniques is used to detect specific DNA sequences in DNA samples?",
+    "options": [
+      {
+        "text": "Southern blotting",
+        "isCorrect": true
+      },
+      {
+        "text": "Northern blotting",
+        "isCorrect": false
+      },
+      {
+        "text": "Western blotting",
+        "isCorrect": false
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Southern blotting is a technique used to detect specific DNA sequences in DNA samples, confirming the presence of recombinant DNA.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 39,
+    "questionText": "Which of the following is NOT a common step in the process of recombinant DNA technology?",
+    "options": [
+      {
+        "text": "Protein synthesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Isolation of genetic material",
+        "isCorrect": false
+      },
+      {
+        "text": "Ligation of DNA fragments",
+        "isCorrect": false
+      },
+      {
+        "text": "Insertion of recombinant DNA into the host",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Protein synthesis is not a common step in recombinant DNA technology, which involves isolating, cutting, joining, and inserting DNA sequences.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 40,
+    "questionText": "Which enzyme is used to cut DNA into fragments at specific nucleotide sequences?",
+    "options": [
+      {
+        "text": "Restriction endonucleases",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Restriction endonucleases are enzymes that cut DNA at specific nucleotide sequences, creating fragments necessary for cloning.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 47,
+    "questionText": "Which enzyme is used to generate a DNA copy from an RNA template in recombinant DNA technology?",
+    "options": [
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": true
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA ligase",
+        "isCorrect": false
+      },
+      {
+        "text": "Restriction endonuclease",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reverse transcriptase synthesizes complementary DNA (cDNA) from an RNA template, an essential step in creating cDNA libraries.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 48,
+    "questionText": "Which of the following vectors is commonly used for gene cloning in bacterial systems?",
+    "options": [
+      {
+        "text": "Plasmids",
+        "isCorrect": true
+      },
+      {
+        "text": "BACs",
+        "isCorrect": false
+      },
+      {
+        "text": "YACs",
+        "isCorrect": false
+      },
+      {
+        "text": "Cosmids",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasmids are small, circular DNA molecules commonly used as vectors to transfer foreign DNA into bacterial cells.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 51,
+    "questionText": "Which method is used to introduce recombinant DNA into bacterial cells by making them competent?",
+    "options": [
+      {
+        "text": "Transformation",
+        "isCorrect": true
+      },
+      {
+        "text": "Transduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Conjugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Electroporation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Transformation involves making bacterial cells competent to take up foreign DNA, allowing genetic manipulation.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 54,
+    "questionText": "Which step involves the insertion of the recombinant plasmid into a host cell?",
+    "options": [
+      {
+        "text": "Transformation",
+        "isCorrect": true
+      },
+      {
+        "text": "Ligation",
+        "isCorrect": false
+      },
+      {
+        "text": "Amplification",
+        "isCorrect": false
+      },
+      {
+        "text": "Isolation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Transformation is the process by which a host cell takes up the recombinant plasmid, allowing for genetic manipulation and expression.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "EASY"
+  },
+  {
+    "qno": 56,
+    "questionText": "Which technique is used to separate and analyze DNA fragments based on size?",
+    "options": [
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": true
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA sequencing",
+        "isCorrect": false
+      },
+      {
+        "text": "Southern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gel electrophoresis is a technique used to separate DNA fragments based on size by applying an electric field to a gel matrix.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 71,
+    "questionText": "Which technique is used to confirm the integration of recombinant DNA into the host genome?",
+    "options": [
+      {
+        "text": "Southern blotting",
+        "isCorrect": true
+      },
+      {
+        "text": "Gel electrophoresis",
+        "isCorrect": false
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern blotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Southern blotting is a technique used to detect specific DNA sequences in a DNA sample, confirming the integration of recombinant DNA into the host genome.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 104,
+    "questionText": "Which technique is used to detect specific DNA sequences in DNA samples?",
+    "options": [
+      {
+        "text": "Southern blotting",
+        "isCorrect": true
+      },
+      {
+        "text": "Northern blotting",
+        "isCorrect": false
+      },
+      {
+        "text": "Western blotting",
+        "isCorrect": false
+      },
+      {
+        "text": "PCR",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Southern blotting is a technique used to detect specific DNA sequences in DNA samples, confirming the presence of recombinant DNA.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "HARD"
+  },
+  {
+    "qno": 128,
+    "questionText": "Which method involves the introduction of recombinant DNA into bacterial cells by making them competent?",
+    "options": [
+      {
+        "text": "Transformation",
+        "isCorrect": true
+      },
+      {
+        "text": "Transduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Conjugation",
+        "isCorrect": false
+      },
+      {
+        "text": "Electroporation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Transformation involves making bacterial cells competent to take up foreign DNA, allowing genetic manipulation.",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "9.3 Processes of Recombinant DNA Technology",
+    "level": "MEDIUM"
+  }
+]

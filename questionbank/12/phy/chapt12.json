@@ -1,0 +1,6398 @@
+[
+  {
+    "qno": 1,
+    "questionText": "Who proposed the first model of the atom in 1898?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": true
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "J.J. Thomson proposed the first model of the atom in 1898, known as the plum pudding model.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "According to the plum pudding model, how is the positive charge distributed in an atom?",
+    "options": [
+      {
+        "text": "Uniformly throughout the atom",
+        "isCorrect": true
+      },
+      {
+        "text": "Concentrated at the center",
+        "isCorrect": false
+      },
+      {
+        "text": "In discrete shells",
+        "isCorrect": false
+      },
+      {
+        "text": "At the periphery of the atom",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The plum pudding model proposed that the positive charge is uniformly distributed throughout the atom.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which experiment revealed that atoms contain negatively charged constituents?",
+    "options": [
+      {
+        "text": "Experiments on electric discharge through gases",
+        "isCorrect": true
+      },
+      {
+        "text": "Alpha-particle scattering experiment",
+        "isCorrect": false
+      },
+      {
+        "text": "Photoelectric effect experiment",
+        "isCorrect": false
+      },
+      {
+        "text": "Oil drop experiment",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Experiments on electric discharge through gases revealed that atoms contain negatively charged constituents.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is the nature of the charge of an atom as a whole?",
+    "options": [
+      {
+        "text": "Electrically neutral",
+        "isCorrect": true
+      },
+      {
+        "text": "Positively charged",
+        "isCorrect": false
+      },
+      {
+        "text": "Negatively charged",
+        "isCorrect": false
+      },
+      {
+        "text": "Varies with different elements",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An atom as a whole is electrically neutral.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "What is the primary reason for the emission of electromagnetic radiation from condensed matter?",
+    "options": [
+      {
+        "text": "Oscillations of atoms and molecules",
+        "isCorrect": true
+      },
+      {
+        "text": "Nuclear reactions",
+        "isCorrect": false
+      },
+      {
+        "text": "Electron transitions",
+        "isCorrect": false
+      },
+      {
+        "text": "Chemical reactions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The emission of electromagnetic radiation from condensed matter is primarily due to oscillations of atoms and molecules.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which model is also known as the 'plum pudding model'?",
+    "options": [
+      {
+        "text": "Thomson's model",
+        "isCorrect": true
+      },
+      {
+        "text": "Rutherford's model",
+        "isCorrect": false
+      },
+      {
+        "text": "Bohr's model",
+        "isCorrect": false
+      },
+      {
+        "text": "Quantum mechanical model",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Thomson's model is also known as the 'plum pudding model'.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which year did J.J. Thomson propose his model of the atom?",
+    "options": [
+      {
+        "text": "1898",
+        "isCorrect": true
+      },
+      {
+        "text": "1905",
+        "isCorrect": false
+      },
+      {
+        "text": "1911",
+        "isCorrect": false
+      },
+      {
+        "text": "1923",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "J.J. Thomson proposed his model of the atom in 1898.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "Who discovered that atoms of different elements contain negatively charged constituents?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": true
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "J.J. Thomson discovered that atoms of different elements contain negatively charged constituents (electrons).",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which model of the atom was picturesquely called the 'plum pudding model'?",
+    "options": [
+      {
+        "text": "Thomson's model",
+        "isCorrect": true
+      },
+      {
+        "text": "Rutherford's model",
+        "isCorrect": false
+      },
+      {
+        "text": "Bohr's model",
+        "isCorrect": false
+      },
+      {
+        "text": "Quantum mechanical model",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Thomson's model of the atom was picturesquely called the 'plum pudding model'.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "What was the key finding of J.J. Thomson's experiments on electric discharge through gases?",
+    "options": [
+      {
+        "text": "Atoms contain negatively charged constituents that are identical for all atoms.",
+        "isCorrect": true
+      },
+      {
+        "text": "Atoms are indivisible.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atoms contain a small, dense nucleus.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are located in discrete orbits.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "J.J. Thomson's experiments revealed that atoms contain negatively charged constituents (electrons) that are identical for all atoms.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "In the plum pudding model, how are the electrons embedded in the atom?",
+    "options": [
+      {
+        "text": "Like seeds in a watermelon",
+        "isCorrect": true
+      },
+      {
+        "text": "Like planets orbiting the sun",
+        "isCorrect": false
+      },
+      {
+        "text": "In discrete shells",
+        "isCorrect": false
+      },
+      {
+        "text": "In a cloud around the nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the plum pudding model, the electrons are embedded in the atom like seeds in a watermelon.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the characteristic feature of the light emitted by rarefied gases when excited?",
+    "options": [
+      {
+        "text": "Discrete wavelengths",
+        "isCorrect": true
+      },
+      {
+        "text": "Continuous spectrum",
+        "isCorrect": false
+      },
+      {
+        "text": "Broad spectrum",
+        "isCorrect": false
+      },
+      {
+        "text": "Random wavelengths",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The light emitted by rarefied gases when excited electrically or heated has discrete wavelengths.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "What did J.J. Thomson's model fail to explain about the atomic structure?",
+    "options": [
+      {
+        "text": "The arrangement of positive charge and electrons",
+        "isCorrect": true
+      },
+      {
+        "text": "The presence of neutrons",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The chemical properties of elements",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "J.J. Thomson's model failed to explain the arrangement of the positive charge and electrons inside the atom.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "How is the light spectrum emitted from a heated rarefied gas different from that emitted by condensed matter?",
+    "options": [
+      {
+        "text": "It has only certain discrete wavelengths",
+        "isCorrect": true
+      },
+      {
+        "text": "It has a continuous distribution of wavelengths",
+        "isCorrect": false
+      },
+      {
+        "text": "It has a single wavelength",
+        "isCorrect": false
+      },
+      {
+        "text": "It is independent of the type of gas",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The light spectrum emitted from a heated rarefied gas has only certain discrete wavelengths, unlike condensed matter which emits a continuous distribution of wavelengths.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the effect of the average spacing between atoms in rarefied gases on the emitted radiation?",
+    "options": [
+      {
+        "text": "It allows the radiation to be considered due to individual atoms",
+        "isCorrect": true
+      },
+      {
+        "text": "It causes the radiation to be continuous",
+        "isCorrect": false
+      },
+      {
+        "text": "It has no effect on the radiation",
+        "isCorrect": false
+      },
+      {
+        "text": "It causes the radiation to be more intense",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In rarefied gases, the average spacing between atoms is large, allowing the radiation to be considered due to individual atoms rather than interactions between atoms.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 16,
+    "questionText": "What is the significance of the spectrum of radiation emitted by an element?",
+    "options": [
+      {
+        "text": "It is characteristic of the element",
+        "isCorrect": true
+      },
+      {
+        "text": "It varies with temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the same for all elements",
+        "isCorrect": false
+      },
+      {
+        "text": "It depends on the state of matter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The spectrum of radiation emitted by an element is characteristic of the element, and each element has a unique set of lines with fixed relative positions.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "Who obtained a simple empirical formula for the wavelengths of a group of lines emitted by atomic hydrogen?",
+    "options": [
+      {
+        "text": "Johann Jakob Balmer",
+        "isCorrect": true
+      },
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Johann Jakob Balmer obtained a simple empirical formula for the wavelengths of a group of lines emitted by atomic hydrogen.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "What is the relationship between the internal structure of an atom and the spectrum of radiation it emits?",
+    "options": [
+      {
+        "text": "The spectrum is related to the internal structure of the atom",
+        "isCorrect": true
+      },
+      {
+        "text": "There is no relationship",
+        "isCorrect": false
+      },
+      {
+        "text": "The spectrum depends on external factors",
+        "isCorrect": false
+      },
+      {
+        "text": "The spectrum is the same for all atoms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The characteristic spectrum of radiation emitted by an element suggested an intimate relationship between the internal structure of an atom and the spectrum of radiation it emits.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "What is the main reason for the characteristic spectrum of an element?",
+    "options": [
+      {
+        "text": "The internal structure of the atom",
+        "isCorrect": true
+      },
+      {
+        "text": "The external environment",
+        "isCorrect": false
+      },
+      {
+        "text": "The state of matter",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main reason for the characteristic spectrum of an element is the internal structure of the atom.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "Who conducted experiments on alpha-particles emitted by radioactive elements?",
+    "options": [
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": true
+      },
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ernest Rutherford conducted experiments on alpha-particles emitted by radioactive elements.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "What did Rutherford's alpha-particle scattering experiments lead to?",
+    "options": [
+      {
+        "text": "The discovery of the atomic nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "The discovery of the electron",
+        "isCorrect": false
+      },
+      {
+        "text": "The discovery of the proton",
+        "isCorrect": false
+      },
+      {
+        "text": "The discovery of neutrons",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's alpha-particle scattering experiments led to the discovery of the atomic nucleus.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "What model did Rutherford propose based on his alpha-particle scattering experiments?",
+    "options": [
+      {
+        "text": "Planetary model of the atom",
+        "isCorrect": true
+      },
+      {
+        "text": "Plum pudding model",
+        "isCorrect": false
+      },
+      {
+        "text": "Quantum mechanical model",
+        "isCorrect": false
+      },
+      {
+        "text": "Shell model",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford proposed the planetary model of the atom based on his alpha-particle scattering experiments.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "According to Rutherford's model, where is most of the mass of the atom concentrated?",
+    "options": [
+      {
+        "text": "In the nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "In the electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "Evenly throughout the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "In the electron shells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Rutherford's model, most of the mass of the atom is concentrated in the nucleus.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "What was a major step towards the modern understanding of the atom?",
+    "options": [
+      {
+        "text": "Rutherford's nuclear model",
+        "isCorrect": true
+      },
+      {
+        "text": "Thomson's plum pudding model",
+        "isCorrect": false
+      },
+      {
+        "text": "Bohr's model",
+        "isCorrect": false
+      },
+      {
+        "text": "Einstein's photoelectric model",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's nuclear model was a major step towards the modern understanding of the atom.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "What key aspect could Rutherford's model not explain?",
+    "options": [
+      {
+        "text": "Why atoms emit light of only discrete wavelengths",
+        "isCorrect": true
+      },
+      {
+        "text": "The existence of the electron",
+        "isCorrect": false
+      },
+      {
+        "text": "The overall charge of the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of the proton",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's model could not explain why atoms emit light of only discrete wavelengths.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "In Rutherford's model, how do electrons move around the nucleus?",
+    "options": [
+      {
+        "text": "Electrons revolve around the nucleus in orbits",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons are embedded in the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are stationary around the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons move randomly around the nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Rutherford's model, electrons revolve around the nucleus in orbits, similar to how planets revolve around the sun.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 27,
+    "questionText": "What did Rutherford's nuclear model suggest about the size of the nucleus compared to the atom?",
+    "options": [
+      {
+        "text": "The nucleus is much smaller than the atom",
+        "isCorrect": true
+      },
+      {
+        "text": "The nucleus is about the same size as the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The nucleus is larger than the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The nucleus size varies greatly among different atoms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's nuclear model suggested that the nucleus is much smaller than the atom, with most of the atom being empty space.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 28,
+    "questionText": "According to Rutherford's nuclear model, how are the electrons arranged in an atom?",
+    "options": [
+      {
+        "text": "Electrons revolve around the nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons are fixed at specific points",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are scattered randomly",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are concentrated in the nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Rutherford's nuclear model, electrons revolve around the nucleus, similar to planets orbiting the sun.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 29,
+    "questionText": "What did Rutherford's scattering experiment demonstrate about the structure of the atom?",
+    "options": [
+      {
+        "text": "The atom has a dense, positively charged nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "The atom is a uniform positive sphere",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are embedded in a positive matrix",
+        "isCorrect": false
+      },
+      {
+        "text": "Atoms do not have a nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's scattering experiment demonstrated that the atom has a dense, positively charged nucleus with electrons revolving around it.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 30,
+    "questionText": "What fraction of the volume of an atom does the nucleus occupy according to Rutherford's model?",
+    "options": [
+      {
+        "text": "A very small fraction",
+        "isCorrect": true
+      },
+      {
+        "text": "About half",
+        "isCorrect": false
+      },
+      {
+        "text": "The majority",
+        "isCorrect": false
+      },
+      {
+        "text": "The entire volume",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Rutherford's model, the nucleus occupies a very small fraction of the volume of an atom, with most of the atom being empty space.",
+    "chapter": "Atoms",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 31,
+    "questionText": "In the alpha-particle scattering experiment, what did the deflection of alpha particles suggest?",
+    "options": [
+      {
+        "text": "Presence of a dense, positively charged nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniform distribution of charge",
+        "isCorrect": false
+      },
+      {
+        "text": "Presence of only electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "Atoms are indivisible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The deflection of alpha particles in Rutherford's experiment suggested the presence of a dense, positively charged nucleus.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 32,
+    "questionText": "What did Rutherford's model fail to explain about atomic spectra?",
+    "options": [
+      {
+        "text": "Why atoms emit light of only discrete wavelengths",
+        "isCorrect": true
+      },
+      {
+        "text": "The existence of neutrons",
+        "isCorrect": false
+      },
+      {
+        "text": "The overall charge of the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of the proton",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's model failed to explain why atoms emit light of only discrete wavelengths.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 33,
+    "questionText": "Who conducted the alpha-particle scattering experiment under Rutherford's guidance?",
+    "options": [
+      {
+        "text": "H. Geiger and E. Marsden",
+        "isCorrect": true
+      },
+      {
+        "text": "J.J. Thomson and Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein and Max Planck",
+        "isCorrect": false
+      },
+      {
+        "text": "Ernest Rutherford alone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "H. Geiger and E. Marsden conducted the alpha-particle scattering experiment under the guidance of Ernest Rutherford.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 34,
+    "questionText": "What was the primary observation in the alpha-particle scattering experiment?",
+    "options": [
+      {
+        "text": "Most alpha particles passed through with little or no deflection",
+        "isCorrect": true
+      },
+      {
+        "text": "All alpha particles were deflected back",
+        "isCorrect": false
+      },
+      {
+        "text": "Alpha particles were absorbed by the gold foil",
+        "isCorrect": false
+      },
+      {
+        "text": "No alpha particles passed through the foil",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary observation was that most alpha particles passed through the gold foil with little or no deflection.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "What does the angle of deflection of alpha particles depend on?",
+    "options": [
+      {
+        "text": "The impact parameter",
+        "isCorrect": true
+      },
+      {
+        "text": "The speed of the alpha particles",
+        "isCorrect": false
+      },
+      {
+        "text": "The thickness of the gold foil",
+        "isCorrect": false
+      },
+      {
+        "text": "The type of radiation used",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The angle of deflection of alpha particles in the scattering experiment depends on the impact parameter.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 36,
+    "questionText": "What fraction of the incident alpha particles were deflected by more than 1° in the Rutherford experiment?",
+    "options": [
+      {
+        "text": "About 0.14%",
+        "isCorrect": true
+      },
+      {
+        "text": "About 50%",
+        "isCorrect": false
+      },
+      {
+        "text": "About 10%",
+        "isCorrect": false
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Only about 0.14% of the incident alpha particles were deflected by more than 1° in Rutherford's experiment.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 37,
+    "questionText": "What fraction of the incident alpha particles were deflected by more than 90° in the Rutherford experiment?",
+    "options": [
+      {
+        "text": "About 1 in 8000",
+        "isCorrect": true
+      },
+      {
+        "text": "About 1 in 100",
+        "isCorrect": false
+      },
+      {
+        "text": "About 1 in 2",
+        "isCorrect": false
+      },
+      {
+        "text": "About 1 in 10000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "About 1 in 8000 of the incident alpha particles were deflected by more than 90° in Rutherford's experiment.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 38,
+    "questionText": "What force was concluded to be acting on alpha particles to cause large deflections?",
+    "options": [
+      {
+        "text": "A large repulsive force from the positively charged nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "A gravitational force",
+        "isCorrect": false
+      },
+      {
+        "text": "An attractive force from electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "A magnetic force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford concluded that a large repulsive force from the positively charged nucleus caused the large deflections of alpha particles.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 39,
+    "questionText": "What was the approximate size of the nucleus as suggested by Rutherford's experiments?",
+    "options": [
+      {
+        "text": "About $10^{-15}$ m to $10^{-14}$ m",
+        "isCorrect": true
+      },
+      {
+        "text": "About $10^{-10}$ m",
+        "isCorrect": false
+      },
+      {
+        "text": "About $10^{-12}$ m",
+        "isCorrect": false
+      },
+      {
+        "text": "About $10^{-8}$ m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's experiments suggested that the size of the nucleus was about $10^{-15}$ m to $10^{-14}$ m.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 40,
+    "questionText": "What is the impact parameter in the context of alpha-particle scattering?",
+    "options": [
+      {
+        "text": "The perpendicular distance of the initial velocity vector of the alpha-particle from the center of the nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "The distance between two colliding alpha-particles",
+        "isCorrect": false
+      },
+      {
+        "text": "The radius of the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "The distance alpha-particles travel before collision",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The impact parameter is the perpendicular distance of the initial velocity vector of the alpha-particle from the center of the nucleus.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 41,
+    "questionText": "How does the impact parameter affect the trajectory of an alpha-particle?",
+    "options": [
+      {
+        "text": "A smaller impact parameter results in larger deflection",
+        "isCorrect": true
+      },
+      {
+        "text": "A larger impact parameter results in larger deflection",
+        "isCorrect": false
+      },
+      {
+        "text": "The impact parameter does not affect the trajectory",
+        "isCorrect": false
+      },
+      {
+        "text": "The impact parameter affects only the speed",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A smaller impact parameter results in larger deflection of the alpha-particle.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 42,
+    "questionText": "What happens to alpha-particles with a large impact parameter during the scattering experiment?",
+    "options": [
+      {
+        "text": "They go nearly undeviated",
+        "isCorrect": true
+      },
+      {
+        "text": "They are deflected back",
+        "isCorrect": false
+      },
+      {
+        "text": "They are absorbed by the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "They disintegrate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alpha-particles with a large impact parameter go nearly undeviated during the scattering experiment.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 43,
+    "questionText": "In Rutherford's experiment, what does a head-on collision imply?",
+    "options": [
+      {
+        "text": "The alpha-particle rebounds back",
+        "isCorrect": true
+      },
+      {
+        "text": "The alpha-particle passes through the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "The alpha-particle is absorbed by the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "The alpha-particle is deflected by a small angle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a head-on collision in Rutherford's experiment, the alpha-particle rebounds back indicating a direct hit on the nucleus.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 44,
+    "questionText": "What conclusion can be drawn from the fact that only a small fraction of alpha-particles undergo large deflection?",
+    "options": [
+      {
+        "text": "The nucleus is small compared to the atom",
+        "isCorrect": true
+      },
+      {
+        "text": "The nucleus is large compared to the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "Alpha-particles have no charge",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are heavier than alpha-particles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The fact that only a small fraction of alpha-particles undergo large deflection indicates that the nucleus is small compared to the atom.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 45,
+    "questionText": "What does Rutherford's scattering experiment suggest about the space inside an atom?",
+    "options": [
+      {
+        "text": "Most of the atom is empty space",
+        "isCorrect": true
+      },
+      {
+        "text": "Most of the atom is occupied by the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "Most of the atom is occupied by electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "Most of the atom is a solid mass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's scattering experiment suggests that most of the atom is empty space.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 46,
+    "questionText": "What provides the centripetal force to keep electrons in their orbits according to Rutherford's model?",
+    "options": [
+      {
+        "text": "Electrostatic force of attraction between the electrons and the nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "Gravitational force",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic force",
+        "isCorrect": false
+      },
+      {
+        "text": "Nuclear force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Rutherford's model, the electrostatic force of attraction between the electrons and the nucleus provides the centripetal force to keep the electrons in their orbits.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 47,
+    "questionText": "According to Rutherford's model, why do most alpha particles pass through a thin metal foil with little or no deflection?",
+    "options": [
+      {
+        "text": "Because most of the atom is empty space",
+        "isCorrect": true
+      },
+      {
+        "text": "Because alpha particles have no charge",
+        "isCorrect": false
+      },
+      {
+        "text": "Because the nucleus is very large",
+        "isCorrect": false
+      },
+      {
+        "text": "Because electrons are massive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Most alpha particles pass through a thin metal foil with little or no deflection because most of the atom is empty space.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 48,
+    "questionText": "What is the approximate size of an atom according to kinetic theory?",
+    "options": [
+      {
+        "text": "About $10^{-10}$ m",
+        "isCorrect": true
+      },
+      {
+        "text": "About $10^{-15}$ m",
+        "isCorrect": false
+      },
+      {
+        "text": "About $10^{-12}$ m",
+        "isCorrect": false
+      },
+      {
+        "text": "About $10^{-8}$ m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to kinetic theory, the size of an atom is about $10^{-10}$ m.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 49,
+    "questionText": "How much larger is the size of an atom compared to its nucleus?",
+    "options": [
+      {
+        "text": "About 10,000 to 100,000 times larger",
+        "isCorrect": true
+      },
+      {
+        "text": "About 100 times larger",
+        "isCorrect": false
+      },
+      {
+        "text": "About 1,000 times larger",
+        "isCorrect": false
+      },
+      {
+        "text": "About 10 times larger",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The size of an atom is about 10,000 to 100,000 times larger than the size of its nucleus.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 50,
+    "questionText": "What is the typical size range of a nucleus according to Rutherford's findings?",
+    "options": [
+      {
+        "text": "10^{-15}$ m to $10^{-14}$ m",
+        "isCorrect": true
+      },
+      {
+        "text": "10^{-12}$ m",
+        "isCorrect": false
+      },
+      {
+        "text": "10^{-10}$ m",
+        "isCorrect": false
+      },
+      {
+        "text": "10^{-8}$ m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Rutherford's findings, the typical size range of a nucleus is $10^{-15}$ m to $10^{-14}$ m.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 51,
+    "questionText": "In Rutherford's scattering experiment, what was the primary source of the alpha particles?",
+    "options": [
+      {
+        "text": "A radioactive source",
+        "isCorrect": true
+      },
+      {
+        "text": "A laser",
+        "isCorrect": false
+      },
+      {
+        "text": "A heated metal foil",
+        "isCorrect": false
+      },
+      {
+        "text": "A cathode ray tube",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Rutherford's scattering experiment, the primary source of the alpha particles was a radioactive source.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 52,
+    "questionText": "How were the alpha particles detected in Rutherford's experiment?",
+    "options": [
+      {
+        "text": "Using a zinc sulphide screen",
+        "isCorrect": true
+      },
+      {
+        "text": "Using a Geiger counter",
+        "isCorrect": false
+      },
+      {
+        "text": "Using a photographic plate",
+        "isCorrect": false
+      },
+      {
+        "text": "Using an oscilloscope",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The alpha particles in Rutherford's experiment were detected using a zinc sulphide screen.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 53,
+    "questionText": "What was the thickness of the gold foil used in Rutherford's scattering experiment?",
+    "options": [
+      {
+        "text": "2.1 × $10^{-7}$ m",
+        "isCorrect": true
+      },
+      {
+        "text": "2.1 × $10^{-6}$ m",
+        "isCorrect": false
+      },
+      {
+        "text": "2.1 × $10^{-8}$ m",
+        "isCorrect": false
+      },
+      {
+        "text": "2.1 × $10^{-9}$ m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The thickness of the gold foil used in Rutherford's scattering experiment was 2.1 × $10^{-7}$ m.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 54,
+    "questionText": "In Rutherford's experiment, what was the energy of the alpha particles used?",
+    "options": [
+      {
+        "text": "5.5 MeV",
+        "isCorrect": true
+      },
+      {
+        "text": "1.5 MeV",
+        "isCorrect": false
+      },
+      {
+        "text": "10 MeV",
+        "isCorrect": false
+      },
+      {
+        "text": "2.5 MeV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The alpha particles used in Rutherford's experiment had an energy of 5.5 MeV.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 55,
+    "questionText": "How did Rutherford's experiment measure the distribution of scattered alpha particles?",
+    "options": [
+      {
+        "text": "By observing scintillations on a zinc sulphide screen",
+        "isCorrect": true
+      },
+      {
+        "text": "By measuring current changes",
+        "isCorrect": false
+      },
+      {
+        "text": "By detecting heat variations",
+        "isCorrect": false
+      },
+      {
+        "text": "By using a magnetic field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The distribution of scattered alpha particles in Rutherford's experiment was measured by observing scintillations on a zinc sulphide screen.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 56,
+    "questionText": "What theoretical prediction did Rutherford's nuclear model make regarding alpha-particle scattering?",
+    "options": [
+      {
+        "text": "Most alpha particles pass through with little deflection, while a few are deflected at large angles",
+        "isCorrect": true
+      },
+      {
+        "text": "All alpha particles are deflected back",
+        "isCorrect": false
+      },
+      {
+        "text": "Most alpha particles are absorbed",
+        "isCorrect": false
+      },
+      {
+        "text": "Alpha particles are deflected uniformly",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's nuclear model predicted that most alpha particles pass through with little deflection, while a few are deflected at large angles.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 57,
+    "questionText": "What is the significance of the large-angle deflections observed in Rutherford's experiment?",
+    "options": [
+      {
+        "text": "They indicate the presence of a small, dense, positively charged nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "They suggest that atoms are mostly empty space",
+        "isCorrect": false
+      },
+      {
+        "text": "They confirm the plum pudding model",
+        "isCorrect": false
+      },
+      {
+        "text": "They suggest the presence of neutrons",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The large-angle deflections observed in Rutherford's experiment indicate the presence of a small, dense, positively charged nucleus.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 58,
+    "questionText": "Why did most alpha particles pass through the gold foil without deflection in Rutherford's experiment?",
+    "options": [
+      {
+        "text": "Because most of the atom is empty space",
+        "isCorrect": true
+      },
+      {
+        "text": "Because alpha particles have no charge",
+        "isCorrect": false
+      },
+      {
+        "text": "Because the nucleus is very large",
+        "isCorrect": false
+      },
+      {
+        "text": "Because electrons are massive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Most alpha particles passed through the gold foil without deflection because most of the atom is empty space.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 59,
+    "questionText": "In Rutherford's scattering experiment, what conclusion was drawn from the small fraction of alpha particles deflected back?",
+    "options": [
+      {
+        "text": "The presence of a small, dense nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "The uniform distribution of charge in the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The existence of neutrons",
+        "isCorrect": false
+      },
+      {
+        "text": "The presence of a negative core",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The small fraction of alpha particles deflected back in Rutherford's experiment led to the conclusion of the presence of a small, dense nucleus.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 60,
+    "questionText": "What did Rutherford's model propose about the arrangement of electrons in an atom?",
+    "options": [
+      {
+        "text": "Electrons revolve around the nucleus in specific orbits",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons are fixed at specific points",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are scattered randomly",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are inside the nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's model proposed that electrons revolve around the nucleus in specific orbits.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 61,
+    "questionText": "In the context of Rutherford's experiment, what is the significance of the impact parameter?",
+    "options": [
+      {
+        "text": "It determines the angle of deflection of the alpha particles",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the speed of the alpha particles",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the energy of the alpha particles",
+        "isCorrect": false
+      },
+      {
+        "text": "It measures the charge of the alpha particles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The impact parameter in Rutherford's experiment is significant because it determines the angle of deflection of the alpha particles.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 62,
+    "questionText": "What did Rutherford's model fail to explain about the stability of the atom?",
+    "options": [
+      {
+        "text": "Why atoms emit light of only discrete wavelengths",
+        "isCorrect": true
+      },
+      {
+        "text": "The existence of neutrons",
+        "isCorrect": false
+      },
+      {
+        "text": "The overall charge of the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of the proton",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's model failed to explain why atoms emit light of only discrete wavelengths.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 63,
+    "questionText": "In Rutherford's model, what force provides the necessary centripetal force for electrons to revolve around the nucleus?",
+    "options": [
+      {
+        "text": "Electrostatic force",
+        "isCorrect": true
+      },
+      {
+        "text": "Gravitational force",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic force",
+        "isCorrect": false
+      },
+      {
+        "text": "Nuclear force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Rutherford's model, the electrostatic force provides the necessary centripetal force for electrons to revolve around the nucleus.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 64,
+    "questionText": "According to Rutherford's model, why don't electrons spiral into the nucleus?",
+    "options": [
+      {
+        "text": "This was a limitation of the model; it couldn't explain this",
+        "isCorrect": true
+      },
+      {
+        "text": "Because of gravitational force",
+        "isCorrect": false
+      },
+      {
+        "text": "Because of magnetic force",
+        "isCorrect": false
+      },
+      {
+        "text": "Because electrons are at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Rutherford's model, the reason why electrons don't spiral into the nucleus was a limitation of the model; it couldn't explain this phenomenon.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 65,
+    "questionText": "What did Rutherford's nuclear model predict about the charge of the nucleus?",
+    "options": [
+      {
+        "text": "The nucleus is positively charged",
+        "isCorrect": true
+      },
+      {
+        "text": "The nucleus is negatively charged",
+        "isCorrect": false
+      },
+      {
+        "text": "The nucleus is neutral",
+        "isCorrect": false
+      },
+      {
+        "text": "The nucleus has variable charge",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's nuclear model predicted that the nucleus is positively charged.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 66,
+    "questionText": "In Rutherford's model, what is the primary cause of the deflection of alpha particles?",
+    "options": [
+      {
+        "text": "Electrostatic repulsion by the positively charged nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "Gravitational attraction by the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic deflection by the electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "Absorption by the gold foil",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Rutherford's model, the primary cause of the deflection of alpha particles is electrostatic repulsion by the positively charged nucleus.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 67,
+    "questionText": "What does the angle of scattering of alpha particles tell us about the structure of the atom?",
+    "options": [
+      {
+        "text": "It indicates the presence of a dense, positively charged nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "It shows that atoms are uniform spheres",
+        "isCorrect": false
+      },
+      {
+        "text": "It suggests that electrons are at the center",
+        "isCorrect": false
+      },
+      {
+        "text": "It confirms that atoms are indivisible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The angle of scattering of alpha particles indicates the presence of a dense, positively charged nucleus in the atom.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 68,
+    "questionText": "What is the significance of Rutherford's alpha-particle scattering experiment in the history of atomic models?",
+    "options": [
+      {
+        "text": "It led to the discovery of the atomic nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "It confirmed the plum pudding model",
+        "isCorrect": false
+      },
+      {
+        "text": "It explained the emission spectra of hydrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "It discovered the neutron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's alpha-particle scattering experiment is significant because it led to the discovery of the atomic nucleus.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 69,
+    "questionText": "According to Rutherford's findings, how does the mass of the nucleus compare to the mass of the atom?",
+    "options": [
+      {
+        "text": "Most of the mass of the atom is concentrated in the nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "The mass is evenly distributed throughout the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The electrons contribute most of the mass",
+        "isCorrect": false
+      },
+      {
+        "text": "The nucleus has negligible mass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Rutherford's findings, most of the mass of the atom is concentrated in the nucleus.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 70,
+    "questionText": "What did Rutherford's experiment suggest about the charge distribution within the atom?",
+    "options": [
+      {
+        "text": "The positive charge is concentrated in a small nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "The positive charge is uniformly distributed",
+        "isCorrect": false
+      },
+      {
+        "text": "The atom has no positive charge",
+        "isCorrect": false
+      },
+      {
+        "text": "The charge distribution is random",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's experiment suggested that the positive charge is concentrated in a small nucleus within the atom.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 71,
+    "questionText": "Why is Rutherford's nuclear model considered a planetary model?",
+    "options": [
+      {
+        "text": "Because electrons revolve around the nucleus similar to planets orbiting the sun",
+        "isCorrect": true
+      },
+      {
+        "text": "Because the nucleus is at the center like the sun",
+        "isCorrect": false
+      },
+      {
+        "text": "Because the atom is spherical",
+        "isCorrect": false
+      },
+      {
+        "text": "Because it was inspired by the solar system",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's nuclear model is considered a planetary model because electrons revolve around the nucleus similar to planets orbiting the sun.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 72,
+    "questionText": "In Rutherford's model, what is the primary force acting on the electrons?",
+    "options": [
+      {
+        "text": "Electrostatic force",
+        "isCorrect": true
+      },
+      {
+        "text": "Gravitational force",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic force",
+        "isCorrect": false
+      },
+      {
+        "text": "Nuclear force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Rutherford's model, the primary force acting on the electrons is the electrostatic force between the positively charged nucleus and the negatively charged electrons.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 73,
+    "questionText": "How did Rutherford's experiment challenge the plum pudding model of the atom?",
+    "options": [
+      {
+        "text": "It showed that the positive charge is concentrated in a small nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "It confirmed that electrons are embedded in a positive matrix",
+        "isCorrect": false
+      },
+      {
+        "text": "It proved that atoms are indivisible",
+        "isCorrect": false
+      },
+      {
+        "text": "It demonstrated that atoms are solid spheres",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's experiment challenged the plum pudding model by showing that the positive charge is concentrated in a small nucleus, not uniformly distributed.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 74,
+    "questionText": "What was one of the main limitations of Rutherford's nuclear model?",
+    "options": [
+      {
+        "text": "It could not explain why atoms emit light of only discrete wavelengths",
+        "isCorrect": true
+      },
+      {
+        "text": "It could not explain the mass of the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "It could not explain the presence of neutrons",
+        "isCorrect": false
+      },
+      {
+        "text": "It could not explain the charge of the atom",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "One of the main limitations of Rutherford's nuclear model was that it could not explain why atoms emit light of only discrete wavelengths.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 75,
+    "questionText": "How did Rutherford's model contribute to the understanding of atomic structure?",
+    "options": [
+      {
+        "text": "It introduced the concept of a dense, positively charged nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "It confirmed the existence of neutrons",
+        "isCorrect": false
+      },
+      {
+        "text": "It proved the quantization of energy levels",
+        "isCorrect": false
+      },
+      {
+        "text": "It explained the photoelectric effect",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's model contributed to the understanding of atomic structure by introducing the concept of a dense, positively charged nucleus.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 76,
+    "questionText": "In Rutherford's scattering experiment, why were some alpha particles deflected at large angles?",
+    "options": [
+      {
+        "text": "Due to the electrostatic repulsion by the nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "Due to collisions with electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "Due to gravitational forces",
+        "isCorrect": false
+      },
+      {
+        "text": "Due to absorption by the nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Some alpha particles were deflected at large angles due to the electrostatic repulsion by the positively charged nucleus.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 77,
+    "questionText": "What did Rutherford conclude about the nature of the atom from his experiment?",
+    "options": [
+      {
+        "text": "The atom has a small, dense nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "The atom is a uniform sphere",
+        "isCorrect": false
+      },
+      {
+        "text": "The atom is a solid mass",
+        "isCorrect": false
+      },
+      {
+        "text": "The atom has no internal structure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford concluded that the atom has a small, dense nucleus based on his alpha-particle scattering experiment.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 78,
+    "questionText": "How did Rutherford's experiment support the nuclear model of the atom?",
+    "options": [
+      {
+        "text": "By showing that alpha particles are deflected by a small, dense nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "By demonstrating that electrons are embedded in a positive matrix",
+        "isCorrect": false
+      },
+      {
+        "text": "By proving the existence of neutrons",
+        "isCorrect": false
+      },
+      {
+        "text": "By confirming the uniform distribution of charge",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's experiment supported the nuclear model of the atom by showing that alpha particles are deflected by a small, dense nucleus.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 79,
+    "questionText": "What did Rutherford's model suggest about the motion of electrons in the atom?",
+    "options": [
+      {
+        "text": "Electrons revolve around the nucleus in specific orbits",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons are stationary",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are inside the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons move randomly",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's model suggested that electrons revolve around the nucleus in specific orbits.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 80,
+    "questionText": "What was a key limitation of Rutherford's nuclear model?",
+    "options": [
+      {
+        "text": "It could not explain the stability of the atom",
+        "isCorrect": true
+      },
+      {
+        "text": "It could not explain the existence of protons",
+        "isCorrect": false
+      },
+      {
+        "text": "It could not explain the charge of the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "It could not explain the existence of neutrons",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A key limitation of Rutherford's nuclear model was that it could not explain the stability of the atom.",
+    "chapter": "Atoms",
+    "topic": "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 81,
+    "questionText": "What does the energy level diagram of a hydrogen atom show?",
+    "options": [
+      {
+        "text": "The energy levels of the hydrogen atom",
+        "isCorrect": true
+      },
+      {
+        "text": "The orbitals of the electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "The size of the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency of emitted light",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy level diagram of a hydrogen atom shows the energy levels of the hydrogen atom, computed from Bohr's model.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 82,
+    "questionText": "What is the ionization energy of the hydrogen atom according to Bohr's model?",
+    "options": [
+      {
+        "text": "13.6 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "10.2 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "12.09 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "3.4 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the ionization energy of the hydrogen atom is 13.6 eV.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 83,
+    "questionText": "What is the energy required to excite an electron in a hydrogen atom from the ground state to the first excited state?",
+    "options": [
+      {
+        "text": "10.2 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "3.4 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "13.6 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "12.09 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy required to excite an electron in a hydrogen atom from the ground state to the first excited state is 10.2 eV.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 84,
+    "questionText": "In the hydrogen atom, what is the energy difference between the second excited state and the ground state?",
+    "options": [
+      {
+        "text": "12.09 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "10.2 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "13.6 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "3.4 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy difference between the second excited state and the ground state in the hydrogen atom is 12.09 eV.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "HARD"
+  },
+  {
+    "qno": 85,
+    "questionText": "What happens when an electron in a hydrogen atom falls back to a lower energy state?",
+    "options": [
+      {
+        "text": "A photon is emitted",
+        "isCorrect": true
+      },
+      {
+        "text": "A photon is absorbed",
+        "isCorrect": false
+      },
+      {
+        "text": "The atom ionizes",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron is ejected",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When an electron in a hydrogen atom falls back to a lower energy state, a photon is emitted.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 86,
+    "questionText": "What does Bohr's model predict about the energies of the hydrogen atom's excited states?",
+    "options": [
+      {
+        "text": "The energies of the excited states come closer together as (n) increases",
+        "isCorrect": true
+      },
+      {
+        "text": "The energies of the excited states are uniformly spaced",
+        "isCorrect": false
+      },
+      {
+        "text": "The energies of the excited states become more widely spaced",
+        "isCorrect": false
+      },
+      {
+        "text": "The energies of the excited states are random",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bohr's model predicts that the energies of the excited states of the hydrogen atom come closer together as (n) increases.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 87,
+    "questionText": "What does the negative sign of the total energy of an electron in a hydrogen atom imply?",
+    "options": [
+      {
+        "text": "The electron is bound to the nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "The electron is free",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron is in an excited state",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron is ionized",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The negative sign of the total energy of an electron in a hydrogen atom implies that the electron is bound to the nucleus.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 88,
+    "questionText": "What is the energy of an electron in the ground state of a hydrogen atom?",
+    "options": [
+      {
+        "text": "−13.6 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "−3.4 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "−1.51 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "0 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the ground state of a hydrogen atom is −13.6 eV.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 89,
+    "questionText": "According to Bohr's model, what happens to the electron's energy as it moves to orbits farther from the nucleus?",
+    "options": [
+      {
+        "text": "The electron's energy becomes less negative",
+        "isCorrect": true
+      },
+      {
+        "text": "The electron's energy becomes more negative",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron's energy remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron's energy increases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the electron's energy becomes less negative as it moves to orbits farther from the nucleus.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 90,
+    "questionText": "What is the minimum energy required to free the electron from the ground state of the hydrogen atom?",
+    "options": [
+      {
+        "text": "13.6 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "10.2 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "3.4 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "12.09 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The minimum energy required to free the electron from the ground state of the hydrogen atom is 13.6 eV.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 91,
+    "questionText": "What is the energy of an electron in the second excited state (n=3) of a hydrogen atom?",
+    "options": [
+      {
+        "text": "−1.51 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "−3.4 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "−13.6 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "−0.85 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the second excited state (n=3) of a hydrogen atom is −1.51 eV.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 92,
+    "questionText": "In Bohr's model, what is the relationship between the radius of an orbit and the principal quantum number $n$?",
+    "options": [
+      {
+        "text": "The radius of an orbit is proportional to $n^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "The radius of an orbit is proportional to $n$",
+        "isCorrect": false
+      },
+      {
+        "text": "The radius of an orbit is proportional to $n^{-1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "The radius of an orbit is independent of $n$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the radius of an orbit is proportional to the square of the principal quantum number $n$.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 93,
+    "questionText": "According to Bohr's model, what happens to the energy levels of a hydrogen atom as $n$ increases?",
+    "options": [
+      {
+        "text": "The energy levels become closer together",
+        "isCorrect": true
+      },
+      {
+        "text": "The energy levels become farther apart",
+        "isCorrect": false
+      },
+      {
+        "text": "The energy levels remain the same distance apart",
+        "isCorrect": false
+      },
+      {
+        "text": "The energy levels become random",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the energy levels of a hydrogen atom become closer together as $n$ increases.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 94,
+    "questionText": "What does the term 'ground state' of an atom refer to?",
+    "options": [
+      {
+        "text": "The lowest energy state of the atom",
+        "isCorrect": true
+      },
+      {
+        "text": "The highest energy state of the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "An excited state of the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The ionized state of the atom",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The term 'ground state' of an atom refers to the lowest energy state of the atom.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 95,
+    "questionText": "In the hydrogen atom, what is the energy required to excite an electron from the ground state to the second excited state ($n=3$)?",
+    "options": [
+      {
+        "text": "12.09 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "10.2 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "13.6 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "1.51 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy required to excite an electron in the hydrogen atom from the ground state to the second excited state ($n=3$) is 12.09 eV.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 96,
+    "questionText": "What does the term 'excited state' of an atom refer to?",
+    "options": [
+      {
+        "text": "An energy state higher than the ground state",
+        "isCorrect": true
+      },
+      {
+        "text": "The ground state of the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "An ionized state of the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "A state where the atom has zero energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The term 'excited state' of an atom refers to any energy state higher than the ground state.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 97,
+    "questionText": "In Bohr's model, how is the total energy of the electron in the hydrogen atom quantized?",
+    "options": [
+      {
+        "text": "It is quantized as $E_n = -\\frac{13.6}{n^2}$ eV",
+        "isCorrect": true
+      },
+      {
+        "text": "It is quantized as $E_n = -\\frac{13.6}{n}$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "It is quantized as $E_n = -\\frac{13.6}{n^3}$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "It is quantized as $E_n = -13.6n$ eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the total energy of the electron in the hydrogen atom is quantized as $E_n = -\\frac{13.6}{n^2}$ eV.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "HARD"
+  },
+  {
+    "qno": 98,
+    "questionText": "What is the energy of an electron in the first excited state ($n=2$) of a hydrogen atom?",
+    "options": [
+      {
+        "text": "-3.4 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "-13.6 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "-1.51 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.85 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the first excited state ($n=2$) of a hydrogen atom is -3.4 eV.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 99,
+    "questionText": "According to Bohr's model, how is the frequency of the photon emitted when an electron transitions from a higher energy state to a lower energy state determined?",
+    "options": [
+      {
+        "text": "It is determined by the energy difference between the two states",
+        "isCorrect": true
+      },
+      {
+        "text": "It is determined by the average energy of the two states",
+        "isCorrect": false
+      },
+      {
+        "text": "It is determined by the sum of the energies of the two states",
+        "isCorrect": false
+      },
+      {
+        "text": "It is independent of the energy states",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the frequency of the photon emitted is determined by the energy difference between the two states.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "HARD"
+  },
+  {
+    "qno": 100,
+    "questionText": "What is the wavelength of the photon emitted when an electron transitions from the second excited state ($n=3$) to the first excited state ($n=2$) in a hydrogen atom?",
+    "options": [
+      {
+        "text": "656 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "486 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "434 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "410 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of the photon emitted when an electron transitions from the second excited state ($n=3$) to the first excited state ($n=2$) in a hydrogen atom is 656 nm.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 101,
+    "questionText": "What is the principle quantum number?",
+    "options": [
+      {
+        "text": "It specifies the energy level of an electron in an atom",
+        "isCorrect": true
+      },
+      {
+        "text": "It specifies the shape of the orbital",
+        "isCorrect": false
+      },
+      {
+        "text": "It specifies the orientation of the orbital",
+        "isCorrect": false
+      },
+      {
+        "text": "It specifies the spin of the electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal quantum number specifies the energy level of an electron in an atom.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 102,
+    "questionText": "How is the angular momentum of an electron in a hydrogen atom quantized according to Bohr's model?",
+    "options": [
+      {
+        "text": "It is quantized as $L = \\frac{nh}{2\\pi}$",
+        "isCorrect": true
+      },
+      {
+        "text": "It is quantized as $L = nh$",
+        "isCorrect": false
+      },
+      {
+        "text": "It is quantized as $L = \\frac{n^2h}{2\\pi}$",
+        "isCorrect": false
+      },
+      {
+        "text": "It is quantized as $L = \\frac{nh}{\\pi}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the angular momentum of an electron in a hydrogen atom is quantized as $L = \\frac{nh}{2\\pi}$.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "HARD"
+  },
+  {
+    "qno": 103,
+    "questionText": "What is the significance of the quantization of angular momentum in Bohr's model?",
+    "options": [
+      {
+        "text": "It explains the stability of the electron orbits",
+        "isCorrect": true
+      },
+      {
+        "text": "It leads to the continuous spectrum of the hydrogen atom",
+        "isCorrect": false
+      },
+      {
+        "text": "It suggests that electrons can have any energy",
+        "isCorrect": false
+      },
+      {
+        "text": "It implies that the nucleus is not involved in the atomic structure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The quantization of angular momentum in Bohr's model explains the stability of the electron orbits.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 104,
+    "questionText": "What is the energy of an electron in the $n=4$ state of a hydrogen atom?",
+    "options": [
+      {
+        "text": "-0.85 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "-3.4 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "-1.51 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "-13.6 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the $n=4$ state of a hydrogen atom is -0.85 eV.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 105,
+    "questionText": "According to Bohr's model, what happens to the frequency of emitted radiation as an electron transitions to a lower energy level?",
+    "options": [
+      {
+        "text": "The frequency increases",
+        "isCorrect": true
+      },
+      {
+        "text": "The frequency decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the frequency of emitted radiation increases as an electron transitions to a lower energy level.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 106,
+    "questionText": "What is the Rydberg formula used for?",
+    "options": [
+      {
+        "text": "Calculating the wavelengths of spectral lines of hydrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Determining the mass of the electron",
+        "isCorrect": false
+      },
+      {
+        "text": "Measuring the speed of light",
+        "isCorrect": false
+      },
+      {
+        "text": "Calculating the energy of the nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Rydberg formula is used for calculating the wavelengths of spectral lines of hydrogen.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "HARD"
+  },
+  {
+    "qno": 107,
+    "questionText": "What is the wavelength of the first line of the Balmer series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "656 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "486 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "434 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "410 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of the first line of the Balmer series in the hydrogen spectrum is 656 nm.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 108,
+    "questionText": "In the context of atomic spectra, what is a 'spectral line'?",
+    "options": [
+      {
+        "text": "A discrete wavelength of light emitted or absorbed by an atom",
+        "isCorrect": true
+      },
+      {
+        "text": "A continuous band of wavelengths emitted by an atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The overall brightness of an atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The shape of an electron orbit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the context of atomic spectra, a 'spectral line' is a discrete wavelength of light emitted or absorbed by an atom.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 109,
+    "questionText": "Which series of spectral lines in the hydrogen atom's emission spectrum lies in the visible region?",
+    "options": [
+      {
+        "text": "Balmer series",
+        "isCorrect": true
+      },
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Balmer series of spectral lines in the hydrogen atom's emission spectrum lies in the visible region.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 110,
+    "questionText": "What does the term 'ionization energy' refer to?",
+    "options": [
+      {
+        "text": "The energy required to remove an electron from an atom",
+        "isCorrect": true
+      },
+      {
+        "text": "The energy required to add an electron to an atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The energy released when an atom gains an electron",
+        "isCorrect": false
+      },
+      {
+        "text": "The energy required to move an electron within the same atom",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The term 'ionization energy' refers to the energy required to remove an electron from an atom.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 111,
+    "questionText": "In Bohr's model, what is the relationship between the frequency of emitted radiation and the energy difference between two orbits?",
+    "options": [
+      {
+        "text": "The frequency is directly proportional to the energy difference",
+        "isCorrect": true
+      },
+      {
+        "text": "The frequency is inversely proportional to the energy difference",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency is equal to the energy difference",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency is independent of the energy difference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the frequency of emitted radiation is directly proportional to the energy difference between two orbits.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "HARD"
+  },
+  {
+    "qno": 112,
+    "questionText": "What is the significance of the Balmer series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "It is the series of spectral lines that lie in the visible region",
+        "isCorrect": true
+      },
+      {
+        "text": "It is the series of spectral lines that lie in the ultraviolet region",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the series of spectral lines that lie in the infrared region",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the series of spectral lines that are absorbed by hydrogen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Balmer series in the hydrogen spectrum is significant because it is the series of spectral lines that lie in the visible region.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 113,
+    "questionText": "According to Bohr's model, what happens when an electron transitions from a higher orbit to a lower orbit?",
+    "options": [
+      {
+        "text": "A photon is emitted",
+        "isCorrect": true
+      },
+      {
+        "text": "A photon is absorbed",
+        "isCorrect": false
+      },
+      {
+        "text": "The atom ionizes",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron is ejected",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, when an electron transitions from a higher orbit to a lower orbit, a photon is emitted.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 114,
+    "questionText": "What is the Lyman series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "It is the series of spectral lines that lie in the ultraviolet region",
+        "isCorrect": true
+      },
+      {
+        "text": "It is the series of spectral lines that lie in the visible region",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the series of spectral lines that lie in the infrared region",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the series of spectral lines that are emitted by hydrogen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Lyman series in the hydrogen spectrum is the series of spectral lines that lie in the ultraviolet region.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 115,
+    "questionText": "What is the energy difference between the ground state and the first excited state of a hydrogen atom?",
+    "options": [
+      {
+        "text": "10.2 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "12.09 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "13.6 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "3.4 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy difference between the ground state and the first excited state of a hydrogen atom is 10.2 eV.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 116,
+    "questionText": "In Bohr's model, what does the principal quantum number $n$ determine?",
+    "options": [
+      {
+        "text": "The energy and size of the electron orbit",
+        "isCorrect": true
+      },
+      {
+        "text": "The shape of the electron orbit",
+        "isCorrect": false
+      },
+      {
+        "text": "The orientation of the electron orbit",
+        "isCorrect": false
+      },
+      {
+        "text": "The spin of the electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the principal quantum number $n$ determines the energy and size of the electron orbit.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 117,
+    "questionText": "What is the Paschen series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "It is the series of spectral lines that lie in the infrared region",
+        "isCorrect": true
+      },
+      {
+        "text": "It is the series of spectral lines that lie in the ultraviolet region",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the series of spectral lines that lie in the visible region",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the series of spectral lines that are absorbed by hydrogen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Paschen series in the hydrogen spectrum is the series of spectral lines that lie in the infrared region.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 118,
+    "questionText": "What is the Brackett series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "It is the series of spectral lines that lie in the infrared region",
+        "isCorrect": true
+      },
+      {
+        "text": "It is the series of spectral lines that lie in the ultraviolet region",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the series of spectral lines that lie in the visible region",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the series of spectral lines that are absorbed by hydrogen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Brackett series in the hydrogen spectrum is the series of spectral lines that lie in the infrared region.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 119,
+    "questionText": "What is the Pfund series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "It is the series of spectral lines that lie in the infrared region",
+        "isCorrect": true
+      },
+      {
+        "text": "It is the series of spectral lines that lie in the ultraviolet region",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the series of spectral lines that lie in the visible region",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the series of spectral lines that are absorbed by hydrogen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Pfund series in the hydrogen spectrum is the series of spectral lines that lie in the infrared region.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 120,
+    "questionText": "Which spectral series of hydrogen corresponds to transitions from higher energy levels to $n=1$?",
+    "options": [
+      {
+        "text": "Lyman series",
+        "isCorrect": true
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Lyman series corresponds to transitions from higher energy levels to $n=1$ in the hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "HARD"
+  },
+  {
+    "qno": 121,
+    "questionText": "Which spectral series of hydrogen corresponds to transitions from higher energy levels to $n=2$?",
+    "options": [
+      {
+        "text": "Balmer series",
+        "isCorrect": true
+      },
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Balmer series corresponds to transitions from higher energy levels to $n=2$ in the hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "HARD"
+  },
+  {
+    "qno": 122,
+    "questionText": "Which spectral series of hydrogen corresponds to transitions from higher energy levels to $n=3$?",
+    "options": [
+      {
+        "text": "Paschen series",
+        "isCorrect": true
+      },
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Paschen series corresponds to transitions from higher energy levels to $n=3$ in the hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "HARD"
+  },
+  {
+    "qno": 123,
+    "questionText": "Which spectral series of hydrogen corresponds to transitions from higher energy levels to $n=4$?",
+    "options": [
+      {
+        "text": "Brackett series",
+        "isCorrect": true
+      },
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Pfund series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Brackett series corresponds to transitions from higher energy levels to $n=4$ in the hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "HARD"
+  },
+  {
+    "qno": 124,
+    "questionText": "Which spectral series of hydrogen corresponds to transitions from higher energy levels to $n=5$?",
+    "options": [
+      {
+        "text": "Pfund series",
+        "isCorrect": true
+      },
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Pfund series corresponds to transitions from higher energy levels to $n=5$ in the hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "HARD"
+  },
+  {
+    "qno": 125,
+    "questionText": "What is the energy of the electron in the $n=1$ state of a hydrogen atom?",
+    "options": [
+      {
+        "text": "-13.6 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "-3.4 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "-1.51 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.85 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of the electron in the $n=1$ state of a hydrogen atom is -13.6 eV.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 126,
+    "questionText": "What does the Balmer series of hydrogen spectrum correspond to?",
+    "options": [
+      {
+        "text": "Transitions from higher energy levels to $n=2$",
+        "isCorrect": true
+      },
+      {
+        "text": "Transitions from higher energy levels to $n=1$",
+        "isCorrect": false
+      },
+      {
+        "text": "Transitions from higher energy levels to $n=3$",
+        "isCorrect": false
+      },
+      {
+        "text": "Transitions from higher energy levels to $n=4$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Balmer series of the hydrogen spectrum corresponds to transitions from higher energy levels to $n=2$.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 127,
+    "questionText": "In Bohr's model, what determines the energy levels of the hydrogen atom?",
+    "options": [
+      {
+        "text": "The principal quantum number $n$",
+        "isCorrect": true
+      },
+      {
+        "text": "The atomic mass",
+        "isCorrect": false
+      },
+      {
+        "text": "The atomic number",
+        "isCorrect": false
+      },
+      {
+        "text": "The speed of the electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the energy levels of the hydrogen atom are determined by the principal quantum number $n$.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 128,
+    "questionText": "Which series in the hydrogen spectrum lies in the ultraviolet region?",
+    "options": [
+      {
+        "text": "Lyman series",
+        "isCorrect": true
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Lyman series in the hydrogen spectrum lies in the ultraviolet region.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "EASY"
+  },
+  {
+    "qno": 129,
+    "questionText": "Which series in the hydrogen spectrum lies in the infrared region?",
+    "options": [
+      {
+        "text": "Paschen, Brackett, and Pfund series",
+        "isCorrect": true
+      },
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Paschen, Brackett, and Pfund series in the hydrogen spectrum lie in the infrared region.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 130,
+    "questionText": "What is the main conclusion derived from the atomic spectra of hydrogen?",
+    "options": [
+      {
+        "text": "Electrons occupy discrete energy levels",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons occupy continuous energy levels",
+        "isCorrect": false
+      },
+      {
+        "text": "Atoms have no internal structure",
+        "isCorrect": false
+      },
+      {
+        "text": "The nucleus is negatively charged",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main conclusion derived from the atomic spectra of hydrogen is that electrons occupy discrete energy levels.",
+    "chapter": "Atoms",
+    "topic": "Atomic Spectra",
+    "level": "HARD"
+  },
+  {
+    "qno": 131,
+    "questionText": "What postulate did Bohr introduce to explain the stability of electron orbits?",
+    "options": [
+      {
+        "text": "Electrons orbit the nucleus in certain fixed orbits without radiating energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons emit radiation continuously",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are stationary",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons follow elliptical orbits",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bohr introduced the postulate that electrons orbit the nucleus in certain fixed orbits without radiating energy to explain the stability of electron orbits.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 132,
+    "questionText": "According to Bohr's model, what happens when an electron jumps from a higher orbit to a lower orbit?",
+    "options": [
+      {
+        "text": "It emits a photon",
+        "isCorrect": true
+      },
+      {
+        "text": "It absorbs a photon",
+        "isCorrect": false
+      },
+      {
+        "text": "It loses mass",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes unstable",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, when an electron jumps from a higher orbit to a lower orbit, it emits a photon.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 133,
+    "questionText": "In Bohr's model, what is the angular momentum of an electron in a stationary orbit?",
+    "options": [
+      {
+        "text": "Quantized as $L = \\frac{nh}{2\\pi}$",
+        "isCorrect": true
+      },
+      {
+        "text": "Quantized as $L = nh$",
+        "isCorrect": false
+      },
+      {
+        "text": "Quantized as $L = \\frac{n^2h}{2\\pi}$",
+        "isCorrect": false
+      },
+      {
+        "text": "Quantized as $L = \\frac{nh}{\\pi}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the angular momentum of an electron in a stationary orbit is quantized as $L = \\frac{nh}{2\\pi}$.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 134,
+    "questionText": "What did Bohr's model successfully explain about the hydrogen atom?",
+    "options": [
+      {
+        "text": "The spectral lines of the hydrogen atom",
+        "isCorrect": true
+      },
+      {
+        "text": "The shape of electron clouds",
+        "isCorrect": false
+      },
+      {
+        "text": "The behavior of electrons in metals",
+        "isCorrect": false
+      },
+      {
+        "text": "The nature of chemical bonds",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bohr's model successfully explained the spectral lines of the hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 135,
+    "questionText": "What is the Bohr radius?",
+    "options": [
+      {
+        "text": "The radius of the smallest orbit in the hydrogen atom",
+        "isCorrect": true
+      },
+      {
+        "text": "The radius of the largest orbit in the hydrogen atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The distance between two energy levels",
+        "isCorrect": false
+      },
+      {
+        "text": "The radius of the nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Bohr radius is the radius of the smallest orbit in the hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 136,
+    "questionText": "What assumption did Bohr make about the electron orbits in the hydrogen atom?",
+    "options": [
+      {
+        "text": "Electrons move in circular orbits with quantized angular momentum",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons move in elliptical orbits with continuous angular momentum",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are stationary around the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons emit radiation continuously while orbiting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bohr assumed that electrons move in circular orbits with quantized angular momentum in the hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 137,
+    "questionText": "In Bohr's model, how is the energy of an electron in an orbit quantized?",
+    "options": [
+      {
+        "text": "As $E_n = -\\frac{13.6}{n^2}$ eV",
+        "isCorrect": true
+      },
+      {
+        "text": "As $E_n = -\\frac{13.6}{n}$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "As $E_n = -\\frac{13.6}{n^3}$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "As $E_n = -13.6n$ eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the energy of an electron in an orbit is quantized as $E_n = -\\frac{13.6}{n^2}$ eV.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 138,
+    "questionText": "According to Bohr's model, what happens when an electron in a hydrogen atom transitions from $n=3$ to $n=2$?",
+    "options": [
+      {
+        "text": "A photon is emitted",
+        "isCorrect": true
+      },
+      {
+        "text": "A photon is absorbed",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron gains energy",
+        "isCorrect": false
+      },
+      {
+        "text": "The atom becomes ionized",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, when an electron in a hydrogen atom transitions from $n=3$ to $n=2$, a photon is emitted.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 139,
+    "questionText": "What did Bohr's model propose about the relationship between the frequency of emitted light and the energy difference between orbits?",
+    "options": [
+      {
+        "text": "The frequency is directly proportional to the energy difference",
+        "isCorrect": true
+      },
+      {
+        "text": "The frequency is inversely proportional to the energy difference",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency is independent of the energy difference",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency is equal to the energy difference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bohr's model proposed that the frequency of emitted light is directly proportional to the energy difference between orbits.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 140,
+    "questionText": "What did Bohr's second postulate state about the angular momentum of an electron in a stationary orbit?",
+    "options": [
+      {
+        "text": "It is quantized as $L = \\frac{nh}{2\\pi}$",
+        "isCorrect": true
+      },
+      {
+        "text": "It is equal to $nh$",
+        "isCorrect": false
+      },
+      {
+        "text": "It is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "It varies continuously",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bohr's second postulate stated that the angular momentum of an electron in a stationary orbit is quantized as $L = \\frac{nh}{2\\pi}$.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 141,
+    "questionText": "What is the significance of the quantization of angular momentum in Bohr's model?",
+    "options": [
+      {
+        "text": "It explains the stability of electron orbits",
+        "isCorrect": true
+      },
+      {
+        "text": "It leads to the continuous spectrum of the hydrogen atom",
+        "isCorrect": false
+      },
+      {
+        "text": "It suggests that electrons can have any energy",
+        "isCorrect": false
+      },
+      {
+        "text": "It implies that the nucleus is not involved in the atomic structure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The quantization of angular momentum in Bohr's model explains the stability of electron orbits.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 142,
+    "questionText": "In Bohr's model, how is the energy of an electron in an orbit related to the principal quantum number $n$?",
+    "options": [
+      {
+        "text": "The energy is inversely proportional to $n^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "The energy is directly proportional to $n^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "The energy is directly proportional to $n$",
+        "isCorrect": false
+      },
+      {
+        "text": "The energy is independent of $n$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the energy of an electron in an orbit is inversely proportional to the square of the principal quantum number $n$.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 143,
+    "questionText": "According to Bohr's model, what determines the radius of an electron's orbit in a hydrogen atom?",
+    "options": [
+      {
+        "text": "The principal quantum number $n$",
+        "isCorrect": true
+      },
+      {
+        "text": "The atomic mass",
+        "isCorrect": false
+      },
+      {
+        "text": "The atomic number",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron's speed",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the radius of an electron's orbit in a hydrogen atom is determined by the principal quantum number $n$.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 144,
+    "questionText": "In Bohr's model, what happens to the electron's energy as it moves to orbits farther from the nucleus?",
+    "options": [
+      {
+        "text": "The electron's energy increases",
+        "isCorrect": true
+      },
+      {
+        "text": "The electron's energy decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron's energy remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron's energy becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the electron's energy increases as it moves to orbits farther from the nucleus.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 145,
+    "questionText": "What is the energy of an electron in the $n=1$ state of a hydrogen atom?",
+    "options": [
+      {
+        "text": "-13.6 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "-3.4 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "-1.51 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.85 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the $n=1$ state of a hydrogen atom is -13.6 eV.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 146,
+    "questionText": "According to Bohr's model, what is the relationship between the energy of an electron and the principal quantum number $n$?",
+    "options": [
+      {
+        "text": "The energy is inversely proportional to $n^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "The energy is directly proportional to $n^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "The energy is directly proportional to $n$",
+        "isCorrect": false
+      },
+      {
+        "text": "The energy is independent of $n$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the energy of an electron is inversely proportional to the square of the principal quantum number $n$.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 148,
+    "questionText": "In Bohr's model, how is the frequency of the emitted radiation related to the energy difference between two orbits?",
+    "options": [
+      {
+        "text": "The frequency is directly proportional to the energy difference",
+        "isCorrect": true
+      },
+      {
+        "text": "The frequency is inversely proportional to the energy difference",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency is independent of the energy difference",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency is equal to the energy difference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the frequency of the emitted radiation is directly proportional to the energy difference between two orbits.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 149,
+    "questionText": "What did Bohr's model introduce to explain the stability of electron orbits?",
+    "options": [
+      {
+        "text": "Quantized angular momentum",
+        "isCorrect": true
+      },
+      {
+        "text": "Continuous emission of radiation",
+        "isCorrect": false
+      },
+      {
+        "text": "Random electron paths",
+        "isCorrect": false
+      },
+      {
+        "text": "Fixed electron speeds",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bohr's model introduced the concept of quantized angular momentum to explain the stability of electron orbits.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 150,
+    "questionText": "What is the significance of the Bohr radius?",
+    "options": [
+      {
+        "text": "It is the radius of the smallest orbit in the hydrogen atom",
+        "isCorrect": true
+      },
+      {
+        "text": "It is the radius of the largest orbit in the hydrogen atom",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the distance between two energy levels",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the radius of the nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Bohr radius is the radius of the smallest orbit in the hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 151,
+    "questionText": "According to Bohr's model, what happens when an electron in a hydrogen atom absorbs a photon?",
+    "options": [
+      {
+        "text": "The electron jumps to a higher orbit",
+        "isCorrect": true
+      },
+      {
+        "text": "The electron emits radiation",
+        "isCorrect": false
+      },
+      {
+        "text": "The atom ionizes",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron becomes stationary",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, when an electron in a hydrogen atom absorbs a photon, it jumps to a higher orbit.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 152,
+    "questionText": "What is the relationship between the principal quantum number $n$ and the radius of an electron's orbit in Bohr's model?",
+    "options": [
+      {
+        "text": "The radius is proportional to $n^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "The radius is proportional to $n$",
+        "isCorrect": false
+      },
+      {
+        "text": "The radius is inversely proportional to $n^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "The radius is independent of $n$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the radius of an electron's orbit is proportional to the square of the principal quantum number $n$.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 153,
+    "questionText": "According to Bohr's model, what determines the energy levels of the hydrogen atom?",
+    "options": [
+      {
+        "text": "The principal quantum number $n$",
+        "isCorrect": true
+      },
+      {
+        "text": "The atomic mass",
+        "isCorrect": false
+      },
+      {
+        "text": "The atomic number",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron's speed",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the energy levels of the hydrogen atom are determined by the principal quantum number $n$.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 154,
+    "questionText": "What happens to the frequency of emitted radiation as an electron transitions to a lower energy level according to Bohr's model?",
+    "options": [
+      {
+        "text": "The frequency increases",
+        "isCorrect": true
+      },
+      {
+        "text": "The frequency decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the frequency of emitted radiation increases as an electron transitions to a lower energy level.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 157,
+    "questionText": "What is the energy of an electron in the $n=2$ state of a hydrogen atom?",
+    "options": [
+      {
+        "text": "-3.4 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "-13.6 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "-1.51 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.85 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the $n=2$ state of a hydrogen atom is -3.4 eV.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 161,
+    "questionText": "In Bohr's model, what is the relationship between the energy of an electron and the principal quantum number $n$?",
+    "options": [
+      {
+        "text": "The energy is inversely proportional to $n^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "The energy is directly proportional to $n^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "The energy is directly proportional to $n$",
+        "isCorrect": false
+      },
+      {
+        "text": "The energy is independent of $n$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the energy of an electron is inversely proportional to the square of the principal quantum number $n$.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 164,
+    "questionText": "What is the energy of an electron in the $n=3$ state of a hydrogen atom?",
+    "options": [
+      {
+        "text": "-1.51 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "-3.4 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "-13.6 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.85 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the $n=3$ state of a hydrogen atom is -1.51 eV.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 170,
+    "questionText": "According to Bohr's model, what is the relationship between the frequency of emitted radiation and the energy difference between orbits?",
+    "options": [
+      {
+        "text": "The frequency is directly proportional to the energy difference",
+        "isCorrect": true
+      },
+      {
+        "text": "The frequency is inversely proportional to the energy difference",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency is independent of the energy difference",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency is equal to the energy difference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bohr's model proposed that the frequency of emitted radiation is directly proportional to the energy difference between orbits.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 172,
+    "questionText": "According to Bohr's model, what determines the energy levels of the hydrogen atom?",
+    "options": [
+      {
+        "text": "The principal quantum number $n$",
+        "isCorrect": true
+      },
+      {
+        "text": "The atomic mass",
+        "isCorrect": false
+      },
+      {
+        "text": "The atomic number",
+        "isCorrect": false
+      },
+      {
+        "text": "The speed of the electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the energy levels of the hydrogen atom are determined by the principal quantum number $n$.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 173,
+    "questionText": "In Bohr's model, what happens when an electron transitions from a higher orbit to a lower orbit?",
+    "options": [
+      {
+        "text": "A photon is emitted",
+        "isCorrect": true
+      },
+      {
+        "text": "A photon is absorbed",
+        "isCorrect": false
+      },
+      {
+        "text": "The atom ionizes",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron gains energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, when an electron transitions from a higher orbit to a lower orbit, a photon is emitted.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 180,
+    "questionText": "According to Bohr's model, what happens to the electron's energy as it moves to orbits farther from the nucleus?",
+    "options": [
+      {
+        "text": "The electron's energy increases",
+        "isCorrect": true
+      },
+      {
+        "text": "The electron's energy decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron's energy remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron's energy becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, the electron's energy increases as it moves to orbits farther from the nucleus.",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 181,
+    "questionText": "What does the line spectrum of hydrogen indicate?",
+    "options": [
+      {
+        "text": "The quantized energy levels of electrons in the atom",
+        "isCorrect": true
+      },
+      {
+        "text": "The continuous energy distribution of electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of the electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "The size of the nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The line spectrum of hydrogen indicates the quantized energy levels of electrons in the atom.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 183,
+    "questionText": "What is the Balmer series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "The series of spectral lines that lie in the visible region",
+        "isCorrect": true
+      },
+      {
+        "text": "The series of spectral lines that lie in the ultraviolet region",
+        "isCorrect": false
+      },
+      {
+        "text": "The series of spectral lines that lie in the infrared region",
+        "isCorrect": false
+      },
+      {
+        "text": "The series of spectral lines that are absorbed by hydrogen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Balmer series in the hydrogen spectrum is the series of spectral lines that lie in the visible region.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 185,
+    "questionText": "Which series in the hydrogen spectrum lies in the infrared region?",
+    "options": [
+      {
+        "text": "Paschen series",
+        "isCorrect": true
+      },
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Paschen series in the hydrogen spectrum lies in the infrared region.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 186,
+    "questionText": "What does the Rydberg formula calculate?",
+    "options": [
+      {
+        "text": "The wavelengths of spectral lines of hydrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "The energy of the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of the electron",
+        "isCorrect": false
+      },
+      {
+        "text": "The speed of light",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Rydberg formula is used to calculate the wavelengths of spectral lines of hydrogen.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 190,
+    "questionText": "Which series in the hydrogen spectrum corresponds to transitions from higher energy levels to $n=2$?",
+    "options": [
+      {
+        "text": "Balmer series",
+        "isCorrect": true
+      },
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Balmer series corresponds to transitions from higher energy levels to $n=2$ in the hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 191,
+    "questionText": "Which series in the hydrogen spectrum corresponds to transitions from higher energy levels to $n=3$?",
+    "options": [
+      {
+        "text": "Paschen series",
+        "isCorrect": true
+      },
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Paschen series corresponds to transitions from higher energy levels to $n=3$ in the hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 196,
+    "questionText": "What is the wavelength of the first line of the Lyman series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "121.6 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "656.3 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "486.1 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "434.0 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of the first line of the Lyman series in the hydrogen spectrum is 121.6 nm.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 197,
+    "questionText": "What is the primary significance of the hydrogen atom's line spectrum?",
+    "options": [
+      {
+        "text": "It provides evidence for quantized energy levels",
+        "isCorrect": true
+      },
+      {
+        "text": "It shows the continuous nature of energy",
+        "isCorrect": false
+      },
+      {
+        "text": "It measures the size of the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "It indicates the mass of the electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary significance of the hydrogen atom's line spectrum is that it provides evidence for quantized energy levels.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 198,
+    "questionText": "According to Bohr's theory, what causes the spectral lines observed in the hydrogen atom?",
+    "options": [
+      {
+        "text": "Transitions of electrons between quantized energy levels",
+        "isCorrect": true
+      },
+      {
+        "text": "Movement of electrons in circular orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "The vibration of the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "Interaction between protons and neutrons",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's theory, the spectral lines observed in the hydrogen atom are caused by transitions of electrons between quantized energy levels.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 199,
+    "questionText": "What is the relationship between the frequency of emitted radiation and the energy difference between two levels in a hydrogen atom?",
+    "options": [
+      {
+        "text": "The frequency is directly proportional to the energy difference",
+        "isCorrect": true
+      },
+      {
+        "text": "The frequency is inversely proportional to the energy difference",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency is independent of the energy difference",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency is equal to the energy difference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The frequency of emitted radiation is directly proportional to the energy difference between two levels in a hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 201,
+    "questionText": "What is the wavelength of the first line of the Balmer series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "656.3 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "486.1 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "434.0 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "410.2 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of the first line of the Balmer series in the hydrogen spectrum is 656.3 nm.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 202,
+    "questionText": "What does the Rydberg constant represent?",
+    "options": [
+      {
+        "text": "It represents the limit of the highest wavenumber of any photon that can be emitted from the hydrogen atom.",
+        "isCorrect": true
+      },
+      {
+        "text": "It represents the mass of the hydrogen atom.",
+        "isCorrect": false
+      },
+      {
+        "text": "It represents the energy of the ground state.",
+        "isCorrect": false
+      },
+      {
+        "text": "It represents the radius of the hydrogen atom.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Rydberg constant represents the limit of the highest wavenumber of any photon that can be emitted from the hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 203,
+    "questionText": "What is the energy difference between the second excited state and the first excited state in the hydrogen atom?",
+    "options": [
+      {
+        "text": "1.89 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "10.2 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "12.09 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "3.4 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy difference between the second excited state and the first excited state in the hydrogen atom is 1.89 eV.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 204,
+    "questionText": "What is the wavelength of the first line of the Paschen series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "1875 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "1090 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1282 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1870 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of the first line of the Paschen series in the hydrogen spectrum is 1875 nm.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 205,
+    "questionText": "What is the significance of the hydrogen atom's line spectrum?",
+    "options": [
+      {
+        "text": "It provides evidence for quantized energy levels",
+        "isCorrect": true
+      },
+      {
+        "text": "It shows the continuous nature of energy",
+        "isCorrect": false
+      },
+      {
+        "text": "It measures the size of the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "It indicates the mass of the electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The significance of the hydrogen atom's line spectrum is that it provides evidence for quantized energy levels.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 207,
+    "questionText": "What does the term 'spectral line' refer to in the context of atomic spectra?",
+    "options": [
+      {
+        "text": "A discrete wavelength of light emitted or absorbed by an atom",
+        "isCorrect": true
+      },
+      {
+        "text": "A continuous band of wavelengths emitted by an atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The overall brightness of an atom",
+        "isCorrect": false
+      },
+      {
+        "text": "The shape of an electron orbit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the context of atomic spectra, a 'spectral line' refers to a discrete wavelength of light emitted or absorbed by an atom.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 208,
+    "questionText": "What is the wavelength of the second line of the Balmer series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "486.1 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "656.3 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "434.0 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "410.2 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of the second line of the Balmer series in the hydrogen spectrum is 486.1 nm.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 210,
+    "questionText": "What is the wavelength of the third line of the Lyman series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "97.3 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "121.6 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "102.6 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "109.0 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of the third line of the Lyman series in the hydrogen spectrum is 97.3 nm.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 211,
+    "questionText": "What is the primary use of the Rydberg formula?",
+    "options": [
+      {
+        "text": "Calculating the wavelengths of spectral lines of hydrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Determining the mass of the electron",
+        "isCorrect": false
+      },
+      {
+        "text": "Measuring the speed of light",
+        "isCorrect": false
+      },
+      {
+        "text": "Calculating the energy of the nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary use of the Rydberg formula is for calculating the wavelengths of spectral lines of hydrogen.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 214,
+    "questionText": "Which series of spectral lines in the hydrogen atom's emission spectrum lies in the infrared region?",
+    "options": [
+      {
+        "text": "Paschen, Brackett, and Pfund series",
+        "isCorrect": true
+      },
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Paschen, Brackett, and Pfund series in the hydrogen spectrum lie in the infrared region.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 215,
+    "questionText": "What is the energy difference between the second excited state and the ground state of a hydrogen atom?",
+    "options": [
+      {
+        "text": "12.09 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "10.2 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "13.6 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "1.89 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy difference between the second excited state and the ground state of a hydrogen atom is 12.09 eV.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 218,
+    "questionText": "What is the wavelength of the second line of the Paschen series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "1282 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "1090 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1875 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1870 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of the second line of the Paschen series in the hydrogen spectrum is 1282 nm.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 219,
+    "questionText": "Which series in the hydrogen spectrum corresponds to transitions from higher energy levels to $n=4$?",
+    "options": [
+      {
+        "text": "Brackett series",
+        "isCorrect": true
+      },
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Pfund series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Brackett series corresponds to transitions from higher energy levels to $n=4$ in the hydrogen atom.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 220,
+    "questionText": "What is the wavelength of the third line of the Balmer series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "434.0 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "486.1 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "656.3 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "410.2 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of the third line of the Balmer series in the hydrogen spectrum is 434.0 nm.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 221,
+    "questionText": "What is the energy difference between the third excited state and the second excited state of a hydrogen atom?",
+    "options": [
+      {
+        "text": "0.66 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "1.89 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "10.2 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "12.09 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy difference between the third excited state and the second excited state of a hydrogen atom is 0.66 eV.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 222,
+    "questionText": "Which series of spectral lines in the hydrogen atom's emission spectrum lies in the ultraviolet region?",
+    "options": [
+      {
+        "text": "Lyman series",
+        "isCorrect": true
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Lyman series of spectral lines in the hydrogen atom's emission spectrum lies in the ultraviolet region.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "qno": 223,
+    "questionText": "What is the wavelength of the first line of the Pfund series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "1870 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "1282 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1090 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1875 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of the first line of the Pfund series in the hydrogen spectrum is 1870 nm.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 226,
+    "questionText": "What is the wavelength of the fourth line of the Balmer series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "410.2 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "434.0 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "486.1 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "656.3 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of the fourth line of the Balmer series in the hydrogen spectrum is 410.2 nm.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 227,
+    "questionText": "What is the energy difference between the third excited state and the ground state of a hydrogen atom?",
+    "options": [
+      {
+        "text": "12.75 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "1.51 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "3.4 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "13.6 eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy difference between the third excited state and the ground state of a hydrogen atom is 12.75 eV.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 228,
+    "questionText": "What is the wavelength of the second line of the Brackett series in the hydrogen spectrum?",
+    "options": [
+      {
+        "text": "4051 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "1282 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1875 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1090 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of the second line of the Brackett series in the hydrogen spectrum is 4051 nm.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 229,
+    "questionText": "What is the primary use of the Rydberg constant?",
+    "options": [
+      {
+        "text": "Calculating the wavelengths of spectral lines of hydrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Determining the mass of the electron",
+        "isCorrect": false
+      },
+      {
+        "text": "Measuring the speed of light",
+        "isCorrect": false
+      },
+      {
+        "text": "Calculating the energy of the nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary use of the Rydberg constant is for calculating the wavelengths of spectral lines of hydrogen.",
+    "chapter": "Atoms",
+    "topic": "The Line Spectra of the Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "qno": 231,
+    "questionText": "What did de Broglie propose about the nature of electrons?",
+    "options": [
+      {
+        "text": "Electrons have both particle and wave properties",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons only exhibit particle properties",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons only exhibit wave properties",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are stationary around the nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie proposed that electrons have both particle and wave properties, which led to the concept of matter waves.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 232,
+    "questionText": "What is the de Broglie wavelength equation?",
+    "options": [
+      {
+        "text": "$\\lambda = \\frac{h}{mv}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\lambda = \\frac{mv}{h}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lambda = \\frac{h}{m}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lambda = \\frac{h}{v}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The de Broglie wavelength equation is $\\lambda = \\frac{h}{mv}$, where $\\lambda$ is the wavelength, $h$ is Planck's constant, $m$ is the mass, and $v$ is the velocity of the particle.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 233,
+    "questionText": "What did de Broglie suggest about the relationship between momentum and wavelength?",
+    "options": [
+      {
+        "text": "Wavelength is inversely proportional to momentum",
+        "isCorrect": true
+      },
+      {
+        "text": "Wavelength is directly proportional to momentum",
+        "isCorrect": false
+      },
+      {
+        "text": "Wavelength is independent of momentum",
+        "isCorrect": false
+      },
+      {
+        "text": "Wavelength is equal to momentum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie suggested that the wavelength of a particle is inversely proportional to its momentum, expressed as $\\lambda = \\frac{h}{p}$.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 234,
+    "questionText": "How did de Broglie’s hypothesis support Bohr’s model of the atom?",
+    "options": [
+      {
+        "text": "It explained the quantized nature of electron orbits",
+        "isCorrect": true
+      },
+      {
+        "text": "It contradicted the quantized nature of electron orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "It supported the continuous nature of electron energy levels",
+        "isCorrect": false
+      },
+      {
+        "text": "It had no impact on Bohr’s model",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie's hypothesis supported Bohr’s model by explaining the quantized nature of electron orbits through the concept of standing waves.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "EASY"
+  },
+  {
+    "qno": 235,
+    "questionText": "According to de Broglie, what must be true for an electron's orbit to be stable?",
+    "options": [
+      {
+        "text": "The electron's wavelength must fit an integer number of times around the orbit",
+        "isCorrect": true
+      },
+      {
+        "text": "The electron's wavelength must be zero",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron's velocity must be zero",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron must be stationary",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie stated that an electron's orbit is stable if the electron's wavelength fits an integer number of times around the orbit.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 236,
+    "questionText": "What is the significance of the de Broglie wavelength in the context of atomic structure?",
+    "options": [
+      {
+        "text": "It provides a wave-based explanation for the quantization of electron orbits",
+        "isCorrect": true
+      },
+      {
+        "text": "It explains the continuous spectrum of hydrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "It describes the energy of photons",
+        "isCorrect": false
+      },
+      {
+        "text": "It contradicts the idea of quantized energy levels",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The de Broglie wavelength provides a wave-based explanation for the quantization of electron orbits in an atom.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 237,
+    "questionText": "How does the de Broglie wavelength change as the velocity of an electron increases?",
+    "options": [
+      {
+        "text": "The de Broglie wavelength decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "The de Broglie wavelength increases",
+        "isCorrect": false
+      },
+      {
+        "text": "The de Broglie wavelength remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "The de Broglie wavelength becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As the velocity of an electron increases, its de Broglie wavelength decreases.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 238,
+    "questionText": "What physical concept did de Broglie's hypothesis introduce to explain the quantization of electron orbits?",
+    "options": [
+      {
+        "text": "Matter waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Photon energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Electron spin",
+        "isCorrect": false
+      },
+      {
+        "text": "Nuclear forces",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie's hypothesis introduced the concept of matter waves to explain the quantization of electron orbits.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 239,
+    "questionText": "How did de Broglie’s hypothesis lead to the development of quantum mechanics?",
+    "options": [
+      {
+        "text": "It introduced the idea that particles have wave properties",
+        "isCorrect": true
+      },
+      {
+        "text": "It explained the photoelectric effect",
+        "isCorrect": false
+      },
+      {
+        "text": "It described the nucleus of the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "It proved the existence of quarks",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie’s hypothesis led to the development of quantum mechanics by introducing the idea that particles, such as electrons, have wave properties.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "EASY"
+  },
+  {
+    "qno": 240,
+    "questionText": "What does the de Broglie wavelength equation imply about the nature of electrons?",
+    "options": [
+      {
+        "text": "Electrons exhibit both particle and wave-like behavior",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons are purely particles",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are purely waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons do not exhibit wave-like behavior",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The de Broglie wavelength equation implies that electrons exhibit both particle and wave-like behavior.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "EASY"
+  },
+  {
+    "qno": 241,
+    "questionText": "According to de Broglie, what must be true for an electron wave to form a stable orbit around the nucleus?",
+    "options": [
+      {
+        "text": "The electron wave must be a standing wave",
+        "isCorrect": true
+      },
+      {
+        "text": "The electron wave must be a traveling wave",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron must have zero velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron must have infinite energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie, for an electron wave to form a stable orbit around the nucleus, it must be a standing wave.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 242,
+    "questionText": "How did de Broglie's hypothesis explain the quantized angular momentum of electrons in Bohr's model?",
+    "options": [
+      {
+        "text": "By treating electron orbits as standing waves",
+        "isCorrect": true
+      },
+      {
+        "text": "By treating electrons as classical particles",
+        "isCorrect": false
+      },
+      {
+        "text": "By assuming electrons move in elliptical orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "By proposing electrons do not move",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie’s hypothesis explained the quantized angular momentum of electrons in Bohr's model by treating electron orbits as standing waves.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 243,
+    "questionText": "What was the major contribution of de Broglie's hypothesis to atomic theory?",
+    "options": [
+      {
+        "text": "Introducing the wave nature of particles",
+        "isCorrect": true
+      },
+      {
+        "text": "Determining the charge of the electron",
+        "isCorrect": false
+      },
+      {
+        "text": "Measuring the mass of the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "Explaining the periodic table",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major contribution of de Broglie's hypothesis to atomic theory was introducing the wave nature of particles.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 244,
+    "questionText": "What does the term 'matter waves' refer to in de Broglie's hypothesis?",
+    "options": [
+      {
+        "text": "The wave-like behavior of particles",
+        "isCorrect": true
+      },
+      {
+        "text": "The energy levels of electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of particles",
+        "isCorrect": false
+      },
+      {
+        "text": "The charge of electrons",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In de Broglie's hypothesis, 'matter waves' refer to the wave-like behavior of particles such as electrons.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "EASY"
+  },
+  {
+    "qno": 245,
+    "questionText": "What experimental evidence supported de Broglie's hypothesis of matter waves?",
+    "options": [
+      {
+        "text": "Electron diffraction",
+        "isCorrect": true
+      },
+      {
+        "text": "Photoelectric effect",
+        "isCorrect": false
+      },
+      {
+        "text": "Alpha particle scattering",
+        "isCorrect": false
+      },
+      {
+        "text": "Rutherford's gold foil experiment",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electron diffraction experiments provided evidence supporting de Broglie's hypothesis of matter waves.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 246,
+    "questionText": "What is the relationship between the de Broglie wavelength and the momentum of a particle?",
+    "options": [
+      {
+        "text": "The wavelength is inversely proportional to the momentum",
+        "isCorrect": true
+      },
+      {
+        "text": "The wavelength is directly proportional to the momentum",
+        "isCorrect": false
+      },
+      {
+        "text": "The wavelength is independent of the momentum",
+        "isCorrect": false
+      },
+      {
+        "text": "The wavelength is equal to the momentum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The de Broglie wavelength is inversely proportional to the momentum of a particle, given by the equation $\\lambda = \\frac{h}{p}$.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 247,
+    "questionText": "What must be true for an electron's wave to fit into a stable orbit around the nucleus according to de Broglie's hypothesis?",
+    "options": [
+      {
+        "text": "The circumference of the orbit must be an integer multiple of the electron's wavelength",
+        "isCorrect": true
+      },
+      {
+        "text": "The circumference of the orbit must be half the electron's wavelength",
+        "isCorrect": false
+      },
+      {
+        "text": "The circumference of the orbit must be equal to the electron's wavelength",
+        "isCorrect": false
+      },
+      {
+        "text": "The circumference of the orbit must be zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie's hypothesis, for an electron's wave to fit into a stable orbit around the nucleus, the circumference of the orbit must be an integer multiple of the electron's wavelength.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 248,
+    "questionText": "How did de Broglie’s hypothesis help to bridge the gap between classical and quantum mechanics?",
+    "options": [
+      {
+        "text": "By introducing wave-particle duality",
+        "isCorrect": true
+      },
+      {
+        "text": "By explaining the photoelectric effect",
+        "isCorrect": false
+      },
+      {
+        "text": "By describing the nucleus of the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "By proving the existence of quarks",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie’s hypothesis helped to bridge the gap between classical and quantum mechanics by introducing the concept of wave-particle duality.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 249,
+    "questionText": "According to de Broglie's hypothesis, what is the nature of particles like electrons?",
+    "options": [
+      {
+        "text": "They exhibit both particle and wave properties",
+        "isCorrect": true
+      },
+      {
+        "text": "They only exhibit particle properties",
+        "isCorrect": false
+      },
+      {
+        "text": "They only exhibit wave properties",
+        "isCorrect": false
+      },
+      {
+        "text": "They do not exhibit wave-like behavior",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie's hypothesis, particles like electrons exhibit both particle and wave properties.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "EASY"
+  },
+  {
+    "qno": 250,
+    "questionText": "What phenomenon provided direct experimental evidence for the wave nature of electrons?",
+    "options": [
+      {
+        "text": "Electron diffraction",
+        "isCorrect": true
+      },
+      {
+        "text": "Photoelectric effect",
+        "isCorrect": false
+      },
+      {
+        "text": "Alpha particle scattering",
+        "isCorrect": false
+      },
+      {
+        "text": "Compton effect",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The phenomenon of electron diffraction provided direct experimental evidence for the wave nature of electrons.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 251,
+    "questionText": "How did de Broglie's hypothesis support the quantization of angular momentum in Bohr's model?",
+    "options": [
+      {
+        "text": "By treating electron orbits as standing waves",
+        "isCorrect": true
+      },
+      {
+        "text": "By treating electrons as classical particles",
+        "isCorrect": false
+      },
+      {
+        "text": "By assuming electrons move in elliptical orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "By proposing electrons do not move",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie’s hypothesis supported the quantization of angular momentum in Bohr's model by treating electron orbits as standing waves.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 252,
+    "questionText": "What is the de Broglie wavelength of an electron moving with a momentum of $1.5 \\times 10^{-24}$ kg·m/s?",
+    "options": [
+      {
+        "text": "4.42 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "2.21 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "6.63 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1.11 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The de Broglie wavelength $\\lambda$ is given by $\\lambda = \\frac{h}{p}$, where $h$ is Planck's constant ($6.63 \\times 10^{-34}$ Js) and $p$ is the momentum.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 253,
+    "questionText": "What is the concept of wave-particle duality introduced by de Broglie?",
+    "options": [
+      {
+        "text": "Particles exhibit both wave and particle properties",
+        "isCorrect": true
+      },
+      {
+        "text": "Particles exhibit only wave properties",
+        "isCorrect": false
+      },
+      {
+        "text": "Particles exhibit only particle properties",
+        "isCorrect": false
+      },
+      {
+        "text": "Particles do not exhibit wave-like behavior",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The concept of wave-particle duality introduced by de Broglie states that particles exhibit both wave and particle properties.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "EASY"
+  },
+  {
+    "qno": 254,
+    "questionText": "What experimental evidence confirmed de Broglie's hypothesis of matter waves?",
+    "options": [
+      {
+        "text": "Electron diffraction experiments",
+        "isCorrect": true
+      },
+      {
+        "text": "Photoelectric effect experiments",
+        "isCorrect": false
+      },
+      {
+        "text": "Alpha particle scattering experiments",
+        "isCorrect": false
+      },
+      {
+        "text": "Compton effect experiments",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electron diffraction experiments confirmed de Broglie's hypothesis of matter waves by showing wave-like behavior of electrons.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 255,
+    "questionText": "How did de Broglie’s hypothesis impact the development of quantum mechanics?",
+    "options": [
+      {
+        "text": "It introduced the concept of wave-particle duality",
+        "isCorrect": true
+      },
+      {
+        "text": "It explained the photoelectric effect",
+        "isCorrect": false
+      },
+      {
+        "text": "It described the nucleus of the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "It led to the discovery of quarks",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie’s hypothesis introduced the concept of wave-particle duality, which was crucial in the development of quantum mechanics.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "EASY"
+  },
+  {
+    "qno": 256,
+    "questionText": "According to de Broglie, what is the relationship between the de Broglie wavelength and the momentum of a particle?",
+    "options": [
+      {
+        "text": "The wavelength is inversely proportional to the momentum",
+        "isCorrect": true
+      },
+      {
+        "text": "The wavelength is directly proportional to the momentum",
+        "isCorrect": false
+      },
+      {
+        "text": "The wavelength is independent of the momentum",
+        "isCorrect": false
+      },
+      {
+        "text": "The wavelength is equal to the momentum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The de Broglie wavelength is inversely proportional to the momentum of a particle, given by the equation $\\lambda = \\frac{h}{p}$.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 257,
+    "questionText": "What must be true for an electron's wave to form a stable orbit around the nucleus according to de Broglie's hypothesis?",
+    "options": [
+      {
+        "text": "The circumference of the orbit must be an integer multiple of the electron's wavelength",
+        "isCorrect": true
+      },
+      {
+        "text": "The circumference of the orbit must be half the electron's wavelength",
+        "isCorrect": false
+      },
+      {
+        "text": "The circumference of the orbit must be equal to the electron's wavelength",
+        "isCorrect": false
+      },
+      {
+        "text": "The circumference of the orbit must be zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie's hypothesis, for an electron's wave to form a stable orbit around the nucleus, the circumference of the orbit must be an integer multiple of the electron's wavelength.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 281,
+    "questionText": "What did de Broglie propose about the behavior of particles at the atomic level?",
+    "options": [
+      {
+        "text": "Particles exhibit both wave and particle properties",
+        "isCorrect": true
+      },
+      {
+        "text": "Particles exhibit only wave properties",
+        "isCorrect": false
+      },
+      {
+        "text": "Particles exhibit only particle properties",
+        "isCorrect": false
+      },
+      {
+        "text": "Particles do not exhibit wave-like behavior",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie proposed that particles at the atomic level exhibit both wave and particle properties.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "EASY"
+  },
+  {
+    "qno": 282,
+    "questionText": "How is the wavelength of a particle related to its mass and velocity according to de Broglie?",
+    "options": [
+      {
+        "text": "The wavelength is inversely proportional to the mass and velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "The wavelength is directly proportional to the mass and velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The wavelength is independent of the mass and velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The wavelength is equal to the mass and velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie, the wavelength of a particle is inversely proportional to its mass and velocity, given by $\\lambda = \\frac{h}{mv}$.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 283,
+    "questionText": "What role did de Broglie's hypothesis play in the development of quantum mechanics?",
+    "options": [
+      {
+        "text": "It introduced the concept of wave-particle duality",
+        "isCorrect": true
+      },
+      {
+        "text": "It explained the photoelectric effect",
+        "isCorrect": false
+      },
+      {
+        "text": "It described the nucleus of the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "It led to the discovery of quarks",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie's hypothesis played a crucial role in the development of quantum mechanics by introducing the concept of wave-particle duality.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "EASY"
+  },
+  {
+    "qno": 284,
+    "questionText": "According to de Broglie, what must be true for an electron's wave to form a stable orbit around the nucleus?",
+    "options": [
+      {
+        "text": "The circumference of the orbit must be an integer multiple of the electron's wavelength",
+        "isCorrect": true
+      },
+      {
+        "text": "The circumference of the orbit must be half the electron's wavelength",
+        "isCorrect": false
+      },
+      {
+        "text": "The circumference of the orbit must be equal to the electron's wavelength",
+        "isCorrect": false
+      },
+      {
+        "text": "The circumference of the orbit must be zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie, for an electron's wave to form a stable orbit around the nucleus, the circumference of the orbit must be an integer multiple of the electron's wavelength.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 285,
+    "questionText": "What is the de Broglie wavelength of a particle with mass $m$ and velocity $v$?",
+    "options": [
+      {
+        "text": "$\\lambda = \\frac{h}{mv}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\lambda = \\frac{mv}{h}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lambda = \\frac{h}{m}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lambda = \\frac{h}{v}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The de Broglie wavelength $\\lambda$ is given by $\\lambda = \\frac{h}{mv}$, where $h$ is Planck's constant, $m$ is the mass, and $v$ is the velocity of the particle.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 286,
+    "questionText": "How did de Broglie's hypothesis provide a wave-based explanation for the quantization of electron orbits?",
+    "options": [
+      {
+        "text": "By treating electron orbits as standing waves",
+        "isCorrect": true
+      },
+      {
+        "text": "By treating electrons as classical particles",
+        "isCorrect": false
+      },
+      {
+        "text": "By assuming electrons move in elliptical orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "By proposing electrons do not move",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie's hypothesis provided a wave-based explanation for the quantization of electron orbits by treating them as standing waves.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 287,
+    "questionText": "What is the significance of the de Broglie wavelength in atomic physics?",
+    "options": [
+      {
+        "text": "It explains the wave nature of particles such as electrons",
+        "isCorrect": true
+      },
+      {
+        "text": "It describes the energy levels of photons",
+        "isCorrect": false
+      },
+      {
+        "text": "It measures the size of the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the speed of light",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The de Broglie wavelength is significant in atomic physics because it explains the wave nature of particles such as electrons.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "EASY"
+  },
+  {
+    "qno": 290,
+    "questionText": "How did de Broglie's hypothesis support Bohr’s model of the atom?",
+    "options": [
+      {
+        "text": "It explained the quantized nature of electron orbits",
+        "isCorrect": true
+      },
+      {
+        "text": "It contradicted the quantized nature of electron orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "It supported the continuous nature of electron energy levels",
+        "isCorrect": false
+      },
+      {
+        "text": "It had no impact on Bohr’s model",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie's hypothesis supported Bohr’s model by explaining the quantized nature of electron orbits through the concept of standing waves.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "EASY"
+  },
+  {
+    "qno": 291,
+    "questionText": "What is the de Broglie wavelength of an electron moving at a velocity of $2.5 \\times 10^6$ m/s? (Electron mass = $9.11 \\times 10^{-31}$ kg, Planck's constant = $6.63 \\times 10^{-34}$ Js)",
+    "options": [
+      {
+        "text": "2.91 Å",
+        "isCorrect": true
+      },
+      {
+        "text": "1.45 Å",
+        "isCorrect": false
+      },
+      {
+        "text": "0.73 Å",
+        "isCorrect": false
+      },
+      {
+        "text": "5.82 Å",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the de Broglie wavelength formula $\\lambda = \\frac{h}{mv}$, the wavelength is $\\lambda = \\frac{6.63 \\times 10^{-34}}{9.11 \\times 10^{-31} \\times 2.5 \\times 10^6}$ m = 2.91 Å.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 292,
+    "questionText": "What does the term 'wave-particle duality' mean in the context of de Broglie's hypothesis?",
+    "options": [
+      {
+        "text": "Particles exhibit both wave and particle properties",
+        "isCorrect": true
+      },
+      {
+        "text": "Particles exhibit only wave properties",
+        "isCorrect": false
+      },
+      {
+        "text": "Particles exhibit only particle properties",
+        "isCorrect": false
+      },
+      {
+        "text": "Particles do not exhibit wave-like behavior",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The term 'wave-particle duality' means that particles exhibit both wave and particle properties, as proposed by de Broglie.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "EASY"
+  },
+  {
+    "qno": 294,
+    "questionText": "According to de Broglie, how is the wavelength of a particle related to its momentum?",
+    "options": [
+      {
+        "text": "The wavelength is inversely proportional to the momentum",
+        "isCorrect": true
+      },
+      {
+        "text": "The wavelength is directly proportional to the momentum",
+        "isCorrect": false
+      },
+      {
+        "text": "The wavelength is independent of the momentum",
+        "isCorrect": false
+      },
+      {
+        "text": "The wavelength is equal to the momentum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie, the wavelength of a particle is inversely proportional to its momentum, given by $\\lambda = \\frac{h}{p}$.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 295,
+    "questionText": "What is the wavelength of an electron moving with a momentum of $3.0 \\times 10^{-24}$ kg·m/s?",
+    "options": [
+      {
+        "text": "2.21 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "4.42 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "6.63 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1.11 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the de Broglie wavelength formula $\\lambda = \\frac{h}{p}$, the wavelength is $\\lambda = \\frac{6.63 \\times 10^{-34}}{3.0 \\times 10^{-24}}$ m = 2.21 nm.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 296,
+    "questionText": "What is the de Broglie wavelength of an alpha particle (mass = $6.64 \\times 10^{-27}$ kg) moving with a velocity of $2.0 \\times 10^7$ m/s?",
+    "options": [
+      {
+        "text": "0.05 Å",
+        "isCorrect": true
+      },
+      {
+        "text": "0.10 Å",
+        "isCorrect": false
+      },
+      {
+        "text": "0.20 Å",
+        "isCorrect": false
+      },
+      {
+        "text": "0.01 Å",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the de Broglie wavelength formula $\\lambda = \\frac{h}{mv}$, the wavelength is $\\lambda = \\frac{6.63 \\times 10^{-34}}{6.64 \\times 10^{-27} \\times 2.0 \\times 10^7}$ m = 0.05 Å.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 297,
+    "questionText": "According to de Broglie's hypothesis, what must be true for an electron's orbit to be stable?",
+    "options": [
+      {
+        "text": "The electron's wavelength must fit an integer number of times around the orbit",
+        "isCorrect": true
+      },
+      {
+        "text": "The electron's wavelength must be zero",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron's velocity must be zero",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron must be stationary",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie stated that an electron's orbit is stable if the electron's wavelength fits an integer number of times around the orbit.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 300,
+    "questionText": "What experimental evidence provided support for de Broglie's hypothesis of matter waves?",
+    "options": [
+      {
+        "text": "Electron diffraction",
+        "isCorrect": true
+      },
+      {
+        "text": "Photoelectric effect",
+        "isCorrect": false
+      },
+      {
+        "text": "Alpha particle scattering",
+        "isCorrect": false
+      },
+      {
+        "text": "Rutherford's gold foil experiment",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electron diffraction experiments provided support for de Broglie's hypothesis of matter waves by demonstrating the wave-like behavior of electrons.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 301,
+    "questionText": "According to de Broglie’s hypothesis, what must be true for an electron wave to form a stable orbit around the nucleus?",
+    "options": [
+      {
+        "text": "The electron wave must be a standing wave",
+        "isCorrect": true
+      },
+      {
+        "text": "The electron wave must be a traveling wave",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron must have zero velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The electron must have infinite energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie, for an electron wave to form a stable orbit around the nucleus, it must be a standing wave.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 302,
+    "questionText": "How did de Broglie’s hypothesis provide a wave-based explanation for the quantization of electron orbits?",
+    "options": [
+      {
+        "text": "By treating electron orbits as standing waves",
+        "isCorrect": true
+      },
+      {
+        "text": "By treating electrons as classical particles",
+        "isCorrect": false
+      },
+      {
+        "text": "By assuming electrons move in elliptical orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "By proposing electrons do not move",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "De Broglie's hypothesis provided a wave-based explanation for the quantization of electron orbits by treating them as standing waves.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 303,
+    "questionText": "What is the wavelength of an electron moving with a momentum of $2.0 \\times 10^{-24}$ kg·m/s?",
+    "options": [
+      {
+        "text": "3.32 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "6.64 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1.66 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "0.83 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the de Broglie wavelength formula $\\lambda = \\frac{h}{p}$, the wavelength is $\\lambda = \\frac{6.63 \\times 10^{-34}}{2.0 \\times 10^{-24}}$ m = 3.32 nm.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 312,
+    "questionText": "What is the wavelength of an electron moving with a momentum of $4.0 \\times 10^{-24}$ kg·m/s?",
+    "options": [
+      {
+        "text": "1.66 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "3.32 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "6.64 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "0.83 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the de Broglie wavelength formula $\\lambda = \\frac{h}{p}$, the wavelength is $\\lambda = \\frac{6.63 \\times 10^{-34}}{4.0 \\times 10^{-24}}$ m = 1.66 nm.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 316,
+    "questionText": "What is the wavelength of an electron moving with a momentum of $5.0 \\times 10^{-24}$ kg·m/s?",
+    "options": [
+      {
+        "text": "1.33 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "2.66 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "3.99 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "0.67 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the de Broglie wavelength formula $\\lambda = \\frac{h}{p}$, the wavelength is $\\lambda = \\frac{6.63 \\times 10^{-34}}{5.0 \\times 10^{-24}}$ m = 1.33 nm.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 331,
+    "questionText": "What is the de Broglie wavelength of an electron moving with a momentum of $3.0 \\times 10^{-24}$ kg·m/s?",
+    "options": [
+      {
+        "text": "2.21 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "4.42 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1.11 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "0.55 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the de Broglie wavelength formula $\\lambda = \\frac{h}{p}$, the wavelength is $\\lambda = \\frac{6.63 \\times 10^{-34}}{3.0 \\times 10^{-24}}$ m = 2.21 nm.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 341,
+    "questionText": "What is the de Broglie wavelength of an electron moving with a momentum of $4.0 \\times 10^{-24}$ kg·m/s?",
+    "options": [
+      {
+        "text": "1.66 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "3.32 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "0.83 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "6.64 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the de Broglie wavelength formula $\\lambda = \\frac{h}{p}$, the wavelength is $\\lambda = \\frac{6.63 \\times 10^{-34}}{4.0 \\times 10^{-24}}$ m = 1.66 nm.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 344,
+    "questionText": "What experimental evidence supported de Broglie's hypothesis of matter waves?",
+    "options": [
+      {
+        "text": "Electron diffraction experiments",
+        "isCorrect": true
+      },
+      {
+        "text": "Photoelectric effect experiments",
+        "isCorrect": false
+      },
+      {
+        "text": "Alpha particle scattering experiments",
+        "isCorrect": false
+      },
+      {
+        "text": "Compton effect experiments",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electron diffraction experiments provided evidence supporting de Broglie's hypothesis of matter waves.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 345,
+    "questionText": "According to de Broglie, what must be true for an electron's wave to fit into a stable orbit around the nucleus?",
+    "options": [
+      {
+        "text": "The circumference of the orbit must be an integer multiple of the electron's wavelength",
+        "isCorrect": true
+      },
+      {
+        "text": "The circumference of the orbit must be half the electron's wavelength",
+        "isCorrect": false
+      },
+      {
+        "text": "The circumference of the orbit must be equal to the electron's wavelength",
+        "isCorrect": false
+      },
+      {
+        "text": "The circumference of the orbit must be zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie's hypothesis, for an electron's wave to fit into a stable orbit around the nucleus, the circumference of the orbit must be an integer multiple of the electron's wavelength.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 353,
+    "questionText": "What is the wavelength of an electron moving with a momentum of $5.0 \\times 10^{-24}$ kg·m/s?",
+    "options": [
+      {
+        "text": "1.33 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "2.66 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "0.67 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "3.99 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the de Broglie wavelength formula $\\lambda = \\frac{h}{p}$, the wavelength is $\\lambda = \\frac{6.63 \\times 10^{-34}}{5.0 \\times 10^{-24}}$ m = 1.33 nm.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  },
+  {
+    "qno": 356,
+    "questionText": "What is the relationship between the de Broglie wavelength and the velocity of a particle?",
+    "options": [
+      {
+        "text": "The wavelength is inversely proportional to the velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "The wavelength is directly proportional to the velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The wavelength is independent of the velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The wavelength is equal to the velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the de Broglie hypothesis, the wavelength is inversely proportional to the velocity of a particle.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 357,
+    "questionText": "What does the de Broglie hypothesis suggest about the nature of particles such as electrons?",
+    "options": [
+      {
+        "text": "They exhibit both wave and particle properties",
+        "isCorrect": true
+      },
+      {
+        "text": "They only exhibit wave properties",
+        "isCorrect": false
+      },
+      {
+        "text": "They only exhibit particle properties",
+        "isCorrect": false
+      },
+      {
+        "text": "They do not exhibit wave-like behavior",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The de Broglie hypothesis suggests that particles such as electrons exhibit both wave and particle properties.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "EASY"
+  },
+  {
+    "qno": 359,
+    "questionText": "What is the de Broglie wavelength of an electron moving with a momentum of $6.0 \\times 10^{-24}$ kg·m/s?",
+    "options": [
+      {
+        "text": "1.11 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "2.21 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "0.55 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "3.32 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the de Broglie wavelength formula $\\lambda = \\frac{h}{p}$, the wavelength is $\\lambda = \\frac{6.63 \\times 10^{-34}}{6.0 \\times 10^{-24}}$ m = 1.11 nm.",
+    "chapter": "Atoms",
+    "topic": "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation",
+    "level": "HARD"
+  }
+]

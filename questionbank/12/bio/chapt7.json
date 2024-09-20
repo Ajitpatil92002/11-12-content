@@ -1,0 +1,6840 @@
+[
+  {
+    "qno": 1,
+    "questionText": "Which pathogen causes typhoid fever in humans?",
+    "options": [
+      {
+        "text": "Salmonella typhi",
+        "isCorrect": true
+      },
+      {
+        "text": "Streptococcus pneumoniae",
+        "isCorrect": false
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "isCorrect": false
+      },
+      {
+        "text": "Haemophilus influenzae",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Typhoid fever is caused by the bacterium Salmonella typhi, which generally enters the small intestine through contaminated food and water.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "How is pneumonia spread among humans?",
+    "options": [
+      {
+        "text": "Through contaminated food",
+        "isCorrect": false
+      },
+      {
+        "text": "Through inhaling droplets/aerosols from an infected person",
+        "isCorrect": true
+      },
+      {
+        "text": "Through a mosquito bite",
+        "isCorrect": false
+      },
+      {
+        "text": "Through contaminated water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pneumonia is spread by inhaling droplets or aerosols released by an infected person or by sharing glasses and utensils with them.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "What is the characteristic symptom of malaria caused by Plasmodium falciparum?",
+    "options": [
+      {
+        "text": "Sustained high fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Recurring chills and high fever every three to four days",
+        "isCorrect": true
+      },
+      {
+        "text": "Severe respiratory problems",
+        "isCorrect": false
+      },
+      {
+        "text": "Grey to bluish lips and nails",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Malaria caused by Plasmodium falciparum is characterized by recurring chills and high fever every three to four days due to the release of haemozoin from ruptured RBCs.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which protozoan parasite causes amoebiasis?",
+    "options": [
+      {
+        "text": "Plasmodium falciparum",
+        "isCorrect": false
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "isCorrect": true
+      },
+      {
+        "text": "Giardia lamblia",
+        "isCorrect": false
+      },
+      {
+        "text": "Trypanosoma cruzi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Amoebiasis, also known as amoebic dysentery, is caused by the protozoan parasite Entamoeba histolytica, which resides in the large intestine of humans.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "What is the main mode of transmission for Ascaris lumbricoides?",
+    "options": [
+      {
+        "text": "Inhalation of droplets from an infected person",
+        "isCorrect": false
+      },
+      {
+        "text": "Through the bite of an infected mosquito",
+        "isCorrect": false
+      },
+      {
+        "text": "Consumption of contaminated water and vegetables",
+        "isCorrect": true
+      },
+      {
+        "text": "Direct contact with an infected person's skin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ascaris lumbricoides, the common roundworm, is transmitted mainly through the consumption of contaminated water and vegetables containing the eggs of the parasite.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which of the following diseases is caused by a virus?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Common cold",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The common cold is caused by Rhino viruses, which infect the nose and respiratory passage but not the lungs.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "What is the causative agent of ringworms in humans?",
+    "options": [
+      {
+        "text": "Bacteria",
+        "isCorrect": false
+      },
+      {
+        "text": "Virus",
+        "isCorrect": false
+      },
+      {
+        "text": "Fungi",
+        "isCorrect": true
+      },
+      {
+        "text": "Protozoan",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ringworms are caused by fungi belonging to the genera Microsporum, Trichophyton, and Epidermophyton.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which test is used to confirm typhoid fever?",
+    "options": [
+      {
+        "text": "ELISA test",
+        "isCorrect": false
+      },
+      {
+        "text": "Widal test",
+        "isCorrect": true
+      },
+      {
+        "text": "Western blot test",
+        "isCorrect": false
+      },
+      {
+        "text": "PCR test",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Typhoid fever can be confirmed by the Widal test, which detects the presence of antibodies against Salmonella typhi.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which organism causes elephantiasis?",
+    "options": [
+      {
+        "text": "Ascaris lumbricoides",
+        "isCorrect": false
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "isCorrect": false
+      },
+      {
+        "text": "Wuchereria bancrofti",
+        "isCorrect": true
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elephantiasis is caused by the filarial worms Wuchereria bancrofti and Wuchereria malayi, which live in the lymphatic vessels of the lower limbs.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 10,
+    "questionText": "What are the main symptoms of amoebiasis?",
+    "options": [
+      {
+        "text": "Fever, chills, cough",
+        "isCorrect": false
+      },
+      {
+        "text": "Constipation, abdominal pain, stools with mucous and blood clots",
+        "isCorrect": true
+      },
+      {
+        "text": "Recurring chills and high fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Grey to bluish lips and nails",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Amoebiasis is characterized by symptoms such as constipation, abdominal pain and cramps, and stools with excess mucous and blood clots.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "What is the primary method of preventing malaria?",
+    "options": [
+      {
+        "text": "Vaccination",
+        "isCorrect": false
+      },
+      {
+        "text": "Using mosquito nets and controlling mosquito breeding",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoiding contaminated food and water",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintaining personal hygiene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary method of preventing malaria involves using mosquito nets and controlling mosquito breeding to avoid bites from infected female Anopheles mosquitoes.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "Which disease is characterized by the appearance of dry, scaly lesions on the skin?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Ringworm",
+        "isCorrect": true
+      },
+      {
+        "text": "Common cold",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ringworm is characterized by the appearance of dry, scaly lesions on various parts of the body such as skin, nails, and scalp.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which pathogen causes pneumonia in humans?",
+    "options": [
+      {
+        "text": "Salmonella typhi",
+        "isCorrect": false
+      },
+      {
+        "text": "Streptococcus pneumoniae",
+        "isCorrect": true
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "isCorrect": false
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pneumonia in humans is caused by bacteria such as Streptococcus pneumoniae and Haemophilus influenzae, which infect the alveoli of the lungs.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which of the following is a preventive measure for ascariasis?",
+    "options": [
+      {
+        "text": "Vaccination",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoiding contaminated water and vegetables",
+        "isCorrect": true
+      },
+      {
+        "text": "Using mosquito nets",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintaining personal hygiene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ascariasis can be prevented by avoiding contaminated water and vegetables, as the eggs of Ascaris lumbricoides are transmitted through these sources.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the vector for the transmission of malaria?",
+    "options": [
+      {
+        "text": "Housefly",
+        "isCorrect": false
+      },
+      {
+        "text": "Female Anopheles mosquito",
+        "isCorrect": true
+      },
+      {
+        "text": "Male Anopheles mosquito",
+        "isCorrect": false
+      },
+      {
+        "text": "Culex mosquito",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Malaria is transmitted by the bite of an infected female Anopheles mosquito, which introduces Plasmodium sporozoites into the human body.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which disease is known for its characteristic gray to bluish discoloration of the lips and nails?",
+    "options": [
+      {
+        "text": "Pneumonia",
+        "isCorrect": true
+      },
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In severe cases of pneumonia, the lips and fingernails may turn gray to bluish in color due to inadequate oxygenation.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "What is the primary symptom of typhoid fever?",
+    "options": [
+      {
+        "text": "Sustained high fever",
+        "isCorrect": true
+      },
+      {
+        "text": "Recurring chills and high fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Gray to bluish lips and nails",
+        "isCorrect": false
+      },
+      {
+        "text": "Constipation and abdominal pain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Typhoid fever is primarily characterized by a sustained high fever, along with other symptoms such as weakness, stomach pain, constipation, and headache.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "What is the toxic substance released during the rupture of RBCs in malaria?",
+    "options": [
+      {
+        "text": "Haemozoin",
+        "isCorrect": true
+      },
+      {
+        "text": "Toxin",
+        "isCorrect": false
+      },
+      {
+        "text": "Endotoxin",
+        "isCorrect": false
+      },
+      {
+        "text": "Exotoxin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Haemozoin is the toxic substance released during the rupture of RBCs in malaria, which is responsible for the recurring chills and high fever.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "What causes amoebiasis?",
+    "options": [
+      {
+        "text": "Bacteria",
+        "isCorrect": false
+      },
+      {
+        "text": "Virus",
+        "isCorrect": false
+      },
+      {
+        "text": "Protozoan",
+        "isCorrect": true
+      },
+      {
+        "text": "Helminth",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Amoebiasis, also known as amoebic dysentery, is caused by the protozoan Entamoeba histolytica.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which of the following is a symptom of filariasis?",
+    "options": [
+      {
+        "text": "Constipation",
+        "isCorrect": false
+      },
+      {
+        "text": "Gray to bluish lips and nails",
+        "isCorrect": false
+      },
+      {
+        "text": "Chronic inflammation of the lymphatic vessels",
+        "isCorrect": true
+      },
+      {
+        "text": "Recurring chills and high fever",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Filariasis, also known as elephantiasis, is characterized by chronic inflammation of the lymphatic vessels of the lower limbs, resulting in gross deformities.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which disease is confirmed by the Widal test?",
+    "options": [
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      },
+      {
+        "text": "Typhoid fever",
+        "isCorrect": true
+      },
+      {
+        "text": "Filariasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Widal test is used to confirm typhoid fever by detecting antibodies against Salmonella typhi in the patient's blood.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which of the following diseases is caused by a protozoan parasite?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": true
+      },
+      {
+        "text": "Common cold",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Malaria is caused by protozoan parasites of the genus Plasmodium.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which bacterium is responsible for causing diphtheria?",
+    "options": [
+      {
+        "text": "Streptococcus pneumoniae",
+        "isCorrect": false
+      },
+      {
+        "text": "Corynebacterium diphtheriae",
+        "isCorrect": true
+      },
+      {
+        "text": "Haemophilus influenzae",
+        "isCorrect": false
+      },
+      {
+        "text": "Salmonella typhi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diphtheria is caused by the bacterium Corynebacterium diphtheriae.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which organism causes filariasis?",
+    "options": [
+      {
+        "text": "Plasmodium falciparum",
+        "isCorrect": false
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "isCorrect": false
+      },
+      {
+        "text": "Wuchereria bancrofti",
+        "isCorrect": true
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Filariasis is caused by the filarial worms Wuchereria bancrofti and Wuchereria malayi.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which disease is characterized by severe problems in respiration due to infection of alveoli?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": true
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pneumonia infects the alveoli of the lungs, leading to severe problems in respiration and other symptoms such as fever, chills, cough, and headache.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 26,
+    "questionText": "What is the main symptom of common cold caused by Rhino viruses?",
+    "options": [
+      {
+        "text": "Sustained high fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Recurring chills and high fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Nasal congestion and discharge",
+        "isCorrect": true
+      },
+      {
+        "text": "Constipation and abdominal pain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Common cold caused by Rhino viruses is characterized by nasal congestion and discharge, along with sore throat, cough, and headache.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 27,
+    "questionText": "Which protozoan parasite is responsible for amoebiasis?",
+    "options": [
+      {
+        "text": "Plasmodium falciparum",
+        "isCorrect": false
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "isCorrect": true
+      },
+      {
+        "text": "Giardia lamblia",
+        "isCorrect": false
+      },
+      {
+        "text": "Trypanosoma cruzi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Amoebiasis, also known as amoebic dysentery, is caused by the protozoan parasite Entamoeba histolytica.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 29,
+    "questionText": "Which disease is characterized by severe itching and dry, scaly lesions on the skin?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Ringworm",
+        "isCorrect": true
+      },
+      {
+        "text": "Common cold",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ringworm is characterized by severe itching and dry, scaly lesions on various parts of the body such as skin, nails, and scalp.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 31,
+    "questionText": "What is the causative agent of tuberculosis in humans?",
+    "options": [
+      {
+        "text": "Streptococcus pneumoniae",
+        "isCorrect": false
+      },
+      {
+        "text": "Mycobacterium tuberculosis",
+        "isCorrect": true
+      },
+      {
+        "text": "Haemophilus influenzae",
+        "isCorrect": false
+      },
+      {
+        "text": "Salmonella typhi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tuberculosis in humans is caused by the bacterium Mycobacterium tuberculosis.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 32,
+    "questionText": "Which disease is known for its chronic inflammation of the lymphatic vessels?",
+    "options": [
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Filariasis",
+        "isCorrect": true
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Filariasis, also known as elephantiasis, is characterized by chronic inflammation of the lymphatic vessels, causing swelling and deformity.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 33,
+    "questionText": "Which disease is caused by the bacterium Salmonella typhi?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": true
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Typhoid fever is caused by the bacterium Salmonella typhi, which infects the intestines and other organs.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 34,
+    "questionText": "What is the vector for the transmission of dengue fever?",
+    "options": [
+      {
+        "text": "Female Anopheles mosquito",
+        "isCorrect": false
+      },
+      {
+        "text": "Aedes mosquito",
+        "isCorrect": true
+      },
+      {
+        "text": "Culex mosquito",
+        "isCorrect": false
+      },
+      {
+        "text": "Housefly",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dengue fever is transmitted by the bite of an infected Aedes mosquito.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "Which disease is confirmed by the Mantoux test?",
+    "options": [
+      {
+        "text": "Tuberculosis",
+        "isCorrect": true
+      },
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Mantoux test is used to confirm tuberculosis by injecting a small amount of tuberculin into the skin and checking for a reaction.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 36,
+    "questionText": "Which pathogen causes leprosy in humans?",
+    "options": [
+      {
+        "text": "Mycobacterium tuberculosis",
+        "isCorrect": false
+      },
+      {
+        "text": "Mycobacterium leprae",
+        "isCorrect": true
+      },
+      {
+        "text": "Streptococcus pneumoniae",
+        "isCorrect": false
+      },
+      {
+        "text": "Haemophilus influenzae",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Leprosy in humans is caused by the bacterium Mycobacterium leprae.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 37,
+    "questionText": "What is the main mode of transmission for hepatitis B?",
+    "options": [
+      {
+        "text": "Through contaminated food and water",
+        "isCorrect": false
+      },
+      {
+        "text": "Through contact with contaminated blood or body fluids",
+        "isCorrect": true
+      },
+      {
+        "text": "Through mosquito bites",
+        "isCorrect": false
+      },
+      {
+        "text": "Through inhalation of droplets from an infected person",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hepatitis B is primarily transmitted through contact with contaminated blood or body fluids, including through sexual contact and sharing of needles.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 38,
+    "questionText": "Which disease is characterized by the presence of blood and mucous in stools?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": true
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Amoebiasis is characterized by the presence of blood and mucous in stools, along with abdominal pain and cramps.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 39,
+    "questionText": "Which pathogen causes cholera?",
+    "options": [
+      {
+        "text": "Salmonella typhi",
+        "isCorrect": false
+      },
+      {
+        "text": "Vibrio cholerae",
+        "isCorrect": true
+      },
+      {
+        "text": "Haemophilus influenzae",
+        "isCorrect": false
+      },
+      {
+        "text": "Mycobacterium tuberculosis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cholera is caused by the bacterium Vibrio cholerae, which infects the intestines and causes severe diarrhea.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 40,
+    "questionText": "What is the primary method of preventing cholera?",
+    "options": [
+      {
+        "text": "Vaccination",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintaining personal and public hygiene",
+        "isCorrect": true
+      },
+      {
+        "text": "Using mosquito nets",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoiding contaminated water and vegetables",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary method of preventing cholera is by maintaining personal and public hygiene, including proper disposal of waste and ensuring clean drinking water.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 41,
+    "questionText": "Which disease is characterized by severe dehydration and diarrhea?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Cholera",
+        "isCorrect": true
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cholera is characterized by severe dehydration and diarrhea, which can be fatal if not treated promptly.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 42,
+    "questionText": "Which of the following is a preventive measure for hepatitis B?",
+    "options": [
+      {
+        "text": "Vaccination",
+        "isCorrect": true
+      },
+      {
+        "text": "Using mosquito nets",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoiding contaminated food and water",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintaining personal hygiene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hepatitis B can be prevented through vaccination, which provides immunity against the virus.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 43,
+    "questionText": "Which disease is known for its characteristic 'bull's eye' rash?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Lyme disease",
+        "isCorrect": true
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lyme disease is characterized by a 'bull's eye' rash, caused by the bacterium Borrelia burgdorferi, which is transmitted through tick bites.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 44,
+    "questionText": "What is the causative agent of syphilis?",
+    "options": [
+      {
+        "text": "Neisseria gonorrhoeae",
+        "isCorrect": false
+      },
+      {
+        "text": "Treponema pallidum",
+        "isCorrect": true
+      },
+      {
+        "text": "Chlamydia trachomatis",
+        "isCorrect": false
+      },
+      {
+        "text": "Mycoplasma genitalium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Syphilis is caused by the bacterium Treponema pallidum.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 45,
+    "questionText": "Which disease is caused by a prion?",
+    "options": [
+      {
+        "text": "Creutzfeldt-Jakob disease",
+        "isCorrect": true
+      },
+      {
+        "text": "Hepatitis B",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      },
+      {
+        "text": "Lyme disease",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Creutzfeldt-Jakob disease is caused by prions, which are misfolded proteins that induce other proteins to misfold.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 46,
+    "questionText": "Which pathogen causes the common cold?",
+    "options": [
+      {
+        "text": "Rhino viruses",
+        "isCorrect": true
+      },
+      {
+        "text": "Streptococcus pneumoniae",
+        "isCorrect": false
+      },
+      {
+        "text": "Salmonella typhi",
+        "isCorrect": false
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common cold is caused by Rhino viruses, which infect the nose and respiratory passage.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 47,
+    "questionText": "Which of the following is a symptom of pneumonia?",
+    "options": [
+      {
+        "text": "Sustained high fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Nasal congestion and discharge",
+        "isCorrect": false
+      },
+      {
+        "text": "Severe respiratory problems",
+        "isCorrect": true
+      },
+      {
+        "text": "Recurring chills and high fever",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pneumonia is characterized by severe respiratory problems due to infection of the alveoli, along with symptoms such as fever, chills, cough, and headache.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 48,
+    "questionText": "What is the primary mode of transmission for the common cold?",
+    "options": [
+      {
+        "text": "Through mosquito bites",
+        "isCorrect": false
+      },
+      {
+        "text": "Through contaminated food and water",
+        "isCorrect": false
+      },
+      {
+        "text": "Through inhalation of droplets from an infected person",
+        "isCorrect": true
+      },
+      {
+        "text": "Through direct contact with an infected person's skin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common cold is primarily transmitted through inhalation of droplets released by an infected person or through contact with contaminated objects.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 49,
+    "questionText": "Which protozoan parasite causes malaria?",
+    "options": [
+      {
+        "text": "Plasmodium falciparum",
+        "isCorrect": true
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "isCorrect": false
+      },
+      {
+        "text": "Giardia lamblia",
+        "isCorrect": false
+      },
+      {
+        "text": "Trypanosoma cruzi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Malaria is caused by protozoan parasites of the genus Plasmodium, with Plasmodium falciparum being the most serious and potentially fatal.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 50,
+    "questionText": "Which of the following is a symptom of typhoid fever?",
+    "options": [
+      {
+        "text": "Severe respiratory problems",
+        "isCorrect": false
+      },
+      {
+        "text": "Recurring chills and high fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Sustained high fever",
+        "isCorrect": true
+      },
+      {
+        "text": "Gray to bluish lips and nails",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Typhoid fever is characterized by a sustained high fever, along with symptoms such as weakness, stomach pain, constipation, and headache.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 51,
+    "questionText": "Which of the following is a symptom of amoebiasis?",
+    "options": [
+      {
+        "text": "Nasal congestion and discharge",
+        "isCorrect": false
+      },
+      {
+        "text": "Severe respiratory problems",
+        "isCorrect": false
+      },
+      {
+        "text": "Constipation and abdominal pain",
+        "isCorrect": true
+      },
+      {
+        "text": "Recurring chills and high fever",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Amoebiasis is characterized by symptoms such as constipation, abdominal pain and cramps, and stools with excess mucous and blood clots.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 52,
+    "questionText": "Which organism causes ascariasis?",
+    "options": [
+      {
+        "text": "Plasmodium falciparum",
+        "isCorrect": false
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "isCorrect": false
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "isCorrect": true
+      },
+      {
+        "text": "Wuchereria bancrofti",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ascariasis is caused by the intestinal parasite Ascaris lumbricoides.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 53,
+    "questionText": "Which of the following is a preventive measure for amoebiasis?",
+    "options": [
+      {
+        "text": "Vaccination",
+        "isCorrect": false
+      },
+      {
+        "text": "Using mosquito nets",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoiding contaminated food and water",
+        "isCorrect": true
+      },
+      {
+        "text": "Maintaining personal hygiene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Amoebiasis can be prevented by avoiding contaminated food and water, as the parasite Entamoeba histolytica is transmitted through these sources.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 54,
+    "questionText": "Which pathogen causes diphtheria?",
+    "options": [
+      {
+        "text": "Streptococcus pneumoniae",
+        "isCorrect": false
+      },
+      {
+        "text": "Corynebacterium diphtheriae",
+        "isCorrect": true
+      },
+      {
+        "text": "Haemophilus influenzae",
+        "isCorrect": false
+      },
+      {
+        "text": "Salmonella typhi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diphtheria is caused by the bacterium Corynebacterium diphtheriae.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 55,
+    "questionText": "Which of the following diseases is transmitted through the bite of a mosquito?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": true
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Malaria is transmitted through the bite of an infected female Anopheles mosquito, which introduces Plasmodium sporozoites into the human body.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 56,
+    "questionText": "Which disease is characterized by swelling and deformity of the limbs?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Filariasis",
+        "isCorrect": true
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Filariasis, also known as elephantiasis, is characterized by swelling and deformity of the limbs due to chronic inflammation of the lymphatic vessels.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 57,
+    "questionText": "What is the primary symptom of ringworm infection?",
+    "options": [
+      {
+        "text": "Sustained high fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Recurring chills and high fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Dry, scaly lesions on the skin",
+        "isCorrect": true
+      },
+      {
+        "text": "Gray to bluish lips and nails",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ringworm is characterized by the appearance of dry, scaly lesions on various parts of the body such as skin, nails, and scalp.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 58,
+    "questionText": "Which disease is characterized by the rupture of red blood cells (RBCs)?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": true
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Malaria is characterized by the rupture of RBCs, which releases the toxic substance haemozoin and causes recurring chills and high fever.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 59,
+    "questionText": "Which pathogen causes pneumonia?",
+    "options": [
+      {
+        "text": "Salmonella typhi",
+        "isCorrect": false
+      },
+      {
+        "text": "Streptococcus pneumoniae",
+        "isCorrect": true
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "isCorrect": false
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pneumonia in humans is caused by bacteria such as Streptococcus pneumoniae and Haemophilus influenzae, which infect the alveoli of the lungs.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 60,
+    "questionText": "Which of the following diseases is transmitted through contaminated food and water?",
+    "options": [
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Typhoid fever",
+        "isCorrect": true
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Typhoid fever is transmitted through food and water contaminated with Salmonella typhi.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 61,
+    "questionText": "Which disease is caused by the protozoan Entamoeba histolytica?",
+    "options": [
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": true
+      },
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Amoebiasis, also known as amoebic dysentery, is caused by the protozoan Entamoeba histolytica, which resides in the large intestine of humans.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 62,
+    "questionText": "Which disease is known for causing internal bleeding and muscular pain?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Ascariasis",
+        "isCorrect": true
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ascariasis, caused by the common roundworm Ascaris lumbricoides, is known for causing internal bleeding, muscular pain, fever, anemia, and blockage of the intestinal passage.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 63,
+    "questionText": "Which organism causes malaria in humans?",
+    "options": [
+      {
+        "text": "Entamoeba histolytica",
+        "isCorrect": false
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "isCorrect": true
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "isCorrect": false
+      },
+      {
+        "text": "Wuchereria bancrofti",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Malaria is caused by protozoan parasites of the genus Plasmodium, with Plasmodium falciparum being the most serious and potentially fatal.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 64,
+    "questionText": "Which disease is characterized by the presence of haemozoin in the blood?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": true
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Malaria is characterized by the presence of haemozoin, a toxic substance released during the rupture of red blood cells (RBCs).",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 65,
+    "questionText": "What is the primary mode of transmission for malaria?",
+    "options": [
+      {
+        "text": "Through contaminated food and water",
+        "isCorrect": false
+      },
+      {
+        "text": "Through inhalation of droplets from an infected person",
+        "isCorrect": false
+      },
+      {
+        "text": "Through the bite of an infected mosquito",
+        "isCorrect": true
+      },
+      {
+        "text": "Through direct contact with an infected person's skin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Malaria is transmitted through the bite of an infected female Anopheles mosquito, which introduces Plasmodium sporozoites into the human body.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 66,
+    "questionText": "Which of the following is a characteristic symptom of cholera?",
+    "options": [
+      {
+        "text": "Gray to bluish lips and nails",
+        "isCorrect": false
+      },
+      {
+        "text": "Severe dehydration and diarrhea",
+        "isCorrect": true
+      },
+      {
+        "text": "Recurring chills and high fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Sustained high fever",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cholera is characterized by severe dehydration and diarrhea, which can be fatal if not treated promptly.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 67,
+    "questionText": "Which disease is caused by the bacterium Mycobacterium leprae?",
+    "options": [
+      {
+        "text": "Tuberculosis",
+        "isCorrect": false
+      },
+      {
+        "text": "Leprosy",
+        "isCorrect": true
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Leprosy in humans is caused by the bacterium Mycobacterium leprae.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 68,
+    "questionText": "Which of the following diseases is caused by a virus?",
+    "options": [
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      },
+      {
+        "text": "Common cold",
+        "isCorrect": true
+      },
+      {
+        "text": "Filariasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common cold is caused by Rhino viruses, which infect the nose and respiratory passage but not the lungs.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 69,
+    "questionText": "Which pathogen causes elephantiasis in humans?",
+    "options": [
+      {
+        "text": "Ascaris lumbricoides",
+        "isCorrect": false
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "isCorrect": false
+      },
+      {
+        "text": "Wuchereria bancrofti",
+        "isCorrect": true
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elephantiasis is caused by the filarial worms Wuchereria bancrofti and Wuchereria malayi, which live in the lymphatic vessels of the lower limbs.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 70,
+    "questionText": "Which of the following diseases is transmitted through contaminated water?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": true
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Typhoid fever is transmitted through food and water contaminated with Salmonella typhi.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 71,
+    "questionText": "Which organism causes amoebiasis in humans?",
+    "options": [
+      {
+        "text": "Plasmodium falciparum",
+        "isCorrect": false
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "isCorrect": true
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "isCorrect": false
+      },
+      {
+        "text": "Wuchereria bancrofti",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Amoebiasis, also known as amoebic dysentery, is caused by the protozoan parasite Entamoeba histolytica, which resides in the large intestine of humans.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 72,
+    "questionText": "Which of the following diseases is characterized by severe diarrhea and dehydration?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Cholera",
+        "isCorrect": true
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cholera is characterized by severe diarrhea and dehydration, which can be fatal if not treated promptly.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 73,
+    "questionText": "Which disease is transmitted by the Aedes mosquito?",
+    "options": [
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Dengue fever",
+        "isCorrect": true
+      },
+      {
+        "text": "Filariasis",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dengue fever is transmitted by the bite of an infected Aedes mosquito.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 74,
+    "questionText": "Which pathogen causes tuberculosis in humans?",
+    "options": [
+      {
+        "text": "Streptococcus pneumoniae",
+        "isCorrect": false
+      },
+      {
+        "text": "Mycobacterium tuberculosis",
+        "isCorrect": true
+      },
+      {
+        "text": "Haemophilus influenzae",
+        "isCorrect": false
+      },
+      {
+        "text": "Salmonella typhi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tuberculosis in humans is caused by the bacterium Mycobacterium tuberculosis.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 76,
+    "questionText": "Which disease is characterized by chronic inflammation of the lymphatic vessels?",
+    "options": [
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Filariasis",
+        "isCorrect": true
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Filariasis, also known as elephantiasis, is characterized by chronic inflammation of the lymphatic vessels, causing swelling and deformity.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 77,
+    "questionText": "Which pathogen causes ringworm in humans?",
+    "options": [
+      {
+        "text": "Bacteria",
+        "isCorrect": false
+      },
+      {
+        "text": "Virus",
+        "isCorrect": false
+      },
+      {
+        "text": "Fungi",
+        "isCorrect": true
+      },
+      {
+        "text": "Protozoan",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ringworms are caused by fungi belonging to the genera Microsporum, Trichophyton, and Epidermophyton.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 78,
+    "questionText": "Which disease is characterized by nasal congestion and discharge?",
+    "options": [
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Common cold",
+        "isCorrect": true
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common cold is characterized by nasal congestion and discharge, along with sore throat, cough, and headache.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "EASY"
+  },
+  {
+    "qno": 79,
+    "questionText": "Which of the following diseases is transmitted through direct contact with contaminated blood or body fluids?",
+    "options": [
+      {
+        "text": "Hepatitis B",
+        "isCorrect": true
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hepatitis B is primarily transmitted through contact with contaminated blood or body fluids, including through sexual contact and sharing of needles.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 92,
+    "questionText": "Which pathogen causes syphilis?",
+    "options": [
+      {
+        "text": "Neisseria gonorrhoeae",
+        "isCorrect": false
+      },
+      {
+        "text": "Treponema pallidum",
+        "isCorrect": true
+      },
+      {
+        "text": "Chlamydia trachomatis",
+        "isCorrect": false
+      },
+      {
+        "text": "Mycoplasma genitalium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Syphilis is caused by the bacterium Treponema pallidum.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 93,
+    "questionText": "Which disease is characterized by a 'bull's eye' rash?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Lyme disease",
+        "isCorrect": true
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lyme disease is characterized by a 'bull's eye' rash, caused by the bacterium Borrelia burgdorferi, which is transmitted through tick bites.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 94,
+    "questionText": "Which disease is caused by the bacterium Vibrio cholerae?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Cholera",
+        "isCorrect": true
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cholera is caused by the bacterium Vibrio cholerae, which infects the intestines and causes severe diarrhea.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 95,
+    "questionText": "Which of the following is a characteristic symptom of filariasis?",
+    "options": [
+      {
+        "text": "Gray to bluish lips and nails",
+        "isCorrect": false
+      },
+      {
+        "text": "Swelling and deformity of the limbs",
+        "isCorrect": true
+      },
+      {
+        "text": "Recurring chills and high fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Sustained high fever",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Filariasis, also known as elephantiasis, is characterized by swelling and deformity of the limbs due to chronic inflammation of the lymphatic vessels.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 96,
+    "questionText": "Which of the following is a preventive measure for cholera?",
+    "options": [
+      {
+        "text": "Vaccination",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintaining personal and public hygiene",
+        "isCorrect": true
+      },
+      {
+        "text": "Using mosquito nets",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoiding contaminated food and water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary method of preventing cholera is by maintaining personal and public hygiene, including proper disposal of waste and ensuring clean drinking water.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 98,
+    "questionText": "Which disease is transmitted through the bite of an infected female Anopheles mosquito?",
+    "options": [
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": true
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Malaria is transmitted through the bite of an infected female Anopheles mosquito, which introduces Plasmodium sporozoites into the human body.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 99,
+    "questionText": "Which disease is caused by the protozoan parasite Plasmodium falciparum?",
+    "options": [
+      {
+        "text": "Amoebiasis",
+        "isCorrect": false
+      },
+      {
+        "text": "Malaria",
+        "isCorrect": true
+      },
+      {
+        "text": "Pneumonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Typhoid fever",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Malaria is caused by protozoan parasites of the genus Plasmodium, with Plasmodium falciparum being the most serious and potentially fatal.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "HARD"
+  },
+  {
+    "qno": 100,
+    "questionText": "Which of the following is a symptom of tuberculosis?",
+    "options": [
+      {
+        "text": "Sustained high fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Recurring chills and high fever",
+        "isCorrect": false
+      },
+      {
+        "text": "Chronic cough with blood-tinged sputum",
+        "isCorrect": true
+      },
+      {
+        "text": "Severe dehydration and diarrhea",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tuberculosis is characterized by a chronic cough with blood-tinged sputum, along with symptoms such as fever, night sweats, and weight loss.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.1 Common Diseases in Humans",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is the primary function of the immune system?",
+    "options": [
+      {
+        "text": "To produce hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "To transport oxygen in the blood",
+        "isCorrect": false
+      },
+      {
+        "text": "To defend the body against pathogens",
+        "isCorrect": true
+      },
+      {
+        "text": "To aid in digestion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary function of the immune system is to defend the body against pathogens such as bacteria, viruses, and other foreign invaders.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "What type of immunity is provided by antibodies present in the mother's milk?",
+    "options": [
+      {
+        "text": "Active immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Innate immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Passive immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "Cell-mediated immunity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Antibodies present in the mother's milk provide passive immunity to the infant by transferring pre-formed antibodies.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which cells are primarily responsible for cell-mediated immunity?",
+    "options": [
+      {
+        "text": "B cells",
+        "isCorrect": false
+      },
+      {
+        "text": "T cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Red blood cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Platelets",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "T cells are primarily responsible for cell-mediated immunity, which involves the direct destruction of infected cells by T cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "HARD"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is the role of memory cells in the immune system?",
+    "options": [
+      {
+        "text": "To produce digestive enzymes",
+        "isCorrect": false
+      },
+      {
+        "text": "To transport oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide long-lasting immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "To clot blood",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Memory cells provide long-lasting immunity by remembering previous encounters with specific pathogens and responding more rapidly and effectively upon subsequent exposures.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which of the following is an example of an autoimmune disease?",
+    "options": [
+      {
+        "text": "Diabetes mellitus",
+        "isCorrect": false
+      },
+      {
+        "text": "Rheumatoid arthritis",
+        "isCorrect": true
+      },
+      {
+        "text": "Influenza",
+        "isCorrect": false
+      },
+      {
+        "text": "Hypertension",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rheumatoid arthritis is an example of an autoimmune disease, where the immune system mistakenly attacks the body's own tissues.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "What is the function of B cells in the immune system?",
+    "options": [
+      {
+        "text": "To produce antibodies",
+        "isCorrect": true
+      },
+      {
+        "text": "To destroy infected cells",
+        "isCorrect": false
+      },
+      {
+        "text": "To transport oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "To aid in blood clotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "B cells function to produce antibodies, which are proteins that specifically bind to and neutralize pathogens.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which type of immunity is acquired after recovering from a disease?",
+    "options": [
+      {
+        "text": "Innate immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Passive immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Active immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "Cell-mediated immunity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Active immunity is acquired after recovering from a disease, as the body has developed its own antibodies and memory cells against the pathogen.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which of the following is a characteristic of innate immunity?",
+    "options": [
+      {
+        "text": "Specific response to pathogens",
+        "isCorrect": false
+      },
+      {
+        "text": "Memory response to pathogens",
+        "isCorrect": false
+      },
+      {
+        "text": "Immediate, non-specific defense",
+        "isCorrect": true
+      },
+      {
+        "text": "Antibody production",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Innate immunity provides an immediate, non-specific defense against pathogens and does not have a memory response.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "HARD"
+  },
+  {
+    "qno": 9,
+    "questionText": "What is the role of macrophages in the immune system?",
+    "options": [
+      {
+        "text": "To produce antibodies",
+        "isCorrect": false
+      },
+      {
+        "text": "To destroy pathogens by phagocytosis",
+        "isCorrect": true
+      },
+      {
+        "text": "To transport oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "To aid in digestion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Macrophages play a crucial role in the immune system by destroying pathogens through the process of phagocytosis, where they engulf and digest the invaders.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following cells are involved in the adaptive immune response?",
+    "options": [
+      {
+        "text": "Neutrophils",
+        "isCorrect": false
+      },
+      {
+        "text": "Eosinophils",
+        "isCorrect": false
+      },
+      {
+        "text": "Lymphocytes",
+        "isCorrect": true
+      },
+      {
+        "text": "Basophils",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lymphocytes, including B cells and T cells, are involved in the adaptive immune response, which is specific to particular pathogens and involves memory cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "HARD"
+  },
+  {
+    "qno": 11,
+    "questionText": "What type of immunity is provided by vaccination?",
+    "options": [
+      {
+        "text": "Innate immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Passive immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Active immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "Cell-mediated immunity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Vaccination provides active immunity by stimulating the body to produce its own antibodies and memory cells against the pathogen.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "Which cells are primarily responsible for producing antibodies?",
+    "options": [
+      {
+        "text": "T cells",
+        "isCorrect": false
+      },
+      {
+        "text": "B cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Macrophages",
+        "isCorrect": false
+      },
+      {
+        "text": "Neutrophils",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "B cells are primarily responsible for producing antibodies, which specifically bind to and neutralize pathogens.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which of the following is a feature of adaptive immunity?",
+    "options": [
+      {
+        "text": "Immediate response",
+        "isCorrect": false
+      },
+      {
+        "text": "Non-specific defense",
+        "isCorrect": false
+      },
+      {
+        "text": "Memory response",
+        "isCorrect": true
+      },
+      {
+        "text": "Physical barrier",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adaptive immunity is characterized by a memory response, where the immune system remembers previous encounters with specific pathogens and responds more rapidly and effectively upon subsequent exposures.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "HARD"
+  },
+  {
+    "qno": 14,
+    "questionText": "What is the function of helper T cells in the immune system?",
+    "options": [
+      {
+        "text": "To produce antibodies",
+        "isCorrect": false
+      },
+      {
+        "text": "To activate other immune cells",
+        "isCorrect": true
+      },
+      {
+        "text": "To transport oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "To aid in blood clotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Helper T cells function to activate other immune cells, including B cells and cytotoxic T cells, by releasing signaling molecules called cytokines.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which of the following is a characteristic of cell-mediated immunity?",
+    "options": [
+      {
+        "text": "Production of antibodies",
+        "isCorrect": false
+      },
+      {
+        "text": "Involvement of T cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Immediate, non-specific defense",
+        "isCorrect": false
+      },
+      {
+        "text": "Memory response",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cell-mediated immunity involves T cells, which directly destroy infected cells or activate other immune cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "HARD"
+  },
+  {
+    "qno": 16,
+    "questionText": "What type of immunity is passed from mother to infant through the placenta?",
+    "options": [
+      {
+        "text": "Innate immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Active immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Passive immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "Cell-mediated immunity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Immunity passed from mother to infant through the placenta is an example of passive immunity, as it involves the transfer of pre-formed antibodies.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which cells are responsible for the memory response in adaptive immunity?",
+    "options": [
+      {
+        "text": "Macrophages",
+        "isCorrect": false
+      },
+      {
+        "text": "Memory B cells and T cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Neutrophils",
+        "isCorrect": false
+      },
+      {
+        "text": "Eosinophils",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Memory B cells and T cells are responsible for the memory response in adaptive immunity, allowing the immune system to respond more effectively upon subsequent exposures to the same pathogen.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which of the following is an example of a physical barrier in innate immunity?",
+    "options": [
+      {
+        "text": "Antibodies",
+        "isCorrect": false
+      },
+      {
+        "text": "Skin",
+        "isCorrect": true
+      },
+      {
+        "text": "T cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Macrophages",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The skin is an example of a physical barrier in innate immunity, providing the first line of defense against pathogens.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 19,
+    "questionText": "What is the role of cytokines in the immune response?",
+    "options": [
+      {
+        "text": "To transport oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "To digest pathogens",
+        "isCorrect": false
+      },
+      {
+        "text": "To communicate between immune cells",
+        "isCorrect": true
+      },
+      {
+        "text": "To produce antibodies",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cytokines are signaling molecules that communicate between immune cells, helping to coordinate the immune response.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which type of immunity involves the production of antibodies?",
+    "options": [
+      {
+        "text": "Innate immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Passive immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Humoral immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "Cell-mediated immunity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Humoral immunity involves the production of antibodies by B cells, which bind to and neutralize pathogens.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "HARD"
+  },
+  {
+    "qno": 21,
+    "questionText": "What is the primary role of natural killer (NK) cells?",
+    "options": [
+      {
+        "text": "To produce antibodies",
+        "isCorrect": false
+      },
+      {
+        "text": "To transport oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "To destroy virus-infected cells",
+        "isCorrect": true
+      },
+      {
+        "text": "To aid in digestion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Natural killer (NK) cells play a crucial role in the immune system by destroying virus-infected cells and tumor cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which of the following is a feature of passive immunity?",
+    "options": [
+      {
+        "text": "Long-lasting protection",
+        "isCorrect": false
+      },
+      {
+        "text": "Memory response",
+        "isCorrect": false
+      },
+      {
+        "text": "Immediate protection",
+        "isCorrect": true
+      },
+      {
+        "text": "Involvement of T cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Passive immunity provides immediate protection by transferring pre-formed antibodies, but it is not long-lasting and does not involve a memory response.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which cells are primarily involved in the allergic response?",
+    "options": [
+      {
+        "text": "Macrophages",
+        "isCorrect": false
+      },
+      {
+        "text": "Mast cells and basophils",
+        "isCorrect": true
+      },
+      {
+        "text": "Neutrophils",
+        "isCorrect": false
+      },
+      {
+        "text": "Eosinophils",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mast cells and basophils are primarily involved in the allergic response by releasing histamine and other chemicals that cause allergy symptoms.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which of the following is an autoimmune disease?",
+    "options": [
+      {
+        "text": "Diabetes mellitus",
+        "isCorrect": false
+      },
+      {
+        "text": "Rheumatoid arthritis",
+        "isCorrect": true
+      },
+      {
+        "text": "Influenza",
+        "isCorrect": false
+      },
+      {
+        "text": "Hypertension",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rheumatoid arthritis is an autoimmune disease in which the immune system mistakenly attacks the body's own tissues, particularly the joints.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "HARD"
+  },
+  {
+    "qno": 25,
+    "questionText": "What is the primary function of cytotoxic T cells?",
+    "options": [
+      {
+        "text": "To produce antibodies",
+        "isCorrect": false
+      },
+      {
+        "text": "To transport oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "To destroy infected cells",
+        "isCorrect": true
+      },
+      {
+        "text": "To aid in blood clotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cytotoxic T cells function to directly destroy infected cells by recognizing and binding to antigens presented on the surface of the infected cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which of the following is a characteristic of adaptive immunity?",
+    "options": [
+      {
+        "text": "Non-specific defense",
+        "isCorrect": false
+      },
+      {
+        "text": "Immediate response",
+        "isCorrect": false
+      },
+      {
+        "text": "Specific response to pathogens",
+        "isCorrect": true
+      },
+      {
+        "text": "Physical barrier",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adaptive immunity is characterized by a specific response to pathogens, where the immune system targets specific antigens and remembers previous encounters.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "HARD"
+  },
+  {
+    "qno": 27,
+    "questionText": "What is the function of regulatory T cells?",
+    "options": [
+      {
+        "text": "To produce antibodies",
+        "isCorrect": false
+      },
+      {
+        "text": "To activate other immune cells",
+        "isCorrect": false
+      },
+      {
+        "text": "To suppress the immune response",
+        "isCorrect": true
+      },
+      {
+        "text": "To aid in blood clotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Regulatory T cells function to suppress the immune response, preventing excessive or inappropriate immune activity that could harm the body.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which cells are responsible for phagocytosis in the immune system?",
+    "options": [
+      {
+        "text": "B cells",
+        "isCorrect": false
+      },
+      {
+        "text": "T cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Macrophages and neutrophils",
+        "isCorrect": true
+      },
+      {
+        "text": "Eosinophils",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Macrophages and neutrophils are responsible for phagocytosis, a process in which they engulf and digest pathogens and debris.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 30,
+    "questionText": "What is the primary function of antibodies?",
+    "options": [
+      {
+        "text": "To transport oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "To digest pathogens",
+        "isCorrect": false
+      },
+      {
+        "text": "To bind to and neutralize pathogens",
+        "isCorrect": true
+      },
+      {
+        "text": "To produce cytokines",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Antibodies bind to and neutralize pathogens, preventing them from infecting cells and marking them for destruction by other immune cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which cells are involved in the production of antibodies?",
+    "options": [
+      {
+        "text": "T cells",
+        "isCorrect": false
+      },
+      {
+        "text": "B cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Macrophages",
+        "isCorrect": false
+      },
+      {
+        "text": "Neutrophils",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "B cells are responsible for producing antibodies, which specifically bind to and neutralize pathogens.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 32,
+    "questionText": "Which type of immunity is acquired through vaccination?",
+    "options": [
+      {
+        "text": "Innate immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Passive immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Active immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "Cell-mediated immunity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Vaccination provides active immunity by stimulating the body's immune system to produce its own antibodies and memory cells against the pathogen.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 33,
+    "questionText": "What is the primary role of macrophages in the immune system?",
+    "options": [
+      {
+        "text": "To produce antibodies",
+        "isCorrect": false
+      },
+      {
+        "text": "To destroy pathogens by phagocytosis",
+        "isCorrect": true
+      },
+      {
+        "text": "To transport oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "To aid in digestion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Macrophages play a crucial role in the immune system by destroying pathogens through phagocytosis, where they engulf and digest the invaders.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "Which type of immunity is transferred from mother to infant through breast milk?",
+    "options": [
+      {
+        "text": "Innate immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Passive immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "Active immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Cell-mediated immunity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Passive immunity is transferred from mother to infant through breast milk, providing the infant with pre-formed antibodies.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 49,
+    "questionText": "Which of the following cells are involved in the production of antibodies?",
+    "options": [
+      {
+        "text": "T cells",
+        "isCorrect": false
+      },
+      {
+        "text": "B cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Macrophages",
+        "isCorrect": false
+      },
+      {
+        "text": "Neutrophils",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "B cells are responsible for producing antibodies, which specifically bind to and neutralize pathogens.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 51,
+    "questionText": "Which type of immunity is acquired through natural infection with a pathogen?",
+    "options": [
+      {
+        "text": "Innate immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Passive immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Active immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "Cell-mediated immunity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Active immunity is acquired through natural infection with a pathogen, as the body develops its own antibodies and memory cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 52,
+    "questionText": "Which cells are primarily responsible for the production of cytokines?",
+    "options": [
+      {
+        "text": "T cells",
+        "isCorrect": true
+      },
+      {
+        "text": "B cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Macrophages",
+        "isCorrect": false
+      },
+      {
+        "text": "Neutrophils",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "T cells, especially helper T cells, are primarily responsible for the production of cytokines, which are signaling molecules that regulate the immune response.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "HARD"
+  },
+  {
+    "qno": 53,
+    "questionText": "Which of the following is an example of a vaccine-preventable disease?",
+    "options": [
+      {
+        "text": "Diabetes mellitus",
+        "isCorrect": false
+      },
+      {
+        "text": "Measles",
+        "isCorrect": true
+      },
+      {
+        "text": "Hypertension",
+        "isCorrect": false
+      },
+      {
+        "text": "Rheumatoid arthritis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Measles is an example of a vaccine-preventable disease, as it can be prevented through vaccination with the measles vaccine.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 56,
+    "questionText": "Which cells are responsible for the production of antibodies?",
+    "options": [
+      {
+        "text": "T cells",
+        "isCorrect": false
+      },
+      {
+        "text": "B cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Macrophages",
+        "isCorrect": false
+      },
+      {
+        "text": "Neutrophils",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "B cells are responsible for producing antibodies, which specifically bind to and neutralize pathogens.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 57,
+    "questionText": "What is the primary function of helper T cells?",
+    "options": [
+      {
+        "text": "To produce antibodies",
+        "isCorrect": false
+      },
+      {
+        "text": "To activate other immune cells",
+        "isCorrect": true
+      },
+      {
+        "text": "To transport oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "To aid in blood clotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Helper T cells function to activate other immune cells, including B cells and cytotoxic T cells, by releasing signaling molecules called cytokines.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 58,
+    "questionText": "Which type of immunity is provided by antibodies transferred from mother to fetus through the placenta?",
+    "options": [
+      {
+        "text": "Innate immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Active immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Passive immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "Cell-mediated immunity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Passive immunity is provided by antibodies transferred from mother to fetus through the placenta, offering immediate but temporary protection.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 61,
+    "questionText": "What is the role of regulatory T cells in the immune system?",
+    "options": [
+      {
+        "text": "To produce antibodies",
+        "isCorrect": false
+      },
+      {
+        "text": "To activate other immune cells",
+        "isCorrect": false
+      },
+      {
+        "text": "To suppress the immune response",
+        "isCorrect": true
+      },
+      {
+        "text": "To aid in blood clotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Regulatory T cells function to suppress the immune response, preventing excessive or inappropriate immune activity that could harm the body.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 63,
+    "questionText": "Which of the following is a characteristic of adaptive immunity?",
+    "options": [
+      {
+        "text": "Immediate response",
+        "isCorrect": false
+      },
+      {
+        "text": "Non-specific defense",
+        "isCorrect": false
+      },
+      {
+        "text": "Memory response",
+        "isCorrect": true
+      },
+      {
+        "text": "Physical barrier",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adaptive immunity is characterized by a memory response, where the immune system remembers previous encounters with specific pathogens and responds more rapidly and effectively upon subsequent exposures.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "HARD"
+  },
+  {
+    "qno": 64,
+    "questionText": "Which of the following is a feature of innate immunity?",
+    "options": [
+      {
+        "text": "Specific response to pathogens",
+        "isCorrect": false
+      },
+      {
+        "text": "Memory response to pathogens",
+        "isCorrect": false
+      },
+      {
+        "text": "Immediate, non-specific defense",
+        "isCorrect": true
+      },
+      {
+        "text": "Antibody production",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Innate immunity provides an immediate, non-specific defense against pathogens and does not have a memory response.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "HARD"
+  },
+  {
+    "qno": 65,
+    "questionText": "What is the primary function of cytotoxic T cells?",
+    "options": [
+      {
+        "text": "To produce antibodies",
+        "isCorrect": false
+      },
+      {
+        "text": "To destroy infected cells",
+        "isCorrect": true
+      },
+      {
+        "text": "To transport oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "To aid in blood clotting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cytotoxic T cells function to directly destroy infected cells by recognizing and binding to antigens presented on the surface of the infected cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 76,
+    "questionText": "Which type of immunity is provided by vaccination?",
+    "options": [
+      {
+        "text": "Innate immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Passive immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Active immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "Cell-mediated immunity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Vaccination provides active immunity by stimulating the body to produce its own antibodies and memory cells against the pathogen.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 86,
+    "questionText": "Which type of immunity is transferred from mother to infant through the placenta?",
+    "options": [
+      {
+        "text": "Innate immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Active immunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Passive immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "Cell-mediated immunity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Immunity passed from mother to infant through the placenta is an example of passive immunity, as it involves the transfer of pre-formed antibodies.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.2 Immunity",
+    "level": "EASY"
+  },
+  {
+    "qno": 1,
+    "questionText": "What does AIDS stand for?",
+    "options": [
+      {
+        "text": "Auto Immune Deficiency Syndrome",
+        "isCorrect": false
+      },
+      {
+        "text": "Acquired Immuno-Deficiency Syndrome",
+        "isCorrect": true
+      },
+      {
+        "text": "Acquired Immuno-Deficit Syndrome",
+        "isCorrect": false
+      },
+      {
+        "text": "Acute Immuno-Deficiency Syndrome",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "AIDS stands for Acquired Immuno-Deficiency Syndrome, which is caused by the human immunodeficiency virus (HIV).",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which virus is responsible for causing AIDS?",
+    "options": [
+      {
+        "text": "Hepatitis B virus",
+        "isCorrect": false
+      },
+      {
+        "text": "Human Immunodeficiency Virus (HIV)",
+        "isCorrect": true
+      },
+      {
+        "text": "Influenza virus",
+        "isCorrect": false
+      },
+      {
+        "text": "Ebola virus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "AIDS is caused by the Human Immunodeficiency Virus (HIV), which attacks the immune system.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "How is HIV primarily transmitted?",
+    "options": [
+      {
+        "text": "Through contaminated water",
+        "isCorrect": false
+      },
+      {
+        "text": "Through mosquito bites",
+        "isCorrect": false
+      },
+      {
+        "text": "Through unprotected sexual contact",
+        "isCorrect": true
+      },
+      {
+        "text": "Through airborne droplets",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "HIV is primarily transmitted through unprotected sexual contact, sharing of needles, and from mother to child during birth or breastfeeding.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "What type of virus is HIV?",
+    "options": [
+      {
+        "text": "Retrovirus",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA virus",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA virus",
+        "isCorrect": false
+      },
+      {
+        "text": "Oncovirus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "HIV is a retrovirus, which means it uses reverse transcriptase to convert its RNA into DNA inside a host cell.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which cells are primarily targeted by HIV?",
+    "options": [
+      {
+        "text": "Red blood cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Hepatocytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Helper T cells (CD4+ cells)",
+        "isCorrect": true
+      },
+      {
+        "text": "Neurons",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "HIV primarily targets and destroys helper T cells (CD4+ cells), which are crucial for the immune response.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which enzyme is crucial for the replication of HIV?",
+    "options": [
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": true
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Protease",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reverse transcriptase is crucial for the replication of HIV, as it converts the viral RNA into DNA inside the host cell.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which phase of HIV infection is characterized by a rapid increase in viral load?",
+    "options": [
+      {
+        "text": "Acute phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Chronic phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Latent phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Symptomatic phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acute phase of HIV infection is characterized by a rapid increase in viral load and a decrease in CD4+ cell count.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which test is commonly used to diagnose HIV infection?",
+    "options": [
+      {
+        "text": "Polymerase Chain Reaction (PCR)",
+        "isCorrect": false
+      },
+      {
+        "text": "Enzyme-Linked Immunosorbent Assay (ELISA)",
+        "isCorrect": true
+      },
+      {
+        "text": "Western Blot",
+        "isCorrect": false
+      },
+      {
+        "text": "Southern Blot",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Enzyme-Linked Immunosorbent Assay (ELISA) test is commonly used to diagnose HIV infection by detecting antibodies against HIV.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which opportunistic infection is commonly associated with AIDS?",
+    "options": [
+      {
+        "text": "Tuberculosis",
+        "isCorrect": true
+      },
+      {
+        "text": "Influenza",
+        "isCorrect": false
+      },
+      {
+        "text": "Hepatitis B",
+        "isCorrect": false
+      },
+      {
+        "text": "Dengue fever",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tuberculosis is a common opportunistic infection associated with AIDS due to the weakened immune system of the patient.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following is a preventive measure against HIV infection?",
+    "options": [
+      {
+        "text": "Vaccination",
+        "isCorrect": false
+      },
+      {
+        "text": "Using condoms during sexual intercourse",
+        "isCorrect": true
+      },
+      {
+        "text": "Drinking boiled water",
+        "isCorrect": false
+      },
+      {
+        "text": "Taking antiviral drugs daily",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using condoms during sexual intercourse is a preventive measure against HIV infection by reducing the risk of transmission.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which phase of HIV infection is characterized by a latent period with few or no symptoms?",
+    "options": [
+      {
+        "text": "Acute phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Chronic phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Symptomatic phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Terminal phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The chronic phase of HIV infection is characterized by a latent period with few or no symptoms, lasting several years.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "Which of the following is an indicator of AIDS progression in an HIV-positive individual?",
+    "options": [
+      {
+        "text": "Increased white blood cell count",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased CD4+ cell count",
+        "isCorrect": false
+      },
+      {
+        "text": "Decreased viral load",
+        "isCorrect": false
+      },
+      {
+        "text": "Decreased CD4+ cell count",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "A decreased CD4+ cell count is an indicator of AIDS progression in an HIV-positive individual, reflecting a weakened immune system.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "What is the role of antiretroviral therapy (ART) in the treatment of HIV/AIDS?",
+    "options": [
+      {
+        "text": "To cure HIV infection",
+        "isCorrect": false
+      },
+      {
+        "text": "To reduce the viral load and improve immune function",
+        "isCorrect": true
+      },
+      {
+        "text": "To increase the production of red blood cells",
+        "isCorrect": false
+      },
+      {
+        "text": "To eliminate opportunistic infections",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Antiretroviral therapy (ART) is used to reduce the viral load and improve immune function in HIV-positive individuals, but it does not cure the infection.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which of the following is a major route of HIV transmission?",
+    "options": [
+      {
+        "text": "Sharing needles",
+        "isCorrect": true
+      },
+      {
+        "text": "Casual contact",
+        "isCorrect": false
+      },
+      {
+        "text": "Insect bites",
+        "isCorrect": false
+      },
+      {
+        "text": "Airborne droplets",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sharing needles is a major route of HIV transmission, as it can directly transfer infected blood from one person to another.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "EASY"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which protein on the surface of HIV binds to the CD4 receptor on host cells?",
+    "options": [
+      {
+        "text": "gp120",
+        "isCorrect": true
+      },
+      {
+        "text": "gp41",
+        "isCorrect": false
+      },
+      {
+        "text": "p24",
+        "isCorrect": false
+      },
+      {
+        "text": "p17",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gp120 protein on the surface of HIV binds to the CD4 receptor on host cells, facilitating viral entry.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which of the following is a common opportunistic infection in AIDS patients?",
+    "options": [
+      {
+        "text": "Tuberculosis",
+        "isCorrect": true
+      },
+      {
+        "text": "Influenza",
+        "isCorrect": false
+      },
+      {
+        "text": "Hepatitis B",
+        "isCorrect": false
+      },
+      {
+        "text": "Dengue fever",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tuberculosis is a common opportunistic infection in AIDS patients due to their weakened immune system.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which enzyme converts the viral RNA of HIV into DNA?",
+    "options": [
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      },
+      {
+        "text": "Protease",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reverse transcriptase converts the viral RNA of HIV into DNA, which is then integrated into the host cell's genome.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which phase of HIV infection is marked by the highest risk of transmission due to high viral load?",
+    "options": [
+      {
+        "text": "Acute phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Chronic phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Latent phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Symptomatic phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acute phase of HIV infection is marked by the highest risk of transmission due to a high viral load and high infectivity.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which diagnostic test is used to confirm an HIV infection following a positive ELISA test?",
+    "options": [
+      {
+        "text": "Western Blot",
+        "isCorrect": true
+      },
+      {
+        "text": "Southern Blot",
+        "isCorrect": false
+      },
+      {
+        "text": "Polymerase Chain Reaction (PCR)",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern Blot",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Western Blot test is used to confirm an HIV infection following a positive ELISA test by detecting specific HIV proteins.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which of the following is a common symptom of the acute phase of HIV infection?",
+    "options": [
+      {
+        "text": "Persistent cough",
+        "isCorrect": false
+      },
+      {
+        "text": "Severe weight loss",
+        "isCorrect": false
+      },
+      {
+        "text": "Flu-like symptoms",
+        "isCorrect": true
+      },
+      {
+        "text": "Jaundice",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Flu-like symptoms are common during the acute phase of HIV infection, including fever, sore throat, and swollen lymph nodes.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which component of the HIV virus is targeted by protease inhibitors?",
+    "options": [
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": false
+      },
+      {
+        "text": "Protease",
+        "isCorrect": true
+      },
+      {
+        "text": "Integrase",
+        "isCorrect": false
+      },
+      {
+        "text": "Gp120",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Protease inhibitors target the protease enzyme of HIV, preventing the maturation of viral proteins and thereby hindering the formation of infectious viral particles.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which phase of HIV infection is characterized by a rapid increase in viral load and a decrease in CD4+ cell count?",
+    "options": [
+      {
+        "text": "Acute phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Chronic phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Latent phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Symptomatic phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acute phase of HIV infection is characterized by a rapid increase in viral load and a decrease in CD4+ cell count.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 51,
+    "questionText": "Which of the following is a characteristic symptom of AIDS?",
+    "options": [
+      {
+        "text": "Jaundice",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaposi's sarcoma",
+        "isCorrect": true
+      },
+      {
+        "text": "Frequent urination",
+        "isCorrect": false
+      },
+      {
+        "text": "Rash on the face",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kaposi's sarcoma is a characteristic symptom of AIDS, indicating the progression of the disease.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 52,
+    "questionText": "What does the term 'opportunistic infection' refer to in the context of AIDS?",
+    "options": [
+      {
+        "text": "Infections that occur in healthy individuals",
+        "isCorrect": false
+      },
+      {
+        "text": "Infections that occur in immunocompromised individuals",
+        "isCorrect": true
+      },
+      {
+        "text": "Infections that are always fatal",
+        "isCorrect": false
+      },
+      {
+        "text": "Infections that are seasonal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Opportunistic infections occur in immunocompromised individuals, such as those with AIDS, due to their weakened immune system.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "EASY"
+  },
+  {
+    "qno": 53,
+    "questionText": "Which stage of HIV infection is characterized by a long period with few or no symptoms?",
+    "options": [
+      {
+        "text": "Acute phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Clinical latency",
+        "isCorrect": true
+      },
+      {
+        "text": "Symptomatic phase",
+        "isCorrect": false
+      },
+      {
+        "text": "AIDS phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Clinical latency is characterized by a long period with few or no symptoms, where the virus is present in the body but not causing significant illness.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 54,
+    "questionText": "Which of the following methods can reduce the risk of mother-to-child transmission of HIV?",
+    "options": [
+      {
+        "text": "Avoiding breastfeeding",
+        "isCorrect": true
+      },
+      {
+        "text": "Using mosquito nets",
+        "isCorrect": false
+      },
+      {
+        "text": "Taking antibiotics",
+        "isCorrect": false
+      },
+      {
+        "text": "Receiving vaccines",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Avoiding breastfeeding can reduce the risk of mother-to-child transmission of HIV, as the virus can be transmitted through breast milk.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "EASY"
+  },
+  {
+    "qno": 55,
+    "questionText": "Which enzyme is targeted by reverse transcriptase inhibitors in the treatment of HIV?",
+    "options": [
+      {
+        "text": "Protease",
+        "isCorrect": false
+      },
+      {
+        "text": "Integrase",
+        "isCorrect": false
+      },
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": true
+      },
+      {
+        "text": "RNA polymerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reverse transcriptase inhibitors target the reverse transcriptase enzyme, preventing the conversion of viral RNA into DNA.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 56,
+    "questionText": "Which type of cells are primarily infected and destroyed by HIV?",
+    "options": [
+      {
+        "text": "B cells",
+        "isCorrect": false
+      },
+      {
+        "text": "CD4+ T cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Neurons",
+        "isCorrect": false
+      },
+      {
+        "text": "Hepatocytes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "HIV primarily infects and destroys CD4+ T cells, which are crucial for coordinating the immune response.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 57,
+    "questionText": "Which protein on the surface of HIV allows it to bind to host cells?",
+    "options": [
+      {
+        "text": "gp41",
+        "isCorrect": false
+      },
+      {
+        "text": "gp120",
+        "isCorrect": true
+      },
+      {
+        "text": "p24",
+        "isCorrect": false
+      },
+      {
+        "text": "p17",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gp120 protein on the surface of HIV allows it to bind to the CD4 receptor on host cells, facilitating entry.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 58,
+    "questionText": "Which of the following is a common symptom during the acute phase of HIV infection?",
+    "options": [
+      {
+        "text": "Weight gain",
+        "isCorrect": false
+      },
+      {
+        "text": "Flu-like symptoms",
+        "isCorrect": true
+      },
+      {
+        "text": "Severe abdominal pain",
+        "isCorrect": false
+      },
+      {
+        "text": "Jaundice",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Flu-like symptoms, such as fever, sore throat, and swollen lymph nodes, are common during the acute phase of HIV infection.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "EASY"
+  },
+  {
+    "qno": 59,
+    "questionText": "What is the main goal of antiretroviral therapy (ART) in HIV treatment?",
+    "options": [
+      {
+        "text": "To completely cure HIV",
+        "isCorrect": false
+      },
+      {
+        "text": "To reduce viral load and maintain immune function",
+        "isCorrect": true
+      },
+      {
+        "text": "To increase the production of white blood cells",
+        "isCorrect": false
+      },
+      {
+        "text": "To eliminate all symptoms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main goal of antiretroviral therapy (ART) is to reduce viral load and maintain immune function, prolonging the life and health of HIV-positive individuals.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 60,
+    "questionText": "Which diagnostic test confirms HIV infection after an initial positive ELISA test?",
+    "options": [
+      {
+        "text": "Polymerase Chain Reaction (PCR)",
+        "isCorrect": false
+      },
+      {
+        "text": "Western Blot",
+        "isCorrect": true
+      },
+      {
+        "text": "Southern Blot",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern Blot",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Western Blot test confirms HIV infection by detecting specific HIV proteins after an initial positive ELISA test.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 61,
+    "questionText": "Which enzyme is crucial for the integration of HIV DNA into the host cell genome?",
+    "options": [
+      {
+        "text": "Reverse transcriptase",
+        "isCorrect": false
+      },
+      {
+        "text": "Integrase",
+        "isCorrect": true
+      },
+      {
+        "text": "Protease",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA polymerase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Integrase is crucial for the integration of HIV DNA into the host cell genome, allowing the virus to replicate.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 62,
+    "questionText": "Which phase of HIV infection involves a rapid increase in viral load and a significant drop in CD4+ cell count?",
+    "options": [
+      {
+        "text": "Acute phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Chronic phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Clinical latency",
+        "isCorrect": false
+      },
+      {
+        "text": "AIDS phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acute phase of HIV infection involves a rapid increase in viral load and a significant drop in CD4+ cell count, indicating early infection.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 63,
+    "questionText": "Which protein on the surface of HIV allows it to bind to the CD4 receptor on host cells?",
+    "options": [
+      {
+        "text": "gp41",
+        "isCorrect": false
+      },
+      {
+        "text": "gp120",
+        "isCorrect": true
+      },
+      {
+        "text": "p24",
+        "isCorrect": false
+      },
+      {
+        "text": "p17",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gp120 protein on the surface of HIV allows it to bind to the CD4 receptor on host cells, facilitating viral entry.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 65,
+    "questionText": "What is the function of protease inhibitors in the treatment of HIV?",
+    "options": [
+      {
+        "text": "To inhibit the integration of viral DNA into the host genome",
+        "isCorrect": false
+      },
+      {
+        "text": "To block the conversion of RNA to DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To prevent the maturation of viral proteins",
+        "isCorrect": true
+      },
+      {
+        "text": "To enhance the immune response",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Protease inhibitors prevent the maturation of viral proteins, thereby inhibiting the formation of infectious HIV particles.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 66,
+    "questionText": "Which stage of HIV infection is characterized by the highest risk of transmission due to high viral load?",
+    "options": [
+      {
+        "text": "Acute phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Chronic phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Latent phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Symptomatic phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acute phase of HIV infection is marked by the highest risk of transmission due to a high viral load and high infectivity.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 67,
+    "questionText": "Which of the following is a preventive measure against HIV infection?",
+    "options": [
+      {
+        "text": "Using condoms during sexual intercourse",
+        "isCorrect": true
+      },
+      {
+        "text": "Vaccination",
+        "isCorrect": false
+      },
+      {
+        "text": "Drinking boiled water",
+        "isCorrect": false
+      },
+      {
+        "text": "Taking antiviral drugs daily",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using condoms during sexual intercourse is a preventive measure against HIV infection by reducing the risk of transmission.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "EASY"
+  },
+  {
+    "qno": 71,
+    "questionText": "Which of the following is an opportunistic infection commonly associated with AIDS?",
+    "options": [
+      {
+        "text": "Tuberculosis",
+        "isCorrect": true
+      },
+      {
+        "text": "Influenza",
+        "isCorrect": false
+      },
+      {
+        "text": "Hepatitis B",
+        "isCorrect": false
+      },
+      {
+        "text": "Dengue fever",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tuberculosis is a common opportunistic infection associated with AIDS due to the weakened immune system of the patient.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 74,
+    "questionText": "Which cells are primarily infected and destroyed by HIV?",
+    "options": [
+      {
+        "text": "B cells",
+        "isCorrect": false
+      },
+      {
+        "text": "CD4+ T cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Neurons",
+        "isCorrect": false
+      },
+      {
+        "text": "Hepatocytes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "HIV primarily infects and destroys CD4+ T cells, which are crucial for coordinating the immune response.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 82,
+    "questionText": "Which stage of HIV infection involves a rapid increase in viral load and a significant drop in CD4+ cell count?",
+    "options": [
+      {
+        "text": "Acute phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Chronic phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Clinical latency",
+        "isCorrect": false
+      },
+      {
+        "text": "AIDS phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acute phase of HIV infection involves a rapid increase in viral load and a significant drop in CD4+ cell count, indicating early infection.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 89,
+    "questionText": "Which type of HIV medication prevents the virus from entering human cells?",
+    "options": [
+      {
+        "text": "Reverse transcriptase inhibitors",
+        "isCorrect": false
+      },
+      {
+        "text": "Protease inhibitors",
+        "isCorrect": false
+      },
+      {
+        "text": "Fusion inhibitors",
+        "isCorrect": true
+      },
+      {
+        "text": "Integrase inhibitors",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fusion inhibitors prevent HIV from entering human cells by blocking the fusion of the viral envelope with the host cell membrane.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 93,
+    "questionText": "What is the role of integrase inhibitors in the treatment of HIV?",
+    "options": [
+      {
+        "text": "To prevent the conversion of RNA to DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "To inhibit the integration of viral DNA into the host genome",
+        "isCorrect": true
+      },
+      {
+        "text": "To prevent the maturation of viral proteins",
+        "isCorrect": false
+      },
+      {
+        "text": "To enhance the immune response",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Integrase inhibitors prevent the integration of viral DNA into the host genome, thereby inhibiting the replication of HIV.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "HARD"
+  },
+  {
+    "qno": 94,
+    "questionText": "Which stage of HIV infection is marked by the highest risk of transmission due to high viral load?",
+    "options": [
+      {
+        "text": "Acute phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Chronic phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Latent phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Symptomatic phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acute phase of HIV infection is marked by the highest risk of transmission due to a high viral load and high infectivity.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.3 AIDS",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 1,
+    "questionText": "Which of the following is a characteristic of cancer cells?",
+    "options": [
+      {
+        "text": "Uncontrolled cell growth",
+        "isCorrect": true
+      },
+      {
+        "text": "Normal cell division",
+        "isCorrect": false
+      },
+      {
+        "text": "Programmed cell death",
+        "isCorrect": false
+      },
+      {
+        "text": "Limited cell lifespan",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cancer cells exhibit uncontrolled cell growth, bypassing the normal regulatory mechanisms of the cell cycle.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which of the following genes, when mutated, can lead to cancer?",
+    "options": [
+      {
+        "text": "Oncogenes",
+        "isCorrect": true
+      },
+      {
+        "text": "Homeotic genes",
+        "isCorrect": false
+      },
+      {
+        "text": "Segmentation genes",
+        "isCorrect": false
+      },
+      {
+        "text": "Hox genes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oncogenes are mutated forms of proto-oncogenes that can lead to cancer by promoting uncontrolled cell division.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which type of cancer originates in the epithelial tissues?",
+    "options": [
+      {
+        "text": "Carcinoma",
+        "isCorrect": true
+      },
+      {
+        "text": "Sarcoma",
+        "isCorrect": false
+      },
+      {
+        "text": "Leukemia",
+        "isCorrect": false
+      },
+      {
+        "text": "Lymphoma",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Carcinomas are cancers that originate in the epithelial tissues, which line the surfaces of organs and structures in the body.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which of the following is a common symptom of cancer?",
+    "options": [
+      {
+        "text": "Persistent cough",
+        "isCorrect": true
+      },
+      {
+        "text": "Sudden weight gain",
+        "isCorrect": false
+      },
+      {
+        "text": "Frequent urination",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased appetite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A persistent cough can be a common symptom of lung cancer, highlighting the need for further medical evaluation.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which diagnostic method involves the removal of tissue for examination under a microscope?",
+    "options": [
+      {
+        "text": "Biopsy",
+        "isCorrect": true
+      },
+      {
+        "text": "MRI",
+        "isCorrect": false
+      },
+      {
+        "text": "CT scan",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultrasound",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A biopsy involves the removal of tissue for examination under a microscope to diagnose the presence of cancer cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which treatment uses high-energy radiation to kill cancer cells?",
+    "options": [
+      {
+        "text": "Chemotherapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Radiation therapy",
+        "isCorrect": true
+      },
+      {
+        "text": "Surgery",
+        "isCorrect": false
+      },
+      {
+        "text": "Immunotherapy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Radiation therapy uses high-energy radiation to kill cancer cells and shrink tumors.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which type of cancer affects the blood and bone marrow?",
+    "options": [
+      {
+        "text": "Carcinoma",
+        "isCorrect": false
+      },
+      {
+        "text": "Sarcoma",
+        "isCorrect": false
+      },
+      {
+        "text": "Leukemia",
+        "isCorrect": true
+      },
+      {
+        "text": "Lymphoma",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Leukemia is a type of cancer that affects the blood and bone marrow, leading to the overproduction of abnormal white blood cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which lifestyle factor is a known risk factor for developing lung cancer?",
+    "options": [
+      {
+        "text": "Smoking",
+        "isCorrect": true
+      },
+      {
+        "text": "High sugar intake",
+        "isCorrect": false
+      },
+      {
+        "text": "Low physical activity",
+        "isCorrect": false
+      },
+      {
+        "text": "Excessive sunlight exposure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Smoking is a well-known risk factor for developing lung cancer due to the carcinogenic substances in tobacco smoke.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which of the following is a tumor suppressor gene that can prevent cancer development?",
+    "options": [
+      {
+        "text": "p53",
+        "isCorrect": true
+      },
+      {
+        "text": "MYC",
+        "isCorrect": false
+      },
+      {
+        "text": "RAS",
+        "isCorrect": false
+      },
+      {
+        "text": "BCL2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "p53 is a tumor suppressor gene that can prevent cancer development by inducing cell cycle arrest and apoptosis in response to DNA damage.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following treatments involves the use of drugs to kill cancer cells?",
+    "options": [
+      {
+        "text": "Chemotherapy",
+        "isCorrect": true
+      },
+      {
+        "text": "Radiation therapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Surgery",
+        "isCorrect": false
+      },
+      {
+        "text": "Immunotherapy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chemotherapy involves the use of drugs to kill cancer cells or stop their growth.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which of the following is a hallmark of cancer?",
+    "options": [
+      {
+        "text": "Controlled cell death",
+        "isCorrect": false
+      },
+      {
+        "text": "Uncontrolled cell division",
+        "isCorrect": true
+      },
+      {
+        "text": "Normal cell growth",
+        "isCorrect": false
+      },
+      {
+        "text": "Limited cell lifespan",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A hallmark of cancer is uncontrolled cell division, where cells grow and divide uncontrollably, leading to tumor formation.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 12,
+    "questionText": "Which gene is commonly mutated in many types of cancer and is known as the 'guardian of the genome'?",
+    "options": [
+      {
+        "text": "p53",
+        "isCorrect": true
+      },
+      {
+        "text": "BRCA1",
+        "isCorrect": false
+      },
+      {
+        "text": "MYC",
+        "isCorrect": false
+      },
+      {
+        "text": "RAS",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The p53 gene, often referred to as the 'guardian of the genome,' is commonly mutated in many types of cancer and plays a critical role in preventing cancer formation.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which type of cancer originates in connective tissues such as bone, cartilage, or muscle?",
+    "options": [
+      {
+        "text": "Carcinoma",
+        "isCorrect": false
+      },
+      {
+        "text": "Sarcoma",
+        "isCorrect": true
+      },
+      {
+        "text": "Leukemia",
+        "isCorrect": false
+      },
+      {
+        "text": "Lymphoma",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sarcomas are cancers that originate in connective tissues such as bone, cartilage, or muscle.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which diagnostic imaging technique uses magnetic fields to produce detailed images of the inside of the body?",
+    "options": [
+      {
+        "text": "CT scan",
+        "isCorrect": false
+      },
+      {
+        "text": "MRI",
+        "isCorrect": true
+      },
+      {
+        "text": "Ultrasound",
+        "isCorrect": false
+      },
+      {
+        "text": "X-ray",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Magnetic Resonance Imaging (MRI) uses magnetic fields to produce detailed images of the inside of the body, helping in the diagnosis of various conditions, including cancer.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which treatment method involves the surgical removal of cancerous tissue?",
+    "options": [
+      {
+        "text": "Chemotherapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Radiation therapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Surgery",
+        "isCorrect": true
+      },
+      {
+        "text": "Immunotherapy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Surgery involves the removal of cancerous tissue and is often used to treat localized cancers.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which type of cancer treatment boosts the body's natural defenses to fight cancer?",
+    "options": [
+      {
+        "text": "Chemotherapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Radiation therapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Surgery",
+        "isCorrect": false
+      },
+      {
+        "text": "Immunotherapy",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Immunotherapy boosts the body's natural defenses to fight cancer by enhancing the immune system's ability to recognize and attack cancer cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which of the following is a risk factor for developing skin cancer?",
+    "options": [
+      {
+        "text": "Exposure to ultraviolet (UV) radiation",
+        "isCorrect": true
+      },
+      {
+        "text": "High sugar intake",
+        "isCorrect": false
+      },
+      {
+        "text": "Sedentary lifestyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Excessive alcohol consumption",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure to ultraviolet (UV) radiation from the sun or tanning beds is a significant risk factor for developing skin cancer.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which type of cancer originates in the lymphatic system?",
+    "options": [
+      {
+        "text": "Carcinoma",
+        "isCorrect": false
+      },
+      {
+        "text": "Sarcoma",
+        "isCorrect": false
+      },
+      {
+        "text": "Leukemia",
+        "isCorrect": false
+      },
+      {
+        "text": "Lymphoma",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Lymphomas are cancers that originate in the lymphatic system, which is part of the body's immune system.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which term refers to the spread of cancer from the primary site to other parts of the body?",
+    "options": [
+      {
+        "text": "Angiogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Metastasis",
+        "isCorrect": true
+      },
+      {
+        "text": "Hyperplasia",
+        "isCorrect": false
+      },
+      {
+        "text": "Anaplasia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Metastasis refers to the spread of cancer from the primary site to other parts of the body, forming secondary tumors.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which protein is involved in the regulation of the cell cycle and can trigger cell cycle arrest in response to DNA damage?",
+    "options": [
+      {
+        "text": "p53",
+        "isCorrect": true
+      },
+      {
+        "text": "BRCA1",
+        "isCorrect": false
+      },
+      {
+        "text": "MYC",
+        "isCorrect": false
+      },
+      {
+        "text": "RAS",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The p53 protein is involved in the regulation of the cell cycle and can trigger cell cycle arrest in response to DNA damage, preventing the propagation of damaged cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which of the following is a known carcinogen that can increase the risk of developing cancer?",
+    "options": [
+      {
+        "text": "Benzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Aspirin",
+        "isCorrect": false
+      },
+      {
+        "text": "Vitamin C",
+        "isCorrect": false
+      },
+      {
+        "text": "Insulin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene is a known carcinogen that can increase the risk of developing cancers, particularly leukemia, through long-term exposure.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which treatment method uses drugs to target and kill rapidly dividing cancer cells?",
+    "options": [
+      {
+        "text": "Chemotherapy",
+        "isCorrect": true
+      },
+      {
+        "text": "Radiation therapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Surgery",
+        "isCorrect": false
+      },
+      {
+        "text": "Immunotherapy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chemotherapy uses drugs to target and kill rapidly dividing cancer cells, which can also affect rapidly dividing normal cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which lifestyle factor is associated with an increased risk of colorectal cancer?",
+    "options": [
+      {
+        "text": "High intake of processed meats",
+        "isCorrect": true
+      },
+      {
+        "text": "Low fat diet",
+        "isCorrect": false
+      },
+      {
+        "text": "Regular physical activity",
+        "isCorrect": false
+      },
+      {
+        "text": "High fiber diet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A high intake of processed meats is associated with an increased risk of colorectal cancer due to the presence of carcinogenic substances formed during processing.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which genetic disorder is associated with an increased risk of developing breast cancer?",
+    "options": [
+      {
+        "text": "Down syndrome",
+        "isCorrect": false
+      },
+      {
+        "text": "Cystic fibrosis",
+        "isCorrect": false
+      },
+      {
+        "text": "BRCA1/BRCA2 mutations",
+        "isCorrect": true
+      },
+      {
+        "text": "Sickle cell anemia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mutations in the BRCA1 and BRCA2 genes are associated with a significantly increased risk of developing breast and ovarian cancers.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which of the following is a common side effect of chemotherapy?",
+    "options": [
+      {
+        "text": "Increased energy levels",
+        "isCorrect": false
+      },
+      {
+        "text": "Hair loss",
+        "isCorrect": true
+      },
+      {
+        "text": "Weight gain",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved immune function",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hair loss is a common side effect of chemotherapy, which occurs because the treatment targets rapidly dividing cells, including hair follicle cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which process involves the formation of new blood vessels to supply nutrients to a tumor?",
+    "options": [
+      {
+        "text": "Metastasis",
+        "isCorrect": false
+      },
+      {
+        "text": "Angiogenesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Hyperplasia",
+        "isCorrect": false
+      },
+      {
+        "text": "Anaplasia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Angiogenesis is the process by which new blood vessels form, providing nutrients and oxygen to a growing tumor.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 27,
+    "questionText": "Which type of cancer is associated with exposure to asbestos?",
+    "options": [
+      {
+        "text": "Lung cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Prostate cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Breast cancer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure to asbestos is strongly associated with the development of lung cancer, particularly a type known as mesothelioma.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which of the following is a common symptom of prostate cancer?",
+    "options": [
+      {
+        "text": "Frequent urination",
+        "isCorrect": true
+      },
+      {
+        "text": "Persistent cough",
+        "isCorrect": false
+      },
+      {
+        "text": "Severe headache",
+        "isCorrect": false
+      },
+      {
+        "text": "Jaundice",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Frequent urination is a common symptom of prostate cancer, often due to the pressure of the tumor on the urethra.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 29,
+    "questionText": "Which cancer treatment involves the use of high-energy radiation to kill or shrink tumors?",
+    "options": [
+      {
+        "text": "Chemotherapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Radiation therapy",
+        "isCorrect": true
+      },
+      {
+        "text": "Surgery",
+        "isCorrect": false
+      },
+      {
+        "text": "Immunotherapy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Radiation therapy involves the use of high-energy radiation to kill cancer cells and shrink tumors.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 30,
+    "questionText": "Which type of cancer originates in the blood-forming tissues, such as the bone marrow?",
+    "options": [
+      {
+        "text": "Carcinoma",
+        "isCorrect": false
+      },
+      {
+        "text": "Sarcoma",
+        "isCorrect": false
+      },
+      {
+        "text": "Leukemia",
+        "isCorrect": true
+      },
+      {
+        "text": "Lymphoma",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Leukemia is a type of cancer that originates in the blood-forming tissues, such as the bone marrow, leading to the overproduction of abnormal white blood cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which type of cancer is most strongly associated with smoking?",
+    "options": [
+      {
+        "text": "Lung cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Breast cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Colon cancer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Smoking is most strongly associated with lung cancer due to the carcinogenic substances found in tobacco smoke.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 32,
+    "questionText": "Which process allows cancer cells to spread from the primary site to other parts of the body?",
+    "options": [
+      {
+        "text": "Metastasis",
+        "isCorrect": true
+      },
+      {
+        "text": "Angiogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Hyperplasia",
+        "isCorrect": false
+      },
+      {
+        "text": "Anaplasia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Metastasis is the process by which cancer cells spread from the primary site to other parts of the body, forming secondary tumors.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 33,
+    "questionText": "Which protein, when mutated, is known to contribute to the development of cancer by promoting cell division?",
+    "options": [
+      {
+        "text": "p53",
+        "isCorrect": false
+      },
+      {
+        "text": "BRCA1",
+        "isCorrect": false
+      },
+      {
+        "text": "MYC",
+        "isCorrect": true
+      },
+      {
+        "text": "BCL2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The MYC gene, when mutated, can contribute to the development of cancer by promoting cell division and proliferation.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 34,
+    "questionText": "Which type of cancer is detected using a Pap smear test?",
+    "options": [
+      {
+        "text": "Breast cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Prostate cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Cervical cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A Pap smear test is used to detect cervical cancer by collecting cells from the cervix and examining them for abnormalities.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "Which cancer treatment involves the use of the body's immune system to fight cancer?",
+    "options": [
+      {
+        "text": "Chemotherapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Radiation therapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Surgery",
+        "isCorrect": false
+      },
+      {
+        "text": "Immunotherapy",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Immunotherapy involves the use of the body's immune system to fight cancer by enhancing the immune response against cancer cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 36,
+    "questionText": "Which lifestyle factor is most strongly associated with an increased risk of developing skin cancer?",
+    "options": [
+      {
+        "text": "Exposure to ultraviolet (UV) radiation",
+        "isCorrect": true
+      },
+      {
+        "text": "High fat diet",
+        "isCorrect": false
+      },
+      {
+        "text": "Sedentary lifestyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Excessive alcohol consumption",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure to ultraviolet (UV) radiation from the sun or tanning beds is the most strongly associated lifestyle factor with an increased risk of developing skin cancer.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 37,
+    "questionText": "Which type of cancer is most commonly associated with mutations in the BRCA1 and BRCA2 genes?",
+    "options": [
+      {
+        "text": "Lung cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Breast cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Prostate cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mutations in the BRCA1 and BRCA2 genes are most commonly associated with an increased risk of developing breast and ovarian cancers.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 38,
+    "questionText": "Which process is characterized by the uncontrolled growth and spread of abnormal cells?",
+    "options": [
+      {
+        "text": "Metastasis",
+        "isCorrect": false
+      },
+      {
+        "text": "Angiogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Hyperplasia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cancer is characterized by the uncontrolled growth and spread of abnormal cells that can invade and destroy normal body tissue.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 39,
+    "questionText": "Which type of cancer affects the lymphatic system and can cause swollen lymph nodes?",
+    "options": [
+      {
+        "text": "Carcinoma",
+        "isCorrect": false
+      },
+      {
+        "text": "Sarcoma",
+        "isCorrect": false
+      },
+      {
+        "text": "Leukemia",
+        "isCorrect": false
+      },
+      {
+        "text": "Lymphoma",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Lymphoma is a type of cancer that affects the lymphatic system and can cause swollen lymph nodes, fatigue, and weight loss.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 40,
+    "questionText": "Which treatment method uses high-energy radiation to kill cancer cells and shrink tumors?",
+    "options": [
+      {
+        "text": "Chemotherapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Radiation therapy",
+        "isCorrect": true
+      },
+      {
+        "text": "Surgery",
+        "isCorrect": false
+      },
+      {
+        "text": "Immunotherapy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Radiation therapy uses high-energy radiation to kill cancer cells and shrink tumors, often used in combination with other treatments.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 41,
+    "questionText": "Which of the following is a known risk factor for developing liver cancer?",
+    "options": [
+      {
+        "text": "Hepatitis B and C infections",
+        "isCorrect": true
+      },
+      {
+        "text": "High fiber diet",
+        "isCorrect": false
+      },
+      {
+        "text": "Regular exercise",
+        "isCorrect": false
+      },
+      {
+        "text": "Low fat diet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chronic infections with hepatitis B and C viruses are known risk factors for developing liver cancer due to the chronic inflammation they cause.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 42,
+    "questionText": "Which process allows tumors to develop their own blood supply?",
+    "options": [
+      {
+        "text": "Metastasis",
+        "isCorrect": false
+      },
+      {
+        "text": "Angiogenesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Hyperplasia",
+        "isCorrect": false
+      },
+      {
+        "text": "Anaplasia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Angiogenesis is the process by which tumors develop their own blood supply, enabling them to grow and spread.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 43,
+    "questionText": "Which protein, known as a tumor suppressor, is frequently mutated in various types of cancer?",
+    "options": [
+      {
+        "text": "p53",
+        "isCorrect": true
+      },
+      {
+        "text": "BRCA1",
+        "isCorrect": false
+      },
+      {
+        "text": "MYC",
+        "isCorrect": false
+      },
+      {
+        "text": "BCL2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The p53 protein is a tumor suppressor that is frequently mutated in various types of cancer, leading to the loss of cell cycle control.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 44,
+    "questionText": "Which type of cancer is most commonly diagnosed in women worldwide?",
+    "options": [
+      {
+        "text": "Lung cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Breast cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Prostate cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Breast cancer is the most commonly diagnosed cancer in women worldwide, with a high incidence rate and significant mortality.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 45,
+    "questionText": "Which genetic mutation is strongly associated with an increased risk of colorectal cancer?",
+    "options": [
+      {
+        "text": "APC gene mutation",
+        "isCorrect": true
+      },
+      {
+        "text": "BRCA1 gene mutation",
+        "isCorrect": false
+      },
+      {
+        "text": "MYC gene mutation",
+        "isCorrect": false
+      },
+      {
+        "text": "BCL2 gene mutation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mutations in the APC gene are strongly associated with an increased risk of developing colorectal cancer, particularly in familial adenomatous polyposis (FAP).",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 46,
+    "questionText": "Which type of cancer is often associated with a high-fat diet and obesity?",
+    "options": [
+      {
+        "text": "Breast cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Leukemia",
+        "isCorrect": false
+      },
+      {
+        "text": "Lymphoma",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A high-fat diet and obesity are associated with an increased risk of developing breast cancer, particularly in postmenopausal women.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 47,
+    "questionText": "Which type of cancer is most commonly associated with exposure to UV radiation?",
+    "options": [
+      {
+        "text": "Lung cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Breast cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Colon cancer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure to ultraviolet (UV) radiation from the sun or tanning beds is most commonly associated with skin cancer, including melanoma.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 48,
+    "questionText": "Which of the following is a known carcinogen that can increase the risk of developing cancer?",
+    "options": [
+      {
+        "text": "Asbestos",
+        "isCorrect": true
+      },
+      {
+        "text": "Aspirin",
+        "isCorrect": false
+      },
+      {
+        "text": "Vitamin D",
+        "isCorrect": false
+      },
+      {
+        "text": "Insulin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Asbestos is a known carcinogen that can increase the risk of developing lung cancer and mesothelioma through inhalation of asbestos fibers.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 49,
+    "questionText": "Which treatment method involves using the body's immune system to fight cancer?",
+    "options": [
+      {
+        "text": "Chemotherapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Radiation therapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Immunotherapy",
+        "isCorrect": true
+      },
+      {
+        "text": "Surgery",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Immunotherapy involves using the body's immune system to fight cancer by enhancing the immune response against cancer cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 50,
+    "questionText": "Which type of cancer is commonly detected using a mammogram?",
+    "options": [
+      {
+        "text": "Breast cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Prostate cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Lung cancer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A mammogram is an imaging test commonly used to detect breast cancer by taking X-ray images of the breast tissue.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 51,
+    "questionText": "Which of the following genes, when mutated, can lead to the development of cancer by promoting cell growth?",
+    "options": [
+      {
+        "text": "Oncogenes",
+        "isCorrect": true
+      },
+      {
+        "text": "Tumor suppressor genes",
+        "isCorrect": false
+      },
+      {
+        "text": "Homeotic genes",
+        "isCorrect": false
+      },
+      {
+        "text": "Segmentation genes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oncogenes are mutated forms of proto-oncogenes that can lead to the development of cancer by promoting uncontrolled cell growth.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 54,
+    "questionText": "Which type of cancer is most commonly diagnosed in men worldwide?",
+    "options": [
+      {
+        "text": "Lung cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Prostate cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Breast cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prostate cancer is the most commonly diagnosed cancer in men worldwide, with a high incidence rate and significant mortality.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 64,
+    "questionText": "Which of the following is a common side effect of chemotherapy?",
+    "options": [
+      {
+        "text": "Hair loss",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased appetite",
+        "isCorrect": false
+      },
+      {
+        "text": "Weight gain",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved immune function",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hair loss is a common side effect of chemotherapy, which occurs because the treatment targets rapidly dividing cells, including hair follicle cells.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 76,
+    "questionText": "Which of the following is a risk factor for developing skin cancer?",
+    "options": [
+      {
+        "text": "Exposure to ultraviolet (UV) radiation",
+        "isCorrect": true
+      },
+      {
+        "text": "High sugar intake",
+        "isCorrect": false
+      },
+      {
+        "text": "Low physical activity",
+        "isCorrect": false
+      },
+      {
+        "text": "Excessive alcohol consumption",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure to ultraviolet (UV) radiation from the sun or tanning beds is a significant risk factor for developing skin cancer.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "EASY"
+  },
+  {
+    "qno": 84,
+    "questionText": "Which of the following is a risk factor for developing liver cancer?",
+    "options": [
+      {
+        "text": "Hepatitis B and C infections",
+        "isCorrect": true
+      },
+      {
+        "text": "High fiber diet",
+        "isCorrect": false
+      },
+      {
+        "text": "Regular exercise",
+        "isCorrect": false
+      },
+      {
+        "text": "Low fat diet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chronic infections with hepatitis B and C viruses are known risk factors for developing liver cancer due to the chronic inflammation they cause.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "HARD"
+  },
+  {
+    "qno": 94,
+    "questionText": "Which type of cancer is detected using a mammogram?",
+    "options": [
+      {
+        "text": "Breast cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Prostate cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Lung cancer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A mammogram is an imaging test commonly used to detect breast cancer by taking X-ray images of the breast tissue.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 95,
+    "questionText": "Which treatment method involves the use of high-energy radiation to kill or shrink tumors?",
+    "options": [
+      {
+        "text": "Chemotherapy",
+        "isCorrect": false
+      },
+      {
+        "text": "Radiation therapy",
+        "isCorrect": true
+      },
+      {
+        "text": "Surgery",
+        "isCorrect": false
+      },
+      {
+        "text": "Immunotherapy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Radiation therapy uses high-energy radiation to kill cancer cells and shrink tumors.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.4 Cancer",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 1,
+    "questionText": "Which of the following is a commonly abused drug that acts as a central nervous system depressant?",
+    "options": [
+      {
+        "text": "Alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Cocaine",
+        "isCorrect": false
+      },
+      {
+        "text": "Methamphetamine",
+        "isCorrect": false
+      },
+      {
+        "text": "LSD",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alcohol is a commonly abused drug that acts as a central nervous system depressant, slowing down brain function and bodily processes.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which of the following is a major health consequence of chronic alcohol abuse?",
+    "options": [
+      {
+        "text": "Liver cirrhosis",
+        "isCorrect": true
+      },
+      {
+        "text": "Lung cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Skin infections",
+        "isCorrect": false
+      },
+      {
+        "text": "Osteoporosis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chronic alcohol abuse can lead to liver cirrhosis, a condition where liver tissue is replaced by scar tissue, impairing liver function.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which neurotransmitter is primarily affected by the consumption of alcohol?",
+    "options": [
+      {
+        "text": "Dopamine",
+        "isCorrect": false
+      },
+      {
+        "text": "GABA",
+        "isCorrect": true
+      },
+      {
+        "text": "Serotonin",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetylcholine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alcohol primarily affects the neurotransmitter GABA (gamma-aminobutyric acid), enhancing its inhibitory effects and leading to sedation and relaxation.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which drug is commonly associated with the development of tolerance and physical dependence?",
+    "options": [
+      {
+        "text": "Heroin",
+        "isCorrect": true
+      },
+      {
+        "text": "LSD",
+        "isCorrect": false
+      },
+      {
+        "text": "Marijuana",
+        "isCorrect": false
+      },
+      {
+        "text": "MDMA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Heroin is an opioid that is commonly associated with the development of tolerance and physical dependence, leading to withdrawal symptoms upon cessation.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which of the following is a stimulant drug that increases alertness and energy?",
+    "options": [
+      {
+        "text": "Cocaine",
+        "isCorrect": true
+      },
+      {
+        "text": "Alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Heroin",
+        "isCorrect": false
+      },
+      {
+        "text": "LSD",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cocaine is a stimulant drug that increases alertness and energy by increasing levels of dopamine in the brain.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which condition is characterized by a severe and potentially life-threatening reaction to alcohol withdrawal?",
+    "options": [
+      {
+        "text": "Delirium tremens",
+        "isCorrect": true
+      },
+      {
+        "text": "Alcoholic hepatitis",
+        "isCorrect": false
+      },
+      {
+        "text": "Wernicke-Korsakoff syndrome",
+        "isCorrect": false
+      },
+      {
+        "text": "Fatty liver disease",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Delirium tremens is a severe and potentially life-threatening reaction to alcohol withdrawal, characterized by confusion, tremors, and hallucinations.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which drug is known for its hallucinogenic effects and is often referred to as 'acid'?",
+    "options": [
+      {
+        "text": "LSD",
+        "isCorrect": true
+      },
+      {
+        "text": "Heroin",
+        "isCorrect": false
+      },
+      {
+        "text": "Cocaine",
+        "isCorrect": false
+      },
+      {
+        "text": "Methamphetamine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "LSD (lysergic acid diethylamide) is known for its hallucinogenic effects and is often referred to as 'acid.' It can cause profound changes in perception and mood.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which neurotransmitter is primarily affected by the consumption of cocaine?",
+    "options": [
+      {
+        "text": "Dopamine",
+        "isCorrect": true
+      },
+      {
+        "text": "GABA",
+        "isCorrect": false
+      },
+      {
+        "text": "Serotonin",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetylcholine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cocaine primarily affects the neurotransmitter dopamine by blocking its reuptake, leading to increased dopamine levels in the brain and intense euphoria.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which of the following is a health consequence of long-term marijuana use?",
+    "options": [
+      {
+        "text": "Impaired memory",
+        "isCorrect": true
+      },
+      {
+        "text": "Liver cirrhosis",
+        "isCorrect": false
+      },
+      {
+        "text": "Heart disease",
+        "isCorrect": false
+      },
+      {
+        "text": "Kidney failure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Long-term marijuana use can lead to impaired memory, cognitive decline, and changes in brain structure and function.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which condition is associated with the chronic abuse of methamphetamine?",
+    "options": [
+      {
+        "text": "Meth mouth",
+        "isCorrect": true
+      },
+      {
+        "text": "Wernicke-Korsakoff syndrome",
+        "isCorrect": false
+      },
+      {
+        "text": "Alcoholic hepatitis",
+        "isCorrect": false
+      },
+      {
+        "text": "Fatty liver disease",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Meth mouth is a condition associated with chronic methamphetamine abuse, characterized by severe dental decay, tooth loss, and gum disease.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which of the following is a common effect of consuming high doses of alcohol?",
+    "options": [
+      {
+        "text": "Decreased coordination",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased alertness",
+        "isCorrect": false
+      },
+      {
+        "text": "Enhanced memory",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved judgment",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Consuming high doses of alcohol can lead to decreased coordination, impaired judgment, and slowed reaction times.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "EASY"
+  },
+  {
+    "qno": 12,
+    "questionText": "Which of the following is a symptom of opioid withdrawal?",
+    "options": [
+      {
+        "text": "Nausea and vomiting",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Weight gain",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved mood",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Opioid withdrawal symptoms include nausea, vomiting, muscle aches, agitation, and anxiety.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which neurotransmitter's activity is increased by the consumption of methamphetamine?",
+    "options": [
+      {
+        "text": "Dopamine",
+        "isCorrect": true
+      },
+      {
+        "text": "GABA",
+        "isCorrect": false
+      },
+      {
+        "text": "Serotonin",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetylcholine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methamphetamine increases the activity of dopamine, leading to heightened alertness, energy, and euphoria.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which drug is known for causing severe dental problems known as 'meth mouth'?",
+    "options": [
+      {
+        "text": "Methamphetamine",
+        "isCorrect": true
+      },
+      {
+        "text": "LSD",
+        "isCorrect": false
+      },
+      {
+        "text": "Heroin",
+        "isCorrect": false
+      },
+      {
+        "text": "Cocaine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methamphetamine abuse is associated with severe dental problems, often referred to as 'meth mouth,' which includes tooth decay and gum disease.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which of the following drugs is classified as a hallucinogen?",
+    "options": [
+      {
+        "text": "LSD",
+        "isCorrect": true
+      },
+      {
+        "text": "Cocaine",
+        "isCorrect": false
+      },
+      {
+        "text": "Heroin",
+        "isCorrect": false
+      },
+      {
+        "text": "Methamphetamine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "LSD (lysergic acid diethylamide) is classified as a hallucinogen, causing profound changes in perception, mood, and thought.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "EASY"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which condition is characterized by severe alcohol withdrawal symptoms, including hallucinations and seizures?",
+    "options": [
+      {
+        "text": "Delirium tremens",
+        "isCorrect": true
+      },
+      {
+        "text": "Alcoholic hepatitis",
+        "isCorrect": false
+      },
+      {
+        "text": "Wernicke-Korsakoff syndrome",
+        "isCorrect": false
+      },
+      {
+        "text": "Fatty liver disease",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Delirium tremens is a severe form of alcohol withdrawal that includes symptoms such as hallucinations, tremors, and seizures.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which neurotransmitter's activity is increased by the consumption of cocaine?",
+    "options": [
+      {
+        "text": "Dopamine",
+        "isCorrect": true
+      },
+      {
+        "text": "GABA",
+        "isCorrect": false
+      },
+      {
+        "text": "Serotonin",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetylcholine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cocaine increases the activity of dopamine by blocking its reuptake, leading to elevated levels and intense euphoria.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which of the following is a health consequence of long-term alcohol abuse?",
+    "options": [
+      {
+        "text": "Liver cirrhosis",
+        "isCorrect": true
+      },
+      {
+        "text": "Lung cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Skin infections",
+        "isCorrect": false
+      },
+      {
+        "text": "Osteoporosis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Long-term alcohol abuse can lead to liver cirrhosis, a condition where liver tissue is replaced by scar tissue, impairing liver function.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which drug is known for its addictive properties and can lead to severe physical dependence?",
+    "options": [
+      {
+        "text": "Heroin",
+        "isCorrect": true
+      },
+      {
+        "text": "LSD",
+        "isCorrect": false
+      },
+      {
+        "text": "Marijuana",
+        "isCorrect": false
+      },
+      {
+        "text": "MDMA",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Heroin is an opioid known for its highly addictive properties and can lead to severe physical dependence and withdrawal symptoms.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which of the following is a symptom of withdrawal from benzodiazepines?",
+    "options": [
+      {
+        "text": "Anxiety",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased appetite",
+        "isCorrect": false
+      },
+      {
+        "text": "Weight gain",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved mood",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Withdrawal from benzodiazepines can cause symptoms such as anxiety, insomnia, and irritability.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which drug is known for causing profound changes in perception and is often referred to as a hallucinogen?",
+    "options": [
+      {
+        "text": "LSD",
+        "isCorrect": true
+      },
+      {
+        "text": "Cocaine",
+        "isCorrect": false
+      },
+      {
+        "text": "Heroin",
+        "isCorrect": false
+      },
+      {
+        "text": "Methamphetamine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "LSD (lysergic acid diethylamide) is known for causing profound changes in perception, mood, and thought, and is classified as a hallucinogen.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "EASY"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which of the following is a common withdrawal symptom of alcohol?",
+    "options": [
+      {
+        "text": "Tremors",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased appetite",
+        "isCorrect": false
+      },
+      {
+        "text": "Weight gain",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved mood",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Common withdrawal symptoms of alcohol include tremors, anxiety, sweating, and agitation.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which neurotransmitter's activity is decreased by the consumption of alcohol?",
+    "options": [
+      {
+        "text": "GABA",
+        "isCorrect": false
+      },
+      {
+        "text": "Dopamine",
+        "isCorrect": false
+      },
+      {
+        "text": "Glutamate",
+        "isCorrect": true
+      },
+      {
+        "text": "Serotonin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alcohol decreases the activity of glutamate, a neurotransmitter involved in excitatory signaling, leading to its depressant effects.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which condition is associated with the chronic abuse of alcohol and characterized by severe cognitive impairment?",
+    "options": [
+      {
+        "text": "Wernicke-Korsakoff syndrome",
+        "isCorrect": true
+      },
+      {
+        "text": "Delirium tremens",
+        "isCorrect": false
+      },
+      {
+        "text": "Alcoholic hepatitis",
+        "isCorrect": false
+      },
+      {
+        "text": "Fatty liver disease",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Wernicke-Korsakoff syndrome is associated with chronic alcohol abuse and is characterized by severe cognitive impairment, memory loss, and coordination problems.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which of the following is a symptom of cocaine withdrawal?",
+    "options": [
+      {
+        "text": "Depression",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved mood",
+        "isCorrect": false
+      },
+      {
+        "text": "Weight gain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cocaine withdrawal symptoms can include depression, fatigue, increased appetite, and disturbed sleep.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which neurotransmitter is primarily affected by the consumption of marijuana?",
+    "options": [
+      {
+        "text": "Dopamine",
+        "isCorrect": false
+      },
+      {
+        "text": "GABA",
+        "isCorrect": false
+      },
+      {
+        "text": "Serotonin",
+        "isCorrect": false
+      },
+      {
+        "text": "Anandamide",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Marijuana primarily affects the neurotransmitter anandamide, mimicking its effects by binding to cannabinoid receptors in the brain.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  },
+  {
+    "qno": 27,
+    "questionText": "Which of the following is a commonly abused prescription opioid?",
+    "options": [
+      {
+        "text": "Oxycodone",
+        "isCorrect": true
+      },
+      {
+        "text": "Amphetamine",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzodiazepine",
+        "isCorrect": false
+      },
+      {
+        "text": "Ketamine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxycodone is a commonly abused prescription opioid, known for its pain-relieving effects and high potential for addiction and dependence.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which of the following is a major health consequence of chronic methamphetamine abuse?",
+    "options": [
+      {
+        "text": "Severe dental problems",
+        "isCorrect": true
+      },
+      {
+        "text": "Liver cirrhosis",
+        "isCorrect": false
+      },
+      {
+        "text": "Heart disease",
+        "isCorrect": false
+      },
+      {
+        "text": "Kidney failure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chronic methamphetamine abuse can lead to severe dental problems, often referred to as 'meth mouth,' as well as other health issues such as heart problems and cognitive deficits.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "Which of the following is a symptom of opioid overdose?",
+    "options": [
+      {
+        "text": "Respiratory depression",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Weight gain",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved mood",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Opioid overdose can cause respiratory depression, where breathing becomes dangerously slow or stops altogether, which can be life-threatening.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  },
+  {
+    "qno": 30,
+    "questionText": "Which neurotransmitter's activity is primarily increased by the consumption of MDMA (Ecstasy)?",
+    "options": [
+      {
+        "text": "Serotonin",
+        "isCorrect": true
+      },
+      {
+        "text": "Dopamine",
+        "isCorrect": false
+      },
+      {
+        "text": "GABA",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetylcholine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "MDMA (Ecstasy) primarily increases the activity of serotonin, leading to enhanced mood, empathy, and sensory perception.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  },
+  {
+    "qno": 61,
+    "questionText": "Which neurotransmitter's activity is primarily increased by the consumption of methamphetamine?",
+    "options": [
+      {
+        "text": "Dopamine",
+        "isCorrect": true
+      },
+      {
+        "text": "GABA",
+        "isCorrect": false
+      },
+      {
+        "text": "Serotonin",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetylcholine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methamphetamine increases the activity of dopamine, leading to heightened alertness, energy, and euphoria.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  },
+  {
+    "qno": 89,
+    "questionText": "Which neurotransmitter's activity is increased by the consumption of MDMA (Ecstasy)?",
+    "options": [
+      {
+        "text": "Serotonin",
+        "isCorrect": true
+      },
+      {
+        "text": "Dopamine",
+        "isCorrect": false
+      },
+      {
+        "text": "GABA",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetylcholine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "MDMA (Ecstasy) primarily increases the activity of serotonin, leading to enhanced mood, empathy, and sensory perception.",
+    "chapter": "Human Health and Disease",
+    "topic": "7.5 Drugs and Alcohol Abuse",
+    "level": "HARD"
+  }
+]

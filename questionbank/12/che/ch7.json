@@ -1,0 +1,6840 @@
+[
+  {
+    "qno": 1,
+    "questionText": "Which of the following is a primary alcohol?",
+    "options": [
+      {
+        "text": "1-propanol",
+        "isCorrect": true
+      },
+      {
+        "text": "2-propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "tert-butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "1-butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Primary alcohols have the hydroxyl group connected to a carbon atom that is only attached to one other alkyl group. 1-propanol is a primary alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which of the following is a secondary alcohol?",
+    "options": [
+      {
+        "text": "2-propanol",
+        "isCorrect": true
+      },
+      {
+        "text": "1-propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Secondary alcohols have the hydroxyl group connected to a carbon atom that is attached to two other alkyl groups. 2-propanol is a secondary alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which of the following compounds is an allylic alcohol?",
+    "options": [
+      {
+        "text": "2-propen-1-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "2-buten-1-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "1-butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-methyl-2-propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Allylic alcohols have the hydroxyl group attached to an sp^3 hybridized carbon adjacent to a carbon-carbon double bond. 2-propen-1-ol is an allylic alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which of the following is a tertiary alcohol?",
+    "options": [
+      {
+        "text": "tert-butanol",
+        "isCorrect": true
+      },
+      {
+        "text": "2-propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "1-propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "1-butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tertiary alcohols have the hydroxyl group connected to a carbon atom that is attached to three other alkyl groups. tert-butanol is a tertiary alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which of the following compounds is an example of a benzylic alcohol?",
+    "options": [
+      {
+        "text": "benzyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "phenol",
+        "isCorrect": false
+      },
+      {
+        "text": "cyclohexanol",
+        "isCorrect": false
+      },
+      {
+        "text": "1-butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzylic alcohols have the hydroxyl group attached to a sp^3 hybridized carbon atom next to an aromatic ring. Benzyl alcohol is a benzylic alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which of the following alcohols contains a vinylic carbon?",
+    "options": [
+      {
+        "text": "vinyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "benzyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "cyclohexanol",
+        "isCorrect": false
+      },
+      {
+        "text": "1-propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Vinylic alcohols contain a hydroxyl group bonded to a carbon-carbon double bond (vinylic carbon). Vinyl alcohol is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "HARD"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which of the following is a monohydric alcohol?",
+    "options": [
+      {
+        "text": "methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "ethylene glycol",
+        "isCorrect": false
+      },
+      {
+        "text": "glycerol",
+        "isCorrect": false
+      },
+      {
+        "text": "phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Monohydric alcohols contain only one hydroxyl group. Methanol is a monohydric alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which of the following compounds is classified as a trihydric alcohol?",
+    "options": [
+      {
+        "text": "glycerol",
+        "isCorrect": true
+      },
+      {
+        "text": "methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "ethylene glycol",
+        "isCorrect": false
+      },
+      {
+        "text": "phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Trihydric alcohols contain three hydroxyl groups. Glycerol is a trihydric alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which of the following is a dihydric alcohol?",
+    "options": [
+      {
+        "text": "ethylene glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "glycerol",
+        "isCorrect": false
+      },
+      {
+        "text": "phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dihydric alcohols contain two hydroxyl groups. Ethylene glycol is a dihydric alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following compounds is an example of a phenol?",
+    "options": [
+      {
+        "text": "phenol",
+        "isCorrect": true
+      },
+      {
+        "text": "methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "glycerol",
+        "isCorrect": false
+      },
+      {
+        "text": "ethylene glycol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Phenols have the hydroxyl group attached to an aromatic ring. Phenol itself is an example of this class.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which of the following compounds is classified as a polyhydric alcohol?",
+    "options": [
+      {
+        "text": "glycerol",
+        "isCorrect": true
+      },
+      {
+        "text": "methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "ethylene glycol",
+        "isCorrect": false
+      },
+      {
+        "text": "phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyhydric alcohols contain more than three hydroxyl groups. Glycerol, with three hydroxyl groups, is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "What type of alcohol is tert-butanol?",
+    "options": [
+      {
+        "text": "Tertiary alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Primary alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Secondary alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Polyhydric alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tert-butanol is a tertiary alcohol because the hydroxyl group is attached to a carbon atom connected to three other carbon atoms.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which of the following is an example of an ether?",
+    "options": [
+      {
+        "text": "diethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "glycerol",
+        "isCorrect": false
+      },
+      {
+        "text": "phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethers contain an oxygen atom connected to two alkyl or aryl groups. Diethyl ether (C_2H_5-O-C_2H_5) is a common example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which type of alcohol is formed by the substitution of a hydrogen atom in a hydrocarbon by an alkoxy group?",
+    "options": [
+      {
+        "text": "Ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Secondary alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An ether is formed by substituting a hydrogen atom in a hydrocarbon with an alkoxy group (R-O-R').",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which of the following alcohols is also known as wood spirit?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is commonly known as wood spirit because it was historically produced by the destructive distillation of wood.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which alcohol can be classified as a secondary allylic alcohol?",
+    "options": [
+      {
+        "text": "2-buten-1-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-propen-1-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "but-3-en-2-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "1-butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A secondary allylic alcohol has the hydroxyl group attached to a secondary carbon adjacent to a carbon-carbon double bond. But-3-en-2-ol fits this classification.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "HARD"
+  },
+  {
+    "qno": 17,
+    "questionText": "Identify the alcohol with the molecular formula $C_3H_8O$.",
+    "options": [
+      {
+        "text": "Propan-1-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propan-2-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The molecular formula $C_3H_8O$ corresponds to propan-1-ol, a primary alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which alcohol is derived from the reduction of butanal?",
+    "options": [
+      {
+        "text": "1-butanol",
+        "isCorrect": true
+      },
+      {
+        "text": "2-butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "tert-butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reduction of butanal (butyraldehyde) yields 1-butanol, a primary alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "What is the IUPAC name for $CH_3CH_2CH_2OH$?",
+    "options": [
+      {
+        "text": "Propan-1-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propan-2-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3CH_2CH_2OH$ is propan-1-ol, a primary alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which of the following statements is true about ethers?",
+    "options": [
+      {
+        "text": "Ethers have lower boiling points than alcohols of similar molecular weight.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethers are more polar than alcohols.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethers can form hydrogen bonds with themselves.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethers have higher boiling points than alcohols of similar molecular weight.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethers have lower boiling points than alcohols of similar molecular weight due to the lack of hydrogen bonding between ether molecules.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which of the following alcohols is an example of a benzylic alcohol?",
+    "options": [
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzylic alcohols have the hydroxyl group attached to a sp^3 hybridized carbon atom next to an aromatic ring. Benzyl alcohol is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which of the following compounds is a primary alcohol?",
+    "options": [
+      {
+        "text": "1-Butanol",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Methyl-2-propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Primary alcohols have the hydroxyl group connected to a carbon atom that is only attached to one other alkyl group. 1-Butanol is a primary alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which alcohol can be classified as a tertiary alcohol?",
+    "options": [
+      {
+        "text": "2-Methyl-2-propanol",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tertiary alcohols have the hydroxyl group connected to a carbon atom that is attached to three other alkyl groups. 2-Methyl-2-propanol is a tertiary alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which of the following is a characteristic of ethers?",
+    "options": [
+      {
+        "text": "Ethers generally have lower boiling points than alcohols of similar molecular weight.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethers can form hydrogen bonds with themselves.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethers are more polar than alcohols.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethers are usually less volatile than alcohols.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethers generally have lower boiling points than alcohols of similar molecular weight because they cannot form hydrogen bonds with themselves.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "What type of alcohol is 2-butanol?",
+    "options": [
+      {
+        "text": "Secondary alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Primary alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Tertiary alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Polyhydric alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2-Butanol is a secondary alcohol because the hydroxyl group is attached to a carbon atom connected to two other carbon atoms.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which of the following is an example of a vinylic alcohol?",
+    "options": [
+      {
+        "text": "Vinyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": false
+      },
+      {
+        "text": "1-Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Vinylic alcohols contain a hydroxyl group bonded to a carbon-carbon double bond (vinylic carbon). Vinyl alcohol is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "HARD"
+  },
+  {
+    "qno": 27,
+    "questionText": "Which of the following is a dihydric alcohol?",
+    "options": [
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Glycerol",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dihydric alcohols contain two hydroxyl groups. Ethylene glycol is a dihydric alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which of the following alcohols is classified as a monohydric alcohol?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": false
+      },
+      {
+        "text": "Glycerol",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Monohydric alcohols contain only one hydroxyl group. Methanol is a monohydric alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 29,
+    "questionText": "Which of the following alcohols can be obtained by the hydration of propene?",
+    "options": [
+      {
+        "text": "Isopropanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isopropanol can be obtained by the hydration of propene in the presence of acid.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 30,
+    "questionText": "Which of the following is not an alcohol?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Phenol is not classified as an alcohol because the hydroxyl group is attached to an aromatic ring.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which of the following compounds is classified as a secondary alcohol?",
+    "options": [
+      {
+        "text": "2-Propanol",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Secondary alcohols have the hydroxyl group connected to a carbon atom that is attached to two other alkyl groups. 2-Propanol is a secondary alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 32,
+    "questionText": "Which of the following alcohols is also known as rubbing alcohol?",
+    "options": [
+      {
+        "text": "Isopropanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isopropanol, also known as isopropyl alcohol, is commonly referred to as rubbing alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 33,
+    "questionText": "Which of the following is an example of a tertiary alcohol?",
+    "options": [
+      {
+        "text": "2-Methyl-2-propanol",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tertiary alcohols have the hydroxyl group connected to a carbon atom that is attached to three other alkyl groups. 2-Methyl-2-propanol is a tertiary alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 34,
+    "questionText": "Which of the following is a monohydric phenol?",
+    "options": [
+      {
+        "text": "Phenol",
+        "isCorrect": true
+      },
+      {
+        "text": "Catechol",
+        "isCorrect": false
+      },
+      {
+        "text": "Resorcinol",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydroquinone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Monohydric phenols contain one hydroxyl group attached to an aromatic ring. Phenol is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "Which of the following is a dihydric phenol?",
+    "options": [
+      {
+        "text": "Catechol",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dihydric phenols contain two hydroxyl groups attached to an aromatic ring. Catechol is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 36,
+    "questionText": "Which of the following is a trihydric phenol?",
+    "options": [
+      {
+        "text": "Phloroglucinol",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      },
+      {
+        "text": "Catechol",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydroquinone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Trihydric phenols contain three hydroxyl groups attached to an aromatic ring. Phloroglucinol is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "HARD"
+  },
+  {
+    "qno": 37,
+    "questionText": "Which of the following is an example of an aromatic alcohol?",
+    "options": [
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aromatic alcohols have the hydroxyl group attached to a carbon atom that is part of an aromatic ring system. Benzyl alcohol is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 38,
+    "questionText": "Which of the following compounds can be classified as an ether?",
+    "options": [
+      {
+        "text": "Diethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethers have an oxygen atom connected to two alkyl or aryl groups. Diethyl ether (C_2H_5-O-C_2H_5) is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 39,
+    "questionText": "What is the common name for ethylene glycol?",
+    "options": [
+      {
+        "text": "Glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethylene glycol is commonly known as glycol and is used as antifreeze and in the manufacture of polyester fibers.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 40,
+    "questionText": "Which alcohol is used as an antifreeze in automobile engines?",
+    "options": [
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Isopropanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethylene glycol is commonly used as an antifreeze in automobile engines due to its low freezing point.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 41,
+    "questionText": "Which of the following compounds is classified as a polyhydric alcohol?",
+    "options": [
+      {
+        "text": "Glycerol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyhydric alcohols contain more than two hydroxyl groups. Glycerol, with three hydroxyl groups, is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 42,
+    "questionText": "Which of the following is an example of an allylic alcohol?",
+    "options": [
+      {
+        "text": "2-Buten-1-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Allylic alcohols have the hydroxyl group attached to an sp^3 hybridized carbon adjacent to a carbon-carbon double bond. 2-Buten-1-ol is an allylic alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 43,
+    "questionText": "What is the IUPAC name for the compound commonly known as isopropyl alcohol?",
+    "options": [
+      {
+        "text": "Propan-2-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propan-1-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for isopropyl alcohol is propan-2-ol, a secondary alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 44,
+    "questionText": "Which of the following alcohols is classified as a primary alcohol?",
+    "options": [
+      {
+        "text": "1-Propanol",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Primary alcohols have the hydroxyl group connected to a carbon atom that is only attached to one other alkyl group. 1-Propanol is a primary alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 45,
+    "questionText": "Which of the following is an example of a benzylic alcohol?",
+    "options": [
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzylic alcohols have the hydroxyl group attached to an sp^3 hybridized carbon atom next to an aromatic ring. Benzyl alcohol is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 46,
+    "questionText": "Which of the following is a trihydric alcohol?",
+    "options": [
+      {
+        "text": "Glycerol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Trihydric alcohols contain three hydroxyl groups. Glycerol is a trihydric alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 47,
+    "questionText": "Which of the following is an example of a vinyl alcohol?",
+    "options": [
+      {
+        "text": "Vinyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Vinyl alcohols contain a hydroxyl group bonded to a carbon-carbon double bond (vinylic carbon). Vinyl alcohol is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "HARD"
+  },
+  {
+    "qno": 48,
+    "questionText": "Which of the following is an example of a phenol?",
+    "options": [
+      {
+        "text": "Phenol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Glycerol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Phenols have the hydroxyl group attached to an aromatic ring. Phenol itself is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 49,
+    "questionText": "Which of the following alcohols can be obtained by the reduction of formaldehyde?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "1-Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reduction of formaldehyde (methanal) yields methanol, a primary alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 50,
+    "questionText": "Which of the following is an example of a mixed ether?",
+    "options": [
+      {
+        "text": "Methyl ethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mixed ethers have two different alkyl or aryl groups attached to the oxygen atom. Methyl ethyl ether is an example.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is the IUPAC name of the compound $CH_3OH$?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name of $CH_3OH$ is methanol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "What is the common name for the compound $CH_3CH_2OH$?",
+    "options": [
+      {
+        "text": "Ethyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Isopropyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Glycol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3CH_2OH$ is ethyl alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "What is the IUPAC name of $CH_3CH_2CH_2OH$?",
+    "options": [
+      {
+        "text": "Propan-1-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propan-2-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Isopropyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name of $CH_3CH_2CH_2OH$ is propan-1-ol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is the common name for $C_6H_5OH$?",
+    "options": [
+      {
+        "text": "Phenol",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $C_6H_5OH$ is phenol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "What is the IUPAC name of $CH_3CH(OH)CH_3$?",
+    "options": [
+      {
+        "text": "Propan-2-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propan-1-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Isopropyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name of $CH_3CH(OH)CH_3$ is propan-2-ol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "What is the common name for $CH_3CH_2OCH_2CH_3$?",
+    "options": [
+      {
+        "text": "Diethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methyl ethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3CH_2OCH_2CH_3$ is diethyl ether.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "What is the IUPAC name of $CH_3CH_2CH_2OCH_2CH_3$?",
+    "options": [
+      {
+        "text": "Ethoxypropane",
+        "isCorrect": true
+      },
+      {
+        "text": "Propyl ethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyl propyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name of $CH_3CH_2CH_2OCH_2CH_3$ is ethoxypropane.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "What is the common name for $C_2H_5OC_2H_5$?",
+    "options": [
+      {
+        "text": "Diethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $C_2H_5OC_2H_5$ is diethyl ether.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "What is the IUPAC name of $CH_3OCH_3$?",
+    "options": [
+      {
+        "text": "Methoxymethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name of $CH_3OCH_3$ is methoxymethane.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "What is the common name for $CH_3OCH_3$?",
+    "options": [
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3OCH_3$ is dimethyl ether.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "What is the IUPAC name for $CH_3CH_2CH_2CH_2OH$?",
+    "options": [
+      {
+        "text": "Butan-1-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propan-2-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Isopropanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3CH_2CH_2CH_2OH$ is butan-1-ol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the common name for $CH_3CH_2CH_2OH$?",
+    "options": [
+      {
+        "text": "n-Propyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Isopropyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyl alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3CH_2CH_2OH$ is n-propyl alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "What is the IUPAC name for $CH_3CH_2OCH_3$?",
+    "options": [
+      {
+        "text": "Methoxyethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethyl methyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3CH_2OCH_3$ is methoxyethane.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "What is the common name for $CH_3CH_2OCH_3$?",
+    "options": [
+      {
+        "text": "Ethyl methyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Methoxyethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3CH_2OCH_3$ is ethyl methyl ether.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the IUPAC name for the compound commonly known as glycerol?",
+    "options": [
+      {
+        "text": "Propane-1,2,3-triol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propane-1,2-diol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane-1,2,3-triol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane-1,2-diol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for glycerol is propane-1,2,3-triol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "What is the common name for $CH_3CH_2OH$?",
+    "options": [
+      {
+        "text": "Ethyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Isopropyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Glycol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3CH_2OH$ is ethyl alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "What is the IUPAC name for the compound with the structure $CH_3CH_2CH_2OH$?",
+    "options": [
+      {
+        "text": "Propan-1-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propan-2-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Isopropyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3CH_2CH_2OH$ is propan-1-ol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "What is the IUPAC name for the compound commonly known as phenol?",
+    "options": [
+      {
+        "text": "Hydroxybenzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for phenol is hydroxybenzene.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "What is the common name for $CH_3OH$?",
+    "options": [
+      {
+        "text": "Methyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3OH$ is methyl alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 20,
+    "questionText": "What is the IUPAC name for $CH_3CH_2OH$?",
+    "options": [
+      {
+        "text": "Ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3CH_2OH$ is ethanol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "What is the IUPAC name for $C_6H_5CH_2OH$?",
+    "options": [
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $C_6H_5CH_2OH$ is benzyl alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "What is the common name for $C_6H_5CH_2OH$?",
+    "options": [
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $C_6H_5CH_2OH$ is benzyl alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "What is the IUPAC name for $CH_3CH(OH)CH_3$?",
+    "options": [
+      {
+        "text": "Propan-2-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propan-1-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Isopropyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3CH(OH)CH_3$ is propan-2-ol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "What is the common name for $CH_3CH(OH)CH_3$?",
+    "options": [
+      {
+        "text": "Isopropyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propan-2-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propan-1-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3CH(OH)CH_3$ is isopropyl alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 25,
+    "questionText": "What is the IUPAC name for the compound commonly known as tert-butyl alcohol?",
+    "options": [
+      {
+        "text": "2-Methylpropan-2-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propan-2-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Methylpropan-1-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for tert-butyl alcohol is 2-methylpropan-2-ol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "What is the IUPAC name for $CH_3CH_2OCH_2CH_3$?",
+    "options": [
+      {
+        "text": "Ethoxyethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methyl ethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3CH_2OCH_2CH_3$ is ethoxyethane.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 28,
+    "questionText": "What is the common name for $CH_3CH_2OCH_2CH_3$?",
+    "options": [
+      {
+        "text": "Diethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethyl methyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methoxyethane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3CH_2OCH_2CH_3$ is diethyl ether.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 29,
+    "questionText": "What is the IUPAC name for $CH_3OCH_2CH_3$?",
+    "options": [
+      {
+        "text": "Methoxyethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethyl methyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3OCH_2CH_3$ is methoxyethane.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 30,
+    "questionText": "What is the common name for $CH_3OCH_2CH_3$?",
+    "options": [
+      {
+        "text": "Ethyl methyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Methoxyethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3OCH_2CH_3$ is ethyl methyl ether.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 31,
+    "questionText": "What is the IUPAC name for $C_6H_5CH_2CH_2OH$?",
+    "options": [
+      {
+        "text": "2-Phenylethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $C_6H_5CH_2CH_2OH$ is 2-phenylethanol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 32,
+    "questionText": "What is the common name for $C_6H_5CH_2CH_2OH$?",
+    "options": [
+      {
+        "text": "Phenylethyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $C_6H_5CH_2CH_2OH$ is phenylethyl alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 33,
+    "questionText": "What is the IUPAC name for $CH_3CH_2CH_2OCH_2CH_3$?",
+    "options": [
+      {
+        "text": "Ethoxypropane",
+        "isCorrect": true
+      },
+      {
+        "text": "Propyl ethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyl propyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3CH_2CH_2OCH_2CH_3$ is ethoxypropane.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 34,
+    "questionText": "What is the common name for $CH_3CH_2CH_2OCH_2CH_3$?",
+    "options": [
+      {
+        "text": "Propyl ethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethoxypropane",
+        "isCorrect": false
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methyl ethyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3CH_2CH_2OCH_2CH_3$ is propyl ethyl ether.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 35,
+    "questionText": "What is the IUPAC name for $C_6H_5OCH_3$?",
+    "options": [
+      {
+        "text": "Methoxybenzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Methyl phenyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenyl methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $C_6H_5OCH_3$ is methoxybenzene.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 36,
+    "questionText": "What is the common name for $C_6H_5OCH_3$?",
+    "options": [
+      {
+        "text": "Methyl phenyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Methoxybenzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenyl methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $C_6H_5OCH_3$ is methyl phenyl ether.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 37,
+    "questionText": "What is the IUPAC name for the compound commonly known as aniline?",
+    "options": [
+      {
+        "text": "Benzenamine",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzylamine",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenylamine",
+        "isCorrect": false
+      },
+      {
+        "text": "Aminobenzene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for aniline is benzenamine.",
+    "chapter": "Amines",
+    "topic": "Nomenclature",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 38,
+    "questionText": "What is the common name for the compound $CH_3CH_2COOH$?",
+    "options": [
+      {
+        "text": "Propionic acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Formic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Butyric acid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3CH_2COOH$ is propionic acid.",
+    "chapter": "Carboxylic Acids",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 39,
+    "questionText": "What is the IUPAC name for $CH_3CH_2COOH$?",
+    "options": [
+      {
+        "text": "Propanoic acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanoic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanoic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanoic acid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3CH_2COOH$ is propanoic acid.",
+    "chapter": "Carboxylic Acids",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 40,
+    "questionText": "What is the common name for $C_6H_5CHO$?",
+    "options": [
+      {
+        "text": "Benzaldehyde",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenylmethanal",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzenecarbaldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $C_6H_5CHO$ is benzaldehyde.",
+    "chapter": "Aldehydes and Ketones",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 41,
+    "questionText": "What is the IUPAC name for $CH_3COCH_3$?",
+    "options": [
+      {
+        "text": "Propanone",
+        "isCorrect": true
+      },
+      {
+        "text": "Propanal",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetone",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3COCH_3$ is propanone.",
+    "chapter": "Aldehydes and Ketones",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 42,
+    "questionText": "What is the common name for $CH_3COCH_3$?",
+    "options": [
+      {
+        "text": "Acetone",
+        "isCorrect": true
+      },
+      {
+        "text": "Propanone",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanal",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3COCH_3$ is acetone.",
+    "chapter": "Aldehydes and Ketones",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 43,
+    "questionText": "What is the IUPAC name for $C_6H_5COOH$?",
+    "options": [
+      {
+        "text": "Benzoic acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene carboxylic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenylmethanoic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $C_6H_5COOH$ is benzoic acid.",
+    "chapter": "Carboxylic Acids",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 44,
+    "questionText": "What is the common name for $C_6H_5COOH$?",
+    "options": [
+      {
+        "text": "Benzoic acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene carboxylic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenylmethanoic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $C_6H_5COOH$ is benzoic acid.",
+    "chapter": "Carboxylic Acids",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 45,
+    "questionText": "What is the IUPAC name for $CH_3CH_2CHO$?",
+    "options": [
+      {
+        "text": "Propanal",
+        "isCorrect": true
+      },
+      {
+        "text": "Propanone",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetaldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3CH_2CHO$ is propanal.",
+    "chapter": "Aldehydes and Ketones",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 46,
+    "questionText": "What is the common name for $CH_3CH_2CHO$?",
+    "options": [
+      {
+        "text": "Propionaldehyde",
+        "isCorrect": true
+      },
+      {
+        "text": "Propanal",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetaldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3CH_2CHO$ is propionaldehyde.",
+    "chapter": "Aldehydes and Ketones",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 47,
+    "questionText": "What is the IUPAC name for the compound $CH_3CH_2COOH$?",
+    "options": [
+      {
+        "text": "Propanoic acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanoic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanoic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanoic acid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3CH_2COOH$ is propanoic acid.",
+    "chapter": "Carboxylic Acids",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 48,
+    "questionText": "What is the common name for the compound $CH_3CH_2COOH$?",
+    "options": [
+      {
+        "text": "Propionic acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Acetic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Formic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Butyric acid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $CH_3CH_2COOH$ is propionic acid.",
+    "chapter": "Carboxylic Acids",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 49,
+    "questionText": "What is the IUPAC name for the compound $CH_3CH_2CH_2OH$?",
+    "options": [
+      {
+        "text": "Propan-1-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propan-2-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Isopropyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for $CH_3CH_2CH_2OH$ is propan-1-ol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Nomenclature",
+    "level": "EASY"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is the structure of the hydroxyl functional group?",
+    "options": [
+      {
+        "text": "$-OH$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-NH_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-COOH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-SH$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The hydroxyl functional group is represented by $-OH$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which functional group is represented by $-COOH$?",
+    "options": [
+      {
+        "text": "Carboxyl",
+        "isCorrect": true
+      },
+      {
+        "text": "Carbonyl",
+        "isCorrect": false
+      },
+      {
+        "text": "Aldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Ketone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The carboxyl functional group is represented by $-COOH$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "What is the structure of the amino functional group?",
+    "options": [
+      {
+        "text": "$-NH_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-OH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-COOH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-SH$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The amino functional group is represented by $-NH_2$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which functional group is represented by $-SH$?",
+    "options": [
+      {
+        "text": "Thiol",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydroxyl",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbonyl",
+        "isCorrect": false
+      },
+      {
+        "text": "Aldehyde",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The thiol functional group is represented by $-SH$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "What is the structure of the carbonyl functional group?",
+    "options": [
+      {
+        "text": "$>C=O$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-COOH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-NH_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-OH$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The carbonyl functional group is represented by $>C=O$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which functional group is characterized by the presence of $-CHO$?",
+    "options": [
+      {
+        "text": "Aldehyde",
+        "isCorrect": true
+      },
+      {
+        "text": "Carboxyl",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbonyl",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydroxyl",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The aldehyde functional group is characterized by the presence of $-CHO$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "What is the structure of the ester functional group?",
+    "options": [
+      {
+        "text": "$-COO-$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-NH_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-OH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-SH$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ester functional group is represented by $-COO-$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which functional group is represented by $-NO_2$?",
+    "options": [
+      {
+        "text": "Nitro",
+        "isCorrect": true
+      },
+      {
+        "text": "Amino",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydroxyl",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbonyl",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The nitro functional group is represented by $-NO_2$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "What is the structure of the ether functional group?",
+    "options": [
+      {
+        "text": "$-O-$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-OH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-COOH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-NH_2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ether functional group is represented by $-O-$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which functional group is characterized by the presence of $-CN$?",
+    "options": [
+      {
+        "text": "Cyano",
+        "isCorrect": true
+      },
+      {
+        "text": "Carbonyl",
+        "isCorrect": false
+      },
+      {
+        "text": "Aldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydroxyl",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The cyano functional group is characterized by the presence of $-CN$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which functional group is represented by $-CONH_2$?",
+    "options": [
+      {
+        "text": "Amide",
+        "isCorrect": true
+      },
+      {
+        "text": "Amino",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrile",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitro",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The amide functional group is represented by $-CONH_2$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the structure of the imine functional group?",
+    "options": [
+      {
+        "text": "$>C=NH$ or $>C=NR$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-NH_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-COOH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-OH$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The imine functional group is represented by $>C=NH$ or $>C=NR$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which functional group is characterized by the presence of $-SO_3H$?",
+    "options": [
+      {
+        "text": "Sulfonic acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Sulfone",
+        "isCorrect": false
+      },
+      {
+        "text": "Thiol",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfoxide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The sulfonic acid functional group is characterized by the presence of $-SO_3H$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "HARD"
+  },
+  {
+    "qno": 14,
+    "questionText": "What is the structure of the sulfoxide functional group?",
+    "options": [
+      {
+        "text": "$-SO-$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-SO_2-$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-SH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-SO_3H$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The sulfoxide functional group is represented by $-SO-$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "HARD"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which functional group is represented by $-COO-$?",
+    "options": [
+      {
+        "text": "Ester",
+        "isCorrect": true
+      },
+      {
+        "text": "Ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Aldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Ketone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ester functional group is represented by $-COO-$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which functional group is characterized by the presence of $-N_3$?",
+    "options": [
+      {
+        "text": "Azide",
+        "isCorrect": true
+      },
+      {
+        "text": "Amino",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrile",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitro",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The azide functional group is characterized by the presence of $-N_3$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "HARD"
+  },
+  {
+    "qno": 18,
+    "questionText": "What is the structure of the nitro functional group?",
+    "options": [
+      {
+        "text": "$-NO_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-NH_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-COOH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-OH$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The nitro functional group is represented by $-NO_2$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which functional group is represented by $-C \\equiv N$?",
+    "options": [
+      {
+        "text": "Nitrile",
+        "isCorrect": true
+      },
+      {
+        "text": "Amino",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitro",
+        "isCorrect": false
+      },
+      {
+        "text": "Amide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The nitrile functional group is represented by $-C \\equiv N$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "What is the structure of the isocyanate functional group?",
+    "options": [
+      {
+        "text": "$-NCO$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-NC$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-NO_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-NH_2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The isocyanate functional group is represented by $-NCO$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "HARD"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which functional group is represented by $-SO_2-$?",
+    "options": [
+      {
+        "text": "Sulfone",
+        "isCorrect": true
+      },
+      {
+        "text": "Sulfoxide",
+        "isCorrect": false
+      },
+      {
+        "text": "Thiol",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfonic acid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The sulfone functional group is represented by $-SO_2-$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "HARD"
+  },
+  {
+    "qno": 22,
+    "questionText": "What is the structure of the amine functional group?",
+    "options": [
+      {
+        "text": "$-NH_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-OH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-COOH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-SH$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The amine functional group is represented by $-NH_2$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which functional group is characterized by the presence of $-C=O$?",
+    "options": [
+      {
+        "text": "Carbonyl",
+        "isCorrect": true
+      },
+      {
+        "text": "Carboxyl",
+        "isCorrect": false
+      },
+      {
+        "text": "Aldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Ketone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The carbonyl functional group is characterized by the presence of $-C=O$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "What is the structure of the carboxyl functional group?",
+    "options": [
+      {
+        "text": "$-COOH$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-NH_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-OH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-SH$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The carboxyl functional group is represented by $-COOH$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which functional group is represented by $-NH_2$?",
+    "options": [
+      {
+        "text": "Amino",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydroxyl",
+        "isCorrect": false
+      },
+      {
+        "text": "Carboxyl",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbonyl",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The amino functional group is represented by $-NH_2$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 26,
+    "questionText": "What is the structure of the thiol functional group?",
+    "options": [
+      {
+        "text": "$-SH$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-OH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-COOH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-NH_2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The thiol functional group is represented by $-SH$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 27,
+    "questionText": "Which functional group is represented by $-N=N-$?",
+    "options": [
+      {
+        "text": "Azo",
+        "isCorrect": true
+      },
+      {
+        "text": "Nitro",
+        "isCorrect": false
+      },
+      {
+        "text": "Amino",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrile",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The azo functional group is represented by $-N=N-$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "HARD"
+  },
+  {
+    "qno": 28,
+    "questionText": "What is the structure of the nitrile functional group?",
+    "options": [
+      {
+        "text": "$-C \\equiv N$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-NH_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-NO_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-OH$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The nitrile functional group is represented by $-C \\equiv N$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "Which functional group is represented by $-NCO$?",
+    "options": [
+      {
+        "text": "Isocyanate",
+        "isCorrect": true
+      },
+      {
+        "text": "Nitrile",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitro",
+        "isCorrect": false
+      },
+      {
+        "text": "Amino",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The isocyanate functional group is represented by $-NCO$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "HARD"
+  },
+  {
+    "qno": 30,
+    "questionText": "What is the structure of the sulfone functional group?",
+    "options": [
+      {
+        "text": "$-SO_2-$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-SH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-SO-$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-SO_3H$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The sulfone functional group is represented by $-SO_2-$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "HARD"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which functional group is represented by $-COOR$?",
+    "options": [
+      {
+        "text": "Ester",
+        "isCorrect": true
+      },
+      {
+        "text": "Ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Aldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Ketone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ester functional group is represented by $-COOR$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 32,
+    "questionText": "What is the structure of the amide functional group?",
+    "options": [
+      {
+        "text": "$-CONH_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-NH_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-OH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-COOH$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The amide functional group is represented by $-CONH_2$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 33,
+    "questionText": "Which functional group is characterized by the presence of $-COOR$?",
+    "options": [
+      {
+        "text": "Ester",
+        "isCorrect": true
+      },
+      {
+        "text": "Ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Aldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Ketone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ester functional group is characterized by the presence of $-COOR$.",
+    "chapter": "Structures of Functional Groups",
+    "topic": "Structures of Functional Groups",
+    "level": "EASY"
+  },
+  {
+    "qno": 1,
+    "questionText": "Which of the following is a primary alcohol?",
+    "options": [
+      {
+        "text": "1-Butanol",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Methyl-2-propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "3-Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "1-Butanol is a primary alcohol because the hydroxyl group is attached to a carbon atom that is only attached to one other carbon atom.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "What is the IUPAC name of the compound commonly known as ethyl alcohol?",
+    "options": [
+      {
+        "text": "Ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name of ethyl alcohol is ethanol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which of the following is an example of a phenol?",
+    "options": [
+      {
+        "text": "C_6H_5OH",
+        "isCorrect": true
+      },
+      {
+        "text": "CH_3OH",
+        "isCorrect": false
+      },
+      {
+        "text": "C_2H_5OH",
+        "isCorrect": false
+      },
+      {
+        "text": "C_3H_7OH",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Phenol has the molecular formula $C_6H_5OH$, with the hydroxyl group directly attached to an aromatic ring.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which of the following compounds is classified as a secondary alcohol?",
+    "options": [
+      {
+        "text": "Isopropanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "1-Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isopropanol is a secondary alcohol because the hydroxyl group is attached to a carbon atom that is connected to two other carbon atoms.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "What is the IUPAC name of the compound with the molecular formula $C_3H_8O$?",
+    "options": [
+      {
+        "text": "Propan-1-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propan-2-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name of $C_3H_8O$ is propan-1-ol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which of the following is a tertiary alcohol?",
+    "options": [
+      {
+        "text": "Tert-Butanol",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tert-butanol is a tertiary alcohol because the hydroxyl group is attached to a carbon atom that is connected to three other carbon atoms.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which reagent can be used to distinguish between primary, secondary, and tertiary alcohols?",
+    "options": [
+      {
+        "text": "Lucas reagent",
+        "isCorrect": true
+      },
+      {
+        "text": "Tollens' reagent",
+        "isCorrect": false
+      },
+      {
+        "text": "Fehling's solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Benedict's solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lucas reagent is used to distinguish between primary, secondary, and tertiary alcohols based on the time taken for turbidity to appear.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which of the following is an example of a dihydric alcohol?",
+    "options": [
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "Glycerol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethylene glycol is a dihydric alcohol because it contains two hydroxyl groups.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which of the following phenols is used as an antiseptic?",
+    "options": [
+      {
+        "text": "2-Phenylphenol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2-Phenylphenol is used as an antiseptic due to its antimicrobial properties.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following reactions can be used to prepare phenol from benzene?",
+    "options": [
+      {
+        "text": "Cumene process",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydration of benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Friedel-Crafts alkylation",
+        "isCorrect": false
+      },
+      {
+        "text": "Wurtz reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The cumene process is used to prepare phenol from benzene by converting it to cumene and then oxidizing it.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which of the following alcohols is commonly known as wood alcohol?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is commonly known as wood alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the IUPAC name for isopropyl alcohol?",
+    "options": [
+      {
+        "text": "Propan-2-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propan-1-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butan-1-ol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butan-2-ol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name for isopropyl alcohol is propan-2-ol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which of the following compounds is a trihydric alcohol?",
+    "options": [
+      {
+        "text": "Glycerol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Glycerol is a trihydric alcohol because it contains three hydroxyl groups.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which of the following reagents is used in the oxidation of primary alcohols to aldehydes?",
+    "options": [
+      {
+        "text": "Pyridinium chlorochromate (PCC)",
+        "isCorrect": true
+      },
+      {
+        "text": "Potassium permanganate (KMnO_4)",
+        "isCorrect": false
+      },
+      {
+        "text": "Chromic acid (H_2CrO_4)",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmium tetroxide (OsO_4)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pyridinium chlorochromate (PCC) is used in the oxidation of primary alcohols to aldehydes.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the major product of the acid-catalyzed hydration of 2-methylpropene?",
+    "options": [
+      {
+        "text": "2-Methyl-2-propanol",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major product of the acid-catalyzed hydration of 2-methylpropene is 2-methyl-2-propanol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which of the following alcohols can be prepared by the hydroboration-oxidation of propene?",
+    "options": [
+      {
+        "text": "1-Propanol",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "1-Propanol can be prepared by the hydroboration-oxidation of propene.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which of the following alcohols is also known as grain alcohol?",
+    "options": [
+      {
+        "text": "Ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethanol is also known as grain alcohol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which of the following compounds is known as carbolic acid?",
+    "options": [
+      {
+        "text": "Phenol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Phenol is also known as carbolic acid.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which reagent is used in the nitration of phenol to obtain ortho- and para-nitrophenols?",
+    "options": [
+      {
+        "text": "Nitric acid (HNO_3)",
+        "isCorrect": true
+      },
+      {
+        "text": "Sulfuric acid (H_2SO_4)",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrochloric acid (HCl)",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetic acid (CH_3COOH)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nitric acid (HNO_3) is used in the nitration of phenol to obtain ortho- and para-nitrophenols.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 20,
+    "questionText": "What is the major product of the reaction between phenol and bromine water?",
+    "options": [
+      {
+        "text": "2,4,6-Tribromophenol",
+        "isCorrect": true
+      },
+      {
+        "text": "Bromobenzene",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Bromophenol",
+        "isCorrect": false
+      },
+      {
+        "text": "4-Bromophenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major product of the reaction between phenol and bromine water is 2,4,6-tribromophenol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which of the following reactions is used to prepare ethylene glycol from ethylene?",
+    "options": [
+      {
+        "text": "Hydroxylation",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydration",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrogenation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethylene glycol is prepared from ethylene by the process of hydroxylation.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which of the following compounds can be oxidized to form formaldehyde?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol can be oxidized to form formaldehyde.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "What is the product formed when phenol reacts with chloroform in the presence of sodium hydroxide?",
+    "options": [
+      {
+        "text": "Salicylaldehyde",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzaldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Anisole",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzoic acid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Phenol reacts with chloroform in the presence of sodium hydroxide to form salicylaldehyde in the Reimer-Tiemann reaction.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which of the following is the major product of the reaction between phenol and acetic anhydride?",
+    "options": [
+      {
+        "text": "Phenyl acetate",
+        "isCorrect": true
+      },
+      {
+        "text": "Acetophenone",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenyl ethanoate",
+        "isCorrect": false
+      },
+      {
+        "text": "Anisole",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Phenyl acetate is the major product of the reaction between phenol and acetic anhydride.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which of the following alcohols is used as an antifreeze in automobile engines?",
+    "options": [
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethylene glycol is commonly used as an antifreeze in automobile engines due to its low freezing point.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which of the following compounds can be synthesized by the Williamson ether synthesis?",
+    "options": [
+      {
+        "text": "Anisole",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      },
+      {
+        "text": "Tert-Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Anisole can be synthesized by the Williamson ether synthesis, which involves the reaction of an alkoxide with a primary alkyl halide.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 27,
+    "questionText": "What is the IUPAC name of glycerol?",
+    "options": [
+      {
+        "text": "Propane-1,2,3-triol",
+        "isCorrect": true
+      },
+      {
+        "text": "Butane-1,2,3-triol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propan-1,2-diol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane-1,2-diol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name of glycerol is propane-1,2,3-triol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which of the following reactions involves the cleavage of the O-H bond in phenol?",
+    "options": [
+      {
+        "text": "Reaction with sodium metal",
+        "isCorrect": true
+      },
+      {
+        "text": "Bromination",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitration",
+        "isCorrect": false
+      },
+      {
+        "text": "Friedel-Crafts alkylation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction of phenol with sodium metal involves the cleavage of the O-H bond, forming sodium phenoxide and hydrogen gas.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "Which of the following is the major product of the dehydration of 2-butanol?",
+    "options": [
+      {
+        "text": "2-Butene",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Butene",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major product of the dehydration of 2-butanol is 2-butene.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 30,
+    "questionText": "Which of the following compounds is formed by the oxidation of phenol with chromic acid?",
+    "options": [
+      {
+        "text": "Benzoquinone",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzaldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The oxidation of phenol with chromic acid forms benzoquinone.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which of the following reactions is used to prepare cyclohexanol from cyclohexene?",
+    "options": [
+      {
+        "text": "Hydration",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Dehydration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cyclohexanol is prepared from cyclohexene by the process of hydration.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 32,
+    "questionText": "Which of the following compounds is used as a solvent and an antifreeze in automobile engines?",
+    "options": [
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethylene glycol is commonly used as a solvent and an antifreeze in automobile engines.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 33,
+    "questionText": "What is the major product of the acid-catalyzed dehydration of 2-methyl-2-butanol?",
+    "options": [
+      {
+        "text": "2-Methyl-2-butene",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Methyl-1-butene",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Methylbutane",
+        "isCorrect": false
+      },
+      {
+        "text": "1-Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major product of the acid-catalyzed dehydration of 2-methyl-2-butanol is 2-methyl-2-butene.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 34,
+    "questionText": "Which of the following compounds is formed when phenol undergoes sulfonation with concentrated sulfuric acid?",
+    "options": [
+      {
+        "text": "Phenol-4-sulfonic acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenol-2-sulfonic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzenesulfonic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenyl sulfate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Phenol undergoes sulfonation with concentrated sulfuric acid to form phenol-4-sulfonic acid.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "Which of the following compounds is produced by the catalytic hydrogenation of phenol?",
+    "options": [
+      {
+        "text": "Cyclohexanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Cyclohexanone",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Toluene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cyclohexanol is produced by the catalytic hydrogenation of phenol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 36,
+    "questionText": "What is the major product of the oxidation of 2-propanol?",
+    "options": [
+      {
+        "text": "Acetone",
+        "isCorrect": true
+      },
+      {
+        "text": "Acetaldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanal",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major product of the oxidation of 2-propanol is acetone.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 37,
+    "questionText": "Which of the following phenols is used in the synthesis of aspirin?",
+    "options": [
+      {
+        "text": "Salicylic acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Phenylphenol",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Salicylic acid is used in the synthesis of aspirin.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 38,
+    "questionText": "Which of the following is the major product of the reaction between phenol and formaldehyde in the presence of an acid catalyst?",
+    "options": [
+      {
+        "text": "Bakelite",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenyl methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Diphenyl methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzoic acid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major product of the reaction between phenol and formaldehyde in the presence of an acid catalyst is Bakelite.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 39,
+    "questionText": "Which reagent can be used to distinguish between phenol and cyclohexanol?",
+    "options": [
+      {
+        "text": "Ferric chloride",
+        "isCorrect": true
+      },
+      {
+        "text": "Tollens' reagent",
+        "isCorrect": false
+      },
+      {
+        "text": "Fehling's solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Benedict's solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ferric chloride can be used to distinguish between phenol and cyclohexanol, as phenol forms a purple complex with ferric chloride.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 40,
+    "questionText": "Which of the following compounds is formed by the oxidation of cyclohexanol?",
+    "options": [
+      {
+        "text": "Cyclohexanone",
+        "isCorrect": true
+      },
+      {
+        "text": "Cyclohexene",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexane",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cyclohexanone is formed by the oxidation of cyclohexanol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 41,
+    "questionText": "Which of the following alcohols can be oxidized to form acetone?",
+    "options": [
+      {
+        "text": "2-Propanol",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2-Propanol can be oxidized to form acetone.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 43,
+    "questionText": "What is the product formed when phenol reacts with bromine in carbon disulfide?",
+    "options": [
+      {
+        "text": "2,4,6-Tribromophenol",
+        "isCorrect": true
+      },
+      {
+        "text": "Bromobenzene",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Bromophenol",
+        "isCorrect": false
+      },
+      {
+        "text": "4-Bromophenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Phenol reacts with bromine in carbon disulfide to form 2,4,6-tribromophenol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 44,
+    "questionText": "Which of the following is a characteristic reaction of phenol?",
+    "options": [
+      {
+        "text": "Electrophilic aromatic substitution",
+        "isCorrect": true
+      },
+      {
+        "text": "Nucleophilic substitution",
+        "isCorrect": false
+      },
+      {
+        "text": "Free radical substitution",
+        "isCorrect": false
+      },
+      {
+        "text": "Addition reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Phenol undergoes electrophilic aromatic substitution due to the electron-donating effect of the hydroxyl group.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 45,
+    "questionText": "Which of the following is the major product of the dehydration of ethanol?",
+    "options": [
+      {
+        "text": "Ethene",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major product of the dehydration of ethanol is ethene.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 46,
+    "questionText": "What is the major product of the oxidation of methanol with potassium permanganate?",
+    "options": [
+      {
+        "text": "Formic acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Formaldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanoic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetic acid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major product of the oxidation of methanol with potassium permanganate is formic acid.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 47,
+    "questionText": "Which of the following is an example of a tertiary alcohol?",
+    "options": [
+      {
+        "text": "2-Methyl-2-propanol",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2-Methyl-2-propanol is a tertiary alcohol because the hydroxyl group is attached to a carbon atom that is connected to three other carbon atoms.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "EASY"
+  },
+  {
+    "qno": 48,
+    "questionText": "Which reagent is used to oxidize primary alcohols to aldehydes?",
+    "options": [
+      {
+        "text": "Pyridinium chlorochromate (PCC)",
+        "isCorrect": true
+      },
+      {
+        "text": "Potassium permanganate (KMnO_4)",
+        "isCorrect": false
+      },
+      {
+        "text": "Chromic acid (H_2CrO_4)",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmium tetroxide (OsO_4)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pyridinium chlorochromate (PCC) is used to oxidize primary alcohols to aldehydes.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 49,
+    "questionText": "Which of the following is a dihydric alcohol?",
+    "options": [
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethylene glycol is a dihydric alcohol because it contains two hydroxyl groups.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 50,
+    "questionText": "Which of the following reactions is used to prepare methanol from carbon monoxide?",
+    "options": [
+      {
+        "text": "Hydrogenation",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydration",
+        "isCorrect": false
+      },
+      {
+        "text": "Dehydration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is prepared from carbon monoxide by the process of hydrogenation.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Alcohols and Phenols",
+    "level": "HARD"
+  },
+  {
+    "qno": 1,
+    "questionText": "Which of the following is a commercially important alcohol used as a solvent and antifreeze?",
+    "options": [
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethylene glycol is used as a solvent and antifreeze in various commercial applications.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which alcohol is commonly used as a fuel and in alcoholic beverages?",
+    "options": [
+      {
+        "text": "Ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethanol is used as a fuel and in alcoholic beverages.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which alcohol is known as wood alcohol and is highly toxic?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol, also known as wood alcohol, is highly toxic.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which alcohol is used in the production of formaldehyde and acetic acid?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is used in the production of formaldehyde and acetic acid.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which alcohol is used as a disinfectant and hand sanitizer?",
+    "options": [
+      {
+        "text": "Isopropanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isopropanol is used as a disinfectant and hand sanitizer.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which of the following alcohols is used in the manufacture of synthetic rubber?",
+    "options": [
+      {
+        "text": "Butanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Butanol is used in the manufacture of synthetic rubber.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which alcohol is commonly used as an antifreeze in automobile engines?",
+    "options": [
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethylene glycol is commonly used as an antifreeze in automobile engines.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which of the following alcohols is used in the production of biodiesel?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is used in the production of biodiesel.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which alcohol is used as a solvent in the pharmaceutical industry?",
+    "options": [
+      {
+        "text": "Ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethanol is used as a solvent in the pharmaceutical industry.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following alcohols is used in the production of perfumes and flavorings?",
+    "options": [
+      {
+        "text": "Benzyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzyl alcohol is used in the production of perfumes and flavorings.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which alcohol is used as a fuel additive to increase the octane number of gasoline?",
+    "options": [
+      {
+        "text": "Ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethanol is used as a fuel additive to increase the octane number of gasoline.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "EASY"
+  },
+  {
+    "qno": 12,
+    "questionText": "Which of the following alcohols is commonly used as a solvent in paints and coatings?",
+    "options": [
+      {
+        "text": "Butanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Butanol is commonly used as a solvent in paints and coatings.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which alcohol is used in the manufacture of synthetic glycerin?",
+    "options": [
+      {
+        "text": "Propylene glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Propylene glycol is used in the manufacture of synthetic glycerin.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which of the following is a characteristic use of benzyl alcohol?",
+    "options": [
+      {
+        "text": "Used in the production of perfumes and flavorings",
+        "isCorrect": true
+      },
+      {
+        "text": "Used as an antifreeze",
+        "isCorrect": false
+      },
+      {
+        "text": "Used as a fuel additive",
+        "isCorrect": false
+      },
+      {
+        "text": "Used in the manufacture of synthetic rubber",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzyl alcohol is used in the production of perfumes and flavorings.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which alcohol is used in the preparation of nitroglycerin?",
+    "options": [
+      {
+        "text": "Glycerol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Glycerol is used in the preparation of nitroglycerin.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which of the following alcohols is used in the synthesis of methyl methacrylate, a key monomer in the production of Plexiglas?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is used in the synthesis of methyl methacrylate, a key monomer in the production of Plexiglas.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "HARD"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which alcohol is used as a humectant in cosmetics and personal care products?",
+    "options": [
+      {
+        "text": "Glycerol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Glycerol is used as a humectant in cosmetics and personal care products.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which alcohol is used in the manufacture of acetic acid via the carbonylation of methanol?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is used in the manufacture of acetic acid via the carbonylation of methanol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which of the following is a major use of propylene glycol?",
+    "options": [
+      {
+        "text": "Used as an antifreeze in automobile engines",
+        "isCorrect": true
+      },
+      {
+        "text": "Used in the production of perfumes and flavorings",
+        "isCorrect": false
+      },
+      {
+        "text": "Used as a disinfectant",
+        "isCorrect": false
+      },
+      {
+        "text": "Used as a solvent in paints and coatings",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Propylene glycol is used as an antifreeze in automobile engines.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which alcohol is used in the production of isopropyl acetate, a solvent used in coatings and inks?",
+    "options": [
+      {
+        "text": "Isopropanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isopropanol is used in the production of isopropyl acetate, a solvent used in coatings and inks.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "HARD"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which alcohol is used as a de-icing agent for aircraft?",
+    "options": [
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethylene glycol is used as a de-icing agent for aircraft.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which of the following alcohols is used as a preservative in biological specimens?",
+    "options": [
+      {
+        "text": "Ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethanol is used as a preservative in biological specimens due to its antimicrobial properties.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which alcohol is used in the production of formaldehyde?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is used in the production of formaldehyde.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "HARD"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which alcohol is commonly used as a solvent in the extraction of essential oils?",
+    "options": [
+      {
+        "text": "Ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethanol is commonly used as a solvent in the extraction of essential oils.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which of the following alcohols is used as a plasticizer in the production of plastics?",
+    "options": [
+      {
+        "text": "Butanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Butanol is used as a plasticizer in the production of plastics.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which alcohol is used in the synthesis of isopropyl acetate, a solvent for cellulose-based lacquers?",
+    "options": [
+      {
+        "text": "Isopropanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isopropanol is used in the synthesis of isopropyl acetate, a solvent for cellulose-based lacquers.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "Which of the following is a major use of tert-butyl alcohol?",
+    "options": [
+      {
+        "text": "Used as a fuel additive",
+        "isCorrect": true
+      },
+      {
+        "text": "Used as an antifreeze",
+        "isCorrect": false
+      },
+      {
+        "text": "Used in the production of perfumes",
+        "isCorrect": false
+      },
+      {
+        "text": "Used as a disinfectant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tert-butyl alcohol is used as a fuel additive to increase the octane number.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "Which of the following alcohols is used in the production of polyvinyl chloride (PVC)?",
+    "options": [
+      {
+        "text": "Ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethanol is used in the production of polyvinyl chloride (PVC).",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "HARD"
+  },
+  {
+    "qno": 30,
+    "questionText": "Which alcohol is commonly used as a denaturant for ethanol?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Glycerol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is commonly used as a denaturant for ethanol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "HARD"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which of the following alcohols is commonly used as a disinfectant in hospitals?",
+    "options": [
+      {
+        "text": "Isopropanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isopropanol is commonly used as a disinfectant in hospitals due to its antimicrobial properties.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 34,
+    "questionText": "Which alcohol is commonly used as a fuel for camping stoves?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is commonly used as a fuel for camping stoves.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "EASY"
+  },
+  {
+    "qno": 35,
+    "questionText": "Which alcohol is used in the synthesis of propylene oxide, a key intermediate in the production of polyurethane plastics?",
+    "options": [
+      {
+        "text": "Propylene glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Propylene glycol is used in the synthesis of propylene oxide, a key intermediate in the production of polyurethane plastics.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "HARD"
+  },
+  {
+    "qno": 38,
+    "questionText": "Which of the following alcohols is used in the production of isopropyl acetate, a solvent for cellulose-based lacquers?",
+    "options": [
+      {
+        "text": "Isopropanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isopropanol is used in the production of isopropyl acetate, a solvent for cellulose-based lacquers.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 40,
+    "questionText": "Which alcohol is used in the production of polyvinyl chloride (PVC)?",
+    "options": [
+      {
+        "text": "Ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethanol is used in the production of polyvinyl chloride (PVC).",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "HARD"
+  },
+  {
+    "qno": 41,
+    "questionText": "Which of the following alcohols is used in the production of acetic acid via the carbonylation of methanol?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is used in the production of acetic acid via the carbonylation of methanol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "HARD"
+  },
+  {
+    "qno": 44,
+    "questionText": "Which alcohol is used in the production of methyl tert-butyl ether (MTBE), a fuel additive?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is used in the production of methyl tert-butyl ether (MTBE), a fuel additive.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "HARD"
+  },
+  {
+    "qno": 46,
+    "questionText": "Which alcohol is commonly used as a solvent in the pharmaceutical industry?",
+    "options": [
+      {
+        "text": "Ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethanol is used as a solvent in the pharmaceutical industry.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 48,
+    "questionText": "Which alcohol is used in the synthesis of methyl methacrylate, a key monomer in the production of Plexiglas?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is used in the synthesis of methyl methacrylate, a key monomer in the production of Plexiglas.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "HARD"
+  },
+  {
+    "qno": 50,
+    "questionText": "Which of the following alcohols is used as a denaturant for ethanol?",
+    "options": [
+      {
+        "text": "Methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Glycerol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methanol is commonly used as a denaturant for ethanol.",
+    "chapter": "Alcohols, Phenols, and Ethers",
+    "topic": "Some Commercially Important Alcohols",
+    "level": "HARD"
+  },
+  {
+    "qno": 1,
+    "questionText": "Which of the following is the common name for diethyl ether?",
+    "options": [
+      {
+        "text": "Ethoxyethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methoxyethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Diisopropyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diethyl ether is commonly known as ethoxyethane.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "What is the IUPAC name of the compound with the molecular formula $C_2H_5OC_2H_5$?",
+    "options": [
+      {
+        "text": "Ethoxyethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Methoxyethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Diisopropyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name of the compound $C_2H_5OC_2H_5$ is ethoxyethane.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which of the following reactions is used to prepare ethers?",
+    "options": [
+      {
+        "text": "Williamson synthesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Friedel-Crafts acylation",
+        "isCorrect": false
+      },
+      {
+        "text": "Aldol condensation",
+        "isCorrect": false
+      },
+      {
+        "text": "Cannizzaro reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Williamson synthesis is commonly used to prepare ethers.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which of the following is a characteristic property of ethers?",
+    "options": [
+      {
+        "text": "Low reactivity towards nucleophiles",
+        "isCorrect": true
+      },
+      {
+        "text": "High boiling points",
+        "isCorrect": false
+      },
+      {
+        "text": "High polarity",
+        "isCorrect": false
+      },
+      {
+        "text": "Strong acidic nature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethers are characterized by their low reactivity towards nucleophiles.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "What is the major product of the acid-catalyzed cleavage of ethyl methyl ether with HI?",
+    "options": [
+      {
+        "text": "Methanol and ethyl iodide",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol and methyl iodide",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol and methyl iodide",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol and ethyl iodide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acid-catalyzed cleavage of ethyl methyl ether with HI produces methanol and ethyl iodide.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "HARD"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which of the following ethers is commonly used as an anesthetic?",
+    "options": [
+      {
+        "text": "Diethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Methyl tert-butyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene oxide",
+        "isCorrect": false
+      },
+      {
+        "text": "Isopropyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diethyl ether is commonly used as an anesthetic.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which of the following is the structure of anisole?",
+    "options": [
+      {
+        "text": "$C_6H_5OCH_3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_6H_5OCH_2CH_3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_6H_5OCH_2CH_2CH_3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_6H_5OCH_2CH_2CH_2CH_3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The structure of anisole is $C_6H_5OCH_3$.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which reagent is used to cleave ethers?",
+    "options": [
+      {
+        "text": "Hydroiodic acid (HI)",
+        "isCorrect": true
+      },
+      {
+        "text": "Sulfuric acid (H_2SO_4)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitric acid (HNO_3)",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrochloric acid (HCl)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hydroiodic acid (HI) is commonly used to cleave ethers.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "HARD"
+  },
+  {
+    "qno": 9,
+    "questionText": "What is the major product of the reaction between anisole and bromine in acetic acid?",
+    "options": [
+      {
+        "text": "2-Bromoanisole",
+        "isCorrect": true
+      },
+      {
+        "text": "3-Bromoanisole",
+        "isCorrect": false
+      },
+      {
+        "text": "4-Bromoanisole",
+        "isCorrect": false
+      },
+      {
+        "text": "5-Bromoanisole",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major product of the reaction between anisole and bromine in acetic acid is 2-bromoanisole.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "HARD"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following ethers has the highest boiling point?",
+    "options": [
+      {
+        "text": "Diethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methoxyethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene oxide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diethyl ether has the highest boiling point among the given ethers.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which of the following ethers is commonly used as a gasoline additive to increase octane rating?",
+    "options": [
+      {
+        "text": "Methyl tert-butyl ether (MTBE)",
+        "isCorrect": true
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene oxide",
+        "isCorrect": false
+      },
+      {
+        "text": "Isopropyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methyl tert-butyl ether (MTBE) is commonly used as a gasoline additive to increase octane rating.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the major product of the reaction between dimethyl ether and hot, concentrated HI?",
+    "options": [
+      {
+        "text": "Methanol and methyl iodide",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol and methyl iodide",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol and ethyl iodide",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol and ethyl iodide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major product of the reaction between dimethyl ether and hot, concentrated HI is methanol and methyl iodide.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which of the following reactions can be used to prepare methoxybenzene (anisole)?",
+    "options": [
+      {
+        "text": "Williamson synthesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Friedel-Crafts alkylation",
+        "isCorrect": false
+      },
+      {
+        "text": "Grignard reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "Aldol condensation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methoxybenzene (anisole) can be prepared using the Williamson synthesis.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which of the following is the structure of furan?",
+    "options": [
+      {
+        "text": "$C_4H_4O$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_5H_5O$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_6H_6O$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_3H_3O$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Furan has the molecular formula $C_4H_4O$.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "EASY"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the major product of the reaction between ethylene oxide and hydrochloric acid?",
+    "options": [
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": true
+      },
+      {
+        "text": "Chloroethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major product of the reaction between ethylene oxide and hydrochloric acid is ethylene glycol.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "HARD"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which of the following ethers is most likely to form explosive peroxides upon storage?",
+    "options": [
+      {
+        "text": "Diethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methoxyethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene oxide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diethyl ether is known to form explosive peroxides upon storage.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which reagent is used to cleave ethers in a Williamson ether synthesis?",
+    "options": [
+      {
+        "text": "Sodium alkoxide",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydrochloric acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfuric acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitric acid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodium alkoxide is used to cleave ethers in a Williamson ether synthesis.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "What is the major product of the reaction between anisole and concentrated sulfuric acid?",
+    "options": [
+      {
+        "text": "p-Methoxyphenol",
+        "isCorrect": true
+      },
+      {
+        "text": "m-Methoxyphenol",
+        "isCorrect": false
+      },
+      {
+        "text": "o-Methoxyphenol",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major product of the reaction between anisole and concentrated sulfuric acid is p-methoxyphenol.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which of the following ethers is used as a starting material in the synthesis of tetrahydrofuran (THF)?",
+    "options": [
+      {
+        "text": "1,4-Butanediol",
+        "isCorrect": true
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene oxide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "1,4-Butanediol is used as a starting material in the synthesis of tetrahydrofuran (THF).",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which of the following is a characteristic use of dimethyl ether?",
+    "options": [
+      {
+        "text": "Used as an aerosol propellant",
+        "isCorrect": true
+      },
+      {
+        "text": "Used as a refrigerant",
+        "isCorrect": false
+      },
+      {
+        "text": "Used as a fuel additive",
+        "isCorrect": false
+      },
+      {
+        "text": "Used as an anesthetic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dimethyl ether is commonly used as an aerosol propellant.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which of the following is the major product of the acid-catalyzed dehydration of ethanol?",
+    "options": [
+      {
+        "text": "Diethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethylene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene glycol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acid-catalyzed dehydration of ethanol produces diethyl ether as the major product.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which reagent is used to convert phenol to anisole?",
+    "options": [
+      {
+        "text": "Methyl iodide and sodium hydroxide",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethyl iodide and sodium hydroxide",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromine and acetic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrochloric acid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Phenol is converted to anisole using methyl iodide and sodium hydroxide.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "HARD"
+  },
+  {
+    "qno": 23,
+    "questionText": "What is the product of the reaction between ethylene oxide and ammonia?",
+    "options": [
+      {
+        "text": "Ethanolamine",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethylamine",
+        "isCorrect": false
+      },
+      {
+        "text": "Diethylamine",
+        "isCorrect": false
+      },
+      {
+        "text": "Triethylamine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction between ethylene oxide and ammonia produces ethanolamine.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which of the following ethers is used as a solvent in the Grignard reaction?",
+    "options": [
+      {
+        "text": "Diethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methoxyethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene oxide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diethyl ether is commonly used as a solvent in the Grignard reaction due to its ability to stabilize the Grignard reagent.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which of the following reactions is used to prepare tert-butyl methyl ether (MTBE)?",
+    "options": [
+      {
+        "text": "Reaction of isobutene with methanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Reaction of isobutene with ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Reaction of propene with methanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Reaction of ethylene with methanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tert-butyl methyl ether (MTBE) is prepared by the reaction of isobutene with methanol.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which of the following ethers is used as an anesthetic?",
+    "options": [
+      {
+        "text": "Diethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methoxyethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene oxide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diethyl ether has been historically used as an anesthetic.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "EASY"
+  },
+  {
+    "qno": 27,
+    "questionText": "Which of the following is the structure of tetrahydrofuran (THF)?",
+    "options": [
+      {
+        "text": "$C_4H_8O$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_5H_{10}O$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_3H_6O$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_6H_{12}O$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tetrahydrofuran (THF) has the molecular formula $C_4H_8O$.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "EASY"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which of the following is a cyclic ether?",
+    "options": [
+      {
+        "text": "Furan",
+        "isCorrect": true
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methoxyethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene oxide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Furan is an example of a cyclic ether.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "EASY"
+  },
+  {
+    "qno": 29,
+    "questionText": "What is the major product of the reaction between diethyl ether and excess HI?",
+    "options": [
+      {
+        "text": "Ethanol and ethyl iodide",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol and methyl iodide",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol and ethyl iodide",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol and methyl iodide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction between diethyl ether and excess HI produces ethanol and ethyl iodide.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "HARD"
+  },
+  {
+    "qno": 30,
+    "questionText": "Which of the following ethers is known to form explosive peroxides upon storage?",
+    "options": [
+      {
+        "text": "Diethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methoxyethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene oxide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diethyl ether is known to form explosive peroxides upon storage.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which of the following is the common name for $C_6H_5-O-CH_3$?",
+    "options": [
+      {
+        "text": "Anisole",
+        "isCorrect": true
+      },
+      {
+        "text": "Phenyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methoxybenzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzyl methyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $C_6H_5-O-CH_3$ is anisole.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "EASY"
+  },
+  {
+    "qno": 32,
+    "questionText": "Which of the following reactions involves the cleavage of an ether?",
+    "options": [
+      {
+        "text": "Reaction with HI",
+        "isCorrect": true
+      },
+      {
+        "text": "Reaction with HCl",
+        "isCorrect": false
+      },
+      {
+        "text": "Reaction with $H_2SO_4$",
+        "isCorrect": false
+      },
+      {
+        "text": "Reaction with $HNO_3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethers are cleaved by reaction with HI.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "HARD"
+  },
+  {
+    "qno": 33,
+    "questionText": "Which reagent is used in the Williamson ether synthesis?",
+    "options": [
+      {
+        "text": "Sodium alkoxide",
+        "isCorrect": true
+      },
+      {
+        "text": "Sodium hydroxide",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodium chloride",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodium bromide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodium alkoxide is used in the Williamson ether synthesis to prepare ethers.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 34,
+    "questionText": "Which of the following is a property of ethers?",
+    "options": [
+      {
+        "text": "Low boiling points compared to alcohols of similar molecular weight",
+        "isCorrect": true
+      },
+      {
+        "text": "High reactivity towards nucleophiles",
+        "isCorrect": false
+      },
+      {
+        "text": "High solubility in water",
+        "isCorrect": false
+      },
+      {
+        "text": "Strong acidic nature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethers have lower boiling points compared to alcohols of similar molecular weight due to the lack of hydrogen bonding.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "EASY"
+  },
+  {
+    "qno": 35,
+    "questionText": "What is the IUPAC name of the compound with the molecular formula $CH_3-O-CH_3$?",
+    "options": [
+      {
+        "text": "Methoxymethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methyl ethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethoxyethane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name of the compound $CH_3-O-CH_3$ is methoxymethane.",
+    "chapter": "Ethers",
+    "topic": "Eethers",
+    "level": "EASY"
+  },
+  {
+    "qno": 36,
+    "questionText": "Which of the following ethers is used as a solvent in the production of pharmaceuticals?",
+    "options": [
+      {
+        "text": "Tetrahydrofuran (THF)",
+        "isCorrect": true
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene oxide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tetrahydrofuran (THF) is commonly used as a solvent in the production of pharmaceuticals.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 37,
+    "questionText": "What is the product of the reaction between anisole and bromine in the presence of iron (III) bromide?",
+    "options": [
+      {
+        "text": "2-Bromoanisole",
+        "isCorrect": true
+      },
+      {
+        "text": "3-Bromoanisole",
+        "isCorrect": false
+      },
+      {
+        "text": "4-Bromoanisole",
+        "isCorrect": false
+      },
+      {
+        "text": "5-Bromoanisole",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction between anisole and bromine in the presence of iron (III) bromide produces 2-bromoanisole.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "HARD"
+  },
+  {
+    "qno": 39,
+    "questionText": "Which of the following is the major product of the reaction between methoxybenzene and hydrochloric acid?",
+    "options": [
+      {
+        "text": "Phenol and methyl chloride",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene and methyl chloride",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol and benzyl chloride",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene and ethyl chloride",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major products of the reaction between methoxybenzene (anisole) and hydrochloric acid are phenol and methyl chloride.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "HARD"
+  },
+  {
+    "qno": 40,
+    "questionText": "Which reagent is used in the synthesis of ethers via the Williamson ether synthesis?",
+    "options": [
+      {
+        "text": "Sodium alkoxide",
+        "isCorrect": true
+      },
+      {
+        "text": "Potassium hydroxide",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodium chloride",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodium bromide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodium alkoxide is used in the Williamson ether synthesis to prepare ethers.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 41,
+    "questionText": "Which of the following ethers is commonly used as a refrigerant?",
+    "options": [
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": true
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methoxyethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene oxide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dimethyl ether is commonly used as a refrigerant due to its physical properties.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 42,
+    "questionText": "What is the IUPAC name of the compound commonly known as diethyl ether?",
+    "options": [
+      {
+        "text": "Ethoxyethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Methoxyethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Diisopropyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name of diethyl ether is ethoxyethane.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "EASY"
+  },
+  {
+    "qno": 43,
+    "questionText": "Which of the following reactions can be used to synthesize ethers?",
+    "options": [
+      {
+        "text": "Williamson synthesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Friedel-Crafts acylation",
+        "isCorrect": false
+      },
+      {
+        "text": "Aldol condensation",
+        "isCorrect": false
+      },
+      {
+        "text": "Cannizzaro reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Williamson synthesis is commonly used to synthesize ethers.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 45,
+    "questionText": "What is the major product of the reaction between ethyl propyl ether and HI?",
+    "options": [
+      {
+        "text": "Ethanol and propyl iodide",
+        "isCorrect": true
+      },
+      {
+        "text": "Propane and ethyl iodide",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane and propyl iodide",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane and ethyl alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The major product of the reaction between ethyl propyl ether and HI is ethanol and propyl iodide.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "HARD"
+  },
+  {
+    "qno": 48,
+    "questionText": "What is the IUPAC name of the compound $C_2H_5-O-CH_3$?",
+    "options": [
+      {
+        "text": "Methoxyethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethoxyethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUPAC name of $C_2H_5-O-CH_3$ is methoxyethane.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "EASY"
+  },
+  {
+    "qno": 49,
+    "questionText": "Which of the following is a cyclic ether?",
+    "options": [
+      {
+        "text": "Tetrahydrofuran (THF)",
+        "isCorrect": true
+      },
+      {
+        "text": "Diethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimethyl ether",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylene oxide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tetrahydrofuran (THF) is a commonly used cyclic ether.",
+    "chapter": "Ethers",
+    "topic": "Ethers",
+    "level": "MEDIUM"
+  }
+]

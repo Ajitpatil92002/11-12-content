@@ -1,0 +1,4252 @@
+[
+  {
+    "questionText": "Who discovered the electron?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": true
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "J.J. Thomson discovered the electron through his experiments with cathode rays.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What experiment led to the discovery of the electron?",
+    "options": [
+      {
+        "text": "Oil Drop Experiment",
+        "isCorrect": false
+      },
+      {
+        "text": "Gold Foil Experiment",
+        "isCorrect": false
+      },
+      {
+        "text": "Cathode Ray Experiment",
+        "isCorrect": true
+      },
+      {
+        "text": "Photoelectric Effect",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Cathode Ray Experiment conducted by J.J. Thomson led to the discovery of the electron.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What are cathode rays composed of?",
+    "options": [
+      {
+        "text": "Protons",
+        "isCorrect": false
+      },
+      {
+        "text": "Neutrons",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons",
+        "isCorrect": true
+      },
+      {
+        "text": "Photons",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cathode rays are composed of electrons which are negatively charged particles.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following is a limitation of Rutherford’s atomic model?",
+    "options": [
+      {
+        "text": "It could not explain the stability of an atom.",
+        "isCorrect": true
+      },
+      {
+        "text": "It could not explain the photoelectric effect.",
+        "isCorrect": false
+      },
+      {
+        "text": "It did not include the concept of quantum mechanics.",
+        "isCorrect": false
+      },
+      {
+        "text": "It could not explain the behavior of gases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's atomic model could not explain the stability of the atom as it suggested that electrons orbiting the nucleus would eventually spiral into the nucleus.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What did Bohr's model of the hydrogen atom include that Rutherford's did not?",
+    "options": [
+      {
+        "text": "Nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "Quantized energy levels",
+        "isCorrect": true
+      },
+      {
+        "text": "Protons",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bohr's model included quantized energy levels, which explained the stability of electrons in their orbits around the nucleus.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "According to Bohr’s theory, the angular momentum of an electron in a stationary orbit is:",
+    "options": [
+      {
+        "text": "$n \\hbar$",
+        "isCorrect": false
+      },
+      {
+        "text": "$nh/2\\pi$",
+        "isCorrect": true
+      },
+      {
+        "text": "$n^2 h$",
+        "isCorrect": false
+      },
+      {
+        "text": "$n m_e v r$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's theory, the angular momentum of an electron in a stationary orbit is quantized and given by $m_e vr = nh/2\\pi$.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which principle states that it is impossible to know the exact position and exact momentum of an electron simultaneously?",
+    "options": [
+      {
+        "text": "Pauli Exclusion Principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Hund’s Rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Heisenberg Uncertainty Principle",
+        "isCorrect": true
+      },
+      {
+        "text": "Aufbau Principle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Heisenberg Uncertainty Principle states that it is impossible to know both the exact position and exact momentum of an electron simultaneously.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the shape of the s-orbital?",
+    "options": [
+      {
+        "text": "Dumbbell",
+        "isCorrect": false
+      },
+      {
+        "text": "Spherical",
+        "isCorrect": true
+      },
+      {
+        "text": "Double Dumbbell",
+        "isCorrect": false
+      },
+      {
+        "text": "Cloverleaf",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The s-orbital has a spherical shape around the nucleus.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which scientist proposed that electrons have wave properties?",
+    "options": [
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Louis de Broglie",
+        "isCorrect": true
+      },
+      {
+        "text": "Werner Heisenberg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Louis de Broglie proposed that particles such as electrons exhibit wave properties.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "The value of the principal quantum number (n) determines the:",
+    "options": [
+      {
+        "text": "Shape of the orbital",
+        "isCorrect": false
+      },
+      {
+        "text": "Orientation of the orbital",
+        "isCorrect": false
+      },
+      {
+        "text": "Size and energy of the orbital",
+        "isCorrect": true
+      },
+      {
+        "text": "Spin of the electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal quantum number (n) determines the size and energy level of the orbital.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the maximum number of electrons that can be accommodated in the n=2 shell?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "32",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The maximum number of electrons that can be accommodated in the n=2 shell is given by the formula $2n^2$, which equals 8.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following transitions in the hydrogen atom emits radiation of the longest wavelength?",
+    "options": [
+      {
+        "text": "n=3 to n=2",
+        "isCorrect": false
+      },
+      {
+        "text": "n=2 to n=1",
+        "isCorrect": true
+      },
+      {
+        "text": "n=4 to n=3",
+        "isCorrect": false
+      },
+      {
+        "text": "n=5 to n=4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The transition from n=2 to n=1 emits radiation of the longest wavelength because it involves the highest energy difference.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the energy of a photon with a frequency of $3 \\times 10^{15}$ Hz?",
+    "options": [
+      {
+        "text": "$1.99 \\times 10^{-19}$ J",
+        "isCorrect": true
+      },
+      {
+        "text": "$3.31 \\times 10^{-19}$ J",
+        "isCorrect": false
+      },
+      {
+        "text": "$4.98 \\times 10^{-19}$ J",
+        "isCorrect": false
+      },
+      {
+        "text": "$6.63 \\times 10^{-19}$ J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of a photon can be calculated using the formula $E = h \\nu$, where $h = 6.626 \\times 10^{-34}$ Js. Thus, $E = 6.626 \\times 10^{-34} \\times 3 \\times 10^{15} = 1.99 \\times 10^{-19}$ J.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the wavelength of an electron with a mass of $9.1 \\times 10^{-31}$ kg and kinetic energy of $3 \\times 10^{-25}$ J?",
+    "options": [
+      {
+        "text": "$2.42 \\times 10^{-12}$ m",
+        "isCorrect": true
+      },
+      {
+        "text": "$3.64 \\times 10^{-12}$ m",
+        "isCorrect": false
+      },
+      {
+        "text": "$4.85 \\times 10^{-12}$ m",
+        "isCorrect": false
+      },
+      {
+        "text": "$6.06 \\times 10^{-12}$ m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using de Broglie's equation, $\\lambda = \\frac{h}{mv}$, and the kinetic energy formula, $K.E. = \\frac{1}{2}mv^2$, the wavelength can be calculated as $\\lambda = 2.42 \\times 10^{-12}$ m.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following quantum numbers determines the orientation of an orbital?",
+    "options": [
+      {
+        "text": "Principal quantum number (n)",
+        "isCorrect": false
+      },
+      {
+        "text": "Azimuthal quantum number (l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic quantum number (m_l)",
+        "isCorrect": true
+      },
+      {
+        "text": "Spin quantum number (m_s)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic quantum number ($m_l$) determines the orientation of an orbital in space.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Who proposed the quantum mechanical model of the atom?",
+    "options": [
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": true
+      },
+      {
+        "text": "Werner Heisenberg",
+        "isCorrect": false
+      },
+      {
+        "text": "Louis de Broglie",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Erwin Schrödinger proposed the quantum mechanical model of the atom, which incorporates wave-particle duality and is consistent with Heisenberg's uncertainty principle.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the maximum number of electrons that can be accommodated in an orbital?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the Pauli Exclusion Principle, an orbital can accommodate a maximum of 2 electrons with opposite spins.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which series of transitions in the hydrogen atom involves the emission of ultraviolet light?",
+    "options": [
+      {
+        "text": "Lyman series",
+        "isCorrect": true
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Lyman series involves transitions from higher energy levels to the n=1 level and emits ultraviolet light.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the shape of the p-orbital?",
+    "options": [
+      {
+        "text": "Spherical",
+        "isCorrect": false
+      },
+      {
+        "text": "Dumbbell",
+        "isCorrect": true
+      },
+      {
+        "text": "Double Dumbbell",
+        "isCorrect": false
+      },
+      {
+        "text": "Cloverleaf",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The p-orbital has a dumbbell shape and is oriented along the x, y, or z-axis.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "The concept of dual nature of matter was proposed by:",
+    "options": [
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Werner Heisenberg",
+        "isCorrect": false
+      },
+      {
+        "text": "Louis de Broglie",
+        "isCorrect": true
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Louis de Broglie proposed the concept of the dual nature of matter, stating that particles such as electrons exhibit both wave-like and particle-like properties.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which experiment led to the discovery of the neutron?",
+    "options": [
+      {
+        "text": "Gold Foil Experiment",
+        "isCorrect": false
+      },
+      {
+        "text": "Oil Drop Experiment",
+        "isCorrect": false
+      },
+      {
+        "text": "Beryllium Foil Experiment",
+        "isCorrect": true
+      },
+      {
+        "text": "Cathode Ray Experiment",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Beryllium Foil Experiment conducted by James Chadwick led to the discovery of the neutron.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Who discovered the proton?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": true
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ernest Rutherford discovered the proton through his gold foil experiment.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What was the major flaw in Thomson's model of the atom?",
+    "options": [
+      {
+        "text": "It did not include neutrons.",
+        "isCorrect": false
+      },
+      {
+        "text": "It could not explain the stability of the atom.",
+        "isCorrect": true
+      },
+      {
+        "text": "It did not include protons.",
+        "isCorrect": false
+      },
+      {
+        "text": "It did not include electrons.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Thomson's model could not explain the stability of the atom as it suggested that electrons were embedded in a positively charged sphere.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which atomic model introduced the concept of quantized energy levels?",
+    "options": [
+      {
+        "text": "Thomson's Model",
+        "isCorrect": false
+      },
+      {
+        "text": "Rutherford's Model",
+        "isCorrect": false
+      },
+      {
+        "text": "Bohr's Model",
+        "isCorrect": true
+      },
+      {
+        "text": "Quantum Mechanical Model",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bohr's Model introduced the concept of quantized energy levels, explaining the stability of the atom.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the primary postulate of Bohr’s model for the hydrogen atom?",
+    "options": [
+      {
+        "text": "Electrons move in elliptical orbits.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons can only occupy certain quantized energy levels.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons emit radiation continuously.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are stationary around the nucleus.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bohr's model postulates that electrons can only occupy certain quantized energy levels.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following is an application of the Heisenberg Uncertainty Principle?",
+    "options": [
+      {
+        "text": "It determines the exact position and momentum of an electron.",
+        "isCorrect": false
+      },
+      {
+        "text": "It explains the wave nature of electrons.",
+        "isCorrect": false
+      },
+      {
+        "text": "It shows that the path of an electron cannot be precisely known.",
+        "isCorrect": true
+      },
+      {
+        "text": "It calculates the energy levels of an electron.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Heisenberg Uncertainty Principle shows that the path of an electron cannot be precisely known.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which equation is fundamental to the quantum mechanical model of the atom?",
+    "options": [
+      {
+        "text": "Maxwell's Equations",
+        "isCorrect": false
+      },
+      {
+        "text": "Schrödinger Equation",
+        "isCorrect": true
+      },
+      {
+        "text": "Einstein's Equation",
+        "isCorrect": false
+      },
+      {
+        "text": "Planck's Equation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Schrödinger Equation is fundamental to the quantum mechanical model of the atom.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "The wavelength of a particle is inversely proportional to its:",
+    "options": [
+      {
+        "text": "Mass",
+        "isCorrect": true
+      },
+      {
+        "text": "Velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Charge",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie's hypothesis, the wavelength of a particle is inversely proportional to its mass.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What determines the shape of an orbital?",
+    "options": [
+      {
+        "text": "Principal quantum number (n)",
+        "isCorrect": false
+      },
+      {
+        "text": "Azimuthal quantum number (l)",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnetic quantum number (m_l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Spin quantum number (m_s)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The shape of an orbital is determined by the azimuthal quantum number (l).",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which series of transitions in the hydrogen atom involves the emission of visible light?",
+    "options": [
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": true
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Balmer series involves transitions that emit visible light.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "The radius of the first Bohr orbit is:",
+    "options": [
+      {
+        "text": "$0.529 \\text{Å}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1.059 \\text{Å}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.118 \\text{Å}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.147 \\text{Å}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The radius of the first Bohr orbit, also known as the Bohr radius, is $0.529 \\text{Å}$.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "The probability of finding an electron in an atom is described by:",
+    "options": [
+      {
+        "text": "Wave function ($\\psi$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Planck's constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Principal quantum number (n)",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic quantum number (m_l)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The probability of finding an electron in an atom is described by the square of the wave function ($\\psi^2$).",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which particle is not found in the nucleus of an atom?",
+    "options": [
+      {
+        "text": "Proton",
+        "isCorrect": false
+      },
+      {
+        "text": "Neutron",
+        "isCorrect": false
+      },
+      {
+        "text": "Electron",
+        "isCorrect": true
+      },
+      {
+        "text": "Photon",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electrons are not found in the nucleus; they orbit the nucleus in various energy levels.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "According to Bohr’s model, which statement is true?",
+    "options": [
+      {
+        "text": "Electrons emit energy when they jump to higher energy levels.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons absorb energy when they jump to lower energy levels.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons emit energy when they jump to lower energy levels.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons do not change energy levels.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, electrons emit energy when they jump to lower energy levels.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "The concept of wave-particle duality was proposed by:",
+    "options": [
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Louis de Broglie",
+        "isCorrect": true
+      },
+      {
+        "text": "Werner Heisenberg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Louis de Broglie proposed the concept of wave-particle duality, suggesting that particles such as electrons exhibit both wave-like and particle-like properties.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "In the hydrogen atom, the transition from $n=3$ to $n=2$ corresponds to:",
+    "options": [
+      {
+        "text": "Absorption of energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Emission of energy",
+        "isCorrect": true
+      },
+      {
+        "text": "No change in energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization of the atom",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the hydrogen atom, the transition from $n=3$ to $n=2$ corresponds to the emission of energy.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "The Schrödinger equation is used to determine:",
+    "options": [
+      {
+        "text": "The exact path of an electron",
+        "isCorrect": false
+      },
+      {
+        "text": "The probability of finding an electron in a given region",
+        "isCorrect": true
+      },
+      {
+        "text": "The charge of an electron",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of an electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Schrödinger equation is used to determine the probability of finding an electron in a given region around the nucleus.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which quantum number is associated with the shape of an orbital?",
+    "options": [
+      {
+        "text": "Principal quantum number (n)",
+        "isCorrect": false
+      },
+      {
+        "text": "Azimuthal quantum number (l)",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnetic quantum number (m_l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Spin quantum number (m_s)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The azimuthal quantum number (l) is associated with the shape of an orbital.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "According to the Bohr model, the angular momentum of an electron is:",
+    "options": [
+      {
+        "text": "Quantized",
+        "isCorrect": true
+      },
+      {
+        "text": "Continuous",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Infinite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the Bohr model, the angular momentum of an electron is quantized.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following principles is applied to describe the distribution of electrons in an atom?",
+    "options": [
+      {
+        "text": "Pauli Exclusion Principle",
+        "isCorrect": true
+      },
+      {
+        "text": "Hund’s Rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Heisenberg Uncertainty Principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Bohr's Postulates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Pauli Exclusion Principle is applied to describe the distribution of electrons in an atom, stating that no two electrons can have the same set of four quantum numbers.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What was the main observation from Rutherford's gold foil experiment?",
+    "options": [
+      {
+        "text": "Most alpha particles passed through the foil.",
+        "isCorrect": true
+      },
+      {
+        "text": "All alpha particles were deflected.",
+        "isCorrect": false
+      },
+      {
+        "text": "Alpha particles were absorbed by the foil.",
+        "isCorrect": false
+      },
+      {
+        "text": "Alpha particles created a fluorescent spot on the foil.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford observed that most alpha particles passed through the gold foil, with some being deflected at large angles, leading to the conclusion that atoms have a small, dense nucleus.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "EASY"
+  },
+  {
+    "questionText": "According to Rutherford's model of the atom, where is the majority of the mass concentrated?",
+    "options": [
+      {
+        "text": "In the electron cloud",
+        "isCorrect": false
+      },
+      {
+        "text": "In the nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "Evenly throughout the atom",
+        "isCorrect": false
+      },
+      {
+        "text": "In the orbits",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's model proposed that the majority of the atom's mass is concentrated in a small, dense nucleus.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which scientist's work led to the quantum mechanical model of the atom?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": true
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Erwin Schrödinger's work on wave mechanics led to the development of the quantum mechanical model of the atom.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "In Bohr's model, what happens when an electron jumps from a higher energy level to a lower energy level?",
+    "options": [
+      {
+        "text": "Energy is absorbed.",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy is emitted.",
+        "isCorrect": true
+      },
+      {
+        "text": "No change in energy.",
+        "isCorrect": false
+      },
+      {
+        "text": "The atom becomes ionized.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr's model, when an electron jumps from a higher energy level to a lower energy level, it emits energy in the form of radiation.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which principle is the basis for the exclusion of two electrons in an atom having the same set of four quantum numbers?",
+    "options": [
+      {
+        "text": "Hund's Rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Pauli Exclusion Principle",
+        "isCorrect": true
+      },
+      {
+        "text": "Heisenberg Uncertainty Principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Aufbau Principle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Pauli Exclusion Principle states that no two electrons in an atom can have the same set of four quantum numbers.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following is a correct statement about the Heisenberg Uncertainty Principle?",
+    "options": [
+      {
+        "text": "It is possible to know the exact position and momentum of an electron simultaneously.",
+        "isCorrect": false
+      },
+      {
+        "text": "The more accurately we know the position of an electron, the less accurately we know its momentum.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is possible to measure both position and momentum with infinite precision.",
+        "isCorrect": false
+      },
+      {
+        "text": "The uncertainty principle does not apply to subatomic particles.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Heisenberg Uncertainty Principle states that the more accurately we know the position of an electron, the less accurately we know its momentum, and vice versa.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which particle was discovered through the gold foil experiment?",
+    "options": [
+      {
+        "text": "Electron",
+        "isCorrect": false
+      },
+      {
+        "text": "Proton",
+        "isCorrect": true
+      },
+      {
+        "text": "Neutron",
+        "isCorrect": false
+      },
+      {
+        "text": "Photon",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford's gold foil experiment led to the discovery of the proton, which is located in the nucleus of the atom.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the shape of the d-orbital?",
+    "options": [
+      {
+        "text": "Spherical",
+        "isCorrect": false
+      },
+      {
+        "text": "Dumbbell",
+        "isCorrect": false
+      },
+      {
+        "text": "Double Dumbbell",
+        "isCorrect": true
+      },
+      {
+        "text": "Cloverleaf",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The d-orbital has a double dumbbell shape, which can be visualized as four lobes.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following equations represents the de Broglie wavelength?",
+    "options": [
+      {
+        "text": "$\\lambda = \\frac{h}{mv}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$E = h\\nu$",
+        "isCorrect": false
+      },
+      {
+        "text": "$c = \\lambda \\nu$",
+        "isCorrect": false
+      },
+      {
+        "text": "$E = mc^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The de Broglie wavelength equation is $\\lambda = \\frac{h}{mv}$, where $\\lambda$ is the wavelength, $h$ is Planck's constant, $m$ is the mass, and $v$ is the velocity.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What does the principal quantum number (n) represent in an atom?",
+    "options": [
+      {
+        "text": "Shape of the orbital",
+        "isCorrect": false
+      },
+      {
+        "text": "Size and energy level of the orbital",
+        "isCorrect": true
+      },
+      {
+        "text": "Orientation of the orbital",
+        "isCorrect": false
+      },
+      {
+        "text": "Spin of the electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal quantum number (n) represents the size and energy level of the orbital.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following is NOT a postulate of Bohr’s model of the hydrogen atom?",
+    "options": [
+      {
+        "text": "Electrons revolve in fixed orbits around the nucleus.",
+        "isCorrect": false
+      },
+      {
+        "text": "The energy of an electron changes continuously as it moves in its orbit.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons do not radiate energy while revolving in stable orbits.",
+        "isCorrect": false
+      },
+      {
+        "text": "The angular momentum of an electron in an orbit is quantized.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr’s model, the energy of an electron does not change continuously; it remains constant while the electron is in a fixed orbit.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Who proposed the existence of neutrons?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": true
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "James Chadwick proposed the existence of neutrons in 1932.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following quantum numbers determines the orientation of an orbital in space?",
+    "options": [
+      {
+        "text": "Principal quantum number (n)",
+        "isCorrect": false
+      },
+      {
+        "text": "Azimuthal quantum number (l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic quantum number (m_l)",
+        "isCorrect": true
+      },
+      {
+        "text": "Spin quantum number (m_s)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic quantum number ($m_l$) determines the orientation of an orbital in space.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "According to the quantum mechanical model, what does the wave function (ψ) describe?",
+    "options": [
+      {
+        "text": "Exact position of an electron",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy level of an electron",
+        "isCorrect": false
+      },
+      {
+        "text": "Probability amplitude of an electron's position",
+        "isCorrect": true
+      },
+      {
+        "text": "Spin of an electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the quantum mechanical model, the wave function (ψ) describes the probability amplitude of an electron's position.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the shape of the f-orbital?",
+    "options": [
+      {
+        "text": "Spherical",
+        "isCorrect": false
+      },
+      {
+        "text": "Dumbbell",
+        "isCorrect": false
+      },
+      {
+        "text": "Double Dumbbell",
+        "isCorrect": false
+      },
+      {
+        "text": "Complex shapes",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The f-orbitals have complex shapes, which are more intricate than the shapes of s, p, and d orbitals.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which series of lines in the hydrogen spectrum corresponds to transitions from higher energy levels to n=3?",
+    "options": [
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": true
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Paschen series corresponds to transitions from higher energy levels to n=3 in the hydrogen spectrum.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What determines the maximum number of electrons in a shell?",
+    "options": [
+      {
+        "text": "Principal quantum number (n)",
+        "isCorrect": true
+      },
+      {
+        "text": "Azimuthal quantum number (l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic quantum number (m_l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Spin quantum number (m_s)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The maximum number of electrons in a shell is determined by the principal quantum number (n) and is given by $2n^2$.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which scientist proposed that electrons in an atom move in circular orbits around the nucleus?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": true
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Niels Bohr proposed that electrons move in circular orbits around the nucleus with quantized energy levels.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "In the hydrogen atom, what is the energy difference between two energy levels given by?",
+    "options": [
+      {
+        "text": "$E_2 - E_1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$E_1 + E_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$E_1 / E_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$E_2 \\times E_1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the hydrogen atom, the energy difference between two energy levels is given by $E_2 - E_1$, where $E_1$ and $E_2$ are the energies of the initial and final states, respectively.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which series of transitions in the hydrogen atom involves the emission of infrared radiation?",
+    "options": [
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": true
+      },
+      {
+        "text": "Pfund series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Paschen series involves transitions that emit infrared radiation.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which quantum number determines the spin of an electron?",
+    "options": [
+      {
+        "text": "Principal quantum number (n)",
+        "isCorrect": false
+      },
+      {
+        "text": "Azimuthal quantum number (l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic quantum number (m_l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Spin quantum number (m_s)",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The spin quantum number ($m_s$) determines the spin of an electron, which can be either +1/2 or -1/2.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the charge to mass ratio of an electron?",
+    "options": [
+      {
+        "text": "$1.758820 \\times 10^{11}$ C kg$^{-1}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1.602176 \\times 10^{-19}$ C",
+        "isCorrect": false
+      },
+      {
+        "text": "$9.109383 \\times 10^{-31}$ kg",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.673723 \\times 10^{-27}$ kg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The charge to mass ratio of an electron is $1.758820 \\times 10^{11}$ C kg$^{-1}$, determined by J.J. Thomson.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Who discovered the neutron?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "James Chadwick discovered the neutron in 1932 by bombarding beryllium with alpha particles.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What does the azimuthal quantum number (l) determine?",
+    "options": [
+      {
+        "text": "Size of the orbital",
+        "isCorrect": false
+      },
+      {
+        "text": "Shape of the orbital",
+        "isCorrect": true
+      },
+      {
+        "text": "Orientation of the orbital",
+        "isCorrect": false
+      },
+      {
+        "text": "Spin of the electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The azimuthal quantum number (l) determines the shape of the orbital.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "According to de Broglie’s hypothesis, matter exhibits:",
+    "options": [
+      {
+        "text": "Wave-like properties",
+        "isCorrect": true
+      },
+      {
+        "text": "Particle-like properties",
+        "isCorrect": false
+      },
+      {
+        "text": "Both wave-like and particle-like properties",
+        "isCorrect": true
+      },
+      {
+        "text": "Neither wave-like nor particle-like properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie’s hypothesis, matter exhibits both wave-like and particle-like properties.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the principal quantum number for the first Bohr orbit?",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal quantum number for the first Bohr orbit is 1.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which experiment demonstrated the existence of the nucleus?",
+    "options": [
+      {
+        "text": "Oil Drop Experiment",
+        "isCorrect": false
+      },
+      {
+        "text": "Gold Foil Experiment",
+        "isCorrect": true
+      },
+      {
+        "text": "Cathode Ray Experiment",
+        "isCorrect": false
+      },
+      {
+        "text": "Photoelectric Effect",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Gold Foil Experiment conducted by Rutherford demonstrated the existence of the nucleus.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following is NOT a postulate of Bohr’s model?",
+    "options": [
+      {
+        "text": "Electrons revolve in fixed orbits around the nucleus.",
+        "isCorrect": false
+      },
+      {
+        "text": "The energy of an electron in an orbit is quantized.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons radiate energy continuously while in their orbits.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons move to higher energy orbits by absorbing energy.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr’s model, electrons do not radiate energy continuously while in their orbits.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What did the Rutherford model of the atom fail to explain?",
+    "options": [
+      {
+        "text": "Existence of the electron",
+        "isCorrect": false
+      },
+      {
+        "text": "Existence of the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "Stability of the atom",
+        "isCorrect": true
+      },
+      {
+        "text": "Presence of positive charge",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Rutherford model of the atom failed to explain the stability of the atom.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the main feature of the quantum mechanical model of the atom?",
+    "options": [
+      {
+        "text": "Electrons move in fixed orbits around the nucleus.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons are located in regions called orbitals.",
+        "isCorrect": true
+      },
+      {
+        "text": "The nucleus contains only protons.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons emit energy continuously.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main feature of the quantum mechanical model is that electrons are located in regions called orbitals.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Who proposed the quantum mechanical model of the atom?",
+    "options": [
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": true
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Erwin Schrödinger proposed the quantum mechanical model of the atom.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following transitions in the hydrogen atom will emit a photon with the highest energy?",
+    "options": [
+      {
+        "text": "n=3 to n=2",
+        "isCorrect": false
+      },
+      {
+        "text": "n=2 to n=1",
+        "isCorrect": true
+      },
+      {
+        "text": "n=4 to n=3",
+        "isCorrect": false
+      },
+      {
+        "text": "n=5 to n=4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The transition from n=2 to n=1 in the hydrogen atom will emit a photon with the highest energy.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What does the magnetic quantum number ($m_l$) represent?",
+    "options": [
+      {
+        "text": "Shape of the orbital",
+        "isCorrect": false
+      },
+      {
+        "text": "Orientation of the orbital",
+        "isCorrect": true
+      },
+      {
+        "text": "Size of the orbital",
+        "isCorrect": false
+      },
+      {
+        "text": "Spin of the electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic quantum number ($m_l$) represents the orientation of the orbital in space.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "According to the Heisenberg Uncertainty Principle, which of the following cannot be simultaneously determined with precision?",
+    "options": [
+      {
+        "text": "Energy and momentum",
+        "isCorrect": false
+      },
+      {
+        "text": "Position and momentum",
+        "isCorrect": true
+      },
+      {
+        "text": "Position and energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Momentum and speed",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Heisenberg Uncertainty Principle states that the position and momentum of a particle cannot be simultaneously determined with precision.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "The frequency of radiation absorbed or emitted when transition occurs between two stationary states that differ in energy by ΔE is given by:",
+    "options": [
+      {
+        "text": "$\\nu = \\frac{\\Delta E}{h}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\nu = \\Delta E \\times h$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\nu = \\frac{h}{\\Delta E}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\nu = \\Delta E - h$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The frequency of radiation absorbed or emitted is given by $\\nu = \\frac{\\Delta E}{h}$, where $\\Delta E$ is the energy difference and $h$ is Planck's constant.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What determines the number of subshells in a given shell?",
+    "options": [
+      {
+        "text": "Principal quantum number (n)",
+        "isCorrect": false
+      },
+      {
+        "text": "Azimuthal quantum number (l)",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnetic quantum number (m_l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Spin quantum number (m_s)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of subshells in a given shell is determined by the azimuthal quantum number (l).",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the energy of an electron in the first Bohr orbit of hydrogen?",
+    "options": [
+      {
+        "text": "$-13.6$ eV",
+        "isCorrect": true
+      },
+      {
+        "text": "$-27.2$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-54.4$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-6.8$ eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the first Bohr orbit of hydrogen is $-13.6$ eV.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which principle states that no two electrons in an atom can have the same set of four quantum numbers?",
+    "options": [
+      {
+        "text": "Pauli Exclusion Principle",
+        "isCorrect": true
+      },
+      {
+        "text": "Hund’s Rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Heisenberg Uncertainty Principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Aufbau Principle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Pauli Exclusion Principle states that no two electrons in an atom can have the same set of four quantum numbers.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "The probability of finding an electron in an atom is given by:",
+    "options": [
+      {
+        "text": "$\\psi^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\psi$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\psi/2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2\\psi$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The probability of finding an electron in an atom is given by the square of the wave function ($\\psi^2$).",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which series in the hydrogen spectrum corresponds to transitions to the n=1 level?",
+    "options": [
+      {
+        "text": "Lyman series",
+        "isCorrect": true
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Lyman series corresponds to transitions to the n=1 level in the hydrogen spectrum.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "The energy levels of electrons in an atom are quantized due to:",
+    "options": [
+      {
+        "text": "Electrostatic force between nucleus and electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "Wave nature of electrons",
+        "isCorrect": true
+      },
+      {
+        "text": "Particle nature of electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "Gravitational force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy levels of electrons in an atom are quantized due to the wave nature of electrons.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the energy of an electron in the second Bohr orbit of a hydrogen atom?",
+    "options": [
+      {
+        "text": "$-3.4$ eV",
+        "isCorrect": true
+      },
+      {
+        "text": "$-13.6$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1.51$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-0.85$ eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the second Bohr orbit (n=2) of a hydrogen atom is $-3.4$ eV.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following correctly describes Hund’s rule?",
+    "options": [
+      {
+        "text": "No two electrons in an atom can have the same set of four quantum numbers.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons occupy orbitals of the same energy to maximize the number of unpaired electrons.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons fill orbitals in the order of increasing energy.",
+        "isCorrect": false
+      },
+      {
+        "text": "The exact position and momentum of an electron cannot be simultaneously known.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hund’s rule states that electrons occupy orbitals of the same energy to maximize the number of unpaired electrons.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which quantum number determines the energy of an electron in a hydrogen atom?",
+    "options": [
+      {
+        "text": "Principal quantum number (n)",
+        "isCorrect": true
+      },
+      {
+        "text": "Azimuthal quantum number (l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic quantum number (m_l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Spin quantum number (m_s)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a hydrogen atom, the energy of an electron is determined by the principal quantum number (n).",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What does the Pauli Exclusion Principle state?",
+    "options": [
+      {
+        "text": "Electrons fill orbitals in the order of increasing energy.",
+        "isCorrect": false
+      },
+      {
+        "text": "No two electrons in an atom can have the same set of four quantum numbers.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons occupy orbitals of the same energy to maximize the number of unpaired electrons.",
+        "isCorrect": false
+      },
+      {
+        "text": "The exact position and momentum of an electron cannot be simultaneously known.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Pauli Exclusion Principle states that no two electrons in an atom can have the same set of four quantum numbers.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "The wave function (ψ) associated with an electron in an atom:",
+    "options": [
+      {
+        "text": "Has a direct physical meaning.",
+        "isCorrect": false
+      },
+      {
+        "text": "Determines the exact position of the electron.",
+        "isCorrect": false
+      },
+      {
+        "text": "Is related to the probability density of finding the electron.",
+        "isCorrect": true
+      },
+      {
+        "text": "Describes the energy level only.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wave function (ψ) associated with an electron in an atom is related to the probability density of finding the electron.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following statements is true according to the Bohr model?",
+    "options": [
+      {
+        "text": "Electrons emit radiation while revolving in fixed orbits.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons can only occupy certain quantized energy levels.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrons follow elliptical orbits around the nucleus.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons move in orbits without any acceleration.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the Bohr model, electrons can only occupy certain quantized energy levels.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which phenomenon could not be explained by the Rutherford model?",
+    "options": [
+      {
+        "text": "The existence of the nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "The distribution of electrons around the nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "The deflection of alpha particles",
+        "isCorrect": false
+      },
+      {
+        "text": "The charge of the electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Rutherford model could not explain the distribution of electrons around the nucleus.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Who proposed that electrons exhibit both particle and wave-like properties?",
+    "options": [
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Louis de Broglie",
+        "isCorrect": true
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Louis de Broglie proposed that electrons exhibit both particle and wave-like properties.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the main difference between the Bohr model and the quantum mechanical model?",
+    "options": [
+      {
+        "text": "Bohr model considers electrons as particles only.",
+        "isCorrect": true
+      },
+      {
+        "text": "Quantum mechanical model considers electrons as particles only.",
+        "isCorrect": false
+      },
+      {
+        "text": "Both models consider electrons as waves only.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bohr model considers electrons as waves only.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Bohr model considers electrons as particles only, whereas the quantum mechanical model considers electrons as having both particle and wave-like properties.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the angular momentum of an electron in the second orbit (n=2) of a hydrogen atom according to Bohr's model?",
+    "options": [
+      {
+        "text": "$\\frac{h}{2\\pi}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2h}{\\pi}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{h}{\\pi}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{3h}{2\\pi}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the angular momentum of an electron in the second orbit (n=2) is $\\frac{2h}{\\pi}$.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which scientist's work laid the foundation for the quantum mechanical model of the atom?",
+    "options": [
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": true
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Erwin Schrödinger's work on wave mechanics laid the foundation for the quantum mechanical model of the atom.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "The number of protons in the nucleus of an atom determines its:",
+    "options": [
+      {
+        "text": "Atomic number",
+        "isCorrect": true
+      },
+      {
+        "text": "Mass number",
+        "isCorrect": false
+      },
+      {
+        "text": "Number of neutrons",
+        "isCorrect": false
+      },
+      {
+        "text": "Chemical properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of protons in the nucleus of an atom determines its atomic number.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which series in the hydrogen spectrum corresponds to transitions to the n=2 level?",
+    "options": [
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": true
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": false
+      },
+      {
+        "text": "Pfund series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Balmer series corresponds to transitions to the n=2 level in the hydrogen spectrum.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which principle states that electrons fill orbitals in order of increasing energy?",
+    "options": [
+      {
+        "text": "Pauli Exclusion Principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Hund’s Rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Aufbau Principle",
+        "isCorrect": true
+      },
+      {
+        "text": "Heisenberg Uncertainty Principle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Aufbau Principle states that electrons fill orbitals in order of increasing energy.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following particles is found in the nucleus of an atom?",
+    "options": [
+      {
+        "text": "Electron",
+        "isCorrect": false
+      },
+      {
+        "text": "Proton",
+        "isCorrect": true
+      },
+      {
+        "text": "Photon",
+        "isCorrect": false
+      },
+      {
+        "text": "Positron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Protons are found in the nucleus of an atom.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What does the Heisenberg Uncertainty Principle state?",
+    "options": [
+      {
+        "text": "It is possible to know the exact position and momentum of an electron simultaneously.",
+        "isCorrect": false
+      },
+      {
+        "text": "The exact position and momentum of an electron cannot be known simultaneously.",
+        "isCorrect": true
+      },
+      {
+        "text": "The energy of an electron can be precisely determined.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons emit radiation continuously while in motion.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Heisenberg Uncertainty Principle states that the exact position and momentum of an electron cannot be known simultaneously.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the principal quantum number (n) for an electron in the third shell?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal quantum number (n) for an electron in the third shell is 3.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "The Zeeman effect refers to:",
+    "options": [
+      {
+        "text": "The splitting of spectral lines in the presence of an electric field.",
+        "isCorrect": false
+      },
+      {
+        "text": "The splitting of spectral lines in the presence of a magnetic field.",
+        "isCorrect": true
+      },
+      {
+        "text": "The photoelectric effect.",
+        "isCorrect": false
+      },
+      {
+        "text": "The dual nature of electrons.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Zeeman effect refers to the splitting of spectral lines in the presence of a magnetic field.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the energy of an electron in the third Bohr orbit of a hydrogen atom?",
+    "options": [
+      {
+        "text": "$-1.51$ eV",
+        "isCorrect": true
+      },
+      {
+        "text": "$-13.6$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-3.4$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-0.85$ eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the third Bohr orbit (n=3) of a hydrogen atom is $-1.51$ eV.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "The quantum mechanical model of the atom was developed by which scientist?",
+    "options": [
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": true
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Erwin Schrödinger developed the quantum mechanical model of the atom.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which scientist proposed the nuclear model of the atom?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": true
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ernest Rutherford proposed the nuclear model of the atom.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Who proposed the dual nature of matter?",
+    "options": [
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Louis de Broglie",
+        "isCorrect": true
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Louis de Broglie proposed the dual nature of matter, stating that particles can exhibit both wave-like and particle-like properties.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the principal quantum number for the third shell?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal quantum number (n) for the third shell is 3.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "The Heisenberg Uncertainty Principle states that:",
+    "options": [
+      {
+        "text": "The exact position and momentum of an electron can be known simultaneously.",
+        "isCorrect": false
+      },
+      {
+        "text": "The exact position and momentum of an electron cannot be known simultaneously.",
+        "isCorrect": true
+      },
+      {
+        "text": "The energy of an electron can be precisely determined.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrons emit radiation continuously while in motion.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Heisenberg Uncertainty Principle states that the exact position and momentum of an electron cannot be known simultaneously.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which scientist proposed the plum pudding model of the atom?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": true
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "J.J. Thomson proposed the plum pudding model of the atom, where electrons are embedded in a positively charged 'pudding'.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "EASY"
+  },
+  {
+    "questionText": "In Rutherford's gold foil experiment, what was observed that led to the conclusion that the atom has a dense central nucleus?",
+    "options": [
+      {
+        "text": "Most alpha particles passed straight through the foil.",
+        "isCorrect": false
+      },
+      {
+        "text": "Some alpha particles were deflected at large angles.",
+        "isCorrect": true
+      },
+      {
+        "text": "Alpha particles were deflected at small angles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Alpha particles did not interact with the foil.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rutherford observed that some alpha particles were deflected at large angles, suggesting the presence of a dense, positively charged nucleus.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Who developed the quantum mechanical model of the atom?",
+    "options": [
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": true
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Erwin Schrödinger developed the quantum mechanical model of the atom.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "According to Bohr’s model, what is quantized in an atom?",
+    "options": [
+      {
+        "text": "The energy of electrons",
+        "isCorrect": true
+      },
+      {
+        "text": "The position of electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "The charge of electrons",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Bohr’s model, the energy of electrons is quantized, meaning electrons can only occupy certain energy levels.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the relationship between the wavelength (λ) and momentum (p) of a particle according to de Broglie?",
+    "options": [
+      {
+        "text": "$\\lambda = \\frac{h}{p}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\lambda = hp$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lambda = \\frac{p}{h}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lambda = h + p$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie, the wavelength (λ) of a particle is inversely proportional to its momentum (p): $\\lambda = \\frac{h}{p}$.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the principal quantum number (n) for an electron in the fourth shell?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The principal quantum number (n) for an electron in the fourth shell is 4.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the angular momentum of an electron in the third orbit (n=3) of a hydrogen atom according to Bohr's model?",
+    "options": [
+      {
+        "text": "$\\frac{h}{2\\pi}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{3h}{2\\pi}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{3h}{\\pi}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{h}{\\pi}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the angular momentum of an electron in the third orbit (n=3) is $\\frac{3h}{\\pi}$.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which series in the hydrogen spectrum corresponds to transitions to the n=3 level?",
+    "options": [
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": true
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Paschen series corresponds to transitions to the n=3 level in the hydrogen spectrum.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the principal quantum number (n) for an electron in the fifth shell?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal quantum number (n) for an electron in the fifth shell is 5.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the charge of an electron?",
+    "options": [
+      {
+        "text": "$-1.602 \\times 10^{-19}$ C",
+        "isCorrect": true
+      },
+      {
+        "text": "$1.602 \\times 10^{-19}$ C",
+        "isCorrect": false
+      },
+      {
+        "text": "$-9.109 \\times 10^{-31}$ C",
+        "isCorrect": false
+      },
+      {
+        "text": "$9.109 \\times 10^{-31}$ C",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The charge of an electron is $-1.602 \\times 10^{-19}$ C.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What experiment led to the discovery of the nucleus?",
+    "options": [
+      {
+        "text": "Gold foil experiment",
+        "isCorrect": true
+      },
+      {
+        "text": "Cathode ray tube experiment",
+        "isCorrect": false
+      },
+      {
+        "text": "Oil drop experiment",
+        "isCorrect": false
+      },
+      {
+        "text": "Photoelectric effect experiment",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gold foil experiment conducted by Ernest Rutherford led to the discovery of the nucleus.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the principal quantum number (n) for an electron in the second shell?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal quantum number (n) for an electron in the second shell is 2.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which model of the atom was proposed by Rutherford?",
+    "options": [
+      {
+        "text": "Plum pudding model",
+        "isCorrect": false
+      },
+      {
+        "text": "Nuclear model",
+        "isCorrect": true
+      },
+      {
+        "text": "Bohr model",
+        "isCorrect": false
+      },
+      {
+        "text": "Quantum mechanical model",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ernest Rutherford proposed the nuclear model of the atom, where the atom consists of a dense nucleus surrounded by electrons.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "According to Bohr's model, what is the energy of an electron in the first orbit of a hydrogen atom?",
+    "options": [
+      {
+        "text": "$-13.6$ eV",
+        "isCorrect": true
+      },
+      {
+        "text": "$-3.4$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1.51$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-0.85$ eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the energy of an electron in the first orbit (n=1) of a hydrogen atom is $-13.6$ eV.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which series in the hydrogen spectrum corresponds to transitions to the n=4 level?",
+    "options": [
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": false
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The Brackett series corresponds to transitions to the n=4 level in the hydrogen spectrum.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What does the principal quantum number (n) determine?",
+    "options": [
+      {
+        "text": "Size and energy of the orbital",
+        "isCorrect": true
+      },
+      {
+        "text": "Shape of the orbital",
+        "isCorrect": false
+      },
+      {
+        "text": "Orientation of the orbital",
+        "isCorrect": false
+      },
+      {
+        "text": "Spin of the electron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal quantum number (n) determines the size and energy of the orbital.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which quantum number determines the orientation of an orbital in space?",
+    "options": [
+      {
+        "text": "Principal quantum number (n)",
+        "isCorrect": false
+      },
+      {
+        "text": "Azimuthal quantum number (l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic quantum number (m_l)",
+        "isCorrect": true
+      },
+      {
+        "text": "Spin quantum number (m_s)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic quantum number ($m_l$) determines the orientation of an orbital in space.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the shape of the f-orbital?",
+    "options": [
+      {
+        "text": "Spherical",
+        "isCorrect": false
+      },
+      {
+        "text": "Dumbbell",
+        "isCorrect": false
+      },
+      {
+        "text": "Double Dumbbell",
+        "isCorrect": false
+      },
+      {
+        "text": "Complex",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The f-orbital has a complex shape.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Who proposed the quantum mechanical model of the atom?",
+    "options": [
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": true
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Erwin Schrödinger proposed the quantum mechanical model of the atom.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which scientist's work led to the discovery of the neutron?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "James Chadwick discovered the neutron by bombarding beryllium atoms with alpha particles.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the mass of a neutron?",
+    "options": [
+      {
+        "text": "$1.675 \\times 10^{-27}$ kg",
+        "isCorrect": true
+      },
+      {
+        "text": "$1.675 \\times 10^{-31}$ kg",
+        "isCorrect": false
+      },
+      {
+        "text": "$9.109 \\times 10^{-31}$ kg",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.672 \\times 10^{-27}$ kg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mass of a neutron is $1.675 \\times 10^{-27}$ kg.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the shape of the s-orbital?",
+    "options": [
+      {
+        "text": "Spherical",
+        "isCorrect": true
+      },
+      {
+        "text": "Dumbbell",
+        "isCorrect": false
+      },
+      {
+        "text": "Double Dumbbell",
+        "isCorrect": false
+      },
+      {
+        "text": "Cloverleaf",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The s-orbital has a spherical shape.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "According to Bohr’s model, what is the angular momentum of an electron in the second orbit (n=2) of a hydrogen atom?",
+    "options": [
+      {
+        "text": "$\\frac{h}{2\\pi}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2h}{\\pi}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{h}{\\pi}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{3h}{2\\pi}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bohr's model, the angular momentum of an electron in the second orbit (n=2) is $\\frac{2h}{\\pi}$.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Who proposed that matter exhibits both particle and wave-like properties?",
+    "options": [
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Louis de Broglie",
+        "isCorrect": true
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Louis de Broglie proposed that matter exhibits both particle and wave-like properties.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the mass of a proton?",
+    "options": [
+      {
+        "text": "$1.672 \\times 10^{-27}$ kg",
+        "isCorrect": true
+      },
+      {
+        "text": "$9.109 \\times 10^{-31}$ kg",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.675 \\times 10^{-31}$ kg",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.675 \\times 10^{-27}$ kg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mass of a proton is $1.672 \\times 10^{-27}$ kg.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the frequency of radiation emitted when an electron in a hydrogen atom transitions from n=3 to n=2 level?",
+    "options": [
+      {
+        "text": "$4.57 \\times 10^{14}$ Hz",
+        "isCorrect": true
+      },
+      {
+        "text": "$6.17 \\times 10^{14}$ Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.29 \\times 10^{15}$ Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.46 \\times 10^{14}$ Hz",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The frequency of radiation emitted when an electron in a hydrogen atom transitions from n=3 to n=2 level is $4.57 \\times 10^{14}$ Hz.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the wavelength of an electron having momentum p according to de Broglie?",
+    "options": [
+      {
+        "text": "$\\lambda = \\frac{h}{p}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\lambda = hp$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lambda = \\frac{p}{h}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lambda = h + p$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie, the wavelength (λ) of an electron is inversely proportional to its momentum (p): $\\lambda = \\frac{h}{p}$.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the charge of a proton?",
+    "options": [
+      {
+        "text": "$+1.602 \\times 10^{-19}$ C",
+        "isCorrect": true
+      },
+      {
+        "text": "$-1.602 \\times 10^{-19}$ C",
+        "isCorrect": false
+      },
+      {
+        "text": "$+1.672 \\times 10^{-19}$ C",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1.672 \\times 10^{-19}$ C",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The charge of a proton is $+1.602 \\times 10^{-19}$ C.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which series in the hydrogen spectrum corresponds to transitions to the n=2 level?",
+    "options": [
+      {
+        "text": "Lyman series",
+        "isCorrect": false
+      },
+      {
+        "text": "Balmer series",
+        "isCorrect": true
+      },
+      {
+        "text": "Paschen series",
+        "isCorrect": false
+      },
+      {
+        "text": "Brackett series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Balmer series corresponds to transitions to the n=2 level in the hydrogen spectrum.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Who proposed the quantum mechanical model of the atom?",
+    "options": [
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": true
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Erwin Schrödinger proposed the quantum mechanical model of the atom, incorporating wave-particle duality and Heisenberg's uncertainty principle.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the wavelength of an electron having a momentum p according to de Broglie?",
+    "options": [
+      {
+        "text": "$\\lambda = \\frac{h}{p}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\lambda = hp$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lambda = \\frac{p}{h}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lambda = h + p$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to de Broglie, the wavelength (λ) of an electron is inversely proportional to its momentum (p): $\\lambda = \\frac{h}{p}$.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Who discovered the neutron?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": true
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "James Chadwick discovered the neutron by bombarding beryllium atoms with alpha particles.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the energy of an electron in the fourth Bohr orbit of a hydrogen atom?",
+    "options": [
+      {
+        "text": "$-0.85$ eV",
+        "isCorrect": true
+      },
+      {
+        "text": "$-13.6$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-3.4$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1.51$ eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the fourth Bohr orbit (n=4) of a hydrogen atom is $-0.85$ eV.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which scientist's work led to the discovery of the electron?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": true
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "J.J. Thomson discovered the electron through experiments with cathode ray tubes.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Who proposed the concept of wave-particle duality for electrons?",
+    "options": [
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Louis de Broglie",
+        "isCorrect": true
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Louis de Broglie proposed the concept of wave-particle duality for electrons.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Who proposed the plum pudding model of the atom?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": true
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "J.J. Thomson proposed the plum pudding model of the atom, where electrons are embedded in a positively charged 'pudding'.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the frequency of radiation emitted when an electron in a hydrogen atom transitions from n=4 to n=2 level?",
+    "options": [
+      {
+        "text": "$6.17 \\times 10^{14}$ Hz",
+        "isCorrect": true
+      },
+      {
+        "text": "$4.57 \\times 10^{14}$ Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.29 \\times 10^{15}$ Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.46 \\times 10^{14}$ Hz",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The frequency of radiation emitted when an electron in a hydrogen atom transitions from n=4 to n=2 level is $6.17 \\times 10^{14}$ Hz.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the mass of an electron?",
+    "options": [
+      {
+        "text": "$9.109 \\times 10^{-31}$ kg",
+        "isCorrect": true
+      },
+      {
+        "text": "$1.675 \\times 10^{-27}$ kg",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.672 \\times 10^{-27}$ kg",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.675 \\times 10^{-31}$ kg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mass of an electron is $9.109 \\times 10^{-31}$ kg.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the energy of an electron in the ground state of a hydrogen atom?",
+    "options": [
+      {
+        "text": "$-13.6$ eV",
+        "isCorrect": true
+      },
+      {
+        "text": "$-3.4$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1.51$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-0.85$ eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the ground state (n=1) of a hydrogen atom is $-13.6$ eV.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the charge of an electron?",
+    "options": [
+      {
+        "text": "$-1.602 \\times 10^{-19}$ C",
+        "isCorrect": true
+      },
+      {
+        "text": "$+1.602 \\times 10^{-19}$ C",
+        "isCorrect": false
+      },
+      {
+        "text": "$-9.109 \\times 10^{-31}$ C",
+        "isCorrect": false
+      },
+      {
+        "text": "$9.109 \\times 10^{-31}$ C",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The charge of an electron is $-1.602 \\times 10^{-19}$ C.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the charge of a proton?",
+    "options": [
+      {
+        "text": "$+1.602 \\times 10^{-19}$ C",
+        "isCorrect": true
+      },
+      {
+        "text": "$-1.602 \\times 10^{-19}$ C",
+        "isCorrect": false
+      },
+      {
+        "text": "$+9.109 \\times 10^{-31}$ C",
+        "isCorrect": false
+      },
+      {
+        "text": "$-9.109 \\times 10^{-31}$ C",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The charge of a proton is $+1.602 \\times 10^{-19}$ C.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which principle states that the lowest energy configuration for an atom is the one having the maximum number of unpaired electrons in degenerate orbitals?",
+    "options": [
+      {
+        "text": "Pauli Exclusion Principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Hund’s Rule",
+        "isCorrect": true
+      },
+      {
+        "text": "Aufbau Principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Heisenberg Uncertainty Principle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hund’s Rule states that the lowest energy configuration for an atom is the one having the maximum number of unpaired electrons in degenerate orbitals.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the energy of an electron in the n=3 level of a hydrogen atom?",
+    "options": [
+      {
+        "text": "$-1.51$ eV",
+        "isCorrect": true
+      },
+      {
+        "text": "$-13.6$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-3.4$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-0.85$ eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the n=3 level of a hydrogen atom is $-1.51$ eV.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Who discovered the proton?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": true
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ernest Rutherford discovered the proton through his gold foil experiment.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the mass of a neutron?",
+    "options": [
+      {
+        "text": "$1.675 \\times 10^{-27}$ kg",
+        "isCorrect": true
+      },
+      {
+        "text": "$9.109 \\times 10^{-31}$ kg",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.672 \\times 10^{-27}$ kg",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.675 \\times 10^{-31}$ kg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mass of a neutron is $1.675 \\times 10^{-27}$ kg.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the principal quantum number (n) for an electron in the sixth shell?",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal quantum number (n) for an electron in the sixth shell is 6.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which scientist proposed the quantum mechanical model of the atom?",
+    "options": [
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": true
+      },
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Erwin Schrödinger proposed the quantum mechanical model of the atom, incorporating wave-particle duality and Heisenberg's uncertainty principle.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which principle states that no two electrons in an atom can have the same set of four quantum numbers?",
+    "options": [
+      {
+        "text": "Hund’s Rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Pauli Exclusion Principle",
+        "isCorrect": true
+      },
+      {
+        "text": "Aufbau Principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Heisenberg Uncertainty Principle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Pauli Exclusion Principle states that no two electrons in an atom can have the same set of four quantum numbers.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the frequency of radiation emitted when an electron in a hydrogen atom transitions from n=5 to n=2 level?",
+    "options": [
+      {
+        "text": "$6.91 \\times 10^{14}$ Hz",
+        "isCorrect": true
+      },
+      {
+        "text": "$4.57 \\times 10^{14}$ Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.29 \\times 10^{15}$ Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.46 \\times 10^{14}$ Hz",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The frequency of radiation emitted when an electron in a hydrogen atom transitions from n=5 to n=2 level is $6.91 \\times 10^{14}$ Hz.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Who proposed the nuclear model of the atom?",
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": true
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ernest Rutherford proposed the nuclear model of the atom based on his gold foil experiment.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which quantum number determines the spin of an electron?",
+    "options": [
+      {
+        "text": "Principal quantum number (n)",
+        "isCorrect": false
+      },
+      {
+        "text": "Azimuthal quantum number (l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic quantum number ($m_l$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Spin quantum number ($m_s$)",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The spin quantum number ($m_s$) determines the spin of an electron.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Who proposed the quantum mechanical model of the atom?",
+    "options": [
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": true
+      },
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Erwin Schrödinger proposed the quantum mechanical model of the atom, incorporating wave-particle duality and Heisenberg's uncertainty principle.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the mass of a proton?",
+    "options": [
+      {
+        "text": "$1.672 \\times 10^{-27}$ kg",
+        "isCorrect": true
+      },
+      {
+        "text": "$9.109 \\times 10^{-31}$ kg",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.675 \\times 10^{-27}$ kg",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.674 \\times 10^{-27}$ kg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mass of a proton is $1.672 \\times 10^{-27}$ kg.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the frequency of radiation emitted when an electron in a hydrogen atom transitions from n=6 to n=2 level?",
+    "options": [
+      {
+        "text": "$4.57 \\times 10^{14}$ Hz",
+        "isCorrect": true
+      },
+      {
+        "text": "$3.29 \\times 10^{15}$ Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "$6.91 \\times 10^{14}$ Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.46 \\times 10^{14}$ Hz",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The frequency of radiation emitted when an electron in a hydrogen atom transitions from n=6 to n=2 level is $4.57 \\times 10^{14}$ Hz.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the charge of a neutron?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-1.602 \\times 10^{-19}$ C",
+        "isCorrect": false
+      },
+      {
+        "text": "$+1.602 \\times 10^{-19}$ C",
+        "isCorrect": false
+      },
+      {
+        "text": "$-9.109 \\times 10^{-31}$ C",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A neutron has no charge (0).",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the principal quantum number (n) for an electron in the seventh shell?",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal quantum number (n) for an electron in the seventh shell is 7.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Who proposed the wave nature of electrons?",
+    "options": [
+      {
+        "text": "Erwin Schrödinger",
+        "isCorrect": false
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Louis de Broglie",
+        "isCorrect": true
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Louis de Broglie proposed the wave nature of electrons in 1924.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the energy of an electron in the fifth Bohr orbit of a hydrogen atom?",
+    "options": [
+      {
+        "text": "$-0.544$ eV",
+        "isCorrect": true
+      },
+      {
+        "text": "$-13.6$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-3.4$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1.51$ eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the fifth Bohr orbit (n=5) of a hydrogen atom is $-0.544$ eV.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Who proposed the idea that particles can exhibit wave-like properties?",
+    "options": [
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "Louis de Broglie",
+        "isCorrect": true
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Louis de Broglie proposed that particles can exhibit wave-like properties.",
+    "chapter": "Structure of Atom",
+    "topic": "2.5 Towards Quantum Mechanical Model of the Atom",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the frequency of radiation emitted when an electron in a hydrogen atom transitions from n=4 to n=2 level?",
+    "options": [
+      {
+        "text": "$7.31 \\times 10^{14}$ Hz",
+        "isCorrect": true
+      },
+      {
+        "text": "$4.57 \\times 10^{14}$ Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.29 \\times 10^{15}$ Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.46 \\times 10^{14}$ Hz",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The frequency of radiation emitted when an electron in a hydrogen atom transitions from n=4 to n=2 level is $7.31 \\times 10^{14}$ Hz.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the principal quantum number (n) for an electron in the fourth shell?",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal quantum number (n) for an electron in the fourth shell is 4.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Who discovered the electron?",
+    "options": [
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": false
+      },
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": true
+      },
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "J.J. Thomson discovered the electron through experiments with cathode rays.",
+    "chapter": "Structure of Atom",
+    "topic": "2.1 Discovery of Sub-atomic Particles",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the principal quantum number (n) for an electron in the third shell?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal quantum number (n) for an electron in the third shell is 3.",
+    "chapter": "Structure of Atom",
+    "topic": "2.6 Quantum Mechanical Model of Atom",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the energy of an electron in the first Bohr orbit of a hydrogen atom?",
+    "options": [
+      {
+        "text": "$-13.6$ eV",
+        "isCorrect": true
+      },
+      {
+        "text": "$-3.4$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1.51$ eV",
+        "isCorrect": false
+      },
+      {
+        "text": "$-0.85$ eV",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy of an electron in the first Bohr orbit (n=1) of a hydrogen atom is $-13.6$ eV.",
+    "chapter": "Structure of Atom",
+    "topic": "2.4 Bohr’s Model for Hydrogen Atom",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which scientist proposed the nuclear model of the atom?",
+    "options": [
+      {
+        "text": "Niels Bohr",
+        "isCorrect": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": true
+      },
+      {
+        "text": "J.J. Thomson",
+        "isCorrect": false
+      },
+      {
+        "text": "James Chadwick",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ernest Rutherford proposed the nuclear model of the atom based on his gold foil experiment.",
+    "chapter": "Structure of Atom",
+    "topic": "2.2 Atomic Models",
+    "level": "MEDIUM"
+  }
+]

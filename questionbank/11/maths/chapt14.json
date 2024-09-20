@@ -1,0 +1,3928 @@
+[
+  {
+    "qno": 1,
+    "questionText": "Consider the experiment of tossing a coin two times. What is the sample space for this experiment?",
+    "options": [
+      {
+        "text": "$\\{H, T\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HH, HT, TH, TT\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{H, T, HH, TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{H, HT, T, TH\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The sample space for tossing a coin two times includes all possible outcomes: HH, HT, TH, TT.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "In the sample space $S = \\{HH, HT, TH, TT\\}$, what is the subset corresponding to the event of getting exactly one head?",
+    "options": [
+      {
+        "text": "$\\{HH\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HT, TH\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HT, TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TH, TT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The event of getting exactly one head corresponds to the outcomes HT and TH.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which of the following subsets of $S = \\{HH, HT, TH, TT\\}$ corresponds to the event where the number of tails is at least one?",
+    "options": [
+      {
+        "text": "$\\{HH\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HT, TH, TT\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, HT, TH\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset corresponding to the event where the number of tails is at least one includes HT, TH, and TT.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "Define an event in the context of a sample space.",
+    "options": [
+      {
+        "text": "Any subset of a sample space",
+        "isCorrect": true
+      },
+      {
+        "text": "Any element of a sample space",
+        "isCorrect": false
+      },
+      {
+        "text": "The entire sample space",
+        "isCorrect": false
+      },
+      {
+        "text": "An empty subset of a sample space",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An event is defined as any subset of a sample space.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "What is the event associated with the subset $\\{TT\\}$ in the sample space $S = \\{HH, HT, TH, TT\\}$?",
+    "options": [
+      {
+        "text": "Number of heads is exactly one",
+        "isCorrect": false
+      },
+      {
+        "text": "Number of tails is exactly two",
+        "isCorrect": true
+      },
+      {
+        "text": "Number of tails is at least one",
+        "isCorrect": false
+      },
+      {
+        "text": "Number of heads is at least one",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{TT\\}$ corresponds to the event where the number of tails is exactly two.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "Consider the experiment of rolling a die. What is the sample space for this experiment?",
+    "options": [
+      {
+        "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{1, 2, 3, 4, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 3, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 4, 6\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The sample space for rolling a die includes all possible outcomes: 1, 2, 3, 4, 5, 6.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "In the sample space $S = \\{1, 2, 3, 4, 5, 6\\}$, what is the subset corresponding to the event of getting a prime number?",
+    "options": [
+      {
+        "text": "$\\{1, 2, 3, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3, 5\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{2, 3, 4\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 2, 3, 4, 5\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset corresponding to the event of getting a prime number includes 2, 3, and 5.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which subset of $S = \\{1, 2, 3, 4, 5, 6\\}$ corresponds to the event where the number rolled is even?",
+    "options": [
+      {
+        "text": "$\\{1, 3, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 4, 6\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{2, 3, 4, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset corresponding to the event where the number rolled is even includes 2, 4, and 6.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "If a subset of the sample space $S$ contains only one element, what type of event is it?",
+    "options": [
+      {
+        "text": "Compound Event",
+        "isCorrect": false
+      },
+      {
+        "text": "Simple Event",
+        "isCorrect": true
+      },
+      {
+        "text": "Impossible Event",
+        "isCorrect": false
+      },
+      {
+        "text": "Sure Event",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A subset containing only one element is called a simple event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "What is an impossible event in the context of a sample space?",
+    "options": [
+      {
+        "text": "A subset containing all elements of the sample space",
+        "isCorrect": false
+      },
+      {
+        "text": "A subset containing no elements",
+        "isCorrect": true
+      },
+      {
+        "text": "A subset containing one element",
+        "isCorrect": false
+      },
+      {
+        "text": "A subset containing exactly half of the elements",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An impossible event is represented by the empty set, which contains no elements.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "If the subset of a sample space $S$ is $\\{1, 3, 5\\}$, what type of event does it represent when rolling a die?",
+    "options": [
+      {
+        "text": "A prime number appears",
+        "isCorrect": false
+      },
+      {
+        "text": "An odd number appears",
+        "isCorrect": true
+      },
+      {
+        "text": "A number greater than 4 appears",
+        "isCorrect": false
+      },
+      {
+        "text": "A number less than 4 appears",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{1, 3, 5\\}$ represents the event where an odd number appears when rolling a die.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the event associated with the subset $\\{2, 4, 6\\}$ in the sample space $S = \\{1, 2, 3, 4, 5, 6\\}$?",
+    "options": [
+      {
+        "text": "An even number appears",
+        "isCorrect": true
+      },
+      {
+        "text": "An odd number appears",
+        "isCorrect": false
+      },
+      {
+        "text": "A prime number appears",
+        "isCorrect": false
+      },
+      {
+        "text": "A number greater than 4 appears",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{2, 4, 6\\}$ represents the event where an even number appears when rolling a die.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which of the following describes a sure event?",
+    "options": [
+      {
+        "text": "An event that can never occur",
+        "isCorrect": false
+      },
+      {
+        "text": "An event that must occur",
+        "isCorrect": true
+      },
+      {
+        "text": "An event that can occur sometimes",
+        "isCorrect": false
+      },
+      {
+        "text": "An event that is uncertain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A sure event is one that must occur and is represented by the entire sample space.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which of the following is an example of a compound event?",
+    "options": [
+      {
+        "text": "Rolling a 3 on a die",
+        "isCorrect": false
+      },
+      {
+        "text": "Rolling an even number on a die",
+        "isCorrect": true
+      },
+      {
+        "text": "Rolling a 7 on a die",
+        "isCorrect": false
+      },
+      {
+        "text": "Rolling a 1 on a die",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A compound event consists of more than one outcome, such as rolling an even number (2, 4, 6) on a die.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 15,
+    "questionText": "If an event consists of more than one sample point, what is it called?",
+    "options": [
+      {
+        "text": "Simple Event",
+        "isCorrect": false
+      },
+      {
+        "text": "Compound Event",
+        "isCorrect": true
+      },
+      {
+        "text": "Impossible Event",
+        "isCorrect": false
+      },
+      {
+        "text": "Sure Event",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An event that consists of more than one sample point is called a compound event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 16,
+    "questionText": "In a die rolling experiment, what subset of the sample space $S = \\{1, 2, 3, 4, 5, 6\\}$ corresponds to the event of rolling a number less than 4?",
+    "options": [
+      {
+        "text": "$\\{1, 2, 3\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{4, 5, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3, 4\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 3, 5\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{1, 2, 3\\}$ corresponds to the event of rolling a number less than 4.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which subset of $S = \\{1, 2, 3, 4, 5, 6\\}$ corresponds to the event where the number rolled is greater than or equal to 5?",
+    "options": [
+      {
+        "text": "$\\{4, 5, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{5, 6\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{3, 4, 5, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{5, 6\\}$ corresponds to the event where the number rolled is greater than or equal to 5.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "In the experiment of rolling a die, what is the probability of the event where the number rolled is a prime number?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The prime numbers in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{2, 3, 5\\}$. Therefore, the probability is $\\frac{3}{6} = \\frac{1}{2}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 19,
+    "questionText": "What is the probability of the event where the number rolled on a die is less than 4?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers less than 4 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 2, 3\\}$. Therefore, the probability is $\\frac{3}{6} = \\frac{1}{2}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 20,
+    "questionText": "If the subset $E$ of a sample space $S$ is $\\{1, 3, 5\\}$, what is the probability of event $E$ when rolling a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{1, 3, 5\\}$ corresponds to an odd number appearing. The probability is $\\frac{3}{6} = \\frac{1}{2}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "What is the probability of rolling a number greater than 4 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers greater than 4 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{5, 6\\}$. Therefore, the probability is $\\frac{2}{6} = \\frac{1}{3}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 22,
+    "questionText": "In the context of a sample space, what does the term 'sure event' refer to?",
+    "options": [
+      {
+        "text": "An event that can never occur",
+        "isCorrect": false
+      },
+      {
+        "text": "An event that must occur",
+        "isCorrect": true
+      },
+      {
+        "text": "An event that may or may not occur",
+        "isCorrect": false
+      },
+      {
+        "text": "An event with no outcomes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A sure event is one that includes all possible outcomes in the sample space and must occur.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "What type of event is represented by the empty set?",
+    "options": [
+      {
+        "text": "Sure Event",
+        "isCorrect": false
+      },
+      {
+        "text": "Impossible Event",
+        "isCorrect": true
+      },
+      {
+        "text": "Simple Event",
+        "isCorrect": false
+      },
+      {
+        "text": "Compound Event",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The empty set represents an impossible event, which cannot occur.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "If a subset of a sample space contains more than one element, what type of event is it?",
+    "options": [
+      {
+        "text": "Simple Event",
+        "isCorrect": false
+      },
+      {
+        "text": "Compound Event",
+        "isCorrect": true
+      },
+      {
+        "text": "Impossible Event",
+        "isCorrect": false
+      },
+      {
+        "text": "Sure Event",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A subset containing more than one element represents a compound event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 25,
+    "questionText": "In the sample space $S = \\{HH, HT, TH, TT\\}$, which subset represents the event where the second toss is not a head?",
+    "options": [
+      {
+        "text": "$\\{HT, TT\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, HT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TH, TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HH, TH\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HT, TT\\}$ represents the event where the second toss is not a head.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which subset of $S = \\{HH, HT, TH, TT\\}$ corresponds to the event where the number of heads is at most one?",
+    "options": [
+      {
+        "text": "$\\{HT, TH, TT\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, HT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TH, TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HH, TH\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HT, TH, TT\\}$ corresponds to the event where the number of heads is at most one.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 27,
+    "questionText": "In the sample space $S = \\{1, 2, 3, 4, 5, 6\\}$, what subset represents the event where the number is not 4?",
+    "options": [
+      {
+        "text": "$\\{1, 2, 3, 5, 6\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{2, 3, 5, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 2, 3, 4, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 3, 5, 6\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{1, 2, 3, 5, 6\\}$ represents the event where the number is not 4.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 28,
+    "questionText": "What is the event associated with the subset $\\{HH, HT\\}$ in the sample space $S = \\{HH, HT, TH, TT\\}$?",
+    "options": [
+      {
+        "text": "The first toss is a head",
+        "isCorrect": true
+      },
+      {
+        "text": "The second toss is a head",
+        "isCorrect": false
+      },
+      {
+        "text": "The first toss is a tail",
+        "isCorrect": false
+      },
+      {
+        "text": "The second toss is a tail",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HH, HT\\}$ represents the event where the first toss is a head.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 29,
+    "questionText": "In the sample space $S = \\{HH, HT, TH, TT\\}$, which subset represents the event where the number of tails is exactly two?",
+    "options": [
+      {
+        "text": "$\\{TT\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HT, TH, TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HH, TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HT, TT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{TT\\}$ represents the event where the number of tails is exactly two.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 30,
+    "questionText": "Which of the following is an example of a simple event?",
+    "options": [
+      {
+        "text": "Rolling an even number on a die",
+        "isCorrect": false
+      },
+      {
+        "text": "Rolling a 3 on a die",
+        "isCorrect": true
+      },
+      {
+        "text": "Rolling a prime number on a die",
+        "isCorrect": false
+      },
+      {
+        "text": "Rolling a number greater than 4 on a die",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A simple event consists of only one outcome, such as rolling a 3 on a die.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 31,
+    "questionText": "In the experiment of tossing a coin three times, what is the sample space?",
+    "options": [
+      {
+        "text": "$\\{HHH, HHT, HTH, THH, HTT, THT, TTH, TTT\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, HT, TH, TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{H, T\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HHH, HHT, HTT, TTT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The sample space for tossing a coin three times includes all possible outcomes: HHH, HHT, HTH, THH, HTT, THT, TTH, TTT.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 32,
+    "questionText": "What is the probability of getting a head when a fair coin is tossed once?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{4}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The probability of getting a head when a fair coin is tossed once is $\\frac{1}{2}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 33,
+    "questionText": "If the subset of a sample space $S$ is $\\{HTH, HHT, THH\\}$, what event does it represent when tossing a coin three times?",
+    "options": [
+      {
+        "text": "At least two heads appear",
+        "isCorrect": true
+      },
+      {
+        "text": "At most one head appears",
+        "isCorrect": false
+      },
+      {
+        "text": "No heads appear",
+        "isCorrect": false
+      },
+      {
+        "text": "Exactly one head appears",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HTH, HHT, THH\\}$ represents the event where at least two heads appear.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 34,
+    "questionText": "In the sample space $S = \\{1, 2, 3, 4, 5, 6\\}$, what subset represents the event where the number is odd?",
+    "options": [
+      {
+        "text": "$\\{1, 3, 5\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{2, 4, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 3, 5, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 2, 3\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{1, 3, 5\\}$ represents the event where the number is odd.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 35,
+    "questionText": "What is the probability of rolling a number greater than 2 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers greater than 2 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{3, 4, 5, 6\\}$. Therefore, the probability is $\\frac{4}{6} = \\frac{2}{3}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 36,
+    "questionText": "In a die rolling experiment, what subset of the sample space $S = \\{1, 2, 3, 4, 5, 6\\}$ corresponds to the event of rolling a number less than or equal to 3?",
+    "options": [
+      {
+        "text": "$\\{1, 2, 3\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{2, 3, 4\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{3, 4, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{4, 5, 6\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{1, 2, 3\\}$ corresponds to the event of rolling a number less than or equal to 3.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 37,
+    "questionText": "What is the probability of rolling a prime number on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The prime numbers in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{2, 3, 5\\}$. Therefore, the probability is $\\frac{3}{6} = \\frac{1}{2}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 38,
+    "questionText": "If the subset of a sample space $S$ is $\\{HHH, HHT, HTH, THH\\}$, what event does it represent when tossing a coin three times?",
+    "options": [
+      {
+        "text": "At least two heads appear",
+        "isCorrect": true
+      },
+      {
+        "text": "At most one head appears",
+        "isCorrect": false
+      },
+      {
+        "text": "No heads appear",
+        "isCorrect": false
+      },
+      {
+        "text": "Exactly one head appears",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HHH, HHT, HTH, THH\\}$ represents the event where at least two heads appear.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 39,
+    "questionText": "In the sample space $S = \\{HH, HT, TH, TT\\}$, which subset represents the event where the number of heads is exactly one?",
+    "options": [
+      {
+        "text": "$\\{HT, TH\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HH, HT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TH, TT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HT, TH\\}$ represents the event where the number of heads is exactly one.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 40,
+    "questionText": "What is the probability of getting at least one head when tossing a fair coin twice?",
+    "options": [
+      {
+        "text": "$\\frac{3}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{4}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The possible outcomes when tossing a fair coin twice are $\\{HH, HT, TH, TT\\}$. The outcomes with at least one head are $\\{HH, HT, TH\\}$. Therefore, the probability is $\\frac{3}{4}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 41,
+    "questionText": "Which of the following subsets represents a compound event when rolling a die?",
+    "options": [
+      {
+        "text": "$\\{1, 2\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 4, 6\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{3\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{5\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A compound event consists of more than one outcome, such as $\\{2, 4, 6\\}$ when rolling a die.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 42,
+    "questionText": "In the context of a sample space, what does an event represent?",
+    "options": [
+      {
+        "text": "An individual outcome",
+        "isCorrect": false
+      },
+      {
+        "text": "A subset of the sample space",
+        "isCorrect": true
+      },
+      {
+        "text": "The entire sample space",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An event represents a subset of the sample space.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 43,
+    "questionText": "If an event has only one outcome, what type of event is it?",
+    "options": [
+      {
+        "text": "Simple Event",
+        "isCorrect": true
+      },
+      {
+        "text": "Compound Event",
+        "isCorrect": false
+      },
+      {
+        "text": "Impossible Event",
+        "isCorrect": false
+      },
+      {
+        "text": "Sure Event",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An event with only one outcome is called a simple event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 44,
+    "questionText": "In the sample space $S = \\{HH, HT, TH, TT\\}$, what subset represents the event where the first toss is not a head?",
+    "options": [
+      {
+        "text": "$\\{TH, TT\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, HT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HT, TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HH, TH\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{TH, TT\\}$ represents the event where the first toss is not a head.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 45,
+    "questionText": "What is the probability of rolling an odd number on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The odd numbers in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 3, 5\\}$. Therefore, the probability is $\\frac{3}{6} = \\frac{1}{2}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 46,
+    "questionText": "If the subset of a sample space $S$ is $\\{H, T\\}$, what event does it represent when tossing a coin?",
+    "options": [
+      {
+        "text": "The coin lands on heads",
+        "isCorrect": false
+      },
+      {
+        "text": "The coin lands on tails",
+        "isCorrect": false
+      },
+      {
+        "text": "The coin lands on either heads or tails",
+        "isCorrect": true
+      },
+      {
+        "text": "The coin lands on its edge",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{H, T\\}$ represents the event where the coin lands on either heads or tails.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 47,
+    "questionText": "Which subset of $S = \\{1, 2, 3, 4, 5, 6\\}$ corresponds to the event where the number rolled is greater than 2 and less than 5?",
+    "options": [
+      {
+        "text": "$\\{3, 4\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{2, 3, 4\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{4, 5, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 2, 3\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{3, 4\\}$ corresponds to the event where the number rolled is greater than 2 and less than 5.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 48,
+    "questionText": "In the context of a sample space, what is an impossible event?",
+    "options": [
+      {
+        "text": "An event that must occur",
+        "isCorrect": false
+      },
+      {
+        "text": "An event that can never occur",
+        "isCorrect": true
+      },
+      {
+        "text": "An event with one outcome",
+        "isCorrect": false
+      },
+      {
+        "text": "An event with all possible outcomes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An impossible event is one that can never occur and is represented by the empty set.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 49,
+    "questionText": "What is the probability of rolling a number less than 5 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers less than 5 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 2, 3, 4\\}$. Therefore, the probability is $\\frac{4}{6} = \\frac{2}{3}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 50,
+    "questionText": "Which of the following subsets represents the event where the number of heads is at most two when tossing a coin three times?",
+    "options": [
+      {
+        "text": "$\\{HHT, HTH, THH, HTT, THT, TTH, TTT\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HHH, HHT, HTH, THH\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HHT, HTH, THH\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HTT, THT, TTH, TTT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HHT, HTH, THH, HTT, THT, TTH, TTT\\}$ represents the event where the number of heads is at most two.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 51,
+    "questionText": "In the sample space $S = \\{1, 2, 3, 4, 5, 6\\}$, what subset represents the event where the number rolled is not a prime number?",
+    "options": [
+      {
+        "text": "$\\{1, 4, 6\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{2, 3, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 2, 3, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3, 4\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{1, 4, 6\\}$ represents the event where the number rolled is not a prime number.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 52,
+    "questionText": "What is the probability of rolling a number greater than or equal to 3 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers greater than or equal to 3 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{3, 4, 5, 6\\}$. Therefore, the probability is $\\frac{4}{6} = \\frac{2}{3}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 53,
+    "questionText": "If the subset of a sample space $S$ is $\\{HH, HT, TH, TT\\}$, what event does it represent when tossing a coin twice?",
+    "options": [
+      {
+        "text": "The coin lands on heads",
+        "isCorrect": false
+      },
+      {
+        "text": "The coin lands on tails",
+        "isCorrect": false
+      },
+      {
+        "text": "The coin lands on either heads or tails",
+        "isCorrect": true
+      },
+      {
+        "text": "The coin lands on its edge",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HH, HT, TH, TT\\}$ represents the event where the coin lands on either heads or tails.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 54,
+    "questionText": "What is the probability of rolling a number less than or equal to 4 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers less than or equal to 4 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 2, 3, 4\\}$. Therefore, the probability is $\\frac{4}{6} = \\frac{2}{3}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 55,
+    "questionText": "Which of the following subsets represents the event where the number of heads is at least one when tossing a coin twice?",
+    "options": [
+      {
+        "text": "$\\{HH, HT, TH\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, HT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HT, TH\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HH, TT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HH, HT, TH\\}$ represents the event where the number of heads is at least one.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 56,
+    "questionText": "In the sample space $S = \\{HH, HT, TH, TT\\}$, what subset represents the event where the first toss is a tail?",
+    "options": [
+      {
+        "text": "$\\{TH, TT\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, HT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HT, TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HH, TH\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{TH, TT\\}$ represents the event where the first toss is a tail.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 57,
+    "questionText": "What is the probability of rolling a composite number on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The composite numbers in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{4, 6\\}$. Therefore, the probability is $\\frac{2}{6} = \\frac{1}{3}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 58,
+    "questionText": "Which subset of $S = \\{HH, HT, TH, TT\\}$ represents the event where the number of heads is exactly two?",
+    "options": [
+      {
+        "text": "$\\{HH\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HT, TH\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TH, TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HT, TT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HH\\}$ represents the event where the number of heads is exactly two.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 59,
+    "questionText": "What is the probability of getting no heads when tossing a fair coin twice?",
+    "options": [
+      {
+        "text": "$\\frac{1}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{3}{4}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The possible outcomes when tossing a fair coin twice are $\\{HH, HT, TH, TT\\}$. The outcome with no heads is $\\{TT\\}$. Therefore, the probability is $\\frac{1}{4}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 60,
+    "questionText": "In the experiment of rolling a die, which subset of the sample space $S = \\{1, 2, 3, 4, 5, 6\\}$ corresponds to the event of rolling a number greater than or equal to 4?",
+    "options": [
+      {
+        "text": "$\\{4, 5, 6\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{1, 2, 3\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3, 4\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{3, 4, 5\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{4, 5, 6\\}$ corresponds to the event of rolling a number greater than or equal to 4.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 61,
+    "questionText": "Which of the following subsets represents the event where the number rolled is an even prime number?",
+    "options": [
+      {
+        "text": "$\\{2\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{4\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 4, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The only even prime number in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ is $\\{2\\}$. Therefore, the subset $\\{2\\}$ represents the event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 62,
+    "questionText": "What is the probability of rolling a number less than 3 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers less than 3 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 2\\}$. Therefore, the probability is $\\frac{2}{6} = \\frac{1}{3}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 63,
+    "questionText": "Which subset of $S = \\{HH, HT, TH, TT\\}$ represents the event where the second toss is a head?",
+    "options": [
+      {
+        "text": "$\\{HH, TH\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, HT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HT, TH\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TH, TT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HH, TH\\}$ represents the event where the second toss is a head.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 64,
+    "questionText": "In the context of a sample space, what is a simple event?",
+    "options": [
+      {
+        "text": "An event with one outcome",
+        "isCorrect": true
+      },
+      {
+        "text": "An event with more than one outcome",
+        "isCorrect": false
+      },
+      {
+        "text": "An event that cannot occur",
+        "isCorrect": false
+      },
+      {
+        "text": "An event that must occur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A simple event is an event that consists of only one outcome.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 65,
+    "questionText": "What is the probability of rolling a number greater than 1 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{5}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers greater than 1 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{2, 3, 4, 5, 6\\}$. Therefore, the probability is $\\frac{5}{6}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 66,
+    "questionText": "Which subset of $S = \\{HH, HT, TH, TT\\}$ represents the event where the number of tails is at least one?",
+    "options": [
+      {
+        "text": "$\\{HT, TH, TT\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, HT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HH, TH\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HH, TT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HT, TH, TT\\}$ represents the event where the number of tails is at least one.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 67,
+    "questionText": "What is the probability of rolling a number equal to or less than 2 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers less than or equal to 2 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 2\\}$. Therefore, the probability is $\\frac{2}{6} = \\frac{1}{3}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 68,
+    "questionText": "Which of the following subsets represents a simple event when rolling a die?",
+    "options": [
+      {
+        "text": "$\\{3\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{2, 4\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 3, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3, 5\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A simple event consists of only one outcome, such as $\\{3\\}$ when rolling a die.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 69,
+    "questionText": "What is the probability of rolling a number that is neither prime nor composite on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number that is neither prime nor composite in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ is $\\{1\\}$. Therefore, the probability is $\\frac{1}{6}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 70,
+    "questionText": "Which subset of $S = \\{HH, HT, TH, TT\\}$ represents the event where the number of heads is at least two?",
+    "options": [
+      {
+        "text": "$\\{HH\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HT, TH\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HH, HT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TH, TT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HH\\}$ represents the event where the number of heads is at least two.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 71,
+    "questionText": "What is the probability of rolling a number that is both prime and even on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The only number that is both prime and even in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ is $\\{2\\}$. Therefore, the probability is $\\frac{1}{6}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 72,
+    "questionText": "Which of the following represents an impossible event when rolling a die?",
+    "options": [
+      {
+        "text": "Rolling a number greater than 6",
+        "isCorrect": true
+      },
+      {
+        "text": "Rolling an even number",
+        "isCorrect": false
+      },
+      {
+        "text": "Rolling a prime number",
+        "isCorrect": false
+      },
+      {
+        "text": "Rolling a number less than 1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rolling a number greater than 6 is impossible when rolling a die with numbers 1 to 6.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 73,
+    "questionText": "What is the probability of getting at least one tail when tossing a fair coin twice?",
+    "options": [
+      {
+        "text": "$\\frac{3}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{4}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The possible outcomes when tossing a fair coin twice are $\\{HH, HT, TH, TT\\}$. The outcomes with at least one tail are $\\{HT, TH, TT\\}$. Therefore, the probability is $\\frac{3}{4}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 74,
+    "questionText": "In the sample space $S = \\{HH, HT, TH, TT\\}$, what subset represents the event where the first toss is heads and the second toss is tails?",
+    "options": [
+      {
+        "text": "$\\{HT\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TH\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HT\\}$ represents the event where the first toss is heads and the second toss is tails.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 76,
+    "questionText": "Which subset of $S = \\{HH, HT, TH, TT\\}$ represents the event where the number of tails is at least two?",
+    "options": [
+      {
+        "text": "$\\{TT\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, HT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HT, TH\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TH, TT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{TT\\}$ represents the event where the number of tails is at least two.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 77,
+    "questionText": "What is the probability of rolling a number greater than 5 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number greater than 5 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ is $\\{6\\}$. Therefore, the probability is $\\frac{1}{6}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 78,
+    "questionText": "Which of the following subsets represents a compound event when rolling a die?",
+    "options": [
+      {
+        "text": "$\\{1, 2, 3\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{3\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{5\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A compound event consists of more than one outcome, such as $\\{1, 2, 3\\}$ when rolling a die.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 80,
+    "questionText": "If the subset of a sample space $S$ is $\\{HT, TH\\}$, what event does it represent when tossing a coin twice?",
+    "options": [
+      {
+        "text": "Exactly one head appears",
+        "isCorrect": true
+      },
+      {
+        "text": "No heads appear",
+        "isCorrect": false
+      },
+      {
+        "text": "At least one head appears",
+        "isCorrect": false
+      },
+      {
+        "text": "Exactly two heads appear",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HT, TH\\}$ represents the event where exactly one head appears.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 81,
+    "questionText": "Which subset of $S = \\{HH, HT, TH, TT\\}$ represents the event where the number of tails is exactly one?",
+    "options": [
+      {
+        "text": "$\\{HT, TH\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, HT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TH, TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HT, TT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HT, TH\\}$ represents the event where the number of tails is exactly one.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 82,
+    "questionText": "What is the probability of rolling a number less than 6 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{5}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers less than 6 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 2, 3, 4, 5\\}$. Therefore, the probability is $\\frac{5}{6}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 83,
+    "questionText": "Which of the following subsets represents the event where the number rolled is a multiple of 3?",
+    "options": [
+      {
+        "text": "$\\{3, 6\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{1, 3, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{3, 5, 6\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The multiples of 3 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{3, 6\\}$. Therefore, the subset $\\{3, 6\\}$ represents the event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 84,
+    "questionText": "What is the probability of rolling a number greater than or equal to 2 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{5}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers greater than or equal to 2 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{2, 3, 4, 5, 6\\}$. Therefore, the probability is $\\frac{5}{6}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 85,
+    "questionText": "In the sample space $S = \\{1, 2, 3, 4, 5, 6\\}$, what subset represents the event where the number rolled is a prime number?",
+    "options": [
+      {
+        "text": "$\\{2, 3, 5\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{1, 2, 3\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3, 4\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{3, 5, 6\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The prime numbers in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{2, 3, 5\\}$. Therefore, the subset $\\{2, 3, 5\\}$ represents the event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 86,
+    "questionText": "What is the probability of rolling a number less than or equal to 5 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{5}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers less than or equal to 5 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 2, 3, 4, 5\\}$. Therefore, the probability is $\\frac{5}{6}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 87,
+    "questionText": "Which of the following subsets represents the event where the number rolled is a factor of 6?",
+    "options": [
+      {
+        "text": "$\\{1, 2, 3, 6\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{1, 2, 3, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3, 4, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{3, 4, 6\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The factors of 6 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 2, 3, 6\\}$. Therefore, the subset $\\{1, 2, 3, 6\\}$ represents the event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 88,
+    "questionText": "What is the probability of rolling an even number on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The even numbers in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{2, 4, 6\\}$. Therefore, the probability is $\\frac{3}{6} = \\frac{1}{2}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 89,
+    "questionText": "Which subset of $S = \\{HH, HT, TH, TT\\}$ represents the event where the number of heads is at least one?",
+    "options": [
+      {
+        "text": "$\\{HH, HT, TH\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, HT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HT, TH\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TH, TT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HH, HT, TH\\}$ represents the event where the number of heads is at least one.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 90,
+    "questionText": "What is the probability of rolling a number that is a multiple of 3 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The multiples of 3 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{3, 6\\}$. Therefore, the probability is $\\frac{2}{6} = \\frac{1}{3}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 91,
+    "questionText": "Which of the following subsets represents the event where the number rolled is a prime number less than 5?",
+    "options": [
+      {
+        "text": "$\\{2, 3\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{1, 2, 3\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 4\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The prime numbers less than 5 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{2, 3\\}$. Therefore, the subset $\\{2, 3\\}$ represents the event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 92,
+    "questionText": "What is the probability of rolling a number greater than or equal to 1 on a die?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{5}{6}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers greater than or equal to 1 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 2, 3, 4, 5, 6\\}$. Therefore, the probability is 1.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 93,
+    "questionText": "Which of the following subsets represents the event where the number rolled is neither a prime nor a composite number?",
+    "options": [
+      {
+        "text": "$\\{1\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{2, 4\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{3, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 2\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number that is neither a prime nor a composite number in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ is $\\{1\\}$. Therefore, the subset $\\{1\\}$ represents the event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 94,
+    "questionText": "What is the probability of rolling a number less than or equal to 3 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers less than or equal to 3 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 2, 3\\}$. Therefore, the probability is $\\frac{3}{6} = $\\frac{1}{2}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 95,
+    "questionText": "Which of the following subsets represents the event where the number rolled is greater than 1 and less than 6?",
+    "options": [
+      {
+        "text": "$\\{2, 3, 4, 5\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{1, 2, 3, 4, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3, 4, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3, 4, 5, 6\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers greater than 1 and less than 6 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{2, 3, 4, 5\\}$. Therefore, the subset $\\{2, 3, 4, 5\\}$ represents the event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 96,
+    "questionText": "What is the probability of rolling a number that is not a multiple of 2 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers that are not multiples of 2 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 3, 5\\}$. Therefore, the probability is $\\frac{3}{6} = $\\frac{1}{2}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 97,
+    "questionText": "Which of the following subsets represents the event where the number rolled is greater than 2 and a multiple of 3?",
+    "options": [
+      {
+        "text": "$\\{3, 6\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{3, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 4, 6\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 3\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers greater than 2 and multiples of 3 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{3, 6\\}$. Therefore, the subset $\\{3, 6\\}$ represents the event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 98,
+    "questionText": "What is the probability of rolling a number greater than 3 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers greater than 3 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{4, 5, 6\\}$. Therefore, the probability is $\\frac{3}{6} = $\\frac{1}{2}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 99,
+    "questionText": "Which subset of $S = \\{HH, HT, TH, TT\\}$ represents the event where the number of heads is exactly one?",
+    "options": [
+      {
+        "text": "$\\{HT, TH\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{HH, HT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{TH, TT\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{HT, TT\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The subset $\\{HT, TH\\}$ represents the event where the number of heads is exactly one.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 100,
+    "questionText": "What is the probability of rolling a number less than or equal to 2 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers less than or equal to 2 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 2\\}$. Therefore, the probability is $\\frac{2}{6} = $\\frac{1}{3}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 101,
+    "questionText": "Which of the following subsets represents the event where the number rolled is greater than 1 and less than 5?",
+    "options": [
+      {
+        "text": "$\\{2, 3, 4\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{1, 2, 3, 4\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{3, 4, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{1, 3, 4\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers greater than 1 and less than 5 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{2, 3, 4\\}$. Therefore, the subset $\\{2, 3, 4\\}$ represents the event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 102,
+    "questionText": "What is the probability of rolling a number that is a factor of 6 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The factors of 6 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{1, 2, 3, 6\\}$. Therefore, the probability is $\\frac{4}{6} = $\\frac{2}{3}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 103,
+    "questionText": "Which of the following subsets represents the event where the number rolled is a prime number greater than 2?",
+    "options": [
+      {
+        "text": "$\\{3, 5\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{1, 3, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 4\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The prime numbers greater than 2 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{3, 5\\}$. Therefore, the subset $\\{3, 5\\}$ represents the event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 104,
+    "questionText": "What is the probability of rolling a number that is both prime and less than 4 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The prime numbers less than 4 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{2, 3\\}$. Therefore, the probability is $\\frac{2}{6} = $\\frac{1}{3}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 105,
+    "questionText": "Which of the following subsets represents the event where the number rolled is a composite number less than 6?",
+    "options": [
+      {
+        "text": "$\\{4\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{1, 4\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 4\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{4, 6\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The composite numbers less than 6 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ is $\\{4\\}$. Therefore, the subset $\\{4\\}$ represents the event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 106,
+    "questionText": "What is the probability of rolling a number greater than or equal to 4 on a die?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers greater than or equal to 4 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{4, 5, 6\\}$. Therefore, the probability is $\\frac{3}{6} = $\\frac{1}{2}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 107,
+    "questionText": "Which of the following subsets represents the event where the number rolled is greater than or equal to 2 and less than or equal to 4?",
+    "options": [
+      {
+        "text": "$\\{2, 3, 4\\}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\{1, 2, 3, 4\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{2, 3, 4, 5\\}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\{3, 4, 5\\}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers greater than or equal to 2 and less than or equal to 4 in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{2, 3, 4\\}$. Therefore, the subset $\\{2, 3, 4\\}$ represents the event.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 108,
+    "questionText": "What is the probability of rolling a number that is either prime or composite on a die?",
+    "options": [
+      {
+        "text": "$\\frac{5}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{6}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The numbers that are either prime or composite in the sample space $\\{1, 2, 3, 4, 5, 6\\}$ are $\\{2, 3, 4, 5, 6\\}$. Therefore, the probability is $\\frac{5}{6}$.",
+    "chapter": "Probability",
+    "topic": "14.1 Event",
+    "level": "EASY"
+  },
+  {
+    "qno": 1,
+    "questionText": "In the axiomatic approach to probability, which axiom states that the probability of the sample space $S$ is 1?",
+    "options": [
+      {
+        "text": "Non-negativity",
+        "isCorrect": false
+      },
+      {
+        "text": "Normalization",
+        "isCorrect": true
+      },
+      {
+        "text": "Additivity",
+        "isCorrect": false
+      },
+      {
+        "text": "Sub-additivity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The normalization axiom states that the probability of the sample space $S$ is 1.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 2,
+    "questionText": "According to the axiomatic approach to probability, the probability of an impossible event is:",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "Any positive number",
+        "isCorrect": false
+      },
+      {
+        "text": "Any negative number",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the axiomatic approach to probability, the probability of an impossible event is 0.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which of the following axioms in the axiomatic approach to probability ensures that probabilities are always non-negative?",
+    "options": [
+      {
+        "text": "Non-negativity",
+        "isCorrect": true
+      },
+      {
+        "text": "Normalization",
+        "isCorrect": false
+      },
+      {
+        "text": "Additivity",
+        "isCorrect": false
+      },
+      {
+        "text": "Sub-additivity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The non-negativity axiom ensures that probabilities are always non-negative.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "In the axiomatic approach to probability, if $A$ and $B$ are two mutually exclusive events, what is $P(A \\cup B)$?",
+    "options": [
+      {
+        "text": "$P(A) + P(B)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A) - P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) \\times P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) / P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are two mutually exclusive events, then $P(A \\cup B) = P(A) + P(B)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which axiom of probability states that for any event $A$, $0 \\leq P(A) \\leq 1$?",
+    "options": [
+      {
+        "text": "Non-negativity",
+        "isCorrect": true
+      },
+      {
+        "text": "Normalization",
+        "isCorrect": false
+      },
+      {
+        "text": "Additivity",
+        "isCorrect": false
+      },
+      {
+        "text": "Sub-additivity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The non-negativity axiom states that for any event $A$, $0 \\leq P(A) \\leq 1$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "In the axiomatic approach to probability, what does the additivity axiom state?",
+    "options": [
+      {
+        "text": "If $A$ and $B$ are mutually exclusive, then $P(A \\cup B) = P(A) + P(B)$",
+        "isCorrect": true
+      },
+      {
+        "text": "The probability of the sample space $S$ is 1",
+        "isCorrect": false
+      },
+      {
+        "text": "Probabilities are always non-negative",
+        "isCorrect": false
+      },
+      {
+        "text": "The probability of the empty set is 1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The additivity axiom states that if $A$ and $B$ are mutually exclusive, then $P(A \\cup B) = P(A) + P(B)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "According to the axiomatic approach, if $A$ and $B$ are mutually exclusive events, what is $P(A \\cap B)$?",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A) + P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) \\times P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) / P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are mutually exclusive events, then $P(A \\cap B) = 0$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which axiom of probability implies that the sum of probabilities of all possible outcomes of a random experiment is 1?",
+    "options": [
+      {
+        "text": "Normalization",
+        "isCorrect": true
+      },
+      {
+        "text": "Non-negativity",
+        "isCorrect": false
+      },
+      {
+        "text": "Additivity",
+        "isCorrect": false
+      },
+      {
+        "text": "Sub-additivity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The normalization axiom implies that the sum of probabilities of all possible outcomes of a random experiment is 1.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "What is the probability of the sample space $S$ in the axiomatic approach to probability?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "Any positive number",
+        "isCorrect": false
+      },
+      {
+        "text": "Any number between 0 and 1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the axiomatic approach to probability, the probability of the sample space $S$ is 1.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "According to the axiomatic approach, if $A$ and $B$ are events such that $A \\subseteq B$, what is $P(A \\cap B)$?",
+    "options": [
+      {
+        "text": "$P(A)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) + P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) - P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are events such that $A \\subseteq B$, then $P(A \\cap B) = P(A)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "According to the axiomatic approach, if $A$ and $B$ are any two events, what is the value of $P(A \\cup B)$?",
+    "options": [
+      {
+        "text": "$P(A) + P(B) - P(A \\cap B)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A) + P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) \\times P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) - P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the axiomatic approach, if $A$ and $B$ are any two events, $P(A \\cup B) = P(A) + P(B) - P(A \\cap B)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "In the axiomatic approach to probability, what is the value of $P(A^c)$ for any event $A$?",
+    "options": [
+      {
+        "text": "$1 - P(A)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) + 1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-P(A)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For any event $A$, $P(A^c) = 1 - P(A)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "According to the axiomatic approach, if $A$ is an event, what is the range of $P(A)$?",
+    "options": [
+      {
+        "text": "$0 \\leq P(A) \\leq 1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0 < P(A) < 1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1 \\leq P(A) \\leq 1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) \\geq 0$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the axiomatic approach, the range of $P(A)$ is $0 \\leq P(A) \\leq 1$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "If $A$ and $B$ are independent events, what is $P(A \\cap B)$ according to the axiomatic approach?",
+    "options": [
+      {
+        "text": "$P(A) \\times P(B)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A) + P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) - P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) / P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are independent events, $P(A \\cap B) = P(A) \\times P(B)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "In the axiomatic approach to probability, which axiom ensures that $P(A) + P(A^c) = 1$?",
+    "options": [
+      {
+        "text": "Normalization",
+        "isCorrect": false
+      },
+      {
+        "text": "Additivity",
+        "isCorrect": false
+      },
+      {
+        "text": "Non-negativity",
+        "isCorrect": false
+      },
+      {
+        "text": "Complementation",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The complementation axiom ensures that $P(A) + P(A^c) = 1$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "If $P(A) = 0.4$ and $P(B) = 0.5$, and $A$ and $B$ are independent events, what is $P(A \\cap B)$?",
+    "options": [
+      {
+        "text": "0.2",
+        "isCorrect": true
+      },
+      {
+        "text": "0.9",
+        "isCorrect": false
+      },
+      {
+        "text": "0.4",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are independent events, then $P(A \\cap B) = P(A) \\times P(B) = 0.4 \\times 0.5 = 0.2$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "According to the axiomatic approach, if $P(A) = 0.3$ and $P(B) = 0.4$, and $A$ and $B$ are mutually exclusive events, what is $P(A \\cup B)$?",
+    "options": [
+      {
+        "text": "0.7",
+        "isCorrect": true
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.12",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are mutually exclusive events, then $P(A \\cup B) = P(A) + P(B) = 0.3 + 0.4 = 0.7$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "If $A$ and $B$ are events such that $A \\subseteq B$, what is $P(A \\cup B)$ according to the axiomatic approach?",
+    "options": [
+      {
+        "text": "$P(B)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) + P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) - P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are events such that $A \\subseteq B$, then $P(A \\cup B) = P(B)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "According to the axiomatic approach, what is the probability of the union of two mutually exclusive events $A$ and $B$?",
+    "options": [
+      {
+        "text": "$P(A) + P(B)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A) \\times P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) - P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) / P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the axiomatic approach, the probability of the union of two mutually exclusive events $A$ and $B$ is $P(A) + P(B)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "If $P(A) = 0.7$, what is the value of $P(A^c)$ according to the axiomatic approach?",
+    "options": [
+      {
+        "text": "0.3",
+        "isCorrect": true
+      },
+      {
+        "text": "0.7",
+        "isCorrect": false
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $P(A) = 0.7$, then $P(A^c) = 1 - P(A) = 1 - 0.7 = 0.3$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "According to the axiomatic approach, what is the probability of the empty set?",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(\\emptyset)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(S)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the axiomatic approach, the probability of the empty set is 0.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "If $A$ and $B$ are two events such that $P(A) = 0.5$ and $P(B) = 0.3$, and $A$ and $B$ are mutually exclusive, what is $P(A \\cup B)$?",
+    "options": [
+      {
+        "text": "0.8",
+        "isCorrect": true
+      },
+      {
+        "text": "0.2",
+        "isCorrect": false
+      },
+      {
+        "text": "0.15",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are mutually exclusive events, then $P(A \\cup B) = P(A) + P(B) = 0.5 + 0.3 = 0.8$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "In the axiomatic approach to probability, which axiom ensures that the probability of any event is always between 0 and 1?",
+    "options": [
+      {
+        "text": "Non-negativity",
+        "isCorrect": true
+      },
+      {
+        "text": "Normalization",
+        "isCorrect": false
+      },
+      {
+        "text": "Additivity",
+        "isCorrect": false
+      },
+      {
+        "text": "Complementation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The non-negativity axiom ensures that the probability of any event is always between 0 and 1.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 24,
+    "questionText": "According to the axiomatic approach, if $A$ and $B$ are independent events, what is $P(A \\cup B)$?",
+    "options": [
+      {
+        "text": "$P(A) + P(B) - P(A) \\times P(B)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A) + P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) \\times P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) - P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are independent events, then $P(A \\cup B) = P(A) + P(B) - P(A) \\times P(B)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "If $P(A) = 0.6$ and $P(B) = 0.4$, and $A$ and $B$ are mutually exclusive events, what is $P(A \\cap B)$?",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "0.24",
+        "isCorrect": false
+      },
+      {
+        "text": "0.6",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are mutually exclusive events, then $P(A \\cap B) = 0$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 26,
+    "questionText": "According to the axiomatic approach, what is the value of $P(S)$ where $S$ is the sample space?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(\\emptyset)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) + P(A^c)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the axiomatic approach, the value of $P(S)$ where $S$ is the sample space is 1.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "If $A$ and $B$ are two events with $P(A) = 0.5$ and $P(B) = 0.4$, and $A$ and $B$ are independent, what is $P(A \\cap B)$?",
+    "options": [
+      {
+        "text": "0.2",
+        "isCorrect": true
+      },
+      {
+        "text": "0.9",
+        "isCorrect": false
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are independent events, then $P(A \\cap B) = P(A) \\times P(B) = 0.5 \\times 0.4 = 0.2$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 28,
+    "questionText": "In the axiomatic approach to probability, what does the additivity axiom state for two disjoint events $A$ and $B$?",
+    "options": [
+      {
+        "text": "If $A$ and $B$ are disjoint, then $P(A \\cup B) = P(A) + P(B)$",
+        "isCorrect": true
+      },
+      {
+        "text": "If $A$ and $B$ are disjoint, then $P(A \\cup B) = P(A) \\times P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "If $A$ and $B$ are disjoint, then $P(A \\cup B) = P(A) - P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "If $A$ and $B$ are disjoint, then $P(A \\cup B) = P(A) / P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The additivity axiom states that if $A$ and $B$ are disjoint events, then $P(A \\cup B) = P(A) + P(B)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "According to the axiomatic approach, what is the probability of the intersection of two mutually exclusive events?",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) \\times P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) + P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the axiomatic approach, the probability of the intersection of two mutually exclusive events is 0.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 30,
+    "questionText": "If $P(A) = 0.4$ and $P(B) = 0.6$, and $A$ and $B$ are independent events, what is $P(A \\cup B)$?",
+    "options": [
+      {
+        "text": "0.76",
+        "isCorrect": true
+      },
+      {
+        "text": "0.24",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are independent events, then $P(A \\cup B) = P(A) + P(B) - P(A \\times B) = 0.4 + 0.6 - 0.24 = 0.76$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 31,
+    "questionText": "In the axiomatic approach to probability, what does the normalization axiom state?",
+    "options": [
+      {
+        "text": "The probability of the sample space $S$ is 1",
+        "isCorrect": true
+      },
+      {
+        "text": "Probabilities are always non-negative",
+        "isCorrect": false
+      },
+      {
+        "text": "The probability of the empty set is 1",
+        "isCorrect": false
+      },
+      {
+        "text": "If $A$ and $B$ are disjoint, then $P(A \\cup B) = P(A) + P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The normalization axiom states that the probability of the sample space $S$ is 1.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 32,
+    "questionText": "If $A$ and $B$ are events such that $P(A) = 0.5$ and $P(B) = 0.4$, and $A$ and $B$ are independent, what is $P(A \\cup B)$?",
+    "options": [
+      {
+        "text": "0.7",
+        "isCorrect": true
+      },
+      {
+        "text": "0.9",
+        "isCorrect": false
+      },
+      {
+        "text": "0.3",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are independent events, then $P(A \\cup B) = P(A) + P(B) - P(A \\cap B) = 0.5 + 0.4 - (0.5 \\times 0.4) = 0.7$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 33,
+    "questionText": "According to the axiomatic approach, if $A$ and $B$ are any two events, what is the value of $P(A \\cap B^c)$?",
+    "options": [
+      {
+        "text": "$P(A) - P(A \\cap B)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A) + P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) \\times P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) / P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the axiomatic approach, if $A$ and $B$ are any two events, $P(A \\cap B^c) = P(A) - P(A \\cap B)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 34,
+    "questionText": "In the axiomatic approach to probability, which axiom ensures that $P(A \\cup B) = P(A) + P(B) - P(A \\cap B)$ for any events $A$ and $B$?",
+    "options": [
+      {
+        "text": "Additivity",
+        "isCorrect": true
+      },
+      {
+        "text": "Normalization",
+        "isCorrect": false
+      },
+      {
+        "text": "Non-negativity",
+        "isCorrect": false
+      },
+      {
+        "text": "Complementation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The additivity axiom ensures that $P(A \\cup B) = P(A) + P(B) - P(A \\cap B)$ for any events $A$ and $B$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "If $P(A) = 0.2$ and $P(B) = 0.3$, and $A$ and $B$ are independent events, what is $P(A \\cap B)$?",
+    "options": [
+      {
+        "text": "0.06",
+        "isCorrect": true
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.7",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are independent events, then $P(A \\cap B) = P(A) \\times P(B) = 0.2 \\times 0.3 = 0.06$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 36,
+    "questionText": "According to the axiomatic approach, if $A$ and $B$ are any two events, what is the value of $P(A^c \\cup B^c)$?",
+    "options": [
+      {
+        "text": "$1 - P(A \\cap B)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A^c) + P(B^c)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) + P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A^c) \\times P(B^c)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the axiomatic approach, if $A$ and $B$ are any two events, $P(A^c \\cup B^c) = 1 - P(A \\cap B)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 37,
+    "questionText": "If $P(A) = 0.6$ and $P(B) = 0.3$, and $A$ and $B$ are mutually exclusive, what is $P(A \\cup B)$?",
+    "options": [
+      {
+        "text": "0.9",
+        "isCorrect": true
+      },
+      {
+        "text": "0.2",
+        "isCorrect": false
+      },
+      {
+        "text": "0.3",
+        "isCorrect": false
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are mutually exclusive events, then $P(A \\cup B) = P(A) + P(B) = 0.6 + 0.3 = 0.9$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 38,
+    "questionText": "According to the axiomatic approach, if $A$ and $B$ are events such that $A \\subseteq B$, what is the value of $P(B^c \\cap A)$?",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A \\cap B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are events such that $A \\subseteq B$, then $P(B^c \\cap A) = 0$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 39,
+    "questionText": "In the axiomatic approach to probability, what is the value of $P(\\emptyset)$?",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(S)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) + P(A^c)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the axiomatic approach to probability, the value of $P(\\emptyset)$ is 0.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 40,
+    "questionText": "If $A$ and $B$ are two events such that $P(A) = 0.7$ and $P(B) = 0.5$, and $A$ and $B$ are independent, what is $P(A \\cap B)$?",
+    "options": [
+      {
+        "text": "0.35",
+        "isCorrect": true
+      },
+      {
+        "text": "1.2",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "0.7",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are independent events, then $P(A \\cap B) = P(A) \\times P(B) = 0.7 \\times 0.5 = 0.35$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 41,
+    "questionText": "According to the axiomatic approach, if $A$ and $B$ are events such that $A \\cap B = \\emptyset$, what is $P(A \\cup B)$?",
+    "options": [
+      {
+        "text": "$P(A) + P(B)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A) - P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) \\times P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) / P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are events such that $A \\cap B = \\emptyset$, then $P(A \\cup B) = P(A) + P(B)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 42,
+    "questionText": "In the axiomatic approach to probability, if $A$ is an event, what is the value of $P(A \\cup A^c)$?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A^c)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the axiomatic approach to probability, $P(A \\cup A^c) = 1$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 43,
+    "questionText": "If $P(A) = 0.3$ and $P(A \\cup B) = 0.6$, what is the value of $P(B)$ if $A$ and $B$ are mutually exclusive events?",
+    "options": [
+      {
+        "text": "0.3",
+        "isCorrect": true
+      },
+      {
+        "text": "0.6",
+        "isCorrect": false
+      },
+      {
+        "text": "0.9",
+        "isCorrect": false
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $A$ and $B$ are mutually exclusive events, then $P(A \\cup B) = P(A) + P(B)$. Therefore, $0.6 = 0.3 + P(B)$, so $P(B) = 0.3$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 44,
+    "questionText": "According to the axiomatic approach, if $A$ and $B$ are any two events, what is the value of $P(A \\cup B)$?",
+    "options": [
+      {
+        "text": "$P(A) + P(B) - P(A \\cap B)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A) + P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) \\times P(B)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P(A) / P(B)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the axiomatic approach, if $A$ and $B$ are any two events, $P(A \\cup B) = P(A) + P(B) - P(A \\cap B)$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 45,
+    "questionText": "In the axiomatic approach to probability, what is the value of $P(A \\cap A^c)$ for any event $A$?",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "$P(A)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1 - P(A)$",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For any event $A$, $P(A \\cap A^c) = 0$.",
+    "chapter": "Probability",
+    "topic": "14.2 Axiomatic Approach to Probability",
+    "level": "MEDIUM"
+  }
+]

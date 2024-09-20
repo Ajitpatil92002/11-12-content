@@ -1,0 +1,4630 @@
+[
+  {
+    "qno": 1,
+    "questionText": "What is the unit of length in the International System of Units (SI)?",
+    "options": [
+      {
+        "text": "meter",
+        "isCorrect": true
+      },
+      {
+        "text": "centimeter",
+        "isCorrect": false
+      },
+      {
+        "text": "kilometer",
+        "isCorrect": false
+      },
+      {
+        "text": "millimeter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the International System of Units (SI), the unit of length is the meter.",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "The SI unit for mass is:",
+    "options": [
+      {
+        "text": "gram",
+        "isCorrect": false
+      },
+      {
+        "text": "kilogram",
+        "isCorrect": true
+      },
+      {
+        "text": "milligram",
+        "isCorrect": false
+      },
+      {
+        "text": "tonne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The SI unit for mass is the kilogram.",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "The result of a measurement of a physical quantity is expressed by a number accompanied by a:",
+    "options": [
+      {
+        "text": "symbol",
+        "isCorrect": false
+      },
+      {
+        "text": "unit",
+        "isCorrect": true
+      },
+      {
+        "text": "dimension",
+        "isCorrect": false
+      },
+      {
+        "text": "constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The result of a measurement of a physical quantity is expressed by a number accompanied by a unit.",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which of the following is a derived unit?",
+    "options": [
+      {
+        "text": "meter",
+        "isCorrect": false
+      },
+      {
+        "text": "kilogram",
+        "isCorrect": false
+      },
+      {
+        "text": "second",
+        "isCorrect": false
+      },
+      {
+        "text": "joule",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The joule is a derived unit in the SI system, defined as kg·m²/s².",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "The CGS system of units uses which of the following as its base unit of mass?",
+    "options": [
+      {
+        "text": "kilogram",
+        "isCorrect": false
+      },
+      {
+        "text": "gram",
+        "isCorrect": true
+      },
+      {
+        "text": "milligram",
+        "isCorrect": false
+      },
+      {
+        "text": "tonne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the CGS system, the base unit of mass is the gram.",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "What is the full form of SI in the context of measurement units?",
+    "options": [
+      {
+        "text": "Standard International",
+        "isCorrect": false
+      },
+      {
+        "text": "System of International",
+        "isCorrect": false
+      },
+      {
+        "text": "Système Internationale d'Unités",
+        "isCorrect": true
+      },
+      {
+        "text": "Standardized International Units",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "SI stands for Système Internationale d'Unités, which is French for International System of Units.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which year was the International System of Units (SI) established?",
+    "options": [
+      {
+        "text": "1960",
+        "isCorrect": true
+      },
+      {
+        "text": "1971",
+        "isCorrect": false
+      },
+      {
+        "text": "1983",
+        "isCorrect": false
+      },
+      {
+        "text": "1991",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The International System of Units (SI) was established in 1960.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which of the following units is used to measure luminous intensity in the SI system?",
+    "options": [
+      {
+        "text": "candela",
+        "isCorrect": true
+      },
+      {
+        "text": "lumen",
+        "isCorrect": false
+      },
+      {
+        "text": "lux",
+        "isCorrect": false
+      },
+      {
+        "text": "watt",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the SI system, luminous intensity is measured in candelas.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "How many base units are there in the SI system?",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "There are seven base units in the SI system.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following is NOT a base unit in the SI system?",
+    "options": [
+      {
+        "text": "meter",
+        "isCorrect": false
+      },
+      {
+        "text": "second",
+        "isCorrect": false
+      },
+      {
+        "text": "kilogram",
+        "isCorrect": false
+      },
+      {
+        "text": "newton",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The newton is a derived unit in the SI system, not a base unit.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which of the following represents the correct number of significant figures in the measurement 0.00340 m?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the number 0.00340 m, there are 3 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the result of the calculation (12.1 + 2.56) rounded off to three significant figures?",
+    "options": [
+      {
+        "text": "14.7",
+        "isCorrect": true
+      },
+      {
+        "text": "14.656",
+        "isCorrect": false
+      },
+      {
+        "text": "14.65",
+        "isCorrect": false
+      },
+      {
+        "text": "14.660",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding 12.1 and 2.56 gives 14.66, which rounds to 14.7 when rounded off to three significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which of the following is an example of a measurement with 4 significant figures?",
+    "options": [
+      {
+        "text": "0.0067 m",
+        "isCorrect": false
+      },
+      {
+        "text": "1.234 m",
+        "isCorrect": true
+      },
+      {
+        "text": "300 m",
+        "isCorrect": false
+      },
+      {
+        "text": "0.001 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 1.234 m has 4 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 14,
+    "questionText": "When multiplying 2.0 by 3.00, the result should be reported with how many significant figures?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Multiplying 2.0 by 3.00 gives 6.0, which has 2 significant figures. Therefore, the result should be reported with 1 significant figure.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the correct result of the addition (31.56 + 4.0281) rounded off to four significant figures?",
+    "options": [
+      {
+        "text": "35.588",
+        "isCorrect": false
+      },
+      {
+        "text": "35.59",
+        "isCorrect": true
+      },
+      {
+        "text": "35.600",
+        "isCorrect": false
+      },
+      {
+        "text": "35.580",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding 31.56 and 4.0281 gives 35.5881, which rounds to 35.59 when rounded off to four significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "How many significant figures are in the number 0.00560?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 0.00560 has 3 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "When the number 6.023 × 10^23 is expressed in significant figures, how many are there?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 6.023 × 10^23 has 5 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "In the measurement 4.50 g, which digit is uncertain?",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "None of the digits are uncertain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the measurement 4.50 g, the digit 0 is the uncertain digit.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 19,
+    "questionText": "The result of multiplying 2.5 and 1.25 should be reported with how many significant figures?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Multiplying 2.5 (2 significant figures) and 1.25 (3 significant figures) gives a result that should be reported with 2 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "How many significant figures are there in the number 1001?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 1001 has 4 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "When 12.11 is subtracted from 18.0, how many significant figures should the result have?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When performing subtraction, the result should have the same number of decimal places as the measurement with the least decimal places, which is 18.0 (1 decimal place). Therefore, the result should have 1 significant figure after the decimal.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "In scientific notation, how many significant figures does 3.00 × 10^5 have?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 3.00 × 10^5 has 3 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "If you measure the length of an object as 2.30 m using a meter stick, how many significant figures does this measurement have?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The measurement 2.30 m has 3 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which of the following measurements has the most significant figures?",
+    "options": [
+      {
+        "text": "0.0700 kg",
+        "isCorrect": false
+      },
+      {
+        "text": "70.0 kg",
+        "isCorrect": true
+      },
+      {
+        "text": "0.700 kg",
+        "isCorrect": false
+      },
+      {
+        "text": "700 kg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The measurement 70.0 kg has 3 significant figures, which is the most among the given options.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "What is the correct way to round 0.075684 to three significant figures?",
+    "options": [
+      {
+        "text": "0.076",
+        "isCorrect": true
+      },
+      {
+        "text": "0.075",
+        "isCorrect": false
+      },
+      {
+        "text": "0.0757",
+        "isCorrect": false
+      },
+      {
+        "text": "0.07568",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rounding 0.075684 to three significant figures gives 0.076.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 26,
+    "questionText": "If the mass of an object is given as 0.04560 kg, how many significant figures does this value have?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The number 0.04560 kg has 4 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 27,
+    "questionText": "When the number 1234 is written in scientific notation with three significant figures, what is the correct form?",
+    "options": [
+      {
+        "text": "$1.23 \\times 10^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.235 \\times 10^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.234 \\times 10^3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12.34 \\times 10^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 1234 written in scientific notation with three significant figures is $1.234 \\times 10^3$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 28,
+    "questionText": "How many significant figures are in the measurement 0.004050 m?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 0.004050 m has 5 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 29,
+    "questionText": "What is the correct way to round the number 0.0038765 to four significant figures?",
+    "options": [
+      {
+        "text": "0.003877",
+        "isCorrect": true
+      },
+      {
+        "text": "0.003876",
+        "isCorrect": false
+      },
+      {
+        "text": "0.00387",
+        "isCorrect": false
+      },
+      {
+        "text": "0.00388",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rounding 0.0038765 to four significant figures gives 0.003877.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 30,
+    "questionText": "In the number 5000, which zeros are significant if it is written as 5.000 x 10^3?",
+    "options": [
+      {
+        "text": "All zeros",
+        "isCorrect": true
+      },
+      {
+        "text": "None of the zeros",
+        "isCorrect": false
+      },
+      {
+        "text": "Only the first zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Only the last zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When written as 5.000 x 10^3, all the zeros are significant.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 31,
+    "questionText": "If the measurement is 0.00234 m and you need to report it with three significant figures, what would it be?",
+    "options": [
+      {
+        "text": "0.00234",
+        "isCorrect": true
+      },
+      {
+        "text": "0.0023",
+        "isCorrect": false
+      },
+      {
+        "text": "0.002340",
+        "isCorrect": false
+      },
+      {
+        "text": "0.002",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The measurement 0.00234 m already has three significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 32,
+    "questionText": "How should the result of the multiplication of 6.02 and 3.0 be reported in terms of significant figures?",
+    "options": [
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "18.0",
+        "isCorrect": false
+      },
+      {
+        "text": "18.1",
+        "isCorrect": true
+      },
+      {
+        "text": "18.06",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The multiplication of 6.02 (3 significant figures) and 3.0 (2 significant figures) should be reported with 2 significant figures, giving 18.1.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 33,
+    "questionText": "When adding 0.356 and 4.52, what is the correct number of significant figures in the result?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "When adding 0.356 and 4.52, the result is 4.876, which should be rounded to 4.88, giving 4 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 34,
+    "questionText": "If the length of a rod is measured as 20.0 cm and its width is 1.5 cm, how should the area be reported?",
+    "options": [
+      {
+        "text": "30 cm²",
+        "isCorrect": false
+      },
+      {
+        "text": "30.0 cm²",
+        "isCorrect": true
+      },
+      {
+        "text": "30.00 cm²",
+        "isCorrect": false
+      },
+      {
+        "text": "30.000 cm²",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Multiplying 20.0 cm (3 significant figures) by 1.5 cm (2 significant figures) gives an area of 30.0 cm² with 3 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "In scientific notation, how is the number 0.00056 written with two significant figures?",
+    "options": [
+      {
+        "text": "5.6 x 10^-4",
+        "isCorrect": true
+      },
+      {
+        "text": "5.60 x 10^-4",
+        "isCorrect": false
+      },
+      {
+        "text": "0.56 x 10^-3",
+        "isCorrect": false
+      },
+      {
+        "text": "0.00056",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 0.00056 written in scientific notation with two significant figures is 5.6 x 10^-4.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 36,
+    "questionText": "When dividing 0.00456 by 0.12, how many significant figures should the result have?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dividing 0.00456 (3 significant figures) by 0.12 (2 significant figures) gives a result that should be reported with 2 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 37,
+    "questionText": "Which of the following numbers has three significant figures?",
+    "options": [
+      {
+        "text": "0.056",
+        "isCorrect": false
+      },
+      {
+        "text": "5.60",
+        "isCorrect": true
+      },
+      {
+        "text": "0.0056",
+        "isCorrect": false
+      },
+      {
+        "text": "5600",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 5.60 has three significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 38,
+    "questionText": "How many significant figures are in the number 0.000340?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 0.000340 has 3 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 39,
+    "questionText": "Which of the following correctly rounds 2.678 to two significant figures?",
+    "options": [
+      {
+        "text": "2.7",
+        "isCorrect": true
+      },
+      {
+        "text": "2.68",
+        "isCorrect": false
+      },
+      {
+        "text": "2.67",
+        "isCorrect": false
+      },
+      {
+        "text": "2.678",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rounding 2.678 to two significant figures gives 2.7.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 40,
+    "questionText": "When 5.6 and 2.34 are multiplied, how many significant figures should the result have?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Multiplying 5.6 (2 significant figures) by 2.34 (3 significant figures) gives a result that should be reported with 2 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 41,
+    "questionText": "The result of the subtraction (8.56 - 3.2) should be reported with how many significant figures?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When performing subtraction, the result should have the same number of decimal places as the measurement with the least decimal places, which is 3.2 (1 decimal place). Therefore, the result should have 2 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 42,
+    "questionText": "In the measurement 9.070 x 10^3 m, how many significant figures are there?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 9.070 x 10^3 m has 4 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 43,
+    "questionText": "What is the correct way to round the number 7.85432 to four significant figures?",
+    "options": [
+      {
+        "text": "7.854",
+        "isCorrect": true
+      },
+      {
+        "text": "7.855",
+        "isCorrect": false
+      },
+      {
+        "text": "7.85",
+        "isCorrect": false
+      },
+      {
+        "text": "7.8543",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rounding 7.85432 to four significant figures gives 7.854.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 44,
+    "questionText": "If you have a measurement of 2500 cm with two significant figures, how should it be written in scientific notation?",
+    "options": [
+      {
+        "text": "$2.5 \\times 10^3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2.50 \\times 10^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$25 \\times 10^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.500 \\times 10^3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 2500 cm with two significant figures should be written as $2.5 \\times 10^3$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 45,
+    "questionText": "When the number 0.007890 is written in scientific notation with three significant figures, what is the correct form?",
+    "options": [
+      {
+        "text": "$7.89 \\times 10^{-3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7.890 \\times 10^{-3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.789 \\times 10^{-2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.00789 \\times 10^{-3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 0.007890 written in scientific notation with three significant figures is $7.89 \\times 10^{-3}$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 46,
+    "questionText": "If the density of a substance is given as 0.985 g/cm³, how many significant figures does this value have?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 0.985 g/cm³ has 3 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 47,
+    "questionText": "When performing addition or subtraction, the result should have the same number of decimal places as:",
+    "options": [
+      {
+        "text": "The number with the most decimal places",
+        "isCorrect": false
+      },
+      {
+        "text": "The number with the least decimal places",
+        "isCorrect": true
+      },
+      {
+        "text": "The number with the most significant figures",
+        "isCorrect": false
+      },
+      {
+        "text": "The number with the least significant figures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When performing addition or subtraction, the result should have the same number of decimal places as the number with the least decimal places.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 48,
+    "questionText": "In a measurement, which digit is considered uncertain?",
+    "options": [
+      {
+        "text": "The first digit",
+        "isCorrect": false
+      },
+      {
+        "text": "The last digit",
+        "isCorrect": true
+      },
+      {
+        "text": "The middle digit",
+        "isCorrect": false
+      },
+      {
+        "text": "All digits",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a measurement, the last digit is considered uncertain.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 49,
+    "questionText": "How many significant figures are in the number 0.005600?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The number 0.005600 has 4 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 50,
+    "questionText": "Which of the following numbers has four significant figures?",
+    "options": [
+      {
+        "text": "0.0700",
+        "isCorrect": false
+      },
+      {
+        "text": "0.7000",
+        "isCorrect": true
+      },
+      {
+        "text": "0.0070",
+        "isCorrect": false
+      },
+      {
+        "text": "7.000",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The numbers 0.7000 and 7.000 each have four significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 51,
+    "questionText": "What is the correct way to round 12.3456 to three significant figures?",
+    "options": [
+      {
+        "text": "12.3",
+        "isCorrect": false
+      },
+      {
+        "text": "12.4",
+        "isCorrect": true
+      },
+      {
+        "text": "12.34",
+        "isCorrect": false
+      },
+      {
+        "text": "12.35",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rounding 12.3456 to three significant figures gives 12.4.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 52,
+    "questionText": "If the length of an object is measured as 0.07890 m, how many significant figures are there in this measurement?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The measurement 0.07890 m has 5 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 53,
+    "questionText": "What is the correct result of the division of 0.056 by 0.0070 rounded to two significant figures?",
+    "options": [
+      {
+        "text": "8.0",
+        "isCorrect": true
+      },
+      {
+        "text": "8.00",
+        "isCorrect": false
+      },
+      {
+        "text": "0.80",
+        "isCorrect": false
+      },
+      {
+        "text": "0.800",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dividing 0.056 (2 significant figures) by 0.0070 (2 significant figures) gives a result of 8.0, which should be reported with 2 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 54,
+    "questionText": "How many significant figures are in the number 50.000?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The number 50.000 has 5 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 55,
+    "questionText": "If the speed of light is given as 3.00 x 10^8 m/s, how many significant figures does this value have?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 3.00 x 10^8 m/s has 3 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 56,
+    "questionText": "What is the correct result of multiplying 2.34 by 1.5 rounded to two significant figures?",
+    "options": [
+      {
+        "text": "3.5",
+        "isCorrect": true
+      },
+      {
+        "text": "3.51",
+        "isCorrect": false
+      },
+      {
+        "text": "3.52",
+        "isCorrect": false
+      },
+      {
+        "text": "3.500",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Multiplying 2.34 (3 significant figures) by 1.5 (2 significant figures) gives a result of 3.5, which should be rounded to 2 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 57,
+    "questionText": "If a measurement is 0.0034060 kg, how many significant figures does it have?",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 0.0034060 kg has 6 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 58,
+    "questionText": "When rounding the number 1.999 to three significant figures, what is the correct result?",
+    "options": [
+      {
+        "text": "2.00",
+        "isCorrect": true
+      },
+      {
+        "text": "1.99",
+        "isCorrect": false
+      },
+      {
+        "text": "2.0",
+        "isCorrect": false
+      },
+      {
+        "text": "1.999",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rounding 1.999 to three significant figures gives 2.00.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 59,
+    "questionText": "How should the measurement 45000 be expressed in scientific notation with three significant figures?",
+    "options": [
+      {
+        "text": "$4.50 \\times 10^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4.500 \\times 10^4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4.5 \\times 10^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45 \\times 10^3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The measurement 45000 with three significant figures should be written as $4.500 \\times 10^4$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 60,
+    "questionText": "Which of the following numbers has two significant figures?",
+    "options": [
+      {
+        "text": "0.0070",
+        "isCorrect": true
+      },
+      {
+        "text": "0.070",
+        "isCorrect": false
+      },
+      {
+        "text": "7.00",
+        "isCorrect": false
+      },
+      {
+        "text": "70.0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number 0.0070 has two significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 61,
+    "questionText": "What is the dimension of force in terms of mass (M), length (L), and time (T)?",
+    "options": [
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[M^2LT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimension of force is $[MLT^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 62,
+    "questionText": "Which physical quantity has the dimensional formula $[ML^2T^{-2}]$?",
+    "options": [
+      {
+        "text": "Energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Force",
+        "isCorrect": false
+      },
+      {
+        "text": "Power",
+        "isCorrect": false
+      },
+      {
+        "text": "Momentum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Energy has the dimensional formula $[ML^2T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 63,
+    "questionText": "The dimensional formula for pressure is:",
+    "options": [
+      {
+        "text": "$[ML^{-1}T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^{-2}T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for pressure is $[ML^{-1}T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 64,
+    "questionText": "Which of the following has the dimensional formula $[M^1L^2T^{-2}]$?",
+    "options": [
+      {
+        "text": "Work",
+        "isCorrect": true
+      },
+      {
+        "text": "Velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceleration",
+        "isCorrect": false
+      },
+      {
+        "text": "Force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Work has the dimensional formula $[M^1L^2T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 65,
+    "questionText": "What is the dimensional formula of momentum?",
+    "options": [
+      {
+        "text": "$[MLT^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^1L^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^1L^0T^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of momentum is $[MLT^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 66,
+    "questionText": "The dimension of kinetic energy is:",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimension of kinetic energy is $[ML^2T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 67,
+    "questionText": "What is the dimensional formula for gravitational constant (G)?",
+    "options": [
+      {
+        "text": "$[M^{-1}L^3T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^1L^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^1L^{-3}T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for the gravitational constant (G) is $[M^{-1}L^3T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 68,
+    "questionText": "Which of the following quantities has the same dimensional formula as impulse?",
+    "options": [
+      {
+        "text": "Momentum",
+        "isCorrect": true
+      },
+      {
+        "text": "Force",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Power",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Impulse and momentum both have the dimensional formula $[MLT^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 69,
+    "questionText": "The dimensional formula of electric charge is:",
+    "options": [
+      {
+        "text": "$[ITA]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[I^1T^1]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[M^1L^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^1T^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of electric charge is $[I^1T^1]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 70,
+    "questionText": "What is the dimensional formula of angular momentum?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^1L^1T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of angular momentum is $[ML^2T^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 71,
+    "questionText": "The dimensional formula for power is:",
+    "options": [
+      {
+        "text": "$[ML^2T^{-3}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for power is $[ML^2T^{-3}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 72,
+    "questionText": "Which of the following quantities has the dimensional formula $[ML^{-1}T^{-2}]$?",
+    "options": [
+      {
+        "text": "Pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Power",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure has the dimensional formula $[ML^{-1}T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 73,
+    "questionText": "The dimensional formula for electric field strength is:",
+    "options": [
+      {
+        "text": "$[MLT^{-3}A^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-2}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-1}A^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for electric field strength is $[MLT^{-3}A^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 74,
+    "questionText": "What is the dimensional formula for frequency?",
+    "options": [
+      {
+        "text": "$[T^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[T^1]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[T^2]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for frequency is $[T^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "EASY"
+  },
+  {
+    "qno": 75,
+    "questionText": "Which of the following has the dimensional formula $[M^0L^0T^0]$?",
+    "options": [
+      {
+        "text": "Refractive index",
+        "isCorrect": true
+      },
+      {
+        "text": "Velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceleration",
+        "isCorrect": false
+      },
+      {
+        "text": "Force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Refractive index is a dimensionless quantity with the dimensional formula $[M^0L^0T^0]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 76,
+    "questionText": "What is the dimensional formula of inductance?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}A^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-3}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}A^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}A^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of inductance is $[ML^2T^{-2}A^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 77,
+    "questionText": "The dimensional formula for magnetic flux is:",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}A^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-3}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}A^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}A^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for magnetic flux is $[ML^2T^{-2}A^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 78,
+    "questionText": "Which physical quantity has the dimensional formula $[M^0L^0T^{-1}]$?",
+    "options": [
+      {
+        "text": "Angular velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "Acceleration",
+        "isCorrect": false
+      },
+      {
+        "text": "Frequency",
+        "isCorrect": false
+      },
+      {
+        "text": "Refractive index",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Angular velocity has the dimensional formula $[M^0L^0T^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 79,
+    "questionText": "What is the dimensional formula for capacitance?",
+    "options": [
+      {
+        "text": "$[M^{-1}L^{-2}T^4A^2]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}A^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^{-1}L^{-2}T^2A]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-3}A^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for capacitance is $[M^{-1}L^{-2}T^4A^2]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 80,
+    "questionText": "The dimensional formula of resistivity is:",
+    "options": [
+      {
+        "text": "$[ML^3T^{-3}A^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-3}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-3}A^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}A^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of resistivity is $[ML^3T^{-3}A^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 81,
+    "questionText": "Which of the following quantities has the dimensional formula $[ML^2T^{-3}A^{-1}]$?",
+    "options": [
+      {
+        "text": "Electromotive force",
+        "isCorrect": true
+      },
+      {
+        "text": "Electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "Electric charge",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic flux",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electromotive force has the dimensional formula $[ML^2T^{-3}A^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 82,
+    "questionText": "What is the dimensional formula of thermal conductivity?",
+    "options": [
+      {
+        "text": "$[MLT^{-3}K^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}K^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-3}K^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-3}K^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of thermal conductivity is $[MLT^{-3}K^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 83,
+    "questionText": "The dimensional formula for the Planck constant is:",
+    "options": [
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-3}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for the Planck constant is $[ML^2T^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 84,
+    "questionText": "What is the dimensional formula of coefficient of viscosity?",
+    "options": [
+      {
+        "text": "$[ML^{-1}T^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of the coefficient of viscosity is $[ML^{-1}T^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 85,
+    "questionText": "Which of the following has the dimensional formula $[ML^{-1}T^{-2}K^{-1}]$?",
+    "options": [
+      {
+        "text": "Thermal expansion coefficient",
+        "isCorrect": true
+      },
+      {
+        "text": "Heat capacity",
+        "isCorrect": false
+      },
+      {
+        "text": "Entropy",
+        "isCorrect": false
+      },
+      {
+        "text": "Specific heat",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Thermal expansion coefficient has the dimensional formula $[ML^{-1}T^{-2}K^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 86,
+    "questionText": "The dimensional formula of surface tension is:",
+    "options": [
+      {
+        "text": "$[MT^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^{-1}T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^1L^1T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of surface tension is $[MT^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 87,
+    "questionText": "What is the dimensional formula for electric potential?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-3}A^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-3}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-2}A^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}A^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for electric potential is $[ML^2T^{-3}A^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 88,
+    "questionText": "The dimensional formula of electric current is:",
+    "options": [
+      {
+        "text": "$[A]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[T^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of electric current is $[A]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "EASY"
+  },
+  {
+    "qno": 89,
+    "questionText": "What is the dimensional formula for entropy?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}K^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-2}K^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}K^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for entropy is $[ML^2T^{-2}K^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 90,
+    "questionText": "The dimensional formula of specific heat capacity is:",
+    "options": [
+      {
+        "text": "$[L^2T^{-2}K^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}K^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-2}K^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-3}K^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of specific heat capacity is $[L^2T^{-2}K^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 91,
+    "questionText": "The dimensional formula for energy is:",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for energy is $[ML^2T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 92,
+    "questionText": "What is the dimensional formula of pressure?",
+    "options": [
+      {
+        "text": "$[ML^{-1}T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of pressure is $[ML^{-1}T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 93,
+    "questionText": "Which of the following represents the dimensional formula for momentum?",
+    "options": [
+      {
+        "text": "$[MLT^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for momentum is $[MLT^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 94,
+    "questionText": "Which physical quantity has the dimensional formula $[ML^{-1}T^{-2}]$?",
+    "options": [
+      {
+        "text": "Pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Force",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceleration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure has the dimensional formula $[ML^{-1}T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 95,
+    "questionText": "The dimensional formula for work done is:",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for work done is $[ML^2T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 97,
+    "questionText": "Which physical quantity has the dimensional formula $[ML^2T^{-3}]$?",
+    "options": [
+      {
+        "text": "Power",
+        "isCorrect": true
+      },
+      {
+        "text": "Energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Force",
+        "isCorrect": false
+      },
+      {
+        "text": "Momentum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Power has the dimensional formula $[ML^2T^{-3}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 98,
+    "questionText": "The dimensional formula for the gravitational constant (G) is:",
+    "options": [
+      {
+        "text": "$[M^{-1}L^3T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^1L^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^1L^{-3}T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for the gravitational constant (G) is $[M^{-1}L^3T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 99,
+    "questionText": "What is the dimensional formula for electric field strength?",
+    "options": [
+      {
+        "text": "$[MLT^{-3}A^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-2}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-1}A^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for electric field strength is $[MLT^{-3}A^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 100,
+    "questionText": "Which physical quantity has the dimensional formula $[ML^2T^{-2}A^{-2}]$?",
+    "options": [
+      {
+        "text": "Inductance",
+        "isCorrect": true
+      },
+      {
+        "text": "Capacitance",
+        "isCorrect": false
+      },
+      {
+        "text": "Resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "Electric field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Inductance has the dimensional formula $[ML^2T^{-2}A^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 101,
+    "questionText": "What is the dimensional formula for magnetic flux?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}A^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-3}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}A^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}A^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for magnetic flux is $[ML^2T^{-2}A^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 102,
+    "questionText": "The dimensional formula for electric potential is:",
+    "options": [
+      {
+        "text": "$[ML^2T^{-3}A^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-3}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-2}A^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}A^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for electric potential is $[ML^2T^{-3}A^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 103,
+    "questionText": "Which physical quantity has the dimensional formula $[ML^2T^{-2}A^{-1}]$?",
+    "options": [
+      {
+        "text": "Magnetic flux",
+        "isCorrect": true
+      },
+      {
+        "text": "Electric potential",
+        "isCorrect": false
+      },
+      {
+        "text": "Inductance",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Magnetic flux has the dimensional formula $[ML^2T^{-2}A^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 104,
+    "questionText": "The dimensional formula for resistance is:",
+    "options": [
+      {
+        "text": "$[ML^2T^{-3}A^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}A^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-2}A^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for resistance is $[ML^2T^{-3}A^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 105,
+    "questionText": "What is the dimensional formula of electric charge?",
+    "options": [
+      {
+        "text": "$[IT]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[I^1T^1]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^1L^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^1T^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of electric charge is $[IT]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 106,
+    "questionText": "Which of the following quantities has the dimensional formula $[ML^2T^{-3}]$?",
+    "options": [
+      {
+        "text": "Power",
+        "isCorrect": true
+      },
+      {
+        "text": "Force",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Power has the dimensional formula $[ML^2T^{-3}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 107,
+    "questionText": "The dimensional formula for thermal conductivity is:",
+    "options": [
+      {
+        "text": "$[MLT^{-3}K^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}K^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-3}K^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-3}K^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for thermal conductivity is $[MLT^{-3}K^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 108,
+    "questionText": "Which physical quantity has the dimensional formula $[ML^{-1}T^{-2}]$?",
+    "options": [
+      {
+        "text": "Pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Force",
+        "isCorrect": false
+      },
+      {
+        "text": "Work",
+        "isCorrect": false
+      },
+      {
+        "text": "Power",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure has the dimensional formula $[ML^{-1}T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 109,
+    "questionText": "What is the dimensional formula of specific heat capacity?",
+    "options": [
+      {
+        "text": "$[L^2T^{-2}K^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}K^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-2}K^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-3}K^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of specific heat capacity is $[L^2T^{-2}K^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 110,
+    "questionText": "The dimensional formula for surface tension is:",
+    "options": [
+      {
+        "text": "$[MT^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^{-1}T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^1L^1T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for surface tension is $[MT^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 111,
+    "questionText": "Which of the following is a use of dimensional analysis?",
+    "options": [
+      {
+        "text": "To check the correctness of a physical equation",
+        "isCorrect": true
+      },
+      {
+        "text": "To find the exact numerical value of a physical quantity",
+        "isCorrect": false
+      },
+      {
+        "text": "To convert one physical quantity to another of different dimensions",
+        "isCorrect": false
+      },
+      {
+        "text": "To measure physical quantities directly",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dimensional analysis is used to check the correctness of a physical equation.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "EASY"
+  },
+  {
+    "qno": 112,
+    "questionText": "Dimensional analysis can be used to:",
+    "options": [
+      {
+        "text": "Derive relations among physical quantities",
+        "isCorrect": true
+      },
+      {
+        "text": "Measure physical quantities directly",
+        "isCorrect": false
+      },
+      {
+        "text": "Determine the exact numerical value of constants",
+        "isCorrect": false
+      },
+      {
+        "text": "Convert units of measurement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dimensional analysis can be used to derive relations among physical quantities.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "EASY"
+  },
+  {
+    "qno": 113,
+    "questionText": "Which of the following dimensional equations is correct for energy?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional equation for energy is $[ML^2T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 114,
+    "questionText": "Dimensional analysis is used to:",
+    "options": [
+      {
+        "text": "Convert units from one system to another",
+        "isCorrect": true
+      },
+      {
+        "text": "Directly measure physical quantities",
+        "isCorrect": false
+      },
+      {
+        "text": "Determine the constants in physical equations",
+        "isCorrect": false
+      },
+      {
+        "text": "Measure time intervals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dimensional analysis is used to convert units from one system to another.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "EASY"
+  },
+  {
+    "qno": 115,
+    "questionText": "Which of the following physical quantities has the dimensional formula $[MLT^{-2}]$?",
+    "options": [
+      {
+        "text": "Force",
+        "isCorrect": true
+      },
+      {
+        "text": "Energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Power",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Force has the dimensional formula $[MLT^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 116,
+    "questionText": "The method of dimensional analysis can be used to derive:",
+    "options": [
+      {
+        "text": "The form of physical equations",
+        "isCorrect": true
+      },
+      {
+        "text": "Exact numerical values",
+        "isCorrect": false
+      },
+      {
+        "text": "Unit conversions",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dimensional analysis can be used to derive the form of physical equations.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "EASY"
+  },
+  {
+    "qno": 117,
+    "questionText": "Which dimensional formula represents velocity?",
+    "options": [
+      {
+        "text": "$[LT^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[L^2T^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[LT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for velocity is $[LT^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 118,
+    "questionText": "Dimensional analysis helps in:",
+    "options": [
+      {
+        "text": "Checking the consistency of equations",
+        "isCorrect": true
+      },
+      {
+        "text": "Direct measurement of quantities",
+        "isCorrect": false
+      },
+      {
+        "text": "Exact calculation of constants",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dimensional analysis helps in checking the consistency of equations.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "EASY"
+  },
+  {
+    "qno": 119,
+    "questionText": "Which of the following dimensional equations is correct for power?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-3}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional equation for power is $[ML^2T^{-3}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 120,
+    "questionText": "Which physical quantity has the dimensional formula $[ML^{-1}T^{-2}]$?",
+    "options": [
+      {
+        "text": "Pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceleration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure has the dimensional formula $[ML^{-1}T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 121,
+    "questionText": "Dimensional analysis is used to:",
+    "options": [
+      {
+        "text": "Check the homogeneity of equations",
+        "isCorrect": true
+      },
+      {
+        "text": "Directly measure physical quantities",
+        "isCorrect": false
+      },
+      {
+        "text": "Determine physical constants",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dimensional analysis is used to check the homogeneity of equations.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "EASY"
+  },
+  {
+    "qno": 122,
+    "questionText": "The dimensional formula for acceleration is:",
+    "options": [
+      {
+        "text": "$[LT^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[L^2T^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[LT^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for acceleration is $[LT^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 123,
+    "questionText": "Which of the following represents the dimensional formula for work done?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for work done is $[ML^2T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 124,
+    "questionText": "What is the dimensional formula for force?",
+    "options": [
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for force is $[MLT^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 128,
+    "questionText": "Which of the following is the dimensional formula for Planck's constant?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for Planck's constant is $[ML^2T^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "HARD"
+  },
+  {
+    "qno": 131,
+    "questionText": "Dimensional analysis can be used to:",
+    "options": [
+      {
+        "text": "Check the consistency of equations",
+        "isCorrect": true
+      },
+      {
+        "text": "Directly measure physical quantities",
+        "isCorrect": false
+      },
+      {
+        "text": "Determine physical constants",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dimensional analysis can be used to check the consistency of equations.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "EASY"
+  },
+  {
+    "qno": 132,
+    "questionText": "Which of the following has the dimensional formula $[ML^{-1}T^{-2}]$?",
+    "options": [
+      {
+        "text": "Pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Force",
+        "isCorrect": false
+      },
+      {
+        "text": "Work",
+        "isCorrect": false
+      },
+      {
+        "text": "Power",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure has the dimensional formula $[ML^{-1}T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 134,
+    "questionText": "Which of the following quantities has the dimensional formula $[ML^2T^{-2}]$?",
+    "options": [
+      {
+        "text": "Energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Force",
+        "isCorrect": false
+      },
+      {
+        "text": "Power",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Energy has the dimensional formula $[ML^2T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 136,
+    "questionText": "Dimensional analysis is useful for:",
+    "options": [
+      {
+        "text": "Checking the consistency of physical equations",
+        "isCorrect": true
+      },
+      {
+        "text": "Direct measurement of physical quantities",
+        "isCorrect": false
+      },
+      {
+        "text": "Finding exact numerical values",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dimensional analysis is useful for checking the consistency of physical equations.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "EASY"
+  },
+  {
+    "qno": 137,
+    "questionText": "Which physical quantity has the dimensional formula $[ML^2T^{-3}]$?",
+    "options": [
+      {
+        "text": "Power",
+        "isCorrect": true
+      },
+      {
+        "text": "Force",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Power has the dimensional formula $[ML^2T^{-3}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 138,
+    "questionText": "What is the dimensional formula of Planck's constant?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of Planck's constant is $[ML^2T^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "HARD"
+  },
+  {
+    "qno": 139,
+    "questionText": "Which of the following represents the dimensional formula for capacitance?",
+    "options": [
+      {
+        "text": "$[M^{-1}L^{-2}T^4A^2]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}A^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-2}A^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-3}A^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for capacitance is $[M^{-1}L^{-2}T^4A^2]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "HARD"
+  },
+  {
+    "qno": 150,
+    "questionText": "Which of the following is NOT a fundamental quantity in physics?",
+    "options": [
+      {
+        "text": "Length",
+        "isCorrect": false
+      },
+      {
+        "text": "Mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Time",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Velocity is a derived quantity, not a fundamental quantity.",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 151,
+    "questionText": "What is the main purpose of the SI system?",
+    "options": [
+      {
+        "text": "To standardize measurements worldwide",
+        "isCorrect": true
+      },
+      {
+        "text": "To create new units of measurement",
+        "isCorrect": false
+      },
+      {
+        "text": "To define physical constants",
+        "isCorrect": false
+      },
+      {
+        "text": "To measure only length and mass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main purpose of the SI system is to standardize measurements worldwide.",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 152,
+    "questionText": "Which of the following is a base unit in the SI system?",
+    "options": [
+      {
+        "text": "Kelvin",
+        "isCorrect": true
+      },
+      {
+        "text": "Degree Celsius",
+        "isCorrect": false
+      },
+      {
+        "text": "Liter",
+        "isCorrect": false
+      },
+      {
+        "text": "Ampere",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Kelvin and Ampere are base units in the SI system.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "EASY"
+  },
+  {
+    "qno": 153,
+    "questionText": "Which physical quantity is measured in moles in the SI system?",
+    "options": [
+      {
+        "text": "Amount of substance",
+        "isCorrect": true
+      },
+      {
+        "text": "Mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Time",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the SI system, the mole is the unit used to measure the amount of substance.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "EASY"
+  },
+  {
+    "qno": 154,
+    "questionText": "How many significant figures are in the number 0.004050?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The number 0.004050 has 5 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 155,
+    "questionText": "What is the correct way to round the number 12.3456 to three significant figures?",
+    "options": [
+      {
+        "text": "12.3",
+        "isCorrect": false
+      },
+      {
+        "text": "12.4",
+        "isCorrect": true
+      },
+      {
+        "text": "12.34",
+        "isCorrect": false
+      },
+      {
+        "text": "12.35",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rounding 12.3456 to three significant figures gives 12.4.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 156,
+    "questionText": "What is the dimensional formula for angular momentum?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^1L^1T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of angular momentum is $[ML^2T^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "HARD"
+  },
+  {
+    "qno": 158,
+    "questionText": "Which of the following represents the dimensional formula for inductance?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}A^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-3}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-2}A^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}A^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for inductance is $[ML^2T^{-2}A^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 161,
+    "questionText": "Dimensional analysis helps in checking the:",
+    "options": [
+      {
+        "text": "Consistency of equations",
+        "isCorrect": true
+      },
+      {
+        "text": "Measurement accuracy",
+        "isCorrect": false
+      },
+      {
+        "text": "Calculation methods",
+        "isCorrect": false
+      },
+      {
+        "text": "Physical constants",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dimensional analysis helps in checking the consistency of equations.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "EASY"
+  },
+  {
+    "qno": 162,
+    "questionText": "Which of the following is the smallest unit of length?",
+    "options": [
+      {
+        "text": "Millimeter",
+        "isCorrect": false
+      },
+      {
+        "text": "Micrometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Nanometer",
+        "isCorrect": true
+      },
+      {
+        "text": "Centimeter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The nanometer is the smallest unit of length among the options given.",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 163,
+    "questionText": "The measurement of time in the SI system is based on:",
+    "options": [
+      {
+        "text": "The oscillation of cesium atoms",
+        "isCorrect": true
+      },
+      {
+        "text": "The Earth's rotation",
+        "isCorrect": false
+      },
+      {
+        "text": "The Moon's orbit",
+        "isCorrect": false
+      },
+      {
+        "text": "The Sun's position",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The measurement of time in the SI system is based on the oscillation of cesium atoms.",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 164,
+    "questionText": "Which unit is used to measure electric current in the SI system?",
+    "options": [
+      {
+        "text": "Ampere",
+        "isCorrect": true
+      },
+      {
+        "text": "Coulomb",
+        "isCorrect": false
+      },
+      {
+        "text": "Volt",
+        "isCorrect": false
+      },
+      {
+        "text": "Ohm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electric current is measured in amperes in the SI system.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "EASY"
+  },
+  {
+    "qno": 165,
+    "questionText": "Which of the following is a derived unit in the SI system?",
+    "options": [
+      {
+        "text": "Newton",
+        "isCorrect": true
+      },
+      {
+        "text": "Kilogram",
+        "isCorrect": false
+      },
+      {
+        "text": "Meter",
+        "isCorrect": false
+      },
+      {
+        "text": "Second",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Newton is a derived unit in the SI system.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 166,
+    "questionText": "How many significant figures are there in the number 300.0?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The number 300.0 has 4 significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "EASY"
+  },
+  {
+    "qno": 167,
+    "questionText": "What is the result of dividing 5.60 by 2.0, considering significant figures?",
+    "options": [
+      {
+        "text": "2.8",
+        "isCorrect": true
+      },
+      {
+        "text": "2.80",
+        "isCorrect": false
+      },
+      {
+        "text": "2.800",
+        "isCorrect": false
+      },
+      {
+        "text": "2.80",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The result of dividing 5.60 by 2.0 is 2.8, considering significant figures.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 168,
+    "questionText": "Which of the following has the same dimensional formula as energy?",
+    "options": [
+      {
+        "text": "Work",
+        "isCorrect": true
+      },
+      {
+        "text": "Force",
+        "isCorrect": false
+      },
+      {
+        "text": "Power",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Work has the same dimensional formula as energy, $[ML^2T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 169,
+    "questionText": "The dimensional formula for pressure is:",
+    "options": [
+      {
+        "text": "$[ML^{-1}T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-3}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for pressure is $[ML^{-1}T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 170,
+    "questionText": "What is the dimensional formula for electric field?",
+    "options": [
+      {
+        "text": "$[MLT^{-3}A^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-2}A^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-1}A^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for electric field is $[MLT^{-3}A^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 171,
+    "questionText": "Which of the following represents the dimensional formula for Planck's constant?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for Planck's constant is $[ML^2T^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 172,
+    "questionText": "Dimensional analysis can be used to:",
+    "options": [
+      {
+        "text": "Check the consistency of physical equations",
+        "isCorrect": true
+      },
+      {
+        "text": "Directly measure physical quantities",
+        "isCorrect": false
+      },
+      {
+        "text": "Determine physical constants",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dimensional analysis can be used to check the consistency of physical equations.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "EASY"
+  },
+  {
+    "qno": 174,
+    "questionText": "If a car travels 150 kilometers in 3 hours, what is its average speed in meters per second?",
+    "options": [
+      {
+        "text": "13.89 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "50 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "72 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "25 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Average speed = total distance / total time = 150 km / 3 h = 50 km/h = 50,000 m / 3600 s ≈ 13.89 m/s.",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 175,
+    "questionText": "Convert 500 milliliters to liters.",
+    "options": [
+      {
+        "text": "0.5 L",
+        "isCorrect": true
+      },
+      {
+        "text": "5 L",
+        "isCorrect": false
+      },
+      {
+        "text": "0.05 L",
+        "isCorrect": false
+      },
+      {
+        "text": "50 L",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "500 milliliters = 500 / 1000 = 0.5 liters.",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 176,
+    "questionText": "Convert a speed of 90 km/h to meters per second.",
+    "options": [
+      {
+        "text": "25 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "15 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "30 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "20 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "90 km/h = 90 * 1000 m / 3600 s = 25 m/s.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 177,
+    "questionText": "How many seconds are there in one day?",
+    "options": [
+      {
+        "text": "86400 s",
+        "isCorrect": true
+      },
+      {
+        "text": "3600 s",
+        "isCorrect": false
+      },
+      {
+        "text": "7200 s",
+        "isCorrect": false
+      },
+      {
+        "text": "43200 s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "1 day = 24 hours = 24 * 3600 seconds = 86400 seconds.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "EASY"
+  },
+  {
+    "qno": 178,
+    "questionText": "Calculate the product of 4.56 and 1.4, and report the answer with the correct number of significant figures.",
+    "options": [
+      {
+        "text": "6.4",
+        "isCorrect": true
+      },
+      {
+        "text": "6.38",
+        "isCorrect": false
+      },
+      {
+        "text": "6.384",
+        "isCorrect": false
+      },
+      {
+        "text": "6.380",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "4.56 (3 significant figures) × 1.4 (2 significant figures) = 6.384 → 6.4 (2 significant figures).",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 179,
+    "questionText": "Perform the calculation 3.141 + 2.17 and report the result with the correct number of significant figures.",
+    "options": [
+      {
+        "text": "5.31",
+        "isCorrect": true
+      },
+      {
+        "text": "5.311",
+        "isCorrect": false
+      },
+      {
+        "text": "5.3",
+        "isCorrect": false
+      },
+      {
+        "text": "5.310",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "3.141 (3 decimal places) + 2.17 (2 decimal places) = 5.311 → 5.31 (2 decimal places).",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 180,
+    "questionText": "Find the dimensional formula for kinetic energy.",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kinetic energy has the dimensional formula $[ML^2T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 181,
+    "questionText": "What is the dimensional formula for potential energy?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Potential energy has the dimensional formula $[ML^2T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 182,
+    "questionText": "Determine the dimensional formula for gravitational potential energy.",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gravitational potential energy has the dimensional formula $[ML^2T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 183,
+    "questionText": "What is the dimensional formula for work done?",
+    "options": [
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Work done has the dimensional formula $[ML^2T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 184,
+    "questionText": "Using dimensional analysis, determine the dimensional formula for force given by Newton's second law, F = ma.",
+    "options": [
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2LT^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Force (F) has the dimensional formula $[MLT^{-2}]$ when calculated using Newton's second law.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 185,
+    "questionText": "Using dimensional analysis, check if the equation v = u + at is dimensionally correct, where v is final velocity, u is initial velocity, a is acceleration, and t is time.",
+    "options": [
+      {
+        "text": "Dimensionally correct",
+        "isCorrect": true
+      },
+      {
+        "text": "Dimensionally incorrect",
+        "isCorrect": false
+      },
+      {
+        "text": "Depends on the units used",
+        "isCorrect": false
+      },
+      {
+        "text": "Cannot be determined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equation v = u + at is dimensionally correct as both sides have the dimensional formula of $[LT^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 186,
+    "questionText": "A rectangle has a length of 5.2 meters and a width of 3.4 meters. Calculate its area in square meters.",
+    "options": [
+      {
+        "text": "17.68",
+        "isCorrect": true
+      },
+      {
+        "text": "17.7",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Area = length × width = 5.2 m × 3.4 m = 17.68 m².",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 187,
+    "questionText": "Convert a distance of 3.5 kilometers to meters.",
+    "options": [
+      {
+        "text": "3500 meters",
+        "isCorrect": true
+      },
+      {
+        "text": "35 meters",
+        "isCorrect": false
+      },
+      {
+        "text": "350 meters",
+        "isCorrect": false
+      },
+      {
+        "text": "0.35 meters",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "3.5 kilometers = 3.5 × 1000 meters = 3500 meters.",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 188,
+    "questionText": "How many centimeters are there in 2.5 meters?",
+    "options": [
+      {
+        "text": "250 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "2.5 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "2500 cm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2.5 meters = 2.5 × 100 centimeters = 250 centimeters.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "EASY"
+  },
+  {
+    "qno": 189,
+    "questionText": "Convert 100 grams to kilograms.",
+    "options": [
+      {
+        "text": "0.1 kg",
+        "isCorrect": true
+      },
+      {
+        "text": "1 kg",
+        "isCorrect": false
+      },
+      {
+        "text": "10 kg",
+        "isCorrect": false
+      },
+      {
+        "text": "0.01 kg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "100 grams = 100 / 1000 kilograms = 0.1 kilograms.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "EASY"
+  },
+  {
+    "qno": 190,
+    "questionText": "Perform the calculation (6.78 × 0.015) and report the answer with the correct number of significant figures.",
+    "options": [
+      {
+        "text": "0.10",
+        "isCorrect": true
+      },
+      {
+        "text": "0.1017",
+        "isCorrect": false
+      },
+      {
+        "text": "0.10170",
+        "isCorrect": false
+      },
+      {
+        "text": "0.101",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "6.78 (3 significant figures) × 0.015 (2 significant figures) = 0.1017 → 0.10 (2 significant figures).",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 191,
+    "questionText": "What is the correct way to round the number 0.003456 to two significant figures?",
+    "options": [
+      {
+        "text": "0.0035",
+        "isCorrect": true
+      },
+      {
+        "text": "0.003",
+        "isCorrect": false
+      },
+      {
+        "text": "0.0034",
+        "isCorrect": false
+      },
+      {
+        "text": "0.00345",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "0.003456 rounded to two significant figures is 0.0035.",
+    "chapter": "Units and Measurement",
+    "topic": "1.3 Significant figures",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 192,
+    "questionText": "What is the dimensional formula for velocity?",
+    "options": [
+      {
+        "text": "$[LT^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[L^2T^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[LT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for velocity is $[LT^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 193,
+    "questionText": "What is the dimensional formula for acceleration?",
+    "options": [
+      {
+        "text": "$[LT^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[L^2T^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[LT^{-1}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[L^2T^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula for acceleration is $[LT^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.4 Dimensions of Physical Quantities",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 194,
+    "questionText": "Using dimensional analysis, find the dimensions of pressure in terms of mass (M), length (L), and time (T).",
+    "options": [
+      {
+        "text": "$[ML^{-1}T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-3}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure has the dimensional formula $[ML^{-1}T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "HARD"
+  },
+  {
+    "qno": 195,
+    "questionText": "Determine the dimensional formula for frequency.",
+    "options": [
+      {
+        "text": "$[T^{-1}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[T^1]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[T^2]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Frequency has the dimensional formula $[T^{-1}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.5 Dimensional Formulae and Dimensional Equations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 196,
+    "questionText": "Using dimensional analysis, check if the equation s = ut + 0.5at^2 is dimensionally correct, where s is displacement, u is initial velocity, a is acceleration, and t is time.",
+    "options": [
+      {
+        "text": "Dimensionally correct",
+        "isCorrect": true
+      },
+      {
+        "text": "Dimensionally incorrect",
+        "isCorrect": false
+      },
+      {
+        "text": "Depends on the units used",
+        "isCorrect": false
+      },
+      {
+        "text": "Cannot be determined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equation s = ut + 0.5at^2 is dimensionally correct as both sides have the dimensional formula of $[L]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 197,
+    "questionText": "Using dimensional analysis, find the dimensions of the gravitational constant G in terms of mass (M), length (L), and time (T).",
+    "options": [
+      {
+        "text": "$[M^{-1}L^3T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[ML^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^1L^2T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational constant G has the dimensional formula $[M^{-1}L^3T^{-2}]$.",
+    "chapter": "Units and Measurement",
+    "topic": "1.6 Dimensional analysis and its application",
+    "level": "HARD"
+  },
+  {
+    "qno": 198,
+    "questionText": "A tank holds 2500 liters of water. Convert this volume to cubic meters.",
+    "options": [
+      {
+        "text": "2.5 cubic meters",
+        "isCorrect": true
+      },
+      {
+        "text": "25 cubic meters",
+        "isCorrect": false
+      },
+      {
+        "text": "0.25 cubic meters",
+        "isCorrect": false
+      },
+      {
+        "text": "250 cubic meters",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2500 liters = 2500 / 1000 cubic meters = 2.5 cubic meters.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "EASY"
+  },
+  {
+    "qno": 199,
+    "questionText": "If a wave has a frequency of 50 Hz, what is its period in seconds?",
+    "options": [
+      {
+        "text": "0.02 s",
+        "isCorrect": true
+      },
+      {
+        "text": "2 s",
+        "isCorrect": false
+      },
+      {
+        "text": "0.002 s",
+        "isCorrect": false
+      },
+      {
+        "text": "20 s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Period (T) = 1 / frequency = 1 / 50 Hz = 0.02 seconds.",
+    "chapter": "Units and Measurement",
+    "topic": "1.2 The International System of Units",
+    "level": "EASY"
+  },
+  {
+    "qno": 200,
+    "questionText": "A cyclist travels 15 kilometers in 30 minutes. Calculate the average speed in meters per second.",
+    "options": [
+      {
+        "text": "8.33 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "7.5 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "5 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "10 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Average speed = total distance / total time = 15 km / 0.5 h = 30 km/h = 30,000 m / 3600 s ≈ 8.33 m/s.",
+    "chapter": "Units and Measurement",
+    "topic": "1.1 Introduction",
+    "level": "MEDIUM"
+  }
+]

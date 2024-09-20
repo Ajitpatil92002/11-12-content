@@ -1,0 +1,5956 @@
+[
+  {
+    "qno": "1",
+    "questionText": "What is the primary function of flowers in angiosperms?",
+    "options": [
+      {
+        "text": "Aesthetic value",
+        "isCorrect": false
+      },
+      {
+        "text": "Ornamental value",
+        "isCorrect": false
+      },
+      {
+        "text": "Religious value",
+        "isCorrect": false
+      },
+      {
+        "text": "Sexual reproduction",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The primary function of flowers in angiosperms is to facilitate sexual reproduction.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "Which part of the flower develops into the fruit after fertilization?",
+    "options": [
+      {
+        "text": "Ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovary",
+        "isCorrect": true
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      },
+      {
+        "text": "Style",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "After fertilization, the ovary of the flower develops into the fruit.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "What is the term for the small opening at the tip of the integuments in an ovule?",
+    "options": [
+      {
+        "text": "Hilum",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      },
+      {
+        "text": "Micropyle",
+        "isCorrect": true
+      },
+      {
+        "text": "Chalaza",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The micropyle is the small opening at the tip of the integuments in an ovule.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "4",
+    "questionText": "In which type of pollination are pollen grains transferred from the anther to the stigma of the same flower?",
+    "options": [
+      {
+        "text": "Xenogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Geitonogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Autogamy",
+        "isCorrect": true
+      },
+      {
+        "text": "Cleistogamy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Autogamy is the type of pollination where pollen grains are transferred from the anther to the stigma of the same flower.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "5",
+    "questionText": "Which part of the flower serves as a landing platform for pollen grains?",
+    "options": [
+      {
+        "text": "Style",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": true
+      },
+      {
+        "text": "Thalamus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The stigma serves as a landing platform for pollen grains.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "6",
+    "questionText": "What is the term for the female reproductive organ in a flower?",
+    "options": [
+      {
+        "text": "Androecium",
+        "isCorrect": false
+      },
+      {
+        "text": "Gynoecium",
+        "isCorrect": true
+      },
+      {
+        "text": "Stamen",
+        "isCorrect": false
+      },
+      {
+        "text": "Petal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gynoecium is the female reproductive organ in a flower.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "7",
+    "questionText": "Which structure in the flower contains the male reproductive organs?",
+    "options": [
+      {
+        "text": "Gynoecium",
+        "isCorrect": false
+      },
+      {
+        "text": "Petal",
+        "isCorrect": false
+      },
+      {
+        "text": "Androecium",
+        "isCorrect": true
+      },
+      {
+        "text": "Sepal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The androecium is the structure in the flower that contains the male reproductive organs.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "Which layer of the pollen grain wall is made up of sporopollenin?",
+    "options": [
+      {
+        "text": "Intine",
+        "isCorrect": false
+      },
+      {
+        "text": "Exine",
+        "isCorrect": true
+      },
+      {
+        "text": "Endothecium",
+        "isCorrect": false
+      },
+      {
+        "text": "Epidermis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The exine is the layer of the pollen grain wall made up of sporopollenin.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "9",
+    "questionText": "What is the role of the tapetum in the development of pollen grains?",
+    "options": [
+      {
+        "text": "Protection of pollen grains",
+        "isCorrect": false
+      },
+      {
+        "text": "Nourishment of developing pollen grains",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of pollen grains",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the pollen tube",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The tapetum nourishes the developing pollen grains.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "10",
+    "questionText": "Which of the following is not a function of the outer three wall layers of the microsporangium?",
+    "options": [
+      {
+        "text": "Protection",
+        "isCorrect": false
+      },
+      {
+        "text": "Dehiscence of anther",
+        "isCorrect": false
+      },
+      {
+        "text": "Nourishment of pollen grains",
+        "isCorrect": true
+      },
+      {
+        "text": "Structural support",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The outer three wall layers of the microsporangium do not nourish pollen grains; this is the function of the tapetum.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the ploidy of the cells in the microspore tetrad?",
+    "options": [
+      {
+        "text": "Haploid",
+        "isCorrect": true
+      },
+      {
+        "text": "Diploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Triploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Tetraploid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The cells in the microspore tetrad are haploid.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "What structure in the flower attaches the ovule to the placenta?",
+    "options": [
+      {
+        "text": "Hilum",
+        "isCorrect": true
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      },
+      {
+        "text": "Micropyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Chalaza",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The hilum is the structure in the flower that attaches the ovule to the placenta.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "What is the function of the filiform apparatus in synergids?",
+    "options": [
+      {
+        "text": "Protection of embryo sac",
+        "isCorrect": false
+      },
+      {
+        "text": "Guidance of pollen tube",
+        "isCorrect": true
+      },
+      {
+        "text": "Nourishment of embryo sac",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of egg cell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The filiform apparatus in synergids plays an important role in guiding the pollen tube.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "14",
+    "questionText": "What are the three cells at the chalazal end of the embryo sac called?",
+    "options": [
+      {
+        "text": "Synergids",
+        "isCorrect": false
+      },
+      {
+        "text": "Antipodals",
+        "isCorrect": true
+      },
+      {
+        "text": "Polar nuclei",
+        "isCorrect": false
+      },
+      {
+        "text": "Egg apparatus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The three cells at the chalazal end of the embryo sac are called antipodals.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "15",
+    "questionText": "What is the ploidy level of the primary endosperm nucleus (PEN)?",
+    "options": [
+      {
+        "text": "Haploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Diploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Triploid",
+        "isCorrect": true
+      },
+      {
+        "text": "Tetraploid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary endosperm nucleus (PEN) is triploid.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "16",
+    "questionText": "Which type of pollination involves transfer of pollen grains from the anther of one flower to the stigma of another flower on the same plant?",
+    "options": [
+      {
+        "text": "Autogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Geitonogamy",
+        "isCorrect": true
+      },
+      {
+        "text": "Xenogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Cleistogamy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Geitonogamy involves the transfer of pollen grains from the anther of one flower to the stigma of another flower on the same plant.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "17",
+    "questionText": "Which structure in a flower develops into seeds after fertilization?",
+    "options": [
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovule",
+        "isCorrect": true
+      },
+      {
+        "text": "Pistil",
+        "isCorrect": false
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "After fertilization, the ovule develops into seeds.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "18",
+    "questionText": "What is the name of the process by which pollen grains are transferred from an anther to a stigma?",
+    "options": [
+      {
+        "text": "Fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "Germination",
+        "isCorrect": false
+      },
+      {
+        "text": "Pollination",
+        "isCorrect": true
+      },
+      {
+        "text": "Propagation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pollination is the process by which pollen grains are transferred from an anther to a stigma.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "19",
+    "questionText": "Which part of the flower becomes the fruit?",
+    "options": [
+      {
+        "text": "Ovary",
+        "isCorrect": true
+      },
+      {
+        "text": "Ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      },
+      {
+        "text": "Style",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ovary becomes the fruit after fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "20",
+    "questionText": "What is the term for flowers that do not open and self-pollinate?",
+    "options": [
+      {
+        "text": "Chasmogamous",
+        "isCorrect": false
+      },
+      {
+        "text": "Cleistogamous",
+        "isCorrect": true
+      },
+      {
+        "text": "Autogamous",
+        "isCorrect": false
+      },
+      {
+        "text": "Geitonogamous",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cleistogamous flowers do not open and self-pollinate.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "21",
+    "questionText": "Which cells in the pollen grain are responsible for the formation of male gametes?",
+    "options": [
+      {
+        "text": "Vegetative cell",
+        "isCorrect": false
+      },
+      {
+        "text": "Generative cell",
+        "isCorrect": true
+      },
+      {
+        "text": "Synergids",
+        "isCorrect": false
+      },
+      {
+        "text": "Antipodals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The generative cell in the pollen grain is responsible for the formation of male gametes.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "22",
+    "questionText": "What is the function of synergids in the embryo sac?",
+    "options": [
+      {
+        "text": "To form the embryo",
+        "isCorrect": false
+      },
+      {
+        "text": "To guide the pollen tube to the egg cell",
+        "isCorrect": true
+      },
+      {
+        "text": "To nourish the embryo sac",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect the embryo sac",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Synergids guide the pollen tube to the egg cell in the embryo sac.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "23",
+    "questionText": "Which of the following is a monocarpellary condition?",
+    "options": [
+      {
+        "text": "A single carpel",
+        "isCorrect": true
+      },
+      {
+        "text": "Multiple carpels fused together",
+        "isCorrect": false
+      },
+      {
+        "text": "Multiple carpels free",
+        "isCorrect": false
+      },
+      {
+        "text": "No carpels",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A monocarpellary condition means the presence of a single carpel.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "Which of the following agents is not typically involved in pollination?",
+    "options": [
+      {
+        "text": "Wind",
+        "isCorrect": false
+      },
+      {
+        "text": "Water",
+        "isCorrect": false
+      },
+      {
+        "text": "Insects",
+        "isCorrect": false
+      },
+      {
+        "text": "Gravity",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Gravity is not typically involved in pollination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "25",
+    "questionText": "Which structure in the flower is responsible for the production of pollen grains?",
+    "options": [
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Anther",
+        "isCorrect": true
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      },
+      {
+        "text": "Style",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The anther is responsible for the production of pollen grains.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "26",
+    "questionText": "Which part of the flower becomes the seed after fertilization?",
+    "options": [
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovule",
+        "isCorrect": true
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      },
+      {
+        "text": "Petal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ovule becomes the seed after fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "27",
+    "questionText": "What is the role of the pollen tube during fertilization?",
+    "options": [
+      {
+        "text": "To protect the pollen grain",
+        "isCorrect": false
+      },
+      {
+        "text": "To transport male gametes to the ovule",
+        "isCorrect": true
+      },
+      {
+        "text": "To nourish the ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "To form the seed coat",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pollen tube transports male gametes to the ovule during fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "28",
+    "questionText": "Which part of the flower serves as the landing platform for pollen grains?",
+    "options": [
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": true
+      },
+      {
+        "text": "Style",
+        "isCorrect": false
+      },
+      {
+        "text": "Anther",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The stigma serves as the landing platform for pollen grains.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "29",
+    "questionText": "What type of pollination occurs within the same flower?",
+    "options": [
+      {
+        "text": "Xenogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Geitonogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Autogamy",
+        "isCorrect": true
+      },
+      {
+        "text": "Cleistogamy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Autogamy occurs within the same flower.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "30",
+    "questionText": "Which structure in the flower produces the female gametophyte?",
+    "options": [
+      {
+        "text": "Anther",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovule",
+        "isCorrect": true
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      },
+      {
+        "text": "Style",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ovule produces the female gametophyte.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "31",
+    "questionText": "What is the name given to the process of formation of microspores from a pollen mother cell (PMC) through meiosis?",
+    "options": [
+      {
+        "text": "Microsporogenesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Megasporogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Gametogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Embryogenesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The process of formation of microspores from a pollen mother cell (PMC) through meiosis is called microsporogenesis.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "32",
+    "questionText": "What are the two types of cells found in a mature pollen grain?",
+    "options": [
+      {
+        "text": "Generative cell and Vegetative cell",
+        "isCorrect": true
+      },
+      {
+        "text": "Sporogenous cell and Tapetal cell",
+        "isCorrect": false
+      },
+      {
+        "text": "Microspore cell and Megaspore cell",
+        "isCorrect": false
+      },
+      {
+        "text": "Synergid cell and Antipodal cell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A mature pollen grain contains a generative cell and a vegetative cell.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "33",
+    "questionText": "Which part of the ovule forms the seed coat?",
+    "options": [
+      {
+        "text": "Integuments",
+        "isCorrect": true
+      },
+      {
+        "text": "Nucellus",
+        "isCorrect": false
+      },
+      {
+        "text": "Micropyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The integuments of the ovule develop into the seed coat.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "34",
+    "questionText": "What is the role of sporopollenin in pollen grains?",
+    "options": [
+      {
+        "text": "To aid in pollination",
+        "isCorrect": false
+      },
+      {
+        "text": "To form the pollen tube",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect pollen grains",
+        "isCorrect": true
+      },
+      {
+        "text": "To nourish the pollen grains",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sporopollenin forms the tough outer layer of the pollen grain, protecting it from environmental damage.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "35",
+    "questionText": "What is the function of the endothecium in the anther?",
+    "options": [
+      {
+        "text": "Protection of pollen grains",
+        "isCorrect": false
+      },
+      {
+        "text": "Nourishment of pollen grains",
+        "isCorrect": false
+      },
+      {
+        "text": "Dehiscence of anther",
+        "isCorrect": true
+      },
+      {
+        "text": "Formation of pollen wall",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endothecium aids in the dehiscence of the anther, allowing pollen grains to be released.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "36",
+    "questionText": "Which cell division process leads to the formation of the microspore tetrad?",
+    "options": [
+      {
+        "text": "Mitosis",
+        "isCorrect": false
+      },
+      {
+        "text": "Meiosis",
+        "isCorrect": true
+      },
+      {
+        "text": "Binary fission",
+        "isCorrect": false
+      },
+      {
+        "text": "Budding",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Meiosis is the cell division process that leads to the formation of the microspore tetrad.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "37",
+    "questionText": "What is the term for the central tissue in the ovule where the archesporium differentiates?",
+    "options": [
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      },
+      {
+        "text": "Nucellus",
+        "isCorrect": true
+      },
+      {
+        "text": "Micropyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Chalaza",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The nucellus is the central tissue in the ovule where the archesporium differentiates.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "38",
+    "questionText": "Which part of the flower is typically responsible for attracting pollinators?",
+    "options": [
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      },
+      {
+        "text": "Anther",
+        "isCorrect": false
+      },
+      {
+        "text": "Petals",
+        "isCorrect": true
+      },
+      {
+        "text": "Style",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Petals are often colorful and fragrant, attracting pollinators to the flower.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "39",
+    "questionText": "What type of cell division occurs in the sporogenous tissue of the anther?",
+    "options": [
+      {
+        "text": "Mitosis",
+        "isCorrect": false
+      },
+      {
+        "text": "Meiosis",
+        "isCorrect": true
+      },
+      {
+        "text": "Binary fission",
+        "isCorrect": false
+      },
+      {
+        "text": "Budding",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Meiosis occurs in the sporogenous tissue of the anther to form microspore tetrads.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "40",
+    "questionText": "Which of the following is a characteristic of cleistogamous flowers?",
+    "options": [
+      {
+        "text": "They open and expose the anthers and stigma",
+        "isCorrect": false
+      },
+      {
+        "text": "They remain closed and self-pollinate",
+        "isCorrect": true
+      },
+      {
+        "text": "They require pollinators for fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "They produce large, showy petals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cleistogamous flowers remain closed and self-pollinate.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "41",
+    "questionText": "Which part of the flower develops into the fruit?",
+    "options": [
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovary",
+        "isCorrect": true
+      },
+      {
+        "text": "Petals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ovary of the flower develops into the fruit after fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "42",
+    "questionText": "Which type of flower structure is specifically adapted for wind pollination?",
+    "options": [
+      {
+        "text": "Large and colorful petals",
+        "isCorrect": false
+      },
+      {
+        "text": "Sticky pollen grains",
+        "isCorrect": false
+      },
+      {
+        "text": "Exposed stamens and feathery stigma",
+        "isCorrect": true
+      },
+      {
+        "text": "Sweet fragrance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Wind-pollinated flowers often have exposed stamens and feathery stigmas to efficiently catch pollen grains carried by the wind.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "43",
+    "questionText": "Which layer of the anther is directly responsible for nourishing developing pollen grains?",
+    "options": [
+      {
+        "text": "Epidermis",
+        "isCorrect": false
+      },
+      {
+        "text": "Endothecium",
+        "isCorrect": false
+      },
+      {
+        "text": "Middle layers",
+        "isCorrect": false
+      },
+      {
+        "text": "Tapetum",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The tapetum is the innermost layer of the anther wall and directly nourishes the developing pollen grains.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "44",
+    "questionText": "Which type of flower produces assured seed-set even in the absence of pollinators?",
+    "options": [
+      {
+        "text": "Chasmogamous",
+        "isCorrect": false
+      },
+      {
+        "text": "Cleistogamous",
+        "isCorrect": true
+      },
+      {
+        "text": "Autogamous",
+        "isCorrect": false
+      },
+      {
+        "text": "Xenogamous",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cleistogamous flowers produce assured seed-set even in the absence of pollinators because they self-pollinate without opening.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "45",
+    "questionText": "What is the term for the process of fusion of one male gamete with the egg cell and the other male gamete with the two polar nuclei?",
+    "options": [
+      {
+        "text": "Syngamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Double fertilization",
+        "isCorrect": true
+      },
+      {
+        "text": "Triple fusion",
+        "isCorrect": false
+      },
+      {
+        "text": "Apomixis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Double fertilization is the process in which one male gamete fuses with the egg cell and the other male gamete fuses with the two polar nuclei.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "46",
+    "questionText": "Which part of the flower is involved in the reception of pollen grains?",
+    "options": [
+      {
+        "text": "Anther",
+        "isCorrect": false
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": true
+      },
+      {
+        "text": "Style",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The stigma is involved in the reception of pollen grains during pollination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "47",
+    "questionText": "Which of the following is not a function of the pollen tube?",
+    "options": [
+      {
+        "text": "Transporting male gametes to the ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "Guiding the pollen grains",
+        "isCorrect": true
+      },
+      {
+        "text": "Penetrating the stigma and style",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitating fertilization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pollen tube does not guide the pollen grains but transports male gametes to the ovule, penetrates the stigma and style, and facilitates fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "48",
+    "questionText": "What is the role of the synergids in the embryo sac?",
+    "options": [
+      {
+        "text": "To form the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "To nourish the embryo sac",
+        "isCorrect": false
+      },
+      {
+        "text": "To guide the pollen tube to the egg cell",
+        "isCorrect": true
+      },
+      {
+        "text": "To protect the ovule",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The synergids guide the pollen tube to the egg cell in the embryo sac.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "49",
+    "questionText": "What is the structure that attaches the ovule to the placenta?",
+    "options": [
+      {
+        "text": "Micropyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": true
+      },
+      {
+        "text": "Chalaza",
+        "isCorrect": false
+      },
+      {
+        "text": "Hilum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The funicle is the structure that attaches the ovule to the placenta.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "50",
+    "questionText": "What is the ploidy level of the generative cell in a pollen grain?",
+    "options": [
+      {
+        "text": "Haploid",
+        "isCorrect": true
+      },
+      {
+        "text": "Diploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Triploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Tetraploid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The generative cell in a pollen grain is haploid.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "53",
+    "questionText": "Which part of the ovule is responsible for the formation of the seed coat?",
+    "options": [
+      {
+        "text": "Integuments",
+        "isCorrect": true
+      },
+      {
+        "text": "Nucellus",
+        "isCorrect": false
+      },
+      {
+        "text": "Micropyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The integuments of the ovule develop into the seed coat.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "63",
+    "questionText": "Which structure in the flower attaches the ovule to the placenta?",
+    "options": [
+      {
+        "text": "Micropyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": true
+      },
+      {
+        "text": "Chalaza",
+        "isCorrect": false
+      },
+      {
+        "text": "Hilum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The funicle is the structure that attaches the ovule to the placenta.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "66",
+    "questionText": "Which type of pollination involves transfer of pollen grains from the anther to the stigma of another flower on the same plant?",
+    "options": [
+      {
+        "text": "Autogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Geitonogamy",
+        "isCorrect": true
+      },
+      {
+        "text": "Xenogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Cleistogamy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Geitonogamy involves the transfer of pollen grains from the anther of one flower to the stigma of another flower on the same plant.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "75",
+    "questionText": "Which type of pollination is facilitated by biotic agents like bees and butterflies?",
+    "options": [
+      {
+        "text": "Anemophily",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrophily",
+        "isCorrect": false
+      },
+      {
+        "text": "Zoophily",
+        "isCorrect": true
+      },
+      {
+        "text": "Autogamy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Zoophily is the type of pollination facilitated by biotic agents like bees and butterflies.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "79",
+    "questionText": "Which part of the flower develops into seeds after fertilization?",
+    "options": [
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovule",
+        "isCorrect": true
+      },
+      {
+        "text": "Pistil",
+        "isCorrect": false
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "After fertilization, the ovule develops into seeds.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "80",
+    "questionText": "What is the role of the filiform apparatus in synergids?",
+    "options": [
+      {
+        "text": "Protection of embryo sac",
+        "isCorrect": false
+      },
+      {
+        "text": "Guidance of pollen tube",
+        "isCorrect": true
+      },
+      {
+        "text": "Nourishment of embryo sac",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of egg cell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The filiform apparatus in synergids plays an important role in guiding the pollen tube.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "HARD"
+  },
+  {
+    "qno": "83",
+    "questionText": "Which part of the flower becomes the seed after fertilization?",
+    "options": [
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovule",
+        "isCorrect": true
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      },
+      {
+        "text": "Style",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ovule becomes the seed after fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "102",
+    "questionText": "Which structure in the flower develops into seeds after fertilization?",
+    "options": [
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovule",
+        "isCorrect": true
+      },
+      {
+        "text": "Pistil",
+        "isCorrect": false
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "After fertilization, the ovule develops into seeds.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "111",
+    "questionText": "Which part of the flower becomes the fruit?",
+    "options": [
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovary",
+        "isCorrect": true
+      },
+      {
+        "text": "Petals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ovary of the flower develops into the fruit after fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.1 Flower – A Fascinating Organ of Angiosperms",
+    "level": "EASY"
+  },
+  {
+    "qno": "1",
+    "questionText": "What is the structure that forms the pollen grain in angiosperms?",
+    "options": [
+      {
+        "text": "Ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "Pollen mother cell",
+        "isCorrect": true
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "Nucellus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pollen mother cell undergoes meiosis to form pollen grains in angiosperms.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "2",
+    "questionText": "Which tissue in the anther nourishes the developing pollen grains?",
+    "options": [
+      {
+        "text": "Endothecium",
+        "isCorrect": false
+      },
+      {
+        "text": "Tapetum",
+        "isCorrect": true
+      },
+      {
+        "text": "Sporogenous tissue",
+        "isCorrect": false
+      },
+      {
+        "text": "Epidermis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The tapetum is the innermost layer of the anther wall and directly nourishes the developing pollen grains.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "3",
+    "questionText": "What is the term for the process by which a pollen grain is transferred from an anther to a stigma?",
+    "options": [
+      {
+        "text": "Fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "Pollination",
+        "isCorrect": true
+      },
+      {
+        "text": "Germination",
+        "isCorrect": false
+      },
+      {
+        "text": "Propagation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pollination is the process by which a pollen grain is transferred from an anther to a stigma.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "4",
+    "questionText": "Which type of pollination involves the transfer of pollen from the anther of one flower to the stigma of another flower on a different plant of the same species?",
+    "options": [
+      {
+        "text": "Autogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Geitonogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Xenogamy",
+        "isCorrect": true
+      },
+      {
+        "text": "Cleistogamy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Xenogamy involves the transfer of pollen from the anther of one flower to the stigma of another flower on a different plant of the same species.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "5",
+    "questionText": "What is the function of the stigma in the flower?",
+    "options": [
+      {
+        "text": "To produce pollen grains",
+        "isCorrect": false
+      },
+      {
+        "text": "To receive and trap pollen grains",
+        "isCorrect": true
+      },
+      {
+        "text": "To nourish the ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "To support the style",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The stigma is involved in receiving and trapping pollen grains during pollination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "6",
+    "questionText": "What is the ploidy level of the cells in the pollen grain?",
+    "options": [
+      {
+        "text": "Haploid",
+        "isCorrect": true
+      },
+      {
+        "text": "Diploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Triploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Tetraploid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The cells in the pollen grain are haploid.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "7",
+    "questionText": "Which type of pollination occurs within the same flower?",
+    "options": [
+      {
+        "text": "Xenogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Geitonogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Autogamy",
+        "isCorrect": true
+      },
+      {
+        "text": "Cleistogamy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Autogamy occurs within the same flower.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "Which type of pollination is facilitated by water?",
+    "options": [
+      {
+        "text": "Anemophily",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrophily",
+        "isCorrect": true
+      },
+      {
+        "text": "Zoophily",
+        "isCorrect": false
+      },
+      {
+        "text": "Autogamy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hydrophily is the type of pollination facilitated by water.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "9",
+    "questionText": "What is the structure in the ovule that forms the embryo sac?",
+    "options": [
+      {
+        "text": "Nucellus",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      },
+      {
+        "text": "Megaspore mother cell",
+        "isCorrect": true
+      },
+      {
+        "text": "Integuments",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The megaspore mother cell undergoes meiosis to form the embryo sac in the ovule.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "10",
+    "questionText": "What is the ploidy level of the cells in the embryo sac?",
+    "options": [
+      {
+        "text": "Haploid",
+        "isCorrect": true
+      },
+      {
+        "text": "Diploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Triploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Tetraploid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The cells in the embryo sac are haploid.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "11",
+    "questionText": "Which structure in the ovule is responsible for the development of the embryo sac?",
+    "options": [
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      },
+      {
+        "text": "Nucellus",
+        "isCorrect": true
+      },
+      {
+        "text": "Integuments",
+        "isCorrect": false
+      },
+      {
+        "text": "Micropyle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The nucellus provides nourishment and supports the development of the embryo sac.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "12",
+    "questionText": "Which cells in the embryo sac are responsible for the formation of the primary endosperm nucleus?",
+    "options": [
+      {
+        "text": "Egg cell and Synergids",
+        "isCorrect": false
+      },
+      {
+        "text": "Antipodals and Synergids",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar nuclei",
+        "isCorrect": true
+      },
+      {
+        "text": "Egg cell and Polar nuclei",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary endosperm nucleus is formed by the fusion of the two polar nuclei and one of the male gametes.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "13",
+    "questionText": "What is the function of the integuments in the ovule?",
+    "options": [
+      {
+        "text": "To form the seed coat",
+        "isCorrect": true
+      },
+      {
+        "text": "To nourish the embryo sac",
+        "isCorrect": false
+      },
+      {
+        "text": "To facilitate fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "To develop into the embryo",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The integuments of the ovule develop into the seed coat, protecting the developing seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "15",
+    "questionText": "Which type of cell division occurs in the microspore mother cell to form microspores?",
+    "options": [
+      {
+        "text": "Mitosis",
+        "isCorrect": false
+      },
+      {
+        "text": "Meiosis",
+        "isCorrect": true
+      },
+      {
+        "text": "Binary fission",
+        "isCorrect": false
+      },
+      {
+        "text": "Amitosis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Meiosis occurs in the microspore mother cell to form haploid microspores.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "16",
+    "questionText": "Which part of the ovule forms the seed coat after fertilization?",
+    "options": [
+      {
+        "text": "Nucellus",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      },
+      {
+        "text": "Integuments",
+        "isCorrect": true
+      },
+      {
+        "text": "Embryo sac",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The integuments of the ovule develop into the seed coat, protecting the developing seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "What is the function of the polar nuclei in the embryo sac?",
+    "options": [
+      {
+        "text": "To form the egg cell",
+        "isCorrect": false
+      },
+      {
+        "text": "To form the primary endosperm nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "To nourish the embryo sac",
+        "isCorrect": false
+      },
+      {
+        "text": "To guide the pollen tube",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The polar nuclei fuse with one of the male gametes to form the primary endosperm nucleus, which will nourish the developing embryo.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "20",
+    "questionText": "What is the term for the transfer of pollen from the anther to the stigma?",
+    "options": [
+      {
+        "text": "Fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "Pollination",
+        "isCorrect": true
+      },
+      {
+        "text": "Germination",
+        "isCorrect": false
+      },
+      {
+        "text": "Propagation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pollination is the process by which pollen is transferred from the anther to the stigma.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "22",
+    "questionText": "Which type of pollination is facilitated by wind?",
+    "options": [
+      {
+        "text": "Anemophily",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydrophily",
+        "isCorrect": false
+      },
+      {
+        "text": "Zoophily",
+        "isCorrect": false
+      },
+      {
+        "text": "Autogamy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Anemophily is the type of pollination facilitated by wind.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "What is the function of the synergids in the embryo sac?",
+    "options": [
+      {
+        "text": "To form the egg cell",
+        "isCorrect": false
+      },
+      {
+        "text": "To guide the pollen tube to the egg cell",
+        "isCorrect": true
+      },
+      {
+        "text": "To form the primary endosperm nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "To nourish the embryo sac",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The synergids guide the pollen tube to the egg cell in the embryo sac.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "24",
+    "questionText": "Which structure in the ovule becomes the seed after fertilization?",
+    "options": [
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      },
+      {
+        "text": "Nucellus",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovule",
+        "isCorrect": true
+      },
+      {
+        "text": "Integuments",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ovule becomes the seed after fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "25",
+    "questionText": "What is the term for the process by which the pollen tube releases the male gametes into the embryo sac?",
+    "options": [
+      {
+        "text": "Pollination",
+        "isCorrect": false
+      },
+      {
+        "text": "Fertilization",
+        "isCorrect": true
+      },
+      {
+        "text": "Germination",
+        "isCorrect": false
+      },
+      {
+        "text": "Propagation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fertilization is the process by which the pollen tube releases the male gametes into the embryo sac.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "26",
+    "questionText": "What is the role of the integuments in the ovule?",
+    "options": [
+      {
+        "text": "To form the seed coat",
+        "isCorrect": true
+      },
+      {
+        "text": "To nourish the embryo sac",
+        "isCorrect": false
+      },
+      {
+        "text": "To facilitate fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "To develop into the embryo",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The integuments of the ovule develop into the seed coat, protecting the developing seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "29",
+    "questionText": "Which part of the ovule is responsible for the formation of the primary endosperm nucleus?",
+    "options": [
+      {
+        "text": "Egg cell and Synergids",
+        "isCorrect": false
+      },
+      {
+        "text": "Antipodals and Synergids",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar nuclei",
+        "isCorrect": true
+      },
+      {
+        "text": "Egg cell and Polar nuclei",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary endosperm nucleus is formed by the fusion of the two polar nuclei and one of the male gametes.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "31",
+    "questionText": "Which structure in the ovule forms the embryo sac?",
+    "options": [
+      {
+        "text": "Nucellus",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      },
+      {
+        "text": "Megaspore mother cell",
+        "isCorrect": true
+      },
+      {
+        "text": "Integuments",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The megaspore mother cell undergoes meiosis to form the embryo sac in the ovule.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "36",
+    "questionText": "Which type of pollination involves transfer of pollen grains from the anther of one flower to the stigma of another flower on a different plant of the same species?",
+    "options": [
+      {
+        "text": "Autogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Geitonogamy",
+        "isCorrect": false
+      },
+      {
+        "text": "Xenogamy",
+        "isCorrect": true
+      },
+      {
+        "text": "Cleistogamy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Xenogamy involves the transfer of pollen from the anther of one flower to the stigma of another flower on a different plant of the same species.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.2 Pre-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "1",
+    "questionText": "What is double fertilization in flowering plants?",
+    "options": [
+      {
+        "text": "Fertilization of one egg by two sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Fusion of two eggs with one sperm",
+        "isCorrect": false
+      },
+      {
+        "text": "Fusion of one sperm with the egg and the other sperm with the polar nuclei",
+        "isCorrect": true
+      },
+      {
+        "text": "Fusion of two sperms with the egg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Double fertilization in flowering plants involves the fusion of one sperm with the egg to form the zygote, and the other sperm with the two polar nuclei to form the primary endosperm nucleus.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "2",
+    "questionText": "Which cells participate in double fertilization?",
+    "options": [
+      {
+        "text": "Two egg cells and one sperm",
+        "isCorrect": false
+      },
+      {
+        "text": "One egg cell and two sperms",
+        "isCorrect": true
+      },
+      {
+        "text": "Two sperms and two polar nuclei",
+        "isCorrect": false
+      },
+      {
+        "text": "One sperm and one polar nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Double fertilization involves one egg cell and two sperms, where one sperm fuses with the egg cell and the other fuses with the two polar nuclei.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "What is the outcome of double fertilization in angiosperms?",
+    "options": [
+      {
+        "text": "Formation of two zygotes",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of one zygote and one primary endosperm nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "Formation of two primary endosperm nuclei",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of one zygote and one egg cell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Double fertilization results in the formation of one zygote and one primary endosperm nucleus.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "HARD"
+  },
+  {
+    "qno": "4",
+    "questionText": "Which nucleus in the embryo sac fuses with one of the male gametes during double fertilization?",
+    "options": [
+      {
+        "text": "Synergid",
+        "isCorrect": false
+      },
+      {
+        "text": "Antipodal",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "Egg cell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "One of the male gametes fuses with the egg cell to form the zygote, while the other fuses with the polar nuclei to form the primary endosperm nucleus.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "5",
+    "questionText": "What is the ploidy level of the primary endosperm nucleus formed during double fertilization?",
+    "options": [
+      {
+        "text": "Haploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Diploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Triploid",
+        "isCorrect": true
+      },
+      {
+        "text": "Tetraploid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary endosperm nucleus is triploid, as it is formed by the fusion of two haploid polar nuclei and one haploid sperm.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "HARD"
+  },
+  {
+    "qno": "6",
+    "questionText": "What is the significance of double fertilization in angiosperms?",
+    "options": [
+      {
+        "text": "Formation of two embryos",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of endosperm to nourish the embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "Formation of seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of pollen tube",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Double fertilization leads to the formation of endosperm, which provides nourishment to the developing embryo.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "EASY"
+  },
+  {
+    "qno": "7",
+    "questionText": "Which structure in the flower is responsible for producing the male gametes involved in double fertilization?",
+    "options": [
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Anther",
+        "isCorrect": true
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      },
+      {
+        "text": "Style",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The anther produces pollen grains, which contain the male gametes involved in double fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "8",
+    "questionText": "Which part of the embryo sac fuses with the second male gamete during double fertilization?",
+    "options": [
+      {
+        "text": "Synergid",
+        "isCorrect": false
+      },
+      {
+        "text": "Antipodal",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar nuclei",
+        "isCorrect": true
+      },
+      {
+        "text": "Egg cell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The second male gamete fuses with the two polar nuclei to form the primary endosperm nucleus.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "HARD"
+  },
+  {
+    "qno": "9",
+    "questionText": "What is the role of the synergids in the process of double fertilization?",
+    "options": [
+      {
+        "text": "To form the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "To nourish the embryo sac",
+        "isCorrect": false
+      },
+      {
+        "text": "To guide the pollen tube to the egg cell",
+        "isCorrect": true
+      },
+      {
+        "text": "To fuse with the sperm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The synergids help guide the pollen tube to the egg cell, facilitating the process of fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "10",
+    "questionText": "Which event is unique to double fertilization in angiosperms?",
+    "options": [
+      {
+        "text": "Formation of the zygote",
+        "isCorrect": false
+      },
+      {
+        "text": "Fusion of the pollen tube with the egg cell",
+        "isCorrect": false
+      },
+      {
+        "text": "Fusion of one male gamete with the egg and the other with the polar nuclei",
+        "isCorrect": true
+      },
+      {
+        "text": "Development of the seed coat",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Double fertilization is unique to angiosperms, involving the fusion of one male gamete with the egg cell and the other with the polar nuclei.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "HARD"
+  },
+  {
+    "qno": "11",
+    "questionText": "Which cells are formed as a result of double fertilization?",
+    "options": [
+      {
+        "text": "Zygote and primary endosperm nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "Two zygotes",
+        "isCorrect": false
+      },
+      {
+        "text": "Two primary endosperm nuclei",
+        "isCorrect": false
+      },
+      {
+        "text": "Zygote and egg cell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Double fertilization results in the formation of a zygote and a primary endosperm nucleus.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "Which structure in the ovule receives the pollen tube during fertilization?",
+    "options": [
+      {
+        "text": "Synergids",
+        "isCorrect": true
+      },
+      {
+        "text": "Antipodals",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar nuclei",
+        "isCorrect": false
+      },
+      {
+        "text": "Egg cell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The synergids receive the pollen tube and guide it to the egg cell for fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "What is the role of the primary endosperm nucleus formed during double fertilization?",
+    "options": [
+      {
+        "text": "To form the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "To nourish the developing embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "To develop into the zygote",
+        "isCorrect": false
+      },
+      {
+        "text": "To guide the pollen tube",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary endosperm nucleus develops into the endosperm, which nourishes the developing embryo.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "14",
+    "questionText": "Which two structures are formed as a result of double fertilization?",
+    "options": [
+      {
+        "text": "Zygote and egg cell",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary endosperm nucleus and synergid",
+        "isCorrect": false
+      },
+      {
+        "text": "Zygote and primary endosperm nucleus",
+        "isCorrect": true
+      },
+      {
+        "text": "Egg cell and polar nuclei",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Double fertilization results in the formation of a zygote and a primary endosperm nucleus.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "HARD"
+  },
+  {
+    "qno": "15",
+    "questionText": "Which of the following processes is unique to angiosperms?",
+    "options": [
+      {
+        "text": "Fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "Pollination",
+        "isCorrect": false
+      },
+      {
+        "text": "Double fertilization",
+        "isCorrect": true
+      },
+      {
+        "text": "Seed formation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Double fertilization, involving the fusion of one male gamete with the egg and the other with the polar nuclei, is unique to angiosperms.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "EASY"
+  },
+  {
+    "qno": "16",
+    "questionText": "What is the ploidy level of the endosperm formed as a result of double fertilization?",
+    "options": [
+      {
+        "text": "Haploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Diploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Triploid",
+        "isCorrect": true
+      },
+      {
+        "text": "Tetraploid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endosperm is triploid, formed by the fusion of one male gamete with two polar nuclei.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "HARD"
+  },
+  {
+    "qno": "17",
+    "questionText": "Which part of the pollen grain contains the male gametes involved in double fertilization?",
+    "options": [
+      {
+        "text": "Vegetative cell",
+        "isCorrect": false
+      },
+      {
+        "text": "Generative cell",
+        "isCorrect": true
+      },
+      {
+        "text": "Synergid",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar nuclei",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The generative cell in the pollen grain divides to form two male gametes involved in double fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "18",
+    "questionText": "Which structure in the flower forms the female gametophyte?",
+    "options": [
+      {
+        "text": "Anther",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovule",
+        "isCorrect": true
+      },
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ovule forms the female gametophyte, which includes the egg cell and the polar nuclei.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "EASY"
+  },
+  {
+    "qno": "19",
+    "questionText": "What happens to the primary endosperm nucleus after double fertilization?",
+    "options": [
+      {
+        "text": "It develops into the zygote",
+        "isCorrect": false
+      },
+      {
+        "text": "It divides to form the endosperm",
+        "isCorrect": true
+      },
+      {
+        "text": "It forms the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "It nourishes the pollen tube",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary endosperm nucleus divides to form the endosperm, which provides nourishment to the developing embryo.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "20",
+    "questionText": "Which cells fuse to form the zygote during double fertilization?",
+    "options": [
+      {
+        "text": "Two male gametes",
+        "isCorrect": false
+      },
+      {
+        "text": "One male gamete and one egg cell",
+        "isCorrect": true
+      },
+      {
+        "text": "Two egg cells",
+        "isCorrect": false
+      },
+      {
+        "text": "One male gamete and one polar nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The zygote is formed by the fusion of one male gamete and one egg cell during double fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "HARD"
+  },
+  {
+    "qno": "21",
+    "questionText": "Which part of the flower is involved in double fertilization?",
+    "options": [
+      {
+        "text": "Stamen",
+        "isCorrect": false
+      },
+      {
+        "text": "Carpel",
+        "isCorrect": true
+      },
+      {
+        "text": "Petal",
+        "isCorrect": false
+      },
+      {
+        "text": "Sepal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The carpel, specifically the ovule within it, is involved in double fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "EASY"
+  },
+  {
+    "qno": "22",
+    "questionText": "Which event occurs first in double fertilization?",
+    "options": [
+      {
+        "text": "Fusion of the male gamete with the egg cell",
+        "isCorrect": true
+      },
+      {
+        "text": "Fusion of the male gamete with the polar nuclei",
+        "isCorrect": false
+      },
+      {
+        "text": "Division of the primary endosperm nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the pollen tube",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The first event in double fertilization is the fusion of one male gamete with the egg cell.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "What is the fate of the second male gamete in double fertilization?",
+    "options": [
+      {
+        "text": "It fuses with the egg cell",
+        "isCorrect": false
+      },
+      {
+        "text": "It fuses with the synergids",
+        "isCorrect": false
+      },
+      {
+        "text": "It fuses with the polar nuclei",
+        "isCorrect": true
+      },
+      {
+        "text": "It fuses with the antipodals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The second male gamete fuses with the two polar nuclei to form the primary endosperm nucleus.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "HARD"
+  },
+  {
+    "qno": "24",
+    "questionText": "Which cells in the embryo sac are involved in forming the endosperm?",
+    "options": [
+      {
+        "text": "Synergids and egg cell",
+        "isCorrect": false
+      },
+      {
+        "text": "Antipodals and egg cell",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar nuclei and one male gamete",
+        "isCorrect": true
+      },
+      {
+        "text": "Egg cell and one male gamete",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endosperm is formed by the fusion of the two polar nuclei with one male gamete.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "25",
+    "questionText": "What happens to the zygote formed during double fertilization?",
+    "options": [
+      {
+        "text": "It develops into the endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "It divides to form the embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "It forms the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "It nourishes the pollen tube",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The zygote divides and develops into the embryo.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "EASY"
+  },
+  {
+    "qno": "26",
+    "questionText": "Which structure in the ovule guides the pollen tube to the egg cell?",
+    "options": [
+      {
+        "text": "Synergids",
+        "isCorrect": true
+      },
+      {
+        "text": "Antipodals",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar nuclei",
+        "isCorrect": false
+      },
+      {
+        "text": "Egg cell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The synergids guide the pollen tube to the egg cell during fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "27",
+    "questionText": "What is the role of the antipodal cells in the embryo sac?",
+    "options": [
+      {
+        "text": "To form the zygote",
+        "isCorrect": false
+      },
+      {
+        "text": "To guide the pollen tube",
+        "isCorrect": false
+      },
+      {
+        "text": "To nourish the embryo sac",
+        "isCorrect": true
+      },
+      {
+        "text": "To fuse with the male gamete",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The antipodal cells are thought to play a role in nourishing the embryo sac.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "HARD"
+  },
+  {
+    "qno": "28",
+    "questionText": "Which part of the ovule becomes the seed coat after fertilization?",
+    "options": [
+      {
+        "text": "Nucellus",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      },
+      {
+        "text": "Integuments",
+        "isCorrect": true
+      },
+      {
+        "text": "Embryo sac",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The integuments of the ovule develop into the seed coat, protecting the developing seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "29",
+    "questionText": "Which structure in the ovule forms the primary endosperm nucleus?",
+    "options": [
+      {
+        "text": "Synergid",
+        "isCorrect": false
+      },
+      {
+        "text": "Antipodal",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar nuclei",
+        "isCorrect": true
+      },
+      {
+        "text": "Egg cell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary endosperm nucleus is formed by the fusion of the two polar nuclei and one male gamete.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "HARD"
+  },
+  {
+    "qno": "31",
+    "questionText": "What is the primary endosperm nucleus in the embryo sac?",
+    "options": [
+      {
+        "text": "Haploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Diploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Triploid",
+        "isCorrect": true
+      },
+      {
+        "text": "Tetraploid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary endosperm nucleus is triploid, as it is formed by the fusion of two haploid polar nuclei and one haploid sperm.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "HARD"
+  },
+  {
+    "qno": "32",
+    "questionText": "Which process leads to the formation of endosperm in angiosperms?",
+    "options": [
+      {
+        "text": "Fertilization of two egg cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Fusion of one sperm with the egg cell",
+        "isCorrect": false
+      },
+      {
+        "text": "Fusion of one sperm with the polar nuclei",
+        "isCorrect": true
+      },
+      {
+        "text": "Formation of the pollen tube",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Endosperm formation in angiosperms occurs through the fusion of one sperm with the two polar nuclei.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "33",
+    "questionText": "Which part of the flower produces the pollen grains?",
+    "options": [
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Anther",
+        "isCorrect": true
+      },
+      {
+        "text": "Style",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The anther produces pollen grains, which contain the male gametes involved in double fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "EASY"
+  },
+  {
+    "qno": "41",
+    "questionText": "What is the role of the egg cell in double fertilization?",
+    "options": [
+      {
+        "text": "To form the primary endosperm nucleus",
+        "isCorrect": false
+      },
+      {
+        "text": "To fuse with one male gamete to form the zygote",
+        "isCorrect": true
+      },
+      {
+        "text": "To guide the pollen tube",
+        "isCorrect": false
+      },
+      {
+        "text": "To nourish the embryo sac",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The egg cell fuses with one male gamete to form the zygote during double fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "EASY"
+  },
+  {
+    "qno": "42",
+    "questionText": "Which part of the flower produces the pollen tube?",
+    "options": [
+      {
+        "text": "Stigma",
+        "isCorrect": false
+      },
+      {
+        "text": "Anther",
+        "isCorrect": false
+      },
+      {
+        "text": "Pollen grain",
+        "isCorrect": true
+      },
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pollen grain produces the pollen tube that grows towards the ovule during fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "43",
+    "questionText": "What is the fate of the primary endosperm nucleus after double fertilization?",
+    "options": [
+      {
+        "text": "It forms the zygote",
+        "isCorrect": false
+      },
+      {
+        "text": "It divides to form the endosperm",
+        "isCorrect": true
+      },
+      {
+        "text": "It becomes the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "It guides the pollen tube",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary endosperm nucleus divides to form the endosperm, which provides nourishment to the developing embryo.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "53",
+    "questionText": "Which type of fertilization involves the fusion of two sperms with different nuclei in the embryo sac?",
+    "options": [
+      {
+        "text": "Single fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "Double fertilization",
+        "isCorrect": true
+      },
+      {
+        "text": "Triple fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "Quadruple fertilization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Double fertilization involves the fusion of two sperms with different nuclei in the embryo sac, forming the zygote and the primary endosperm nucleus.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.3 Double Fertilisation",
+    "level": "HARD"
+  },
+  {
+    "qno": "1",
+    "questionText": "What is the primary function of the endosperm formed after fertilization?",
+    "options": [
+      {
+        "text": "To nourish the developing embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "To form the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect the ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "To facilitate pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endosperm formed after fertilization provides nourishment to the developing embryo.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "Which structure in the seed provides protection to the embryo?",
+    "options": [
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "Seed coat",
+        "isCorrect": true
+      },
+      {
+        "text": "Cotyledons",
+        "isCorrect": false
+      },
+      {
+        "text": "Hypocotyl",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The seed coat provides protection to the developing embryo in the seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "3",
+    "questionText": "What happens to the ovary after fertilization?",
+    "options": [
+      {
+        "text": "It develops into the seed",
+        "isCorrect": false
+      },
+      {
+        "text": "It forms the endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "It develops into the fruit",
+        "isCorrect": true
+      },
+      {
+        "text": "It withers away",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "After fertilization, the ovary develops into the fruit.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "4",
+    "questionText": "Which part of the seed contains stored food for the developing embryo?",
+    "options": [
+      {
+        "text": "Seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": true
+      },
+      {
+        "text": "Embryo sac",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endosperm in the seed contains stored food for the developing embryo.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "5",
+    "questionText": "What is the role of cotyledons in a seed?",
+    "options": [
+      {
+        "text": "To protect the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide food to the developing embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "To form the endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "To facilitate pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cotyledons provide food to the developing embryo in the seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "Which part of the ovule forms the seed coat?",
+    "options": [
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      },
+      {
+        "text": "Nucellus",
+        "isCorrect": false
+      },
+      {
+        "text": "Integuments",
+        "isCorrect": true
+      },
+      {
+        "text": "Embryo sac",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The integuments of the ovule develop into the seed coat.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "7",
+    "questionText": "What is the function of the pericarp in fruits?",
+    "options": [
+      {
+        "text": "To nourish the seed",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect the seed",
+        "isCorrect": true
+      },
+      {
+        "text": "To facilitate pollination",
+        "isCorrect": false
+      },
+      {
+        "text": "To form the embryo",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pericarp protects the seed inside the fruit.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "8",
+    "questionText": "Which structure in the seed is responsible for germination?",
+    "options": [
+      {
+        "text": "Seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "Embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "Pericarp",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The embryo in the seed is responsible for germination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "9",
+    "questionText": "What is the role of the hypocotyl in seed development?",
+    "options": [
+      {
+        "text": "To form the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "To develop into the root",
+        "isCorrect": true
+      },
+      {
+        "text": "To nourish the embryo",
+        "isCorrect": false
+      },
+      {
+        "text": "To facilitate pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The hypocotyl develops into the root during seed germination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "10",
+    "questionText": "Which part of the embryo develops into the shoot?",
+    "options": [
+      {
+        "text": "Radicle",
+        "isCorrect": false
+      },
+      {
+        "text": "Plumule",
+        "isCorrect": true
+      },
+      {
+        "text": "Cotyledons",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The plumule develops into the shoot during seed germination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the fate of the integuments of the ovule after fertilization?",
+    "options": [
+      {
+        "text": "They form the endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "They form the seed coat",
+        "isCorrect": true
+      },
+      {
+        "text": "They develop into the embryo",
+        "isCorrect": false
+      },
+      {
+        "text": "They disintegrate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "After fertilization, the integuments of the ovule develop into the seed coat.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "Which part of the seed provides the initial energy for germination?",
+    "options": [
+      {
+        "text": "Seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": true
+      },
+      {
+        "text": "Plumule",
+        "isCorrect": false
+      },
+      {
+        "text": "Radicle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endosperm provides the initial energy required for the germination of the seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "What is the function of the radicle in a developing seed?",
+    "options": [
+      {
+        "text": "To form the shoot",
+        "isCorrect": false
+      },
+      {
+        "text": "To develop into the root",
+        "isCorrect": true
+      },
+      {
+        "text": "To protect the seed",
+        "isCorrect": false
+      },
+      {
+        "text": "To store food",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The radicle develops into the root in a germinating seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "14",
+    "questionText": "What happens to the ovule after fertilization?",
+    "options": [
+      {
+        "text": "It forms the endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "It develops into the seed",
+        "isCorrect": true
+      },
+      {
+        "text": "It forms the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "It disintegrates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "After fertilization, the ovule develops into the seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "15",
+    "questionText": "Which structure in the seed stores food for the developing embryo?",
+    "options": [
+      {
+        "text": "Seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": true
+      },
+      {
+        "text": "Cotyledons",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endosperm stores food for the developing embryo in the seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "16",
+    "questionText": "What is the role of the plumule in seed development?",
+    "options": [
+      {
+        "text": "To form the root",
+        "isCorrect": false
+      },
+      {
+        "text": "To develop into the shoot",
+        "isCorrect": true
+      },
+      {
+        "text": "To protect the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "To facilitate pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The plumule develops into the shoot during seed germination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "17",
+    "questionText": "Which part of the fruit is derived from the ovary wall?",
+    "options": [
+      {
+        "text": "Seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "Pericarp",
+        "isCorrect": true
+      },
+      {
+        "text": "Embryo sac",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pericarp of the fruit is derived from the ovary wall after fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "18",
+    "questionText": "What is the primary function of the pericarp in fruits?",
+    "options": [
+      {
+        "text": "To nourish the seed",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect the seed",
+        "isCorrect": true
+      },
+      {
+        "text": "To facilitate pollination",
+        "isCorrect": false
+      },
+      {
+        "text": "To form the embryo",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary function of the pericarp is to protect the seed inside the fruit.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "19",
+    "questionText": "Which part of the seed is responsible for germination?",
+    "options": [
+      {
+        "text": "Seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "Embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "Pericarp",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The embryo in the seed is responsible for germination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "20",
+    "questionText": "Which part of the seed develops into the root?",
+    "options": [
+      {
+        "text": "Radicle",
+        "isCorrect": true
+      },
+      {
+        "text": "Plumule",
+        "isCorrect": false
+      },
+      {
+        "text": "Cotyledons",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The radicle develops into the root during seed germination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "21",
+    "questionText": "What is the function of the endosperm in seed development?",
+    "options": [
+      {
+        "text": "To nourish the developing embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "To form the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect the ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "To facilitate pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endosperm provides nourishment to the developing embryo in the seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "22",
+    "questionText": "Which part of the seed provides protection to the embryo?",
+    "options": [
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "Seed coat",
+        "isCorrect": true
+      },
+      {
+        "text": "Cotyledons",
+        "isCorrect": false
+      },
+      {
+        "text": "Hypocotyl",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The seed coat provides protection to the developing embryo in the seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "51",
+    "questionText": "Which part of the seed develops into the root system during germination?",
+    "options": [
+      {
+        "text": "Plumule",
+        "isCorrect": false
+      },
+      {
+        "text": "Radicle",
+        "isCorrect": true
+      },
+      {
+        "text": "Cotyledons",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The radicle is the part of the seed that develops into the root system during germination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "52",
+    "questionText": "What is the function of the cotyledons in a dicot seed?",
+    "options": [
+      {
+        "text": "To form the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "To nourish the developing embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "To protect the embryo",
+        "isCorrect": false
+      },
+      {
+        "text": "To facilitate pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a dicot seed, the cotyledons serve as a source of nourishment for the developing embryo.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "53",
+    "questionText": "Which part of the ovary transforms into the fruit after fertilization?",
+    "options": [
+      {
+        "text": "Ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovary wall",
+        "isCorrect": true
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "After fertilization, the ovary wall develops into the fruit.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "54",
+    "questionText": "Which structure in the seed provides the embryo with nutrients during germination?",
+    "options": [
+      {
+        "text": "Seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": true
+      },
+      {
+        "text": "Plumule",
+        "isCorrect": false
+      },
+      {
+        "text": "Radicle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endosperm provides nutrients to the embryo during the germination of the seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "55",
+    "questionText": "What is the primary role of the seed coat?",
+    "options": [
+      {
+        "text": "To nourish the developing embryo",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect the seed",
+        "isCorrect": true
+      },
+      {
+        "text": "To form the endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "To facilitate pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary role of the seed coat is to protect the seed from physical damage and desiccation.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "56",
+    "questionText": "What is the fate of the zygote after fertilization in plants?",
+    "options": [
+      {
+        "text": "It forms the endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "It develops into the embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "It becomes the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "It transforms into the fruit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "After fertilization, the zygote develops into the embryo within the seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "57",
+    "questionText": "Which part of the seed is responsible for the initial growth of the shoot?",
+    "options": [
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "Radicle",
+        "isCorrect": false
+      },
+      {
+        "text": "Plumule",
+        "isCorrect": true
+      },
+      {
+        "text": "Seed coat",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The plumule is responsible for the initial growth of the shoot in a germinating seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "58",
+    "questionText": "What happens to the nucellus after fertilization?",
+    "options": [
+      {
+        "text": "It forms the endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "It develops into the embryo",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "It often degenerates",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "After fertilization, the nucellus often degenerates, but in some seeds, it persists as a nutritive tissue.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "59",
+    "questionText": "Which structure in the seed stores food reserves for the developing embryo?",
+    "options": [
+      {
+        "text": "Seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": true
+      },
+      {
+        "text": "Plumule",
+        "isCorrect": false
+      },
+      {
+        "text": "Radicle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endosperm stores food reserves for the developing embryo in the seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "60",
+    "questionText": "What is the function of the pericarp in fruit development?",
+    "options": [
+      {
+        "text": "To form the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect the seeds",
+        "isCorrect": true
+      },
+      {
+        "text": "To nourish the developing embryo",
+        "isCorrect": false
+      },
+      {
+        "text": "To facilitate pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pericarp functions to protect the seeds within the fruit.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "61",
+    "questionText": "Which structure in the seed is crucial for the initial stages of germination?",
+    "options": [
+      {
+        "text": "Seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": true
+      },
+      {
+        "text": "Plumule",
+        "isCorrect": false
+      },
+      {
+        "text": "Radicle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endosperm provides the necessary nutrients for the initial stages of seed germination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "62",
+    "questionText": "Which part of the seed is responsible for forming the shoot?",
+    "options": [
+      {
+        "text": "Radicle",
+        "isCorrect": false
+      },
+      {
+        "text": "Plumule",
+        "isCorrect": true
+      },
+      {
+        "text": "Cotyledons",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The plumule is the part of the seed that develops into the shoot during germination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "63",
+    "questionText": "What is the role of the radicle in a seed?",
+    "options": [
+      {
+        "text": "To form the shoot",
+        "isCorrect": false
+      },
+      {
+        "text": "To develop into the root",
+        "isCorrect": true
+      },
+      {
+        "text": "To protect the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "To store food",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The radicle is responsible for developing into the root system during seed germination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "64",
+    "questionText": "Which part of the ovary forms the pericarp in fruit?",
+    "options": [
+      {
+        "text": "Ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovary wall",
+        "isCorrect": true
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ovary wall forms the pericarp in fruit after fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "65",
+    "questionText": "Which structure in the seed becomes the seed coat after fertilization?",
+    "options": [
+      {
+        "text": "Nucellus",
+        "isCorrect": false
+      },
+      {
+        "text": "Integuments",
+        "isCorrect": true
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "Embryo sac",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The integuments of the ovule develop into the seed coat after fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "66",
+    "questionText": "What is the function of the seed coat?",
+    "options": [
+      {
+        "text": "To nourish the developing embryo",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect the seed",
+        "isCorrect": true
+      },
+      {
+        "text": "To form the endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "To facilitate pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The seed coat functions to protect the seed from physical damage and desiccation.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "67",
+    "questionText": "What is the fate of the ovule after fertilization?",
+    "options": [
+      {
+        "text": "It forms the endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "It develops into the seed",
+        "isCorrect": true
+      },
+      {
+        "text": "It forms the seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "It disintegrates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "After fertilization, the ovule develops into the seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "HARD"
+  },
+  {
+    "qno": "68",
+    "questionText": "Which part of the seed stores food for the developing embryo?",
+    "options": [
+      {
+        "text": "Seed coat",
+        "isCorrect": false
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": true
+      },
+      {
+        "text": "Cotyledons",
+        "isCorrect": false
+      },
+      {
+        "text": "Funicle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endosperm stores food for the developing embryo in the seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.4 Post-fertilisation: Structures and Events",
+    "level": "EASY"
+  },
+  {
+    "qno": "1",
+    "questionText": "What is apomixis?",
+    "options": [
+      {
+        "text": "A type of sexual reproduction",
+        "isCorrect": false
+      },
+      {
+        "text": "A form of asexual reproduction",
+        "isCorrect": true
+      },
+      {
+        "text": "A form of pollination",
+        "isCorrect": false
+      },
+      {
+        "text": "A type of fertilization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Apomixis is a form of asexual reproduction that occurs without fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "What is polyembryony?",
+    "options": [
+      {
+        "text": "The occurrence of multiple embryos from a single fertilized egg",
+        "isCorrect": true
+      },
+      {
+        "text": "The development of multiple seeds from a single ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "The production of multiple pollen grains from a single anther",
+        "isCorrect": false
+      },
+      {
+        "text": "The formation of multiple flowers from a single bud",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony is the occurrence of multiple embryos from a single fertilized egg.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "3",
+    "questionText": "In which type of apomixis does the embryo develop directly from an unfertilized egg?",
+    "options": [
+      {
+        "text": "Adventive embryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Diplospory",
+        "isCorrect": true
+      },
+      {
+        "text": "Gametophytic apomixis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In diplospory, the embryo develops directly from an unfertilized egg.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "4",
+    "questionText": "Which process leads to the formation of more than one embryo in a seed?",
+    "options": [
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Polyembryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Apomixis",
+        "isCorrect": false
+      },
+      {
+        "text": "Fertilization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony is the process that leads to the formation of more than one embryo in a seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "5",
+    "questionText": "Which type of apomixis involves the formation of an embryo without fertilization but from the ovule's somatic cells?",
+    "options": [
+      {
+        "text": "Diplospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Gametophytic apomixis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In adventive embryony, the embryo forms from the somatic cells of the ovule without fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "Which term describes the occurrence of multiple embryos in a single seed due to the development of accessory embryos?",
+    "options": [
+      {
+        "text": "Polyembryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Apomixis",
+        "isCorrect": false
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Gametophytic apomixis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony describes the occurrence of multiple embryos in a single seed due to the development of accessory embryos.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "7",
+    "questionText": "What is the advantage of apomixis in agriculture?",
+    "options": [
+      {
+        "text": "It produces genetically identical offspring",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "It requires two parent plants",
+        "isCorrect": false
+      },
+      {
+        "text": "It prevents seed formation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Apomixis produces genetically identical offspring, which is advantageous in maintaining desirable traits in agriculture.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "Which of the following is NOT a type of apomixis?",
+    "options": [
+      {
+        "text": "Adventive embryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Diplospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Polyembryony",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Polyembryony is the occurrence of multiple embryos, while adventive embryony, diplospory, and apospory are types of apomixis.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "9",
+    "questionText": "In which type of apomixis does the embryo develop from the nucellar cells of the ovule?",
+    "options": [
+      {
+        "text": "Diplospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Gametophytic apomixis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In adventive embryony, the embryo develops from the nucellar cells of the ovule.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "10",
+    "questionText": "Which type of apomixis involves the development of an embryo from an unfertilized egg cell?",
+    "options": [
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Diplospory",
+        "isCorrect": true
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Gametophytic apomixis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diplospory involves the development of an embryo from an unfertilized egg cell.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "11",
+    "questionText": "Which of the following is a key feature of apomixis?",
+    "options": [
+      {
+        "text": "Genetic variation",
+        "isCorrect": false
+      },
+      {
+        "text": "No genetic recombination",
+        "isCorrect": true
+      },
+      {
+        "text": "Meiosis",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A key feature of apomixis is that it occurs without genetic recombination, producing genetically identical offspring.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "Which process in apomixis involves the embryo developing from a diploid egg cell formed without meiosis?",
+    "options": [
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Diplospory",
+        "isCorrect": true
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diplospory is a type of apomixis where the embryo develops from a diploid egg cell formed without meiosis.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "13",
+    "questionText": "Which type of polyembryony results from the development of multiple embryos from a single zygote?",
+    "options": [
+      {
+        "text": "Adventive embryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Cleavage polyembryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Gametophytic apomixis",
+        "isCorrect": false
+      },
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cleavage polyembryony occurs when multiple embryos develop from a single zygote.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "14",
+    "questionText": "Which structure is often involved in adventive embryony?",
+    "options": [
+      {
+        "text": "Nucellus",
+        "isCorrect": true
+      },
+      {
+        "text": "Endosperm",
+        "isCorrect": false
+      },
+      {
+        "text": "Pollen grain",
+        "isCorrect": false
+      },
+      {
+        "text": "Embryo sac",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In adventive embryony, the embryo often develops from the nucellus of the ovule.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "15",
+    "questionText": "Which of the following is an example of apomixis in plants?",
+    "options": [
+      {
+        "text": "Mango",
+        "isCorrect": false
+      },
+      {
+        "text": "Orange",
+        "isCorrect": false
+      },
+      {
+        "text": "Grasses",
+        "isCorrect": true
+      },
+      {
+        "text": "Tomato",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Grasses are an example of plants that can reproduce through apomixis.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "16",
+    "questionText": "How does apomixis differ from sexual reproduction?",
+    "options": [
+      {
+        "text": "It requires meiosis",
+        "isCorrect": false
+      },
+      {
+        "text": "It produces genetically identical offspring",
+        "isCorrect": true
+      },
+      {
+        "text": "It involves fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases genetic diversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Apomixis produces genetically identical offspring without meiosis or fertilization, unlike sexual reproduction.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "Which of the following statements about polyembryony is true?",
+    "options": [
+      {
+        "text": "It occurs only in animals",
+        "isCorrect": false
+      },
+      {
+        "text": "It results in multiple embryos from one zygote",
+        "isCorrect": true
+      },
+      {
+        "text": "It involves the fusion of multiple egg cells",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a type of sexual reproduction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony results in the development of multiple embryos from a single zygote.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "18",
+    "questionText": "Which type of apomixis involves the embryo forming from an unfertilized egg in the embryo sac?",
+    "options": [
+      {
+        "text": "Diplospory",
+        "isCorrect": true
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In diplospory, the embryo forms from an unfertilized egg in the embryo sac.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "19",
+    "questionText": "Which type of polyembryony involves the formation of multiple embryos from different cells of the ovule?",
+    "options": [
+      {
+        "text": "Cleavage polyembryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Adventive polyembryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Diplospory",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adventive polyembryony involves the formation of multiple embryos from different cells of the ovule.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "20",
+    "questionText": "Which process in plants can produce offspring that are clones of the parent plant?",
+    "options": [
+      {
+        "text": "Sexual reproduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Polyembryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Apomixis",
+        "isCorrect": true
+      },
+      {
+        "text": "Cross-pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Apomixis can produce offspring that are genetic clones of the parent plant.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "What is the main benefit of polyembryony in plants?",
+    "options": [
+      {
+        "text": "Increased genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased chances of seed survival",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduced competition among embryos",
+        "isCorrect": false
+      },
+      {
+        "text": "Promotion of cross-pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony increases the chances of seed survival by producing multiple embryos.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "22",
+    "questionText": "Which type of apomixis is characterized by the formation of an embryo from somatic cells of the ovule?",
+    "options": [
+      {
+        "text": "Diplospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adventive embryony involves the formation of an embryo from somatic cells of the ovule.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "23",
+    "questionText": "In which type of apomixis does the embryo develop from an unreduced (diploid) egg cell?",
+    "options": [
+      {
+        "text": "Diplospory",
+        "isCorrect": true
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In diplospory, the embryo develops from an unreduced (diploid) egg cell.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "Which of the following best describes apospory?",
+    "options": [
+      {
+        "text": "Embryo development from somatic cells of the ovule",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of a diploid egg cell without meiosis",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of an embryo sac from somatic cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Development of multiple embryos from a single zygote",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Apospory is the formation of an embryo sac from somatic cells of the ovule.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "25",
+    "questionText": "Which type of apomixis involves embryo formation without fertilization and meiosis?",
+    "options": [
+      {
+        "text": "Gametophytic apomixis",
+        "isCorrect": true
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Cleavage polyembryony",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gametophytic apomixis involves embryo formation without fertilization and meiosis.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "26",
+    "questionText": "What is the primary advantage of apomixis in agriculture?",
+    "options": [
+      {
+        "text": "Increased genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Production of genetically uniform crops",
+        "isCorrect": true
+      },
+      {
+        "text": "Requires pollinators",
+        "isCorrect": false
+      },
+      {
+        "text": "Involves high genetic variation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary advantage of apomixis in agriculture is the production of genetically uniform crops.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "27",
+    "questionText": "Which of the following is NOT an outcome of polyembryony?",
+    "options": [
+      {
+        "text": "Increased number of embryos in a seed",
+        "isCorrect": false
+      },
+      {
+        "text": "Genetic uniformity of embryos",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased seed survival",
+        "isCorrect": false
+      },
+      {
+        "text": "Multiple embryos from a single zygote",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony does not lead to genetic uniformity of embryos; instead, it increases the number of embryos in a seed and their chances of survival.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "28",
+    "questionText": "Which type of apomixis occurs when the embryo develops from the integuments or nucellus?",
+    "options": [
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Diplospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adventive embryony occurs when the embryo develops from the integuments or nucellus.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "29",
+    "questionText": "Which process can lead to the formation of multiple seedlings from a single seed?",
+    "options": [
+      {
+        "text": "Polyembryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Apomixis",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-pollination",
+        "isCorrect": false
+      },
+      {
+        "text": "Self-pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony can lead to the formation of multiple seedlings from a single seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "30",
+    "questionText": "Which type of apomixis results in an embryo formed from the egg cell without fertilization?",
+    "options": [
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Diplospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Parthenogenesis is a type of apomixis where the embryo is formed from the egg cell without fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "31",
+    "questionText": "What is the primary difference between apomixis and sexual reproduction?",
+    "options": [
+      {
+        "text": "Apomixis involves meiosis",
+        "isCorrect": false
+      },
+      {
+        "text": "Sexual reproduction requires fertilization",
+        "isCorrect": true
+      },
+      {
+        "text": "Apomixis results in genetic variation",
+        "isCorrect": false
+      },
+      {
+        "text": "Sexual reproduction produces clones",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary difference is that sexual reproduction requires fertilization, whereas apomixis does not.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "32",
+    "questionText": "Which type of polyembryony occurs due to the formation of accessory embryos?",
+    "options": [
+      {
+        "text": "Cleavage polyembryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Adventive polyembryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Gametophytic apomixis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adventive polyembryony occurs due to the formation of accessory embryos.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "33",
+    "questionText": "What is the result of diplospory in plants?",
+    "options": [
+      {
+        "text": "Formation of haploid embryos",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of diploid embryos without meiosis",
+        "isCorrect": true
+      },
+      {
+        "text": "Development of multiple embryos from one zygote",
+        "isCorrect": false
+      },
+      {
+        "text": "Production of genetically diverse seeds",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diplospory results in the formation of diploid embryos without meiosis.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "34",
+    "questionText": "Which process ensures the genetic uniformity of offspring in plants?",
+    "options": [
+      {
+        "text": "Sexual reproduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Apomixis",
+        "isCorrect": true
+      },
+      {
+        "text": "Cross-pollination",
+        "isCorrect": false
+      },
+      {
+        "text": "Polyembryony",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Apomixis ensures the genetic uniformity of offspring as it involves the formation of embryos without fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "35",
+    "questionText": "Which type of apomixis is characterized by the development of embryos from somatic cells rather than from gametic cells?",
+    "options": [
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Diplospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adventive embryony is characterized by the development of embryos from somatic cells rather than from gametic cells.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "36",
+    "questionText": "Which term describes the development of multiple embryos from a single fertilized egg?",
+    "options": [
+      {
+        "text": "Polyembryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Apomixis",
+        "isCorrect": false
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Cleavage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony describes the development of multiple embryos from a single fertilized egg.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "37",
+    "questionText": "What is the role of apomixis in plant breeding?",
+    "options": [
+      {
+        "text": "To increase genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "To produce genetically identical clones",
+        "isCorrect": true
+      },
+      {
+        "text": "To facilitate cross-pollination",
+        "isCorrect": false
+      },
+      {
+        "text": "To enhance hybrid vigor",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The role of apomixis in plant breeding is to produce genetically identical clones, ensuring the consistency of desirable traits.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "38",
+    "questionText": "Which type of polyembryony is common in citrus fruits?",
+    "options": [
+      {
+        "text": "Cleavage polyembryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Adventive polyembryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Gametophytic apomixis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adventive polyembryony, where multiple embryos develop from different cells of the ovule, is common in citrus fruits.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "39",
+    "questionText": "What is a major disadvantage of apomixis in natural populations?",
+    "options": [
+      {
+        "text": "Increased genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduced genetic diversity",
+        "isCorrect": true
+      },
+      {
+        "text": "Enhanced hybrid vigor",
+        "isCorrect": false
+      },
+      {
+        "text": "Promotion of cross-pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A major disadvantage of apomixis in natural populations is the reduced genetic diversity, which can limit the adaptability of the population.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "40",
+    "questionText": "Which type of apomixis involves the formation of a new embryo sac from somatic cells of the ovule?",
+    "options": [
+      {
+        "text": "Diplospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Apospory",
+        "isCorrect": true
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Apospory involves the formation of a new embryo sac from somatic cells of the ovule.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "41",
+    "questionText": "Which of the following is a key feature of polyembryony?",
+    "options": [
+      {
+        "text": "Genetic variation",
+        "isCorrect": false
+      },
+      {
+        "text": "Multiple embryos from a single fertilized egg",
+        "isCorrect": true
+      },
+      {
+        "text": "No genetic recombination",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A key feature of polyembryony is the development of multiple embryos from a single fertilized egg.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "42",
+    "questionText": "Which process in apomixis involves the embryo developing from a diploid egg cell without meiosis?",
+    "options": [
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Diplospory",
+        "isCorrect": true
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diplospory is a type of apomixis where the embryo develops from a diploid egg cell without meiosis.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "51",
+    "questionText": "Which of the following is a consequence of apomixis in plants?",
+    "options": [
+      {
+        "text": "Increased genetic variation",
+        "isCorrect": false
+      },
+      {
+        "text": "Genetically identical offspring",
+        "isCorrect": true
+      },
+      {
+        "text": "Requirement of two parent plants",
+        "isCorrect": false
+      },
+      {
+        "text": "Necessity of pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Apomixis leads to the production of genetically identical offspring without genetic recombination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "52",
+    "questionText": "Which of the following best describes the occurrence of multiple embryos within a single seed?",
+    "options": [
+      {
+        "text": "Apomixis",
+        "isCorrect": false
+      },
+      {
+        "text": "Polyembryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony refers to the occurrence of multiple embryos within a single seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "53",
+    "questionText": "What is the role of apospory in the apomictic process?",
+    "options": [
+      {
+        "text": "Development of embryos from somatic cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of an embryo sac from somatic cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Fusion of gametes without fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of multiple embryos from a single zygote",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Apospory involves the formation of an embryo sac from somatic cells of the ovule.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "54",
+    "questionText": "Which of the following is NOT a characteristic of diplospory?",
+    "options": [
+      {
+        "text": "Formation of diploid egg cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Lack of meiosis",
+        "isCorrect": false
+      },
+      {
+        "text": "Development of embryo from a fertilized egg",
+        "isCorrect": true
+      },
+      {
+        "text": "A type of apomixis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In diplospory, the embryo develops from an unfertilized diploid egg cell, not from a fertilized egg.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "55",
+    "questionText": "What is the primary advantage of polyembryony for seed survival?",
+    "options": [
+      {
+        "text": "Increased genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduced competition among seedlings",
+        "isCorrect": false
+      },
+      {
+        "text": "Production of multiple embryos increases survival chances",
+        "isCorrect": true
+      },
+      {
+        "text": "Promotion of hybrid vigor",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony increases the chances of seed survival by producing multiple embryos within a single seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "56",
+    "questionText": "Which of the following describes the formation of an embryo without fertilization?",
+    "options": [
+      {
+        "text": "Apomixis",
+        "isCorrect": true
+      },
+      {
+        "text": "Polyembryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-pollination",
+        "isCorrect": false
+      },
+      {
+        "text": "Hybridization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Apomixis is the formation of an embryo without fertilization, resulting in a clone of the parent plant.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "57",
+    "questionText": "Which term refers to the development of embryos from non-reproductive cells?",
+    "options": [
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Diplospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Polyembryony",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adventive embryony refers to the development of embryos from non-reproductive cells of the ovule.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "58",
+    "questionText": "In which type of apomixis does the embryo develop directly from the somatic cells of the ovule?",
+    "options": [
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Diplospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In adventive embryony, the embryo develops directly from the somatic cells of the ovule.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "59",
+    "questionText": "Which of the following is a benefit of apomixis in plant breeding?",
+    "options": [
+      {
+        "text": "Increased genetic variation",
+        "isCorrect": false
+      },
+      {
+        "text": "Stable propagation of desirable traits",
+        "isCorrect": true
+      },
+      {
+        "text": "Requirement for pollinators",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduction in crop yield",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Apomixis allows for the stable propagation of desirable traits in plants without genetic variation.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "60",
+    "questionText": "Which process can lead to the formation of multiple embryos from a single fertilized egg?",
+    "options": [
+      {
+        "text": "Polyembryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Apomixis",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-pollination",
+        "isCorrect": false
+      },
+      {
+        "text": "Hybridization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony can lead to the formation of multiple embryos from a single fertilized egg.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "61",
+    "questionText": "What is the significance of polyembryony in seedling establishment?",
+    "options": [
+      {
+        "text": "Decreases seed viability",
+        "isCorrect": false
+      },
+      {
+        "text": "Increases competition among seedlings",
+        "isCorrect": false
+      },
+      {
+        "text": "Enhances seedling survival and establishment",
+        "isCorrect": true
+      },
+      {
+        "text": "Promotes genetic diversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony enhances seedling survival and establishment by producing multiple embryos within a single seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "62",
+    "questionText": "Which of the following is true about adventive embryony?",
+    "options": [
+      {
+        "text": "It involves fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "It develops from somatic cells of the ovule",
+        "isCorrect": true
+      },
+      {
+        "text": "It requires meiosis",
+        "isCorrect": false
+      },
+      {
+        "text": "It results in genetic variation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adventive embryony develops from the somatic cells of the ovule without fertilization or meiosis.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "63",
+    "questionText": "What is the role of apomixis in maintaining genetic stability?",
+    "options": [
+      {
+        "text": "It promotes cross-pollination",
+        "isCorrect": false
+      },
+      {
+        "text": "It produces genetically identical offspring",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "It enhances hybrid vigor",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Apomixis maintains genetic stability by producing genetically identical offspring without genetic recombination.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "64",
+    "questionText": "Which type of apomixis is characterized by the development of an embryo from a diploid egg cell?",
+    "options": [
+      {
+        "text": "Diplospory",
+        "isCorrect": true
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diplospory is characterized by the development of an embryo from a diploid egg cell without fertilization.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "65",
+    "questionText": "Which of the following best describes the concept of polyembryony?",
+    "options": [
+      {
+        "text": "Formation of a single embryo from multiple egg cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Development of multiple embryos from a single fertilized egg",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of genetically diverse offspring",
+        "isCorrect": false
+      },
+      {
+        "text": "Involvement of meiosis and fertilization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony is the development of multiple embryos from a single fertilized egg.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "66",
+    "questionText": "Which type of polyembryony occurs due to the cleavage of a single fertilized egg into multiple embryos?",
+    "options": [
+      {
+        "text": "Cleavage polyembryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Adventive polyembryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Diplospory",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cleavage polyembryony occurs when a single fertilized egg cleaves into multiple embryos.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "HARD"
+  },
+  {
+    "qno": "67",
+    "questionText": "Which type of apomixis involves the formation of an embryo from an unfertilized egg cell?",
+    "options": [
+      {
+        "text": "Apospory",
+        "isCorrect": false
+      },
+      {
+        "text": "Diplospory",
+        "isCorrect": true
+      },
+      {
+        "text": "Adventive embryony",
+        "isCorrect": false
+      },
+      {
+        "text": "Parthenogenesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diplospory involves the formation of an embryo from an unfertilized egg cell.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "68",
+    "questionText": "Which of the following processes can lead to the formation of multiple seedlings from a single seed?",
+    "options": [
+      {
+        "text": "Polyembryony",
+        "isCorrect": true
+      },
+      {
+        "text": "Apomixis",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-pollination",
+        "isCorrect": false
+      },
+      {
+        "text": "Self-pollination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polyembryony can lead to the formation of multiple seedlings from a single seed.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "1.5 Apomixis and Polyembryony",
+    "level": "EASY"
+  },
+  {
+    "qno": "1",
+    "questionText": "What is the primary goal of reproductive health?",
+    "options": [
+      {
+        "text": "To increase birth rates",
+        "isCorrect": false
+      },
+      {
+        "text": "To ensure a satisfying and safe sex life",
+        "isCorrect": true
+      },
+      {
+        "text": "To reduce the use of contraceptives",
+        "isCorrect": false
+      },
+      {
+        "text": "To promote early marriages",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary goal of reproductive health is to ensure a satisfying and safe sex life.",
+    "chapter": "Reproductive Health",
+    "topic": "3.1 Reproductive Health - Problems and Strategies",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "Which of the following is NOT a component of reproductive health?",
+    "options": [
+      {
+        "text": "Safe sex practices",
+        "isCorrect": false
+      },
+      {
+        "text": "Prenatal care",
+        "isCorrect": false
+      },
+      {
+        "text": "Sexual pleasure",
+        "isCorrect": false
+      },
+      {
+        "text": "Promotion of early marriages",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Promotion of early marriages is not a component of reproductive health.",
+    "chapter": "Reproductive Health",
+    "topic": "3.1 Reproductive Health - Problems and Strategies",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "3",
+    "questionText": "Which of the following strategies is used to improve reproductive health?",
+    "options": [
+      {
+        "text": "Increasing the age of marriage",
+        "isCorrect": true
+      },
+      {
+        "text": "Discouraging the use of contraceptives",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducing access to prenatal care",
+        "isCorrect": false
+      },
+      {
+        "text": "Promoting unprotected sex",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the age of marriage is a strategy used to improve reproductive health.",
+    "chapter": "Reproductive Health",
+    "topic": "3.1 Reproductive Health - Problems and Strategies",
+    "level": "EASY"
+  },
+  {
+    "qno": "4",
+    "questionText": "Which of the following is a major problem in reproductive health in India?",
+    "options": [
+      {
+        "text": "High literacy rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Low birth rate",
+        "isCorrect": false
+      },
+      {
+        "text": "High maternal mortality rate",
+        "isCorrect": true
+      },
+      {
+        "text": "Low use of contraceptives",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "High maternal mortality rate is a major problem in reproductive health in India.",
+    "chapter": "Reproductive Health",
+    "topic": "3.1 Reproductive Health - Problems and Strategies",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "5",
+    "questionText": "Which of the following is an effective strategy to reduce maternal mortality?",
+    "options": [
+      {
+        "text": "Increasing the age of marriage",
+        "isCorrect": false
+      },
+      {
+        "text": "Providing access to skilled birth attendants",
+        "isCorrect": true
+      },
+      {
+        "text": "Discouraging the use of contraceptives",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducing access to prenatal care",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Providing access to skilled birth attendants is an effective strategy to reduce maternal mortality.",
+    "chapter": "Reproductive Health",
+    "topic": "3.1 Reproductive Health - Problems and Strategies",
+    "level": "HARD"
+  },
+  {
+    "qno": "6",
+    "questionText": "Which of the following is a benefit of family planning?",
+    "options": [
+      {
+        "text": "Increased population growth",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved maternal health",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduced use of contraceptives",
+        "isCorrect": false
+      },
+      {
+        "text": "Promotion of early marriages",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Family planning improves maternal health by allowing women to space and limit their pregnancies.",
+    "chapter": "Reproductive Health",
+    "topic": "3.1 Reproductive Health - Problems and Strategies",
+    "level": "EASY"
+  },
+  {
+    "qno": "7",
+    "questionText": "Which organization is primarily responsible for promoting reproductive health globally?",
+    "options": [
+      {
+        "text": "WHO",
+        "isCorrect": true
+      },
+      {
+        "text": "UNICEF",
+        "isCorrect": false
+      },
+      {
+        "text": "IMF",
+        "isCorrect": false
+      },
+      {
+        "text": "WTO",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The World Health Organization (WHO) is primarily responsible for promoting reproductive health globally.",
+    "chapter": "Reproductive Health",
+    "topic": "3.1 Reproductive Health - Problems and Strategies",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "8",
+    "questionText": "Which of the following methods is used to prevent sexually transmitted infections (STIs)?",
+    "options": [
+      {
+        "text": "Using contraceptives",
+        "isCorrect": true
+      },
+      {
+        "text": "Promoting early marriages",
+        "isCorrect": false
+      },
+      {
+        "text": "Increasing birth rates",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducing access to prenatal care",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using contraceptives, especially condoms, is an effective method to prevent sexually transmitted infections (STIs).",
+    "chapter": "Reproductive Health",
+    "topic": "3.1 Reproductive Health - Problems and Strategies",
+    "level": "HARD"
+  },
+  {
+    "qno": "9",
+    "questionText": "Which of the following is a key aspect of reproductive health education?",
+    "options": [
+      {
+        "text": "Promotion of unprotected sex",
+        "isCorrect": false
+      },
+      {
+        "text": "Awareness about safe sex practices",
+        "isCorrect": true
+      },
+      {
+        "text": "Encouraging early marriages",
+        "isCorrect": false
+      },
+      {
+        "text": "Discouraging the use of contraceptives",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Awareness about safe sex practices is a key aspect of reproductive health education.",
+    "chapter": "Reproductive Health",
+    "topic": "3.1 Reproductive Health - Problems and Strategies",
+    "level": "EASY"
+  }
+]

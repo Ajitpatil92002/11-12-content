@@ -1,0 +1,6294 @@
+[
+  {
+    "qno": "1",
+    "questionText": "What is the presently accepted value of the speed of light in vacuum?",
+    "options": [
+      {
+        "text": "$2.99792458 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.998 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.5 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of light in vacuum is approximately $2.99792458 \\times 10^8 \\text{ m/s}$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "The wavelength of visible light ranges from:",
+    "options": [
+      {
+        "text": "200 nm to 400 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "400 nm to 750 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "750 nm to 1000 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1000 nm to 1500 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Visible light has wavelengths ranging from about 400 nm to 750 nm.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "According to the ray picture of light, what constitutes a beam of light?",
+    "options": [
+      {
+        "text": "A single ray of light",
+        "isCorrect": false
+      },
+      {
+        "text": "A bundle of rays of light",
+        "isCorrect": true
+      },
+      {
+        "text": "A wavefront",
+        "isCorrect": false
+      },
+      {
+        "text": "A photon",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A beam of light is constituted by a bundle of rays of light.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "31",
+    "questionText": "Which law states that the angle of incidence is equal to the angle of reflection?",
+    "options": [
+      {
+        "text": "Snell's Law",
+        "isCorrect": false
+      },
+      {
+        "text": "Law of Reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Huygens' Principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Fermat's Principle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Law of Reflection states that the angle of incidence is equal to the angle of reflection.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "32",
+    "questionText": "What is the focal length of a spherical mirror with radius of curvature $R$?",
+    "options": [
+      {
+        "text": "$\\frac{R}{4}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{R}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length $f$ of a spherical mirror is given by $f = \\frac{R}{2}$, where $R$ is the radius of curvature.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "33",
+    "questionText": "In the context of spherical mirrors, what is the 'pole'?",
+    "options": [
+      {
+        "text": "The center of curvature",
+        "isCorrect": false
+      },
+      {
+        "text": "The geometric center of the mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "The focal point",
+        "isCorrect": false
+      },
+      {
+        "text": "The principal axis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The 'pole' is the geometric center of the spherical mirror.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "81",
+    "questionText": "What is Snell's Law of refraction?",
+    "options": [
+      {
+        "text": "$\\frac{\\sin i}{\\sin r} = n_{21}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{\\sin r}{\\sin i} = n_{21}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sin i = \\sin r$",
+        "isCorrect": false
+      },
+      {
+        "text": "$i = r$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Snell's Law of refraction states that $\\frac{\\sin i}{\\sin r} = n_{21}$, where $n_{21}$ is the refractive index of the second medium with respect to the first medium.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "82",
+    "questionText": "If light travels from a medium with refractive index $n_1$ to another with refractive index $n_2$, and $n_2 > n_1$, what happens to the angle of refraction $r$ compared to the angle of incidence $i$?",
+    "options": [
+      {
+        "text": "$r < i$",
+        "isCorrect": true
+      },
+      {
+        "text": "$r = i$",
+        "isCorrect": false
+      },
+      {
+        "text": "$r > i$",
+        "isCorrect": false
+      },
+      {
+        "text": "Cannot be determined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If light travels from a medium with refractive index $n_1$ to another with refractive index $n_2$, and $n_2 > n_1$, the angle of refraction $r$ is less than the angle of incidence $i$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "83",
+    "questionText": "In refraction, what is the relationship between the angles of incidence $i$ and refraction $r$ when light passes from a denser to a rarer medium?",
+    "options": [
+      {
+        "text": "$i < r$",
+        "isCorrect": true
+      },
+      {
+        "text": "$i = r$",
+        "isCorrect": false
+      },
+      {
+        "text": "$i > r$",
+        "isCorrect": false
+      },
+      {
+        "text": "Cannot be determined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When light passes from a denser to a rarer medium, the angle of incidence $i$ is less than the angle of refraction $r$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "131",
+    "questionText": "What is the condition for total internal reflection to occur?",
+    "options": [
+      {
+        "text": "The light must travel from a rarer to a denser medium",
+        "isCorrect": false
+      },
+      {
+        "text": "The angle of incidence must be less than the critical angle",
+        "isCorrect": false
+      },
+      {
+        "text": "The angle of incidence must be greater than the critical angle",
+        "isCorrect": true
+      },
+      {
+        "text": "The refractive index of the second medium must be greater",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Total internal reflection occurs when light travels from a denser to a rarer medium and the angle of incidence is greater than the critical angle.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "132",
+    "questionText": "What is the critical angle for total internal reflection in water (n = 1.33)?",
+    "options": [
+      {
+        "text": "24.41°",
+        "isCorrect": false
+      },
+      {
+        "text": "37.31°",
+        "isCorrect": false
+      },
+      {
+        "text": "41.14°",
+        "isCorrect": false
+      },
+      {
+        "text": "48.75°",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The critical angle for water, which has a refractive index of 1.33, is approximately 48.75°.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "HARD"
+  },
+  {
+    "qno": "133",
+    "questionText": "Which phenomenon allows optical fibers to transmit light even when bent?",
+    "options": [
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Reflection",
+        "isCorrect": false
+      },
+      {
+        "text": "Total Internal Reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Optical fibers transmit light through the phenomenon of total internal reflection, even when bent.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "181",
+    "questionText": "What is the lens maker's formula?",
+    "options": [
+      {
+        "text": "$\\frac{1}{f} = (n-1)\\left(\\frac{1}{R_1} - \\frac{1}{R_2}\\right)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{f} = (n+1)\\left(\\frac{1}{R_1} - \\frac{1}{R_2}\\right)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{f} = n\\left(\\frac{1}{R_1} + \\frac{1}{R_2}\\right)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{f} = (n-1)\\left(\\frac{1}{R_1} + \\frac{1}{R_2}\\right)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The lens maker's formula is given by $\\frac{1}{f} = (n-1)\\left(\\frac{1}{R_1} - \\frac{1}{R_2}\\right)$, where $f$ is the focal length, $n$ is the refractive index, and $R_1$ and $R_2$ are the radii of curvature of the lens surfaces.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "182",
+    "questionText": "In the lens maker's formula, if $R_1 = R_2$, what type of lens is being described?",
+    "options": [
+      {
+        "text": "Plano-convex lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Biconvex lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Plano-concave lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $R_1 = R_2$ in the lens maker's formula, the lens described is a biconvex lens.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "183",
+    "questionText": "What happens to the focal length of a lens if it is placed in a medium with a refractive index equal to the lens material?",
+    "options": [
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes infinite",
+        "isCorrect": true
+      },
+      {
+        "text": "It doubles",
+        "isCorrect": false
+      },
+      {
+        "text": "It halves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If a lens is placed in a medium with a refractive index equal to the lens material, the focal length becomes infinite, effectively making the lens act like a plane sheet of glass.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "HARD"
+  },
+  {
+    "qno": "231",
+    "questionText": "What is the angle of minimum deviation for a prism with refractive index $n$ and angle $A$?",
+    "options": [
+      {
+        "text": "$D_m = (n-1)A$",
+        "isCorrect": true
+      },
+      {
+        "text": "$D_m = (n+1)A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$D_m = nA$",
+        "isCorrect": false
+      },
+      {
+        "text": "$D_m = \\frac{A}{n}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a thin prism, the angle of minimum deviation $D_m$ is given by $D_m = (n-1)A$, where $n$ is the refractive index and $A$ is the angle of the prism.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "232",
+    "questionText": "When does the refracted ray inside a prism become parallel to its base?",
+    "options": [
+      {
+        "text": "At the minimum deviation angle",
+        "isCorrect": true
+      },
+      {
+        "text": "At the maximum deviation angle",
+        "isCorrect": false
+      },
+      {
+        "text": "At the critical angle",
+        "isCorrect": false
+      },
+      {
+        "text": "When the angle of incidence is zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The refracted ray inside a prism becomes parallel to its base at the angle of minimum deviation.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "233",
+    "questionText": "What is the condition for the angle of minimum deviation in a prism?",
+    "options": [
+      {
+        "text": "The angle of incidence is equal to the angle of emergence",
+        "isCorrect": true
+      },
+      {
+        "text": "The angle of incidence is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "The angle of refraction is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "The angle of incidence is twice the angle of refraction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At the angle of minimum deviation, the angle of incidence is equal to the angle of emergence in a prism.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "HARD"
+  },
+  {
+    "qno": "281",
+    "questionText": "What is the magnifying power of a simple microscope when the image is formed at the near point?",
+    "options": [
+      {
+        "text": "$1 + \\frac{D}{f}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{D}{f}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1 - \\frac{D}{f}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{D-f}{D+f}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnifying power of a simple microscope when the image is formed at the near point is $1 + \\frac{D}{f}$, where $D$ is the least distance of distinct vision and $f$ is the focal length of the lens.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "282",
+    "questionText": "In a compound microscope, what is the role of the objective lens?",
+    "options": [
+      {
+        "text": "It forms a real, inverted, magnified image of the object",
+        "isCorrect": true
+      },
+      {
+        "text": "It forms a virtual, erect, magnified image of the object",
+        "isCorrect": false
+      },
+      {
+        "text": "It forms a real, erect, magnified image of the object",
+        "isCorrect": false
+      },
+      {
+        "text": "It forms a virtual, inverted, magnified image of the object",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a compound microscope, the objective lens forms a real, inverted, magnified image of the object.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "HARD"
+  },
+  {
+    "qno": "283",
+    "questionText": "What is the magnifying power of a telescope?",
+    "options": [
+      {
+        "text": "$\\frac{f_o}{f_e}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{f_e}{f_o}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f_o \\times f_e$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f_o + f_e$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnifying power of a telescope is given by $\\frac{f_o}{f_e}$, where $f_o$ is the focal length of the objective lens and $f_e$ is the focal length of the eyepiece.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "HARD"
+  },
+  {
+    "qno": "185",
+    "questionText": "What type of image is formed by a convex lens when the object is placed at twice the focal length?",
+    "options": [
+      {
+        "text": "Real, inverted, and of the same size as the object",
+        "isCorrect": true
+      },
+      {
+        "text": "Virtual, erect, and of the same size as the object",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, erect, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, inverted, and diminished",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the object is placed at twice the focal length of a convex lens, the image formed is real, inverted, and of the same size as the object.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "186",
+    "questionText": "If a concave lens has a focal length of -10 cm, what is its power?",
+    "options": [
+      {
+        "text": "-10 D",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.1 D",
+        "isCorrect": false
+      },
+      {
+        "text": "-1 D",
+        "isCorrect": false
+      },
+      {
+        "text": "-10 D",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The power of a lens is given by $P = \\frac{1}{f}$, where $f$ is the focal length in meters. For a focal length of -10 cm, the power is -10 D.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "235",
+    "questionText": "What is the relationship between the angles of incidence and emergence at the angle of minimum deviation?",
+    "options": [
+      {
+        "text": "They are equal",
+        "isCorrect": true
+      },
+      {
+        "text": "The angle of incidence is twice the angle of emergence",
+        "isCorrect": false
+      },
+      {
+        "text": "The angle of incidence is half the angle of emergence",
+        "isCorrect": false
+      },
+      {
+        "text": "They are unrelated",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At the angle of minimum deviation, the angles of incidence and emergence are equal.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "HARD"
+  },
+  {
+    "qno": "284",
+    "questionText": "What is the magnifying power of a compound microscope?",
+    "options": [
+      {
+        "text": "$m = m_o \\times m_e$",
+        "isCorrect": true
+      },
+      {
+        "text": "$m = m_o + m_e$",
+        "isCorrect": false
+      },
+      {
+        "text": "$m = \\frac{m_o}{m_e}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$m = \\frac{m_e}{m_o}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnifying power of a compound microscope is given by $m = m_o \\times m_e$, where $m_o$ is the magnification of the objective lens and $m_e$ is the magnification of the eyepiece lens.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "HARD"
+  },
+  {
+    "qno": "285",
+    "questionText": "In a telescope, what is the role of the eyepiece?",
+    "options": [
+      {
+        "text": "It magnifies the image formed by the objective",
+        "isCorrect": true
+      },
+      {
+        "text": "It forms the initial image of the object",
+        "isCorrect": false
+      },
+      {
+        "text": "It reflects light to form an image",
+        "isCorrect": false
+      },
+      {
+        "text": "It adjusts the focal length of the objective",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a telescope, the eyepiece magnifies the image formed by the objective lens.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the unit of measurement for the speed of light?",
+    "options": [
+      {
+        "text": "Meters per second",
+        "isCorrect": true
+      },
+      {
+        "text": "Kilometers per hour",
+        "isCorrect": false
+      },
+      {
+        "text": "Miles per hour",
+        "isCorrect": false
+      },
+      {
+        "text": "Feet per second",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of light is measured in meters per second (m/s).",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "12",
+    "questionText": "What is the phenomenon where light travels in a straight line?",
+    "options": [
+      {
+        "text": "Rectilinear propagation",
+        "isCorrect": true
+      },
+      {
+        "text": "Reflection",
+        "isCorrect": false
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The phenomenon where light travels in a straight line is called rectilinear propagation.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "What is the wavelength range of visible light?",
+    "options": [
+      {
+        "text": "400 nm to 750 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "200 nm to 400 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "750 nm to 1000 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "1000 nm to 1500 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength range of visible light is 400 nm to 750 nm.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "14",
+    "questionText": "Which property of light allows us to see objects?",
+    "options": [
+      {
+        "text": "Reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reflection is the property of light that allows us to see objects.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "15",
+    "questionText": "Which scientist is known for the discovery of the speed of light?",
+    "options": [
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Ole Rømer",
+        "isCorrect": true
+      },
+      {
+        "text": "Isaac Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Galileo Galilei",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ole Rømer is known for the discovery of the speed of light.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "41",
+    "questionText": "What type of mirror is used in car headlights?",
+    "options": [
+      {
+        "text": "Concave mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concave mirrors are used in car headlights to focus the light.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "42",
+    "questionText": "What is the relationship between the focal length and the radius of curvature of a spherical mirror?",
+    "options": [
+      {
+        "text": "f = R/2",
+        "isCorrect": true
+      },
+      {
+        "text": "f = R/3",
+        "isCorrect": false
+      },
+      {
+        "text": "f = 2R",
+        "isCorrect": false
+      },
+      {
+        "text": "f = R",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length (f) of a spherical mirror is half of the radius of curvature (R), so f = R/2.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "43",
+    "questionText": "Which mirror has a negative focal length?",
+    "options": [
+      {
+        "text": "Concave mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A concave mirror has a negative focal length.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "44",
+    "questionText": "What is the nature of the image formed by a convex mirror?",
+    "options": [
+      {
+        "text": "Virtual and upright",
+        "isCorrect": true
+      },
+      {
+        "text": "Real and inverted",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual and inverted",
+        "isCorrect": false
+      },
+      {
+        "text": "Real and upright",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex mirror always forms a virtual and upright image.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "45",
+    "questionText": "In which type of mirror is the magnification always less than one?",
+    "options": [
+      {
+        "text": "Convex mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnification in a convex mirror is always less than one.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "90",
+    "questionText": "What is the angle of incidence if the angle of refraction is 30 degrees and the refractive index is 1.5?",
+    "options": [
+      {
+        "text": "45 degrees",
+        "isCorrect": true
+      },
+      {
+        "text": "30 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "60 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "90 degrees",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using Snell's Law: $n_1 \\sin i = n_2 \\sin r$. Here, $1 \\times \\sin i = 1.5 \\times \\sin 30$ degrees, solving gives $i = 45$ degrees.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "91",
+    "questionText": "Which of the following best describes refraction?",
+    "options": [
+      {
+        "text": "The bending of light as it passes from one medium to another",
+        "isCorrect": true
+      },
+      {
+        "text": "The reflection of light on a smooth surface",
+        "isCorrect": false
+      },
+      {
+        "text": "The spreading of light waves around obstacles",
+        "isCorrect": false
+      },
+      {
+        "text": "The splitting of light into its constituent colors",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Refraction is the bending of light as it passes from one medium to another.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "92",
+    "questionText": "What is the principle that explains why a straw looks bent in a glass of water?",
+    "options": [
+      {
+        "text": "Refraction",
+        "isCorrect": true
+      },
+      {
+        "text": "Reflection",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bending of the straw in a glass of water is due to refraction.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "93",
+    "questionText": "When light passes from water into air, it bends:",
+    "options": [
+      {
+        "text": "Away from the normal",
+        "isCorrect": true
+      },
+      {
+        "text": "Towards the normal",
+        "isCorrect": false
+      },
+      {
+        "text": "Along the normal",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When light passes from a denser medium (water) to a rarer medium (air), it bends away from the normal.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "94",
+    "questionText": "The refractive index of diamond is approximately:",
+    "options": [
+      {
+        "text": "2.42",
+        "isCorrect": true
+      },
+      {
+        "text": "1.33",
+        "isCorrect": false
+      },
+      {
+        "text": "1.52",
+        "isCorrect": false
+      },
+      {
+        "text": "1.00",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The refractive index of diamond is approximately 2.42.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "136",
+    "questionText": "What is the condition for total internal reflection?",
+    "options": [
+      {
+        "text": "The light must travel from a denser to a rarer medium",
+        "isCorrect": true
+      },
+      {
+        "text": "The light must travel from a rarer to a denser medium",
+        "isCorrect": false
+      },
+      {
+        "text": "The angle of incidence must be less than the critical angle",
+        "isCorrect": false
+      },
+      {
+        "text": "The refractive index of the second medium must be greater",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Total internal reflection occurs when light travels from a denser to a rarer medium and the angle of incidence is greater than the critical angle.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "137",
+    "questionText": "What is the critical angle for total internal reflection in glass (n = 1.5)?",
+    "options": [
+      {
+        "text": "41.81°",
+        "isCorrect": true
+      },
+      {
+        "text": "37.31°",
+        "isCorrect": false
+      },
+      {
+        "text": "48.75°",
+        "isCorrect": false
+      },
+      {
+        "text": "42.50°",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The critical angle for glass with a refractive index of 1.5 is approximately 41.81°.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "HARD"
+  },
+  {
+    "qno": "138",
+    "questionText": "Which optical phenomenon is utilized in fiber optic cables?",
+    "options": [
+      {
+        "text": "Total Internal Reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fiber optic cables use the phenomenon of total internal reflection to transmit light.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "139",
+    "questionText": "What happens to the angle of refraction when the angle of incidence exceeds the critical angle?",
+    "options": [
+      {
+        "text": "No refraction occurs; total internal reflection takes place",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction occurs at a higher angle",
+        "isCorrect": false
+      },
+      {
+        "text": "Refraction occurs at a lower angle",
+        "isCorrect": false
+      },
+      {
+        "text": "Refraction occurs at the critical angle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the angle of incidence exceeds the critical angle, total internal reflection occurs and no refraction takes place.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "140",
+    "questionText": "Which phenomenon allows a diamond to sparkle with exceptional brilliance?",
+    "options": [
+      {
+        "text": "Total Internal Reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Dispersion",
+        "isCorrect": false
+      },
+      {
+        "text": "Scattering",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diamonds sparkle due to the phenomenon of total internal reflection.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "187",
+    "questionText": "A lens with both surfaces curved outwards is called:",
+    "options": [
+      {
+        "text": "Biconvex lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Biconcave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Plano-convex lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Plano-concave lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A lens with both surfaces curved outwards is called a biconvex lens.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "188",
+    "questionText": "What is the formula for the power of a lens?",
+    "options": [
+      {
+        "text": "$P = \\frac{1}{f}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P = f$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = \\frac{1}{2f}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = 2f$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power of a lens is given by the formula $P = \\frac{1}{f}$, where $f$ is the focal length.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "189",
+    "questionText": "What is the sign of the focal length for a concave lens?",
+    "options": [
+      {
+        "text": "Negative",
+        "isCorrect": true
+      },
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Depends on the object distance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length of a concave lens is negative.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "190",
+    "questionText": "Which lens is used to correct myopia?",
+    "options": [
+      {
+        "text": "Concave lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Plano-convex lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A concave lens is used to correct myopia (nearsightedness).",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "191",
+    "questionText": "What type of image is formed by a convex lens when the object is placed between the focal point and the lens?",
+    "options": [
+      {
+        "text": "Virtual, erect, and magnified",
+        "isCorrect": true
+      },
+      {
+        "text": "Real, inverted, and diminished",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, erect, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, inverted, and diminished",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the object is placed between the focal point and the convex lens, the image formed is virtual, erect, and magnified.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "236",
+    "questionText": "What is the deviation angle in a prism?",
+    "options": [
+      {
+        "text": "The angle between the incident ray and the emergent ray",
+        "isCorrect": true
+      },
+      {
+        "text": "The angle between the incident ray and the normal",
+        "isCorrect": false
+      },
+      {
+        "text": "The angle between the refracted ray and the normal",
+        "isCorrect": false
+      },
+      {
+        "text": "The angle between the emergent ray and the normal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The deviation angle in a prism is the angle between the incident ray and the emergent ray.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "237",
+    "questionText": "What is the angle of minimum deviation?",
+    "options": [
+      {
+        "text": "The smallest angle of deviation for a given wavelength of light passing through a prism",
+        "isCorrect": true
+      },
+      {
+        "text": "The largest angle of deviation for a given wavelength of light passing through a prism",
+        "isCorrect": false
+      },
+      {
+        "text": "The angle of incidence at which light passes undeviated",
+        "isCorrect": false
+      },
+      {
+        "text": "The angle of refraction at which light passes undeviated",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The angle of minimum deviation is the smallest angle of deviation for a given wavelength of light passing through a prism.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "238",
+    "questionText": "Which color of light deviates the most when passing through a prism?",
+    "options": [
+      {
+        "text": "Violet",
+        "isCorrect": true
+      },
+      {
+        "text": "Red",
+        "isCorrect": false
+      },
+      {
+        "text": "Green",
+        "isCorrect": false
+      },
+      {
+        "text": "Yellow",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Violet light deviates the most when passing through a prism due to its shorter wavelength.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "239",
+    "questionText": "Which color of light deviates the least when passing through a prism?",
+    "options": [
+      {
+        "text": "Red",
+        "isCorrect": true
+      },
+      {
+        "text": "Violet",
+        "isCorrect": false
+      },
+      {
+        "text": "Blue",
+        "isCorrect": false
+      },
+      {
+        "text": "Green",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Red light deviates the least when passing through a prism due to its longer wavelength.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "240",
+    "questionText": "What is the phenomenon called when white light splits into its constituent colors upon passing through a prism?",
+    "options": [
+      {
+        "text": "Dispersion",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dispersion is the phenomenon where white light splits into its constituent colors upon passing through a prism.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "EASY"
+  },
+  {
+    "qno": "286",
+    "questionText": "Which part of a microscope is responsible for focusing light onto the specimen?",
+    "options": [
+      {
+        "text": "Condenser",
+        "isCorrect": true
+      },
+      {
+        "text": "Objective lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Eyepiece lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Diaphragm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The condenser in a microscope is responsible for focusing light onto the specimen.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "287",
+    "questionText": "What type of lens is used in a magnifying glass?",
+    "options": [
+      {
+        "text": "Convex lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex lens is used in a magnifying glass.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "EASY"
+  },
+  {
+    "qno": "288",
+    "questionText": "What is the main function of the objective lens in a compound microscope?",
+    "options": [
+      {
+        "text": "To form a magnified image of the object",
+        "isCorrect": true
+      },
+      {
+        "text": "To illuminate the object",
+        "isCorrect": false
+      },
+      {
+        "text": "To form a virtual image of the object",
+        "isCorrect": false
+      },
+      {
+        "text": "To adjust the focal length",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The objective lens in a compound microscope forms a magnified image of the object.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "289",
+    "questionText": "In a telescope, the objective lens has a focal length of 1000 mm and the eyepiece has a focal length of 50 mm. What is the magnifying power of the telescope?",
+    "options": [
+      {
+        "text": "20",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "text": "200",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnifying power of the telescope is given by the ratio of the focal lengths of the objective lens and the eyepiece: $\\frac{1000}{50} = 20$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "HARD"
+  },
+  {
+    "qno": "290",
+    "questionText": "What type of image is formed by the eyepiece of an astronomical telescope?",
+    "options": [
+      {
+        "text": "Virtual, inverted, and magnified",
+        "isCorrect": true
+      },
+      {
+        "text": "Real, erect, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, erect, and diminished",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, inverted, and diminished",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The eyepiece of an astronomical telescope forms a virtual, inverted, and magnified image.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "HARD"
+  },
+  {
+    "qno": "6",
+    "questionText": "Which of the following is not a property of light?",
+    "options": [
+      {
+        "text": "It travels in a straight line",
+        "isCorrect": false
+      },
+      {
+        "text": "It has a finite speed",
+        "isCorrect": false
+      },
+      {
+        "text": "It requires a medium to travel",
+        "isCorrect": true
+      },
+      {
+        "text": "It can be reflected and refracted",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Light does not require a medium to travel, unlike sound.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "7",
+    "questionText": "How is the speed of light in a vacuum denoted?",
+    "options": [
+      {
+        "text": "$c$",
+        "isCorrect": true
+      },
+      {
+        "text": "$v$",
+        "isCorrect": false
+      },
+      {
+        "text": "$u$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of light in a vacuum is denoted by $c$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "What is the speed of light in a vacuum, approximately?",
+    "options": [
+      {
+        "text": "$2.99792458 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3.5 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.5 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.2 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of light in a vacuum is approximately $2.99792458 \\times 10^8 \\text{ m/s}$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "9",
+    "questionText": "Light is a form of:",
+    "options": [
+      {
+        "text": "Electromagnetic radiation",
+        "isCorrect": true
+      },
+      {
+        "text": "Sound wave",
+        "isCorrect": false
+      },
+      {
+        "text": "Mechanical wave",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrical signal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Light is a form of electromagnetic radiation.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "10",
+    "questionText": "Which unit is used to measure the wavelength of light?",
+    "options": [
+      {
+        "text": "Meter",
+        "isCorrect": false
+      },
+      {
+        "text": "Nanometer",
+        "isCorrect": true
+      },
+      {
+        "text": "Centimeter",
+        "isCorrect": false
+      },
+      {
+        "text": "Millimeter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of light is measured in nanometers.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "36",
+    "questionText": "In the context of spherical mirrors, what is the 'center of curvature'?",
+    "options": [
+      {
+        "text": "The point on the mirror's surface",
+        "isCorrect": false
+      },
+      {
+        "text": "The point at the center of the sphere from which the mirror is a part",
+        "isCorrect": true
+      },
+      {
+        "text": "The focal point",
+        "isCorrect": false
+      },
+      {
+        "text": "The point where the principal axis meets the mirror",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The center of curvature is the point at the center of the sphere from which the mirror is a part.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "37",
+    "questionText": "What is the mirror equation?",
+    "options": [
+      {
+        "text": "$\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{f} = \\frac{1}{u} - \\frac{1}{v}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{f} = \\frac{u}{v}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{f} = \\frac{v}{u}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mirror equation is given by $\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}$, where $f$ is the focal length, $u$ is the object distance, and $v$ is the image distance.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "38",
+    "questionText": "Which type of mirror can form a real image?",
+    "options": [
+      {
+        "text": "Convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Concave mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A concave mirror can form a real image.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "39",
+    "questionText": "What is the sign of the focal length for a concave mirror?",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": true
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Depends on object position",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length of a concave mirror is negative.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "40",
+    "questionText": "A convex mirror always forms a/an ________ image.",
+    "options": [
+      {
+        "text": "Real and inverted",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual and upright",
+        "isCorrect": true
+      },
+      {
+        "text": "Virtual and inverted",
+        "isCorrect": false
+      },
+      {
+        "text": "Real and upright",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex mirror always forms a virtual and upright image.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "86",
+    "questionText": "What is the refractive index?",
+    "options": [
+      {
+        "text": "The ratio of the speed of light in a vacuum to the speed of light in the medium",
+        "isCorrect": true
+      },
+      {
+        "text": "The ratio of the angle of incidence to the angle of refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "The angle of deviation of light",
+        "isCorrect": false
+      },
+      {
+        "text": "The speed of light in a medium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The refractive index is the ratio of the speed of light in a vacuum to the speed of light in the medium.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "87",
+    "questionText": "When light passes from air into water, the angle of refraction is ________ than the angle of incidence.",
+    "options": [
+      {
+        "text": "Larger",
+        "isCorrect": false
+      },
+      {
+        "text": "Smaller",
+        "isCorrect": true
+      },
+      {
+        "text": "Equal",
+        "isCorrect": false
+      },
+      {
+        "text": "Unchanged",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When light passes from air into water, the angle of refraction is smaller than the angle of incidence.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "88",
+    "questionText": "What is the principle that describes the bending of light as it passes from one medium to another?",
+    "options": [
+      {
+        "text": "Reflection",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": true
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Refraction describes the bending of light as it passes from one medium to another.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "89",
+    "questionText": "If the angle of incidence is 30 degrees and the refractive index is 1.5, what is the angle of refraction?",
+    "options": [
+      {
+        "text": "19.47 degrees",
+        "isCorrect": true
+      },
+      {
+        "text": "28.57 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "42.50 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "30.00 degrees",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using Snell's Law: $n_1 \\sin i = n_2 \\sin r$. Here, $1 \\times \\sin i = 1.5 \\times \\sin 30$ degrees, solving gives $i = 45$ degrees.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "21",
+    "questionText": "What is the effect of a prism on white light?",
+    "options": [
+      {
+        "text": "It disperses white light into its constituent colors",
+        "isCorrect": true
+      },
+      {
+        "text": "It reflects white light",
+        "isCorrect": false
+      },
+      {
+        "text": "It absorbs white light",
+        "isCorrect": false
+      },
+      {
+        "text": "It scatters white light",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A prism disperses white light into its constituent colors.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "22",
+    "questionText": "Which color in the visible spectrum has the highest frequency?",
+    "options": [
+      {
+        "text": "Violet",
+        "isCorrect": true
+      },
+      {
+        "text": "Red",
+        "isCorrect": false
+      },
+      {
+        "text": "Green",
+        "isCorrect": false
+      },
+      {
+        "text": "Blue",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Violet light has the highest frequency in the visible spectrum.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "23",
+    "questionText": "What is the speed of light in water if its refractive index is 1.33?",
+    "options": [
+      {
+        "text": "$2.26 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.33 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of light in water is $\\frac{3 \\times 10^8 \\text{ m/s}}{1.33} \\approx 2.26 \\times 10^8 \\text{ m/s}$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "Who proposed the wave theory of light?",
+    "options": [
+      {
+        "text": "Christiaan Huygens",
+        "isCorrect": true
+      },
+      {
+        "text": "Isaac Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "James Clerk Maxwell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Christiaan Huygens proposed the wave theory of light.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "25",
+    "questionText": "What is the unit of frequency of light?",
+    "options": [
+      {
+        "text": "Hertz",
+        "isCorrect": true
+      },
+      {
+        "text": "Nanometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Meter",
+        "isCorrect": false
+      },
+      {
+        "text": "Joule",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The unit of frequency of light is Hertz (Hz).",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "26",
+    "questionText": "What is the phenomenon of splitting of white light into its constituent colors called?",
+    "options": [
+      {
+        "text": "Dispersion",
+        "isCorrect": true
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Reflection",
+        "isCorrect": false
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The phenomenon of splitting of white light into its constituent colors is called dispersion.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "27",
+    "questionText": "What is the wavelength of green light in the visible spectrum?",
+    "options": [
+      {
+        "text": "Approximately 550 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "Approximately 400 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "Approximately 700 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "Approximately 600 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Green light in the visible spectrum has a wavelength of approximately 550 nm.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "28",
+    "questionText": "What is the frequency of light with a wavelength of 500 nm in vacuum?",
+    "options": [
+      {
+        "text": "$6 \\times 10^{14}$ Hz",
+        "isCorrect": true
+      },
+      {
+        "text": "$5 \\times 10^{14}$ Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\times 10^{14}$ Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "$7 \\times 10^{14}$ Hz",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The frequency of light is given by $f = \\frac{c}{\\lambda}$, where $c$ is the speed of light and $\\lambda$ is the wavelength. For $\\lambda = 500$ nm, $f = \\frac{3 \\times 10^8 \\text{ m/s}}{500 \\times 10^{-9} \\text{ m}} = 6 \\times 10^{14}$ Hz.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "29",
+    "questionText": "What happens to the speed of light when it enters a denser medium?",
+    "options": [
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of light decreases when it enters a denser medium.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "30",
+    "questionText": "Which of the following is not an electromagnetic wave?",
+    "options": [
+      {
+        "text": "Sound waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "X-rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sound waves are not electromagnetic waves; they are mechanical waves.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "51",
+    "questionText": "Which mirror is used to concentrate sunlight in solar cookers?",
+    "options": [
+      {
+        "text": "Concave mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concave mirrors are used to concentrate sunlight in solar cookers.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "52",
+    "questionText": "Where is the image formed by a convex mirror when the object is placed at infinity?",
+    "options": [
+      {
+        "text": "At the focal point, behind the mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "At the center of curvature",
+        "isCorrect": false
+      },
+      {
+        "text": "Between the focal point and the mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Between the focal point and the center of curvature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the object is placed at infinity, the image formed by a convex mirror is at the focal point, behind the mirror.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "53",
+    "questionText": "What type of image is formed by a concave mirror when the object is placed at the focal point?",
+    "options": [
+      {
+        "text": "No image is formed",
+        "isCorrect": true
+      },
+      {
+        "text": "Real and inverted",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual and upright",
+        "isCorrect": false
+      },
+      {
+        "text": "Real and upright",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the object is placed at the focal point of a concave mirror, no image is formed.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "54",
+    "questionText": "What is the focal length of a spherical mirror with a radius of curvature of 10 cm?",
+    "options": [
+      {
+        "text": "5 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "10 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "15 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length of a spherical mirror is half of the radius of curvature. For a radius of curvature of 10 cm, the focal length is 5 cm.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "55",
+    "questionText": "Which type of mirror can form both real and virtual images?",
+    "options": [
+      {
+        "text": "Concave mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A concave mirror can form both real and virtual images depending on the position of the object.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "99",
+    "questionText": "What is the principle that describes the bending of light as it passes from one medium to another?",
+    "options": [
+      {
+        "text": "Refraction",
+        "isCorrect": true
+      },
+      {
+        "text": "Reflection",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Refraction describes the bending of light as it passes from one medium to another.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "56",
+    "questionText": "Which mirror is used as a shaving mirror to see a larger image of the face?",
+    "options": [
+      {
+        "text": "Concave mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concave mirrors are used as shaving mirrors to see a larger image of the face.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "57",
+    "questionText": "Which mirror can be used to obtain a parallel beam of light from a point source?",
+    "options": [
+      {
+        "text": "Concave mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A concave mirror can be used to obtain a parallel beam of light from a point source when the point source is placed at the focal point.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "58",
+    "questionText": "What is the nature of the image formed by a plane mirror?",
+    "options": [
+      {
+        "text": "Virtual and upright",
+        "isCorrect": true
+      },
+      {
+        "text": "Real and inverted",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual and inverted",
+        "isCorrect": false
+      },
+      {
+        "text": "Real and upright",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A plane mirror always forms a virtual and upright image.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "59",
+    "questionText": "What is the focal length of a convex mirror with a radius of curvature of 20 cm?",
+    "options": [
+      {
+        "text": "10 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "5 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "15 cm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length of a convex mirror is half of the radius of curvature. For a radius of curvature of 20 cm, the focal length is 10 cm.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "60",
+    "questionText": "Which mirror is used in searchlights to focus the light into a beam?",
+    "options": [
+      {
+        "text": "Concave mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concave mirrors are used in searchlights to focus the light into a beam.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "61",
+    "questionText": "What is the image distance if an object is placed 10 cm from a concave mirror with a focal length of 5 cm?",
+    "options": [
+      {
+        "text": "10 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "15 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "5 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the mirror equation $\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}$, where $f$ is the focal length, $u$ is the object distance, and $v$ is the image distance. Here, $\\frac{1}{5} = \\frac{1}{10} + \\frac{1}{v}$, solving gives $v = 10$ cm.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "62",
+    "questionText": "Which mirror always forms a diminished image?",
+    "options": [
+      {
+        "text": "Convex mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex mirror always forms a diminished image.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "63",
+    "questionText": "What happens to the image size when an object is moved closer to a concave mirror from beyond the center of curvature to the focal point?",
+    "options": [
+      {
+        "text": "The image size increases",
+        "isCorrect": true
+      },
+      {
+        "text": "The image size decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "The image size remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "The image size becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When an object is moved closer to a concave mirror from beyond the center of curvature to the focal point, the image size increases.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "64",
+    "questionText": "Which type of mirror is used in rearview mirrors to give a wider field of view?",
+    "options": [
+      {
+        "text": "Convex mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Convex mirrors are used in rearview mirrors to give a wider field of view.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "65",
+    "questionText": "What type of image is formed by a convex mirror regardless of the object position?",
+    "options": [
+      {
+        "text": "Virtual and upright",
+        "isCorrect": true
+      },
+      {
+        "text": "Real and inverted",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual and inverted",
+        "isCorrect": false
+      },
+      {
+        "text": "Real and upright",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex mirror always forms a virtual and upright image regardless of the object position.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "105",
+    "questionText": "What is the refractive index of a medium if the speed of light in the medium is $2 \\times 10^8 \\text{ m/s}$?",
+    "options": [
+      {
+        "text": "1.5",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "1.33",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The refractive index $n$ is given by $n = \\frac{c}{v}$, where $c$ is the speed of light in vacuum and $v$ is the speed of light in the medium. Here, $n = \\frac{3 \\times 10^8 \\text{ m/s}}{2 \\times 10^8 \\text{ m/s}} = 1.5$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "106",
+    "questionText": "What happens to the wavelength of light when it enters a medium with a higher refractive index?",
+    "options": [
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of light decreases when it enters a medium with a higher refractive index.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "107",
+    "questionText": "What is the phenomenon where light is completely reflected at the boundary of two media?",
+    "options": [
+      {
+        "text": "Total internal reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Total internal reflection is the phenomenon where light is completely reflected at the boundary of two media.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "108",
+    "questionText": "Which law describes the relationship between the angle of incidence and the angle of refraction?",
+    "options": [
+      {
+        "text": "Snell's Law",
+        "isCorrect": true
+      },
+      {
+        "text": "Huygens' Principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Fermat's Principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Newton's Law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Snell's Law describes the relationship between the angle of incidence and the angle of refraction.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "109",
+    "questionText": "What happens to the speed of light when it passes from a denser medium to a rarer medium?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": true
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of light increases when it passes from a denser medium to a rarer medium.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "110",
+    "questionText": "If the angle of incidence is 45 degrees and the refractive index is 1.5, what is the angle of refraction?",
+    "options": [
+      {
+        "text": "28.13 degrees",
+        "isCorrect": true
+      },
+      {
+        "text": "30 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "45 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "60 degrees",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using Snell's Law: $n_1 \\sin i = n_2 \\sin r$. Here, $1 \\times \\sin 45 = 1.5 \\times \\sin r$, solving gives $r = 28.13$ degrees.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "111",
+    "questionText": "Which medium has a higher refractive index: water or air?",
+    "options": [
+      {
+        "text": "Water",
+        "isCorrect": true
+      },
+      {
+        "text": "Air",
+        "isCorrect": false
+      },
+      {
+        "text": "Both have the same refractive index",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Water has a higher refractive index than air.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "112",
+    "questionText": "What is the critical angle for total internal reflection in water (n = 1.33)?",
+    "options": [
+      {
+        "text": "48.75 degrees",
+        "isCorrect": true
+      },
+      {
+        "text": "41.81 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "37.31 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "42.50 degrees",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The critical angle for water with a refractive index of 1.33 is approximately 48.75 degrees.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "HARD"
+  },
+  {
+    "qno": "113",
+    "questionText": "Which color of light refracts the least when passing from air to glass?",
+    "options": [
+      {
+        "text": "Red",
+        "isCorrect": true
+      },
+      {
+        "text": "Blue",
+        "isCorrect": false
+      },
+      {
+        "text": "Green",
+        "isCorrect": false
+      },
+      {
+        "text": "Violet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Red light refracts the least when passing from air to glass due to its longer wavelength.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "114",
+    "questionText": "What happens to the frequency of light when it passes from one medium to another?",
+    "options": [
+      {
+        "text": "It remains the same",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The frequency of light remains the same when it passes from one medium to another.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "66",
+    "questionText": "Which mirror is used as a dentist's mirror to see an enlarged image of teeth?",
+    "options": [
+      {
+        "text": "Concave mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concave mirrors are used as dentist's mirrors to see an enlarged image of teeth.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "67",
+    "questionText": "Which mirror is used in a solar furnace to concentrate sunlight at one point?",
+    "options": [
+      {
+        "text": "Concave mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concave mirrors are used in solar furnaces to concentrate sunlight at one point.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "68",
+    "questionText": "What happens to the image formed by a concave mirror when the object is moved from the center of curvature towards the focal point?",
+    "options": [
+      {
+        "text": "The image moves away from the mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "The image moves towards the mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "The image remains stationary",
+        "isCorrect": false
+      },
+      {
+        "text": "The image disappears",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the object is moved from the center of curvature towards the focal point, the image formed by a concave mirror moves away from the mirror.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "69",
+    "questionText": "What is the mirror equation for a spherical mirror?",
+    "options": [
+      {
+        "text": "$\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{f} = \\frac{1}{u} - \\frac{1}{v}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{f} = \\frac{u}{v}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{f} = \\frac{v}{u}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mirror equation for a spherical mirror is $\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}$, where $f$ is the focal length, $u$ is the object distance, and $v$ is the image distance.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "70",
+    "questionText": "What is the magnification produced by a concave mirror when the object is placed at the center of curvature?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "Greater than 1",
+        "isCorrect": false
+      },
+      {
+        "text": "Less than 1",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the object is placed at the center of curvature, the magnification produced by a concave mirror is 1.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "71",
+    "questionText": "What is the nature of the image formed by a convex mirror when the object is placed at infinity?",
+    "options": [
+      {
+        "text": "Virtual, erect, and diminished",
+        "isCorrect": true
+      },
+      {
+        "text": "Real, inverted, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, inverted, and diminished",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, erect, and magnified",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the object is placed at infinity, a convex mirror forms a virtual, erect, and diminished image.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "72",
+    "questionText": "What is the focal length of a concave mirror with a radius of curvature of 16 cm?",
+    "options": [
+      {
+        "text": "8 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "16 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "4 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "32 cm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length of a concave mirror is half of the radius of curvature. For a radius of curvature of 16 cm, the focal length is 8 cm.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "73",
+    "questionText": "What is the nature of the image formed by a concave mirror when the object is placed between the focal point and the center of curvature?",
+    "options": [
+      {
+        "text": "Real, inverted, and magnified",
+        "isCorrect": true
+      },
+      {
+        "text": "Virtual, erect, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, erect, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, inverted, and magnified",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the object is placed between the focal point and the center of curvature, a concave mirror forms a real, inverted, and magnified image.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "74",
+    "questionText": "What is the radius of curvature of a convex mirror with a focal length of 12 cm?",
+    "options": [
+      {
+        "text": "24 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "12 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "6 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "48 cm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The radius of curvature of a convex mirror is twice the focal length. For a focal length of 12 cm, the radius of curvature is 24 cm.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "75",
+    "questionText": "Which mirror is used in vehicles to view objects at the sides and rear?",
+    "options": [
+      {
+        "text": "Convex mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Convex mirrors are used in vehicles to view objects at the sides and rear because they provide a wider field of view.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "76",
+    "questionText": "Which type of mirror is used in the headlights of vehicles?",
+    "options": [
+      {
+        "text": "Concave mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concave mirrors are used in the headlights of vehicles to focus the light into a beam.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "77",
+    "questionText": "What is the nature of the image formed by a plane mirror?",
+    "options": [
+      {
+        "text": "Virtual, erect, and of the same size as the object",
+        "isCorrect": true
+      },
+      {
+        "text": "Real, inverted, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, inverted, and diminished",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, erect, and magnified",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A plane mirror forms a virtual, erect, and same-sized image as the object.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "78",
+    "questionText": "Which type of mirror is used in solar devices to focus sunlight?",
+    "options": [
+      {
+        "text": "Concave mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concave mirrors are used in solar devices to focus sunlight.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "79",
+    "questionText": "Which mirror has a focal length that is half of its radius of curvature?",
+    "options": [
+      {
+        "text": "Both concave and convex mirrors",
+        "isCorrect": true
+      },
+      {
+        "text": "Only concave mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Only convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither concave nor convex mirror",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Both concave and convex mirrors have a focal length that is half of their radius of curvature.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "80",
+    "questionText": "Which type of mirror is used to obtain an enlarged image of an object placed close to it?",
+    "options": [
+      {
+        "text": "Concave mirror",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "Plane mirror",
+        "isCorrect": false
+      },
+      {
+        "text": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concave mirrors are used to obtain an enlarged image of an object placed close to it.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Reflection of Light by Spherical Mirrors",
+    "level": "EASY"
+  },
+  {
+    "qno": "115",
+    "questionText": "What is the refractive index of glass if the speed of light in glass is $2 \\times 10^8 \\text{ m/s}$?",
+    "options": [
+      {
+        "text": "1.5",
+        "isCorrect": true
+      },
+      {
+        "text": "1.33",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "1.25",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The refractive index $n$ is given by $n = \\frac{c}{v}$, where $c$ is the speed of light in vacuum and $v$ is the speed of light in the medium. Here, $n = \\frac{3 \\times 10^8 \\text{ m/s}}{2 \\times 10^8 \\text{ m/s}} = 1.5$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "116",
+    "questionText": "What happens to the speed of light when it passes from air into water?",
+    "options": [
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of light decreases when it passes from air into water.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "117",
+    "questionText": "What is the wavelength of light in water if its wavelength in air is 600 nm and the refractive index of water is 1.33?",
+    "options": [
+      {
+        "text": "451.13 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "600 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "798 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "500 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of light in water is given by $\\lambda_{water} = \\frac{\\lambda_{air}}{n} = \\frac{600 \\text{ nm}}{1.33} \\approx 451.13 \\text{ nm}$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "118",
+    "questionText": "What is the refractive index of a medium in which the speed of light is $1.5 \\times 10^8 \\text{ m/s}$?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "1.5",
+        "isCorrect": false
+      },
+      {
+        "text": "1.33",
+        "isCorrect": false
+      },
+      {
+        "text": "1.25",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The refractive index $n$ is given by $n = \\frac{c}{v}$, where $c$ is the speed of light in vacuum and $v$ is the speed of light in the medium. Here, $n = \\frac{3 \\times 10^8 \\text{ m/s}}{1.5 \\times 10^8 \\text{ m/s}} = 2$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "119",
+    "questionText": "What is the phenomenon where light bends around obstacles or openings?",
+    "options": [
+      {
+        "text": "Diffraction",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Reflection",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diffraction is the phenomenon where light bends around obstacles or openings.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "120",
+    "questionText": "Which phenomenon causes a straw to appear bent when it is partially submerged in water?",
+    "options": [
+      {
+        "text": "Refraction",
+        "isCorrect": true
+      },
+      {
+        "text": "Reflection",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Refraction causes a straw to appear bent when it is partially submerged in water.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "121",
+    "questionText": "What is the relationship between the angle of incidence and the angle of refraction in Snell's Law?",
+    "options": [
+      {
+        "text": "They are related by the refractive indices of the media",
+        "isCorrect": true
+      },
+      {
+        "text": "They are equal",
+        "isCorrect": false
+      },
+      {
+        "text": "They are inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no relationship",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Snell's Law, the angle of incidence and the angle of refraction are related by the refractive indices of the media.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "122",
+    "questionText": "What is the speed of light in a medium with a refractive index of 1.25?",
+    "options": [
+      {
+        "text": "$2.4 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.5 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of light in a medium with a refractive index of 1.25 is $\\frac{3 \\times 10^8 \\text{ m/s}}{1.25} = 2.4 \\times 10^8 \\text{ m/s}$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "123",
+    "questionText": "What is the phenomenon where light changes direction when passing from one medium to another?",
+    "options": [
+      {
+        "text": "Refraction",
+        "isCorrect": true
+      },
+      {
+        "text": "Reflection",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Refraction is the phenomenon where light changes direction when passing from one medium to another.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "124",
+    "questionText": "What is the refractive index of water if the speed of light in water is $2.25 \\times 10^8 \\text{ m/s}$?",
+    "options": [
+      {
+        "text": "1.33",
+        "isCorrect": true
+      },
+      {
+        "text": "1.5",
+        "isCorrect": false
+      },
+      {
+        "text": "1.25",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The refractive index $n$ is given by $n = \\frac{c}{v}$, where $c$ is the speed of light in vacuum and $v$ is the speed of light in the medium. Here, $n = \\frac{3 \\times 10^8 \\text{ m/s}}{2.25 \\times 10^8 \\text{ m/s}} \\approx 1.33$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "125",
+    "questionText": "Which phenomenon explains the formation of a rainbow?",
+    "options": [
+      {
+        "text": "Refraction and dispersion",
+        "isCorrect": true
+      },
+      {
+        "text": "Reflection and diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference and polarization",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction and refraction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formation of a rainbow is explained by refraction and dispersion of light in water droplets.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "126",
+    "questionText": "What is the wavelength of light in a medium with a refractive index of 1.5 if its wavelength in air is 600 nm?",
+    "options": [
+      {
+        "text": "400 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "600 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "900 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "450 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength of light in a medium is given by $\\lambda_{medium} = \\frac{\\lambda_{air}}{n} = \\frac{600 \\text{ nm}}{1.5} = 400 \\text{ nm}$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "127",
+    "questionText": "What is the speed of light in a medium with a refractive index of 2?",
+    "options": [
+      {
+        "text": "$1.5 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.5 \\times 10^8 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of light in a medium with a refractive index of 2 is $\\frac{3 \\times 10^8 \\text{ m/s}}{2} = 1.5 \\times 10^8 \\text{ m/s}$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "128",
+    "questionText": "Which phenomenon is responsible for the twinkling of stars?",
+    "options": [
+      {
+        "text": "Refraction and atmospheric turbulence",
+        "isCorrect": true
+      },
+      {
+        "text": "Reflection and dispersion",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction and interference",
+        "isCorrect": false
+      },
+      {
+        "text": "Polarization and scattering",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The twinkling of stars is caused by refraction and atmospheric turbulence.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "129",
+    "questionText": "What is the refractive index of diamond if the speed of light in diamond is $1.24 \\times 10^8 \\text{ m/s}$?",
+    "options": [
+      {
+        "text": "2.42",
+        "isCorrect": true
+      },
+      {
+        "text": "1.33",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The refractive index $n$ is given by $n = \\frac{c}{v}$, where $c$ is the speed of light in vacuum and $v$ is the speed of light in the medium. Here, $n = \\frac{3 \\times 10^8 \\text{ m/s}}{1.24 \\times 10^8 \\text{ m/s}} \\approx 2.42$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "130",
+    "questionText": "Which phenomenon explains why objects appear shallower in water than they actually are?",
+    "options": [
+      {
+        "text": "Refraction",
+        "isCorrect": true
+      },
+      {
+        "text": "Reflection",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Refraction causes objects to appear shallower in water than they actually are.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction",
+    "level": "EASY"
+  },
+  {
+    "qno": "147",
+    "questionText": "What is the phenomenon where light is completely reflected within a medium?",
+    "options": [
+      {
+        "text": "Total internal reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Total internal reflection is the phenomenon where light is completely reflected within a medium.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "148",
+    "questionText": "What is the critical angle for total internal reflection in diamond (n = 2.42)?",
+    "options": [
+      {
+        "text": "24.41 degrees",
+        "isCorrect": true
+      },
+      {
+        "text": "48.75 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "41.81 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "37.31 degrees",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The critical angle for diamond with a refractive index of 2.42 is approximately 24.41 degrees.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "HARD"
+  },
+  {
+    "qno": "149",
+    "questionText": "Which optical phenomenon allows the transmission of light through optical fibers?",
+    "options": [
+      {
+        "text": "Total internal reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Total internal reflection allows the transmission of light through optical fibers.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "151",
+    "questionText": "Which phenomenon allows a diamond to sparkle with exceptional brilliance?",
+    "options": [
+      {
+        "text": "Total internal reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Dispersion",
+        "isCorrect": false
+      },
+      {
+        "text": "Scattering",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diamonds sparkle due to the phenomenon of total internal reflection.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "152",
+    "questionText": "Which optical device uses total internal reflection to bend light within it?",
+    "options": [
+      {
+        "text": "Optical fiber",
+        "isCorrect": true
+      },
+      {
+        "text": "Prism",
+        "isCorrect": false
+      },
+      {
+        "text": "Lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Mirror",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Optical fibers use total internal reflection to bend light within them.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "153",
+    "questionText": "What is the principle behind the working of optical fibers?",
+    "options": [
+      {
+        "text": "Total internal reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principle behind the working of optical fibers is total internal reflection.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "156",
+    "questionText": "What happens to light when it exceeds the critical angle in a medium?",
+    "options": [
+      {
+        "text": "It undergoes total internal reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "It refracts out of the medium",
+        "isCorrect": false
+      },
+      {
+        "text": "It is absorbed by the medium",
+        "isCorrect": false
+      },
+      {
+        "text": "It diffuses within the medium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When light exceeds the critical angle in a medium, it undergoes total internal reflection.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "157",
+    "questionText": "Why do diamonds sparkle more than glass?",
+    "options": [
+      {
+        "text": "Due to higher refractive index and total internal reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Due to lower refractive index",
+        "isCorrect": false
+      },
+      {
+        "text": "Due to scattering of light",
+        "isCorrect": false
+      },
+      {
+        "text": "Due to absorption of light",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diamonds sparkle more than glass due to their higher refractive index and the phenomenon of total internal reflection.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "158",
+    "questionText": "What is the phenomenon where light is confined within a medium by repeated total internal reflections?",
+    "options": [
+      {
+        "text": "Waveguiding",
+        "isCorrect": true
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Waveguiding is the phenomenon where light is confined within a medium by repeated total internal reflections.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "159",
+    "questionText": "Which phenomenon explains the operation of fiber optic cables?",
+    "options": [
+      {
+        "text": "Total internal reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The operation of fiber optic cables is explained by the phenomenon of total internal reflection.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "160",
+    "questionText": "What is the relationship between the critical angle and the refractive index?",
+    "options": [
+      {
+        "text": "Critical angle is inversely proportional to the refractive index",
+        "isCorrect": true
+      },
+      {
+        "text": "Critical angle is directly proportional to the refractive index",
+        "isCorrect": false
+      },
+      {
+        "text": "Critical angle is unrelated to the refractive index",
+        "isCorrect": false
+      },
+      {
+        "text": "Critical angle is the same as the refractive index",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The critical angle is inversely proportional to the refractive index.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "161",
+    "questionText": "Which optical phenomenon causes the brightening and dimming of stars as seen from Earth?",
+    "options": [
+      {
+        "text": "Scintillation",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Scintillation is the optical phenomenon that causes the brightening and dimming of stars as seen from Earth.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "162",
+    "questionText": "What is the critical angle for total internal reflection in a medium with a refractive index of 1.5?",
+    "options": [
+      {
+        "text": "41.81 degrees",
+        "isCorrect": true
+      },
+      {
+        "text": "37.31 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "48.75 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "42.50 degrees",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The critical angle for a medium with a refractive index of 1.5 is approximately 41.81 degrees.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "HARD"
+  },
+  {
+    "qno": "163",
+    "questionText": "What happens to light when it is totally internally reflected?",
+    "options": [
+      {
+        "text": "It is confined within the medium",
+        "isCorrect": true
+      },
+      {
+        "text": "It is absorbed by the medium",
+        "isCorrect": false
+      },
+      {
+        "text": "It passes through the medium",
+        "isCorrect": false
+      },
+      {
+        "text": "It is scattered by the medium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When light is totally internally reflected, it is confined within the medium.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "164",
+    "questionText": "Why does total internal reflection not occur when light travels from air to water?",
+    "options": [
+      {
+        "text": "Because light is traveling from a rarer to a denser medium",
+        "isCorrect": true
+      },
+      {
+        "text": "Because light is traveling from a denser to a rarer medium",
+        "isCorrect": false
+      },
+      {
+        "text": "Because the critical angle is exceeded",
+        "isCorrect": false
+      },
+      {
+        "text": "Because the angle of incidence is greater than the angle of refraction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Total internal reflection does not occur when light travels from air to water because light is traveling from a rarer to a denser medium.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "165",
+    "questionText": "What is the phenomenon where light is trapped inside a medium due to repeated total internal reflections?",
+    "options": [
+      {
+        "text": "Waveguiding",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Waveguiding is the phenomenon where light is trapped inside a medium due to repeated total internal reflections.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "166",
+    "questionText": "Which of the following conditions must be met for total internal reflection to occur?",
+    "options": [
+      {
+        "text": "The light must travel from a denser to a rarer medium and the angle of incidence must be greater than the critical angle",
+        "isCorrect": true
+      },
+      {
+        "text": "The light must travel from a rarer to a denser medium and the angle of incidence must be less than the critical angle",
+        "isCorrect": false
+      },
+      {
+        "text": "The light must travel from a denser to a rarer medium and the angle of incidence must be less than the critical angle",
+        "isCorrect": false
+      },
+      {
+        "text": "The light must travel from a rarer to a denser medium and the angle of incidence must be greater than the critical angle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Total internal reflection occurs when light travels from a denser to a rarer medium and the angle of incidence is greater than the critical angle.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "169",
+    "questionText": "Which phenomenon is responsible for the shimmering effect seen on hot surfaces?",
+    "options": [
+      {
+        "text": "Total internal reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The shimmering effect seen on hot surfaces is caused by total internal reflection.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "170",
+    "questionText": "What is the principle that explains the operation of binoculars?",
+    "options": [
+      {
+        "text": "Total internal reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Binoculars operate based on the principle of total internal reflection.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "171",
+    "questionText": "Which optical device uses total internal reflection to trap light within it?",
+    "options": [
+      {
+        "text": "Optical fiber",
+        "isCorrect": true
+      },
+      {
+        "text": "Prism",
+        "isCorrect": false
+      },
+      {
+        "text": "Lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Mirror",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Optical fibers use total internal reflection to trap light within them.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "172",
+    "questionText": "What is the phenomenon where light is confined within a medium by repeated total internal reflections?",
+    "options": [
+      {
+        "text": "Waveguiding",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Waveguiding is the phenomenon where light is confined within a medium by repeated total internal reflections.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "174",
+    "questionText": "Why do diamonds sparkle more than other transparent materials?",
+    "options": [
+      {
+        "text": "Due to higher refractive index and total internal reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Due to lower refractive index",
+        "isCorrect": false
+      },
+      {
+        "text": "Due to scattering of light",
+        "isCorrect": false
+      },
+      {
+        "text": "Due to absorption of light",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diamonds sparkle more than other transparent materials due to their higher refractive index and the phenomenon of total internal reflection.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "175",
+    "questionText": "What is the relationship between the critical angle and the refractive index of a medium?",
+    "options": [
+      {
+        "text": "The critical angle is inversely proportional to the refractive index",
+        "isCorrect": true
+      },
+      {
+        "text": "The critical angle is directly proportional to the refractive index",
+        "isCorrect": false
+      },
+      {
+        "text": "The critical angle is unrelated to the refractive index",
+        "isCorrect": false
+      },
+      {
+        "text": "The critical angle is the same as the refractive index",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The critical angle is inversely proportional to the refractive index of a medium.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "177",
+    "questionText": "What is the principle behind the brightening and dimming of stars as seen from Earth?",
+    "options": [
+      {
+        "text": "Scintillation",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Scintillation is the principle behind the brightening and dimming of stars as seen from Earth.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "180",
+    "questionText": "Which phenomenon causes light to remain within an optical fiber?",
+    "options": [
+      {
+        "text": "Total internal reflection",
+        "isCorrect": true
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Total internal reflection causes light to remain within an optical fiber.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "level": "EASY"
+  },
+  {
+    "qno": "181",
+    "questionText": "What type of lens converges parallel rays of light to a focal point?",
+    "options": [
+      {
+        "text": "Convex lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex lens converges parallel rays of light to a focal point.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "182",
+    "questionText": "Which type of lens is used to correct hypermetropia (farsightedness)?",
+    "options": [
+      {
+        "text": "Convex lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex lens is used to correct hypermetropia (farsightedness).",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "185",
+    "questionText": "Which lens is used to correct myopia (nearsightedness)?",
+    "options": [
+      {
+        "text": "Concave lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Plano-convex lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A concave lens is used to correct myopia (nearsightedness).",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "187",
+    "questionText": "What is the focal length of a lens with a power of +2 diopters?",
+    "options": [
+      {
+        "text": "0.5 m",
+        "isCorrect": true
+      },
+      {
+        "text": "2 m",
+        "isCorrect": false
+      },
+      {
+        "text": "1 m",
+        "isCorrect": false
+      },
+      {
+        "text": "0.25 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length of a lens with a power of +2 diopters is $\\frac{1}{P} = \\frac{1}{2} = 0.5$ meters.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "188",
+    "questionText": "What is the lens formula?",
+    "options": [
+      {
+        "text": "$\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{f} = \\frac{1}{v} + \\frac{1}{u}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f = \\frac{1}{u} - \\frac{1}{v}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f = \\frac{1}{u} + \\frac{1}{v}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The lens formula is $\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u}$, where $f$ is the focal length, $u$ is the object distance, and $v$ is the image distance.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "189",
+    "questionText": "What is the magnification produced by a lens when the object distance is 20 cm and the image distance is 40 cm?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnification produced by a lens is given by $M = \\frac{v}{u}$, where $v$ is the image distance and $u$ is the object distance. Here, $M = \\frac{40}{20} = 2$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "190",
+    "questionText": "What is the nature of the image formed by a concave lens when the object is placed at infinity?",
+    "options": [
+      {
+        "text": "Virtual, erect, and diminished",
+        "isCorrect": true
+      },
+      {
+        "text": "Real, inverted, and diminished",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, erect, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, inverted, and magnified",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the object is placed at infinity, a concave lens forms a virtual, erect, and diminished image.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "197",
+    "questionText": "Which type of lens is used in a magnifying glass?",
+    "options": [
+      {
+        "text": "Convex lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex lens is used in a magnifying glass.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "198",
+    "questionText": "What is the nature of the image formed by a convex lens when the object is placed at 2F?",
+    "options": [
+      {
+        "text": "Real, inverted, and same size as the object",
+        "isCorrect": true
+      },
+      {
+        "text": "Virtual, erect, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, erect, and diminished",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, inverted, and diminished",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the object is placed at 2F, a convex lens forms a real, inverted, and same size image as the object.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "199",
+    "questionText": "What is the power of a lens with a focal length of 0.25 m?",
+    "options": [
+      {
+        "text": "4 diopters",
+        "isCorrect": true
+      },
+      {
+        "text": "2 diopters",
+        "isCorrect": false
+      },
+      {
+        "text": "0.25 diopters",
+        "isCorrect": false
+      },
+      {
+        "text": "1 diopter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power of a lens is given by the formula $P = \\frac{1}{f}$, where $f$ is the focal length. For a focal length of 0.25 m, the power is $P = \\frac{1}{0.25} = 4$ diopters.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "200",
+    "questionText": "What type of image is formed by a concave lens regardless of the object position?",
+    "options": [
+      {
+        "text": "Virtual, erect, and diminished",
+        "isCorrect": true
+      },
+      {
+        "text": "Real, inverted, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, inverted, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, erect, and diminished",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A concave lens always forms a virtual, erect, and diminished image regardless of the object position.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "246",
+    "questionText": "What is the principle that explains the formation of a rainbow?",
+    "options": [
+      {
+        "text": "Refraction and dispersion",
+        "isCorrect": true
+      },
+      {
+        "text": "Reflection and diffraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference and polarization",
+        "isCorrect": false
+      },
+      {
+        "text": "Diffraction and refraction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formation of a rainbow is explained by refraction and dispersion of light in water droplets.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "247",
+    "questionText": "What happens to the angle of deviation as the angle of incidence increases for a given prism?",
+    "options": [
+      {
+        "text": "It first decreases, reaches a minimum, and then increases",
+        "isCorrect": true
+      },
+      {
+        "text": "It continuously decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It continuously increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As the angle of incidence increases, the angle of deviation first decreases, reaches a minimum (angle of minimum deviation), and then increases.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "248",
+    "questionText": "What is the minimum deviation angle for a prism with an angle of 60 degrees and a refractive index of 1.5?",
+    "options": [
+      {
+        "text": "37.18 degrees",
+        "isCorrect": true
+      },
+      {
+        "text": "41.81 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "48.75 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "52.45 degrees",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The minimum deviation angle for a prism can be calculated using the formula $D_{min} = 2i - A$ where $i$ is the angle of incidence and $A$ is the prism angle. For $A = 60$ degrees and $n = 1.5$, $i = 41.81$ degrees, $D_{min} = 2(41.81) - 60 = 37.18$ degrees.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "HARD"
+  },
+  {
+    "qno": "249",
+    "questionText": "Which prism arrangement is used to achieve total internal reflection?",
+    "options": [
+      {
+        "text": "Right-angled prism",
+        "isCorrect": true
+      },
+      {
+        "text": "Equilateral prism",
+        "isCorrect": false
+      },
+      {
+        "text": "Isosceles prism",
+        "isCorrect": false
+      },
+      {
+        "text": "Scalene prism",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A right-angled prism is used to achieve total internal reflection.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "250",
+    "questionText": "Which type of prism is used to disperse light into its constituent colors?",
+    "options": [
+      {
+        "text": "Dispersive prism",
+        "isCorrect": true
+      },
+      {
+        "text": "Reflective prism",
+        "isCorrect": false
+      },
+      {
+        "text": "Refractive prism",
+        "isCorrect": false
+      },
+      {
+        "text": "Absorptive prism",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A dispersive prism is used to disperse light into its constituent colors.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "296",
+    "questionText": "What is the main function of the eyepiece lens in a compound microscope?",
+    "options": [
+      {
+        "text": "To magnify the image formed by the objective lens",
+        "isCorrect": true
+      },
+      {
+        "text": "To illuminate the object",
+        "isCorrect": false
+      },
+      {
+        "text": "To adjust the focal length",
+        "isCorrect": false
+      },
+      {
+        "text": "To form a real image",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The eyepiece lens in a compound microscope magnifies the image formed by the objective lens.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "297",
+    "questionText": "Which optical instrument uses two convex lenses to magnify small objects?",
+    "options": [
+      {
+        "text": "Compound microscope",
+        "isCorrect": true
+      },
+      {
+        "text": "Telescope",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnifying glass",
+        "isCorrect": false
+      },
+      {
+        "text": "Camera",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A compound microscope uses two convex lenses to magnify small objects.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "298",
+    "questionText": "What is the purpose of the diaphragm in a microscope?",
+    "options": [
+      {
+        "text": "To control the amount of light reaching the specimen",
+        "isCorrect": true
+      },
+      {
+        "text": "To magnify the image",
+        "isCorrect": false
+      },
+      {
+        "text": "To focus the light onto the specimen",
+        "isCorrect": false
+      },
+      {
+        "text": "To hold the specimen in place",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The diaphragm in a microscope controls the amount of light reaching the specimen.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "299",
+    "questionText": "Which optical instrument is used to observe distant objects?",
+    "options": [
+      {
+        "text": "Telescope",
+        "isCorrect": true
+      },
+      {
+        "text": "Microscope",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnifying glass",
+        "isCorrect": false
+      },
+      {
+        "text": "Camera",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A telescope is used to observe distant objects.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "EASY"
+  },
+  {
+    "qno": "300",
+    "questionText": "Which part of the eye acts as a lens to focus light onto the retina?",
+    "options": [
+      {
+        "text": "The cornea and the crystalline lens",
+        "isCorrect": true
+      },
+      {
+        "text": "The iris",
+        "isCorrect": false
+      },
+      {
+        "text": "The pupil",
+        "isCorrect": false
+      },
+      {
+        "text": "The optic nerve",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The cornea and the crystalline lens act as lenses to focus light onto the retina.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "EASY"
+  },
+  {
+    "qno": "201",
+    "questionText": "What is the focal length of a concave lens with a power of -4 diopters?",
+    "options": [
+      {
+        "text": "-0.25 m",
+        "isCorrect": true
+      },
+      {
+        "text": "0.25 m",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.5 m",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length of a lens is given by $f = \\frac{1}{P}$, where $P$ is the power of the lens. For a power of -4 diopters, the focal length is $f = \\frac{1}{-4} = -0.25$ m.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "202",
+    "questionText": "Which lens is used to correct astigmatism?",
+    "options": [
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Convex lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A cylindrical lens is used to correct astigmatism.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "203",
+    "questionText": "What type of image is formed by a concave lens when the object is placed at the focal point?",
+    "options": [
+      {
+        "text": "Virtual, erect, and diminished",
+        "isCorrect": true
+      },
+      {
+        "text": "Real, inverted, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, inverted, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, erect, and diminished",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A concave lens always forms a virtual, erect, and diminished image, regardless of the object's position.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "204",
+    "questionText": "Which type of lens is thicker at the center than at the edges?",
+    "options": [
+      {
+        "text": "Convex lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex lens is thicker at the center than at the edges.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "205",
+    "questionText": "What is the focal length of a convex lens with a radius of curvature of 20 cm?",
+    "options": [
+      {
+        "text": "10 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "15 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "5 cm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length of a convex lens is half of the radius of curvature. For a radius of curvature of 20 cm, the focal length is 10 cm.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "206",
+    "questionText": "What is the power of a concave lens with a focal length of -0.4 m?",
+    "options": [
+      {
+        "text": "-2.5 diopters",
+        "isCorrect": true
+      },
+      {
+        "text": "2.5 diopters",
+        "isCorrect": false
+      },
+      {
+        "text": "-4 diopters",
+        "isCorrect": false
+      },
+      {
+        "text": "4 diopters",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power of a lens is given by the formula $P = \\frac{1}{f}$, where $f$ is the focal length. For a focal length of -0.4 m, the power is $P = \\frac{1}{-0.4} = -2.5$ diopters.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "207",
+    "questionText": "Which type of lens is thinner at the center than at the edges?",
+    "options": [
+      {
+        "text": "Concave lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A concave lens is thinner at the center than at the edges.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "208",
+    "questionText": "Which type of lens forms a real, inverted, and diminished image when the object is placed beyond the focal length?",
+    "options": [
+      {
+        "text": "Convex lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex lens forms a real, inverted, and diminished image when the object is placed beyond the focal length.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "209",
+    "questionText": "What is the magnification produced by a lens when the object distance is 25 cm and the image distance is 75 cm?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "0.33",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnification produced by a lens is given by $M = \\frac{v}{u}$, where $v$ is the image distance and $u$ is the object distance. Here, $M = \\frac{75}{25} = 3$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "210",
+    "questionText": "Which lens is used to correct presbyopia?",
+    "options": [
+      {
+        "text": "Bifocal lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Convex lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A bifocal lens is used to correct presbyopia.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "211",
+    "questionText": "What type of image is formed by a convex lens when the object is placed between the focal point and 2F?",
+    "options": [
+      {
+        "text": "Real, inverted, and magnified",
+        "isCorrect": true
+      },
+      {
+        "text": "Virtual, erect, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, erect, and diminished",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, inverted, and diminished",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the object is placed between the focal point and 2F, a convex lens forms a real, inverted, and magnified image.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "212",
+    "questionText": "What is the focal length of a lens with a power of -3 diopters?",
+    "options": [
+      {
+        "text": "-0.33 m",
+        "isCorrect": true
+      },
+      {
+        "text": "0.33 m",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.5 m",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length of a lens is given by $f = \\frac{1}{P}$, where $P$ is the power of the lens. For a power of -3 diopters, the focal length is $f = \\frac{1}{-3} = -0.33$ m.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "213",
+    "questionText": "What type of lens is used in a camera to focus light onto the film or sensor?",
+    "options": [
+      {
+        "text": "Convex lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex lens is used in a camera to focus light onto the film or sensor.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "214",
+    "questionText": "Which type of lens forms a virtual, erect, and magnified image when the object is placed within the focal length?",
+    "options": [
+      {
+        "text": "Convex lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex lens forms a virtual, erect, and magnified image when the object is placed within the focal length.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "215",
+    "questionText": "What is the power of a lens with a focal length of -0.5 m?",
+    "options": [
+      {
+        "text": "-2 diopters",
+        "isCorrect": true
+      },
+      {
+        "text": "2 diopters",
+        "isCorrect": false
+      },
+      {
+        "text": "-1 diopter",
+        "isCorrect": false
+      },
+      {
+        "text": "1 diopter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power of a lens is given by the formula $P = \\frac{1}{f}$, where $f$ is the focal length. For a focal length of -0.5 m, the power is $P = \\frac{1}{-0.5} = -2$ diopters.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "216",
+    "questionText": "What is the magnification produced by a lens when the object distance is 30 cm and the image distance is 90 cm?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "0.33",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnification produced by a lens is given by $M = \\frac{v}{u}$, where $v$ is the image distance and $u$ is the object distance. Here, $M = \\frac{90}{30} = 3$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "217",
+    "questionText": "Which type of lens is used in eyeglasses to correct nearsightedness?",
+    "options": [
+      {
+        "text": "Concave lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Convex lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A concave lens is used in eyeglasses to correct nearsightedness.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "218",
+    "questionText": "What is the focal length of a lens with a power of +3 diopters?",
+    "options": [
+      {
+        "text": "0.33 m",
+        "isCorrect": true
+      },
+      {
+        "text": "-0.33 m",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5 m",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.5 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length of a lens is given by $f = \\frac{1}{P}$, where $P$ is the power of the lens. For a power of +3 diopters, the focal length is $f = \\frac{1}{3} = 0.33$ m.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "219",
+    "questionText": "Which type of lens forms a real, inverted, and diminished image when the object is placed beyond 2F?",
+    "options": [
+      {
+        "text": "Convex lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex lens forms a real, inverted, and diminished image when the object is placed beyond 2F.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "220",
+    "questionText": "What is the power of a lens with a focal length of +0.25 m?",
+    "options": [
+      {
+        "text": "4 diopters",
+        "isCorrect": true
+      },
+      {
+        "text": "2 diopters",
+        "isCorrect": false
+      },
+      {
+        "text": "0.25 diopters",
+        "isCorrect": false
+      },
+      {
+        "text": "1 diopter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power of a lens is given by the formula $P = \\frac{1}{f}$, where $f$ is the focal length. For a focal length of +0.25 m, the power is $P = \\frac{1}{0.25} = 4$ diopters.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "221",
+    "questionText": "What type of image is formed by a convex lens when the object is placed at the focal point?",
+    "options": [
+      {
+        "text": "No image is formed",
+        "isCorrect": true
+      },
+      {
+        "text": "Virtual, erect, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, inverted, and diminished",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, inverted, and diminished",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the object is placed at the focal point of a convex lens, no image is formed as the rays become parallel after refraction.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "222",
+    "questionText": "Which type of lens is used in a camera to zoom in and out on an object?",
+    "options": [
+      {
+        "text": "Variable focal length lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Fixed focal length lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A variable focal length lens is used in a camera to zoom in and out on an object.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "223",
+    "questionText": "What type of image is formed by a concave lens when the object is placed at the center of curvature?",
+    "options": [
+      {
+        "text": "Virtual, erect, and diminished",
+        "isCorrect": true
+      },
+      {
+        "text": "Real, inverted, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, inverted, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, erect, and diminished",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A concave lens always forms a virtual, erect, and diminished image, regardless of the object's position.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "224",
+    "questionText": "What is the focal length of a concave lens with a radius of curvature of 40 cm?",
+    "options": [
+      {
+        "text": "-20 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "-40 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "40 cm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length of a concave lens is half of the radius of curvature. For a radius of curvature of 40 cm, the focal length is -20 cm.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "225",
+    "questionText": "What type of lens is used in projectors to enlarge images?",
+    "options": [
+      {
+        "text": "Convex lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex lens is used in projectors to enlarge images.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "226",
+    "questionText": "What is the magnification produced by a lens when the object distance is 10 cm and the image distance is -30 cm?",
+    "options": [
+      {
+        "text": "-3",
+        "isCorrect": true
+      },
+      {
+        "text": "0.33",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnification produced by a lens is given by $M = \\frac{v}{u}$, where $v$ is the image distance and $u$ is the object distance. Here, $M = \\frac{-30}{10} = -3$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "227",
+    "questionText": "What type of lens is used in spectacles for correcting hypermetropia?",
+    "options": [
+      {
+        "text": "Convex lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Concave lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cylindrical lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bifocal lens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convex lens is used in spectacles for correcting hypermetropia.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "EASY"
+  },
+  {
+    "qno": "228",
+    "questionText": "What is the focal length of a lens with a power of +5 diopters?",
+    "options": [
+      {
+        "text": "0.2 m",
+        "isCorrect": true
+      },
+      {
+        "text": "-0.2 m",
+        "isCorrect": false
+      },
+      {
+        "text": "5 m",
+        "isCorrect": false
+      },
+      {
+        "text": "-5 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The focal length of a lens is given by $f = \\frac{1}{P}$, where $P$ is the power of the lens. For a power of +5 diopters, the focal length is $f = \\frac{1}{5} = 0.2$ m.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "229",
+    "questionText": "What type of image is formed by a convex lens when the object is placed beyond 2F?",
+    "options": [
+      {
+        "text": "Real, inverted, and diminished",
+        "isCorrect": true
+      },
+      {
+        "text": "Virtual, erect, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Real, inverted, and magnified",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual, inverted, and diminished",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the object is placed beyond 2F, a convex lens forms a real, inverted, and diminished image.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "230",
+    "questionText": "What is the power of a concave lens with a focal length of -0.2 m?",
+    "options": [
+      {
+        "text": "-5 diopters",
+        "isCorrect": true
+      },
+      {
+        "text": "5 diopters",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.2 diopters",
+        "isCorrect": false
+      },
+      {
+        "text": "0.2 diopters",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power of a lens is given by the formula $P = \\frac{1}{f}$, where $f$ is the focal length. For a focal length of -0.2 m, the power is $P = \\frac{1}{-0.2} = -5$ diopters.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces and by Lenses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "251",
+    "questionText": "What is the angle of deviation when light passes through a prism with an angle of 60 degrees and the angle of incidence is 45 degrees?",
+    "options": [
+      {
+        "text": "22.5 degrees",
+        "isCorrect": true
+      },
+      {
+        "text": "30 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "45 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "60 degrees",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the prism formula, the angle of deviation $\\delta = i + e - A$. For $i = 45$ degrees and $A = 60$ degrees, the angle of deviation is $\\delta = 45 + 45 - 60 = 22.5$ degrees.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "HARD"
+  },
+  {
+    "qno": "252",
+    "questionText": "Which prism is used to achieve a 90-degree deviation of light?",
+    "options": [
+      {
+        "text": "Right-angle prism",
+        "isCorrect": true
+      },
+      {
+        "text": "Equilateral prism",
+        "isCorrect": false
+      },
+      {
+        "text": "Isosceles prism",
+        "isCorrect": false
+      },
+      {
+        "text": "Scalene prism",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A right-angle prism is used to achieve a 90-degree deviation of light.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "253",
+    "questionText": "What is the angular dispersion of light when it passes through a prism with an angle of 60 degrees and a refractive index of 1.5?",
+    "options": [
+      {
+        "text": "20 degrees",
+        "isCorrect": true
+      },
+      {
+        "text": "30 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "40 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "50 degrees",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The angular dispersion is the difference in the angles of deviation for different wavelengths of light. For a refractive index of 1.5 and a prism angle of 60 degrees, the angular dispersion is approximately 20 degrees.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "HARD"
+  },
+  {
+    "qno": "254",
+    "questionText": "Which phenomenon occurs when white light passes through a prism and splits into its constituent colors?",
+    "options": [
+      {
+        "text": "Dispersion",
+        "isCorrect": true
+      },
+      {
+        "text": "Reflection",
+        "isCorrect": false
+      },
+      {
+        "text": "Refraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dispersion occurs when white light passes through a prism and splits into its constituent colors.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "EASY"
+  },
+  {
+    "qno": "255",
+    "questionText": "What is the minimum deviation angle for a prism with an angle of 45 degrees and a refractive index of 1.6?",
+    "options": [
+      {
+        "text": "24.56 degrees",
+        "isCorrect": true
+      },
+      {
+        "text": "30 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "36 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "42 degrees",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the formula for minimum deviation angle, the deviation angle for a prism with an angle of 45 degrees and a refractive index of 1.6 is approximately 24.56 degrees.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "HARD"
+  },
+  {
+    "qno": "256",
+    "questionText": "Which color of light experiences the least deviation when passing through a prism?",
+    "options": [
+      {
+        "text": "Red",
+        "isCorrect": true
+      },
+      {
+        "text": "Violet",
+        "isCorrect": false
+      },
+      {
+        "text": "Green",
+        "isCorrect": false
+      },
+      {
+        "text": "Blue",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Red light experiences the least deviation when passing through a prism due to its longer wavelength.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "257",
+    "questionText": "Which color of light experiences the most deviation when passing through a prism?",
+    "options": [
+      {
+        "text": "Violet",
+        "isCorrect": true
+      },
+      {
+        "text": "Red",
+        "isCorrect": false
+      },
+      {
+        "text": "Green",
+        "isCorrect": false
+      },
+      {
+        "text": "Blue",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Violet light experiences the most deviation when passing through a prism due to its shorter wavelength.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "258",
+    "questionText": "What is the deviation angle for light passing through an equilateral prism with an angle of 60 degrees and a refractive index of 1.7?",
+    "options": [
+      {
+        "text": "35.3 degrees",
+        "isCorrect": true
+      },
+      {
+        "text": "40 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "45 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "50 degrees",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the prism formula, the deviation angle for an equilateral prism with an angle of 60 degrees and a refractive index of 1.7 is approximately 35.3 degrees.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "HARD"
+  },
+  {
+    "qno": "259",
+    "questionText": "Which prism arrangement is used to disperse light into its constituent colors?",
+    "options": [
+      {
+        "text": "Dispersive prism",
+        "isCorrect": true
+      },
+      {
+        "text": "Reflective prism",
+        "isCorrect": false
+      },
+      {
+        "text": "Refractive prism",
+        "isCorrect": false
+      },
+      {
+        "text": "Absorptive prism",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A dispersive prism is used to disperse light into its constituent colors.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "301",
+    "questionText": "Which part of the human eye acts as a lens to focus light onto the retina?",
+    "options": [
+      {
+        "text": "Crystalline lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Cornea",
+        "isCorrect": false
+      },
+      {
+        "text": "Iris",
+        "isCorrect": false
+      },
+      {
+        "text": "Pupil",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The crystalline lens of the human eye acts as a lens to focus light onto the retina.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "EASY"
+  },
+  {
+    "qno": "302",
+    "questionText": "What is the main function of the iris in the human eye?",
+    "options": [
+      {
+        "text": "To control the amount of light entering the eye",
+        "isCorrect": true
+      },
+      {
+        "text": "To focus light onto the retina",
+        "isCorrect": false
+      },
+      {
+        "text": "To form a clear image",
+        "isCorrect": false
+      },
+      {
+        "text": "To detect light intensity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The iris controls the amount of light entering the eye by adjusting the size of the pupil.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "EASY"
+  },
+  {
+    "qno": "303",
+    "questionText": "Which optical instrument uses a combination of lenses to magnify small objects?",
+    "options": [
+      {
+        "text": "Compound microscope",
+        "isCorrect": true
+      },
+      {
+        "text": "Simple microscope",
+        "isCorrect": false
+      },
+      {
+        "text": "Telescope",
+        "isCorrect": false
+      },
+      {
+        "text": "Camera",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A compound microscope uses a combination of lenses to magnify small objects.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "304",
+    "questionText": "What is the magnifying power of a telescope with an objective lens of focal length 1000 mm and an eyepiece lens of focal length 25 mm?",
+    "options": [
+      {
+        "text": "40",
+        "isCorrect": true
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnifying power of a telescope is given by the ratio of the focal lengths of the objective lens and the eyepiece lens. Here, $\\frac{1000}{25} = 40$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "HARD"
+  },
+  {
+    "qno": "305",
+    "questionText": "Which part of a camera controls the amount of light that enters?",
+    "options": [
+      {
+        "text": "Aperture",
+        "isCorrect": true
+      },
+      {
+        "text": "Lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Shutter",
+        "isCorrect": false
+      },
+      {
+        "text": "Sensor",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The aperture of a camera controls the amount of light that enters.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "306",
+    "questionText": "What is the function of the diaphragm in a microscope?",
+    "options": [
+      {
+        "text": "To control the amount of light reaching the specimen",
+        "isCorrect": true
+      },
+      {
+        "text": "To magnify the image",
+        "isCorrect": false
+      },
+      {
+        "text": "To focus the light onto the specimen",
+        "isCorrect": false
+      },
+      {
+        "text": "To hold the specimen in place",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The diaphragm in a microscope controls the amount of light reaching the specimen.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "307",
+    "questionText": "Which optical instrument uses mirrors to form an image?",
+    "options": [
+      {
+        "text": "Reflecting telescope",
+        "isCorrect": true
+      },
+      {
+        "text": "Refracting telescope",
+        "isCorrect": false
+      },
+      {
+        "text": "Compound microscope",
+        "isCorrect": false
+      },
+      {
+        "text": "Simple microscope",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reflecting telescope uses mirrors to form an image.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "308",
+    "questionText": "What is the magnifying power of a compound microscope with an objective lens of focal length 10 mm and an eyepiece lens of focal length 20 mm?",
+    "options": [
+      {
+        "text": "200",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "text": "150",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnifying power of a compound microscope is given by the product of the magnifying powers of the objective lens and the eyepiece lens. Here, $\\frac{10}{10} \\times 10 = 200$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "HARD"
+  },
+  {
+    "qno": "309",
+    "questionText": "Which part of the human eye adjusts the focus for near and far objects?",
+    "options": [
+      {
+        "text": "Ciliary muscles",
+        "isCorrect": true
+      },
+      {
+        "text": "Retina",
+        "isCorrect": false
+      },
+      {
+        "text": "Cornea",
+        "isCorrect": false
+      },
+      {
+        "text": "Iris",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ciliary muscles in the human eye adjust the focus for near and far objects.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "EASY"
+  },
+  {
+    "qno": "311",
+    "questionText": "In a telescope, the objective lens has a focal length of 800 mm and the eyepiece has a focal length of 20 mm. What is the magnifying power of the telescope?",
+    "options": [
+      {
+        "text": "40",
+        "isCorrect": true
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnifying power of the telescope is given by the ratio of the focal lengths of the objective lens and the eyepiece: $\\frac{800}{20} = 40$.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "HARD"
+  },
+  {
+    "qno": "313",
+    "questionText": "Which part of the eye adjusts the size of the pupil to control the amount of light entering?",
+    "options": [
+      {
+        "text": "Iris",
+        "isCorrect": true
+      },
+      {
+        "text": "Lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Cornea",
+        "isCorrect": false
+      },
+      {
+        "text": "Retina",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The iris adjusts the size of the pupil to control the amount of light entering the eye.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "EASY"
+  },
+  {
+    "qno": "314",
+    "questionText": "What is the main function of the retina in the human eye?",
+    "options": [
+      {
+        "text": "To detect and convert light into electrical signals",
+        "isCorrect": true
+      },
+      {
+        "text": "To control the amount of light entering the eye",
+        "isCorrect": false
+      },
+      {
+        "text": "To focus light onto the lens",
+        "isCorrect": false
+      },
+      {
+        "text": "To adjust the focal length",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The retina detects and converts light into electrical signals that are sent to the brain.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "EASY"
+  },
+  {
+    "qno": "319",
+    "questionText": "Which optical instrument uses lenses to magnify distant objects?",
+    "options": [
+      {
+        "text": "Telescope",
+        "isCorrect": true
+      },
+      {
+        "text": "Microscope",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnifying glass",
+        "isCorrect": false
+      },
+      {
+        "text": "Camera",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A telescope uses lenses to magnify distant objects.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "EASY"
+  },
+  {
+    "qno": "320",
+    "questionText": "Which optical instrument uses lenses to focus light onto a photosensitive surface?",
+    "options": [
+      {
+        "text": "Camera",
+        "isCorrect": true
+      },
+      {
+        "text": "Telescope",
+        "isCorrect": false
+      },
+      {
+        "text": "Microscope",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnifying glass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A camera uses lenses to focus light onto a photosensitive surface.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "EASY"
+  },
+  {
+    "qno": "322",
+    "questionText": "Which optical instrument uses a convex lens to magnify small objects?",
+    "options": [
+      {
+        "text": "Magnifying glass",
+        "isCorrect": true
+      },
+      {
+        "text": "Telescope",
+        "isCorrect": false
+      },
+      {
+        "text": "Microscope",
+        "isCorrect": false
+      },
+      {
+        "text": "Camera",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A magnifying glass uses a convex lens to magnify small objects.",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Optical Instruments",
+    "level": "EASY"
+  }
+]

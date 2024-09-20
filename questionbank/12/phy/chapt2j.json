@@ -1,0 +1,1718 @@
+[
+  {
+    "qno": "1",
+    "questionText": "In Chapters 5 and 7 (Class XI), the notion of potential energy was introduced. When an external force does work in taking a body from a point to another against a force like spring force or gravitational force, that work gets stored as potential energy of the body. When the external force is removed, the body moves, gaining kinetic energy and losing an equal amount of potential energy. The sum of kinetic and potential energies is thus conserved. Forces of this kind are called conservative forces. Which of the following is also an example of a conservative force?",
+    "options": [
+      {
+        "text": "Frictional force",
+        "isCorrect": false
+      },
+      {
+        "text": "Centripetal force",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic force",
+        "isCorrect": false
+      },
+      {
+        "text": "Coulomb force",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Coulomb force between two (stationary) charges is also a conservative force. This is not surprising, since both have inverse-square dependence on distance and differ mainly in the proportionality constants.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "Consider an electrostatic field E due to some charge configuration. For simplicity, consider the field E due to a charge Q placed at the origin. Imagine that we bring a test charge q from a point R to a point P against the repulsive force on it due to the charge Q. What is the work done by the external force in bringing the charge q from R to P?",
+    "options": [
+      {
+        "text": "$\\frac{Qq}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Qq}{4\\pi\\epsilon_0 R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\frac{Qq}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-\\frac{Qq}{4\\pi\\epsilon_0 R}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "This work done is against electrostatic repulsive force and gets stored as potential energy.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "3",
+    "questionText": "What is the potential energy difference between two points R and P in an electrostatic field?",
+    "options": [
+      {
+        "text": "$U_P - U_R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U_R - U_P$",
+        "isCorrect": true
+      },
+      {
+        "text": "$W_{RP}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-W_{RP}$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Potential energy difference $\\Delta U_{RP}$ is given by $U_R - U_P = -W_{RP}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "4",
+    "questionText": "Equation (2.2) defines potential energy difference in terms of which physically meaningful quantity?",
+    "options": [
+      {
+        "text": "Force",
+        "isCorrect": false
+      },
+      {
+        "text": "Displacement",
+        "isCorrect": false
+      },
+      {
+        "text": "Work",
+        "isCorrect": true
+      },
+      {
+        "text": "Power",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Equation (2.2) defines potential energy difference in terms of the physically meaningful quantity work.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "5",
+    "questionText": "The work done by an electrostatic field in moving a charge from one point to another depends only on which of the following?",
+    "options": [
+      {
+        "text": "The path taken to move the charge",
+        "isCorrect": false
+      },
+      {
+        "text": "The initial and final points",
+        "isCorrect": true
+      },
+      {
+        "text": "The speed of the charge",
+        "isCorrect": false
+      },
+      {
+        "text": "The acceleration of the charge",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done by an electrostatic field in moving a charge from one point to another depends only on the initial and final points and is independent of the path taken to go from one point to the other.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "Which statement about potential energy in an electrostatic field is true?",
+    "options": [
+      {
+        "text": "The actual value of potential energy is physically significant.",
+        "isCorrect": false
+      },
+      {
+        "text": "Only the difference of potential energy is significant.",
+        "isCorrect": true
+      },
+      {
+        "text": "Potential energy cannot be zero.",
+        "isCorrect": false
+      },
+      {
+        "text": "Potential energy is independent of the initial and final points.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The actual value of potential energy is not physically significant; it is only the difference of potential energy that is significant.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "7",
+    "questionText": "What is the convenient choice for zero potential energy in electrostatics?",
+    "options": [
+      {
+        "text": "At the origin",
+        "isCorrect": false
+      },
+      {
+        "text": "At infinity",
+        "isCorrect": true
+      },
+      {
+        "text": "At a positive charge",
+        "isCorrect": false
+      },
+      {
+        "text": "At a negative charge",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A convenient choice is to have electrostatic potential energy zero at infinity.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "Work done by an external force in bringing a unit positive charge from infinity to a point is equivalent to which of the following?",
+    "options": [
+      {
+        "text": "Electric field at that point",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrostatic potential at that point",
+        "isCorrect": true
+      },
+      {
+        "text": "Potential energy at that point",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinetic energy at that point",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Work done by an external force in bringing a unit positive charge from infinity to a point is the electrostatic potential at that point.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "9",
+    "questionText": "For a point charge Q, the work done by an external force in bringing a unit positive charge from infinity to a distance r from the charge Q is given by which expression?",
+    "options": [
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done by an external force in bringing a unit positive charge from infinity to a distance r from the charge Q is given by $\\frac{Q}{4\\pi\\epsilon_0 r}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "10",
+    "questionText": "Electrostatic potential energy difference between two points is equal to which of the following?",
+    "options": [
+      {
+        "text": "The sum of the potential energies at the two points",
+        "isCorrect": false
+      },
+      {
+        "text": "The work required to be done by an external force in moving a charge between the two points",
+        "isCorrect": true
+      },
+      {
+        "text": "The kinetic energy of the charge at the final point",
+        "isCorrect": false
+      },
+      {
+        "text": "The product of the potential energies at the two points",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electrostatic potential energy difference between two points is the work required to be done by an external force in moving a charge between the two points.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "Consider an electrostatic field $\\mathbf{E}$ due to some charge configuration. For simplicity, consider the field $\\mathbf{E}$ due to a charge $Q$ placed at the origin. Imagine that we bring a test charge $q$ from a point $R$ to a point $P$ against the repulsive force on it due to the charge $Q$. What is the work done by the external force in bringing the charge $q$ from $R$ to $P$?",
+    "options": [
+      {
+        "text": "$\\frac{Qq}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Qq}{4\\pi\\epsilon_0 R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\frac{Qq}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-\\frac{Qq}{4\\pi\\epsilon_0 R}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "This work done is against electrostatic repulsive force and gets stored as potential energy.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "3",
+    "questionText": "What is the potential energy difference between two points $R$ and $P$ in an electrostatic field?",
+    "options": [
+      {
+        "text": "$U_P - U_R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U_R - U_P$",
+        "isCorrect": true
+      },
+      {
+        "text": "$W_{RP}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-W_{RP}$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Potential energy difference $\\Delta U_{RP}$ is given by $U_R - U_P = -W_{RP}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "9",
+    "questionText": "For a point charge $Q$, the work done by an external force in bringing a unit positive charge from infinity to a distance $r$ from the charge $Q$ is given by which expression?",
+    "options": [
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done by an external force in bringing a unit positive charge from infinity to a distance $r$ from the charge $Q$ is given by $\\frac{Q}{4\\pi\\epsilon_0 r}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "11",
+    "questionText": "Which of the following quantities does the electrostatic potential energy depend on?",
+    "options": [
+      {
+        "text": "The path taken by the charge",
+        "isCorrect": false
+      },
+      {
+        "text": "The initial and final positions of the charge",
+        "isCorrect": true
+      },
+      {
+        "text": "The speed of the charge",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of the charge",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The electrostatic potential energy depends on the initial and final positions of the charge and is independent of the path taken.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "Which of the following statements is true about conservative forces?",
+    "options": [
+      {
+        "text": "They depend on the path taken",
+        "isCorrect": false
+      },
+      {
+        "text": "They are independent of the initial and final points",
+        "isCorrect": false
+      },
+      {
+        "text": "They are always attractive",
+        "isCorrect": false
+      },
+      {
+        "text": "They conserve mechanical energy",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Conservative forces conserve mechanical energy. The work done by these forces depends only on the initial and final points, not the path taken.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "A test charge $q$ is moved from point $R$ to point $P$ against the electric field due to a charge $Q$ at the origin. Which of the following is true about the work done by the electric field?",
+    "options": [
+      {
+        "text": "It is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "It is positive",
+        "isCorrect": false
+      },
+      {
+        "text": "It is negative",
+        "isCorrect": true
+      },
+      {
+        "text": "It depends on the path taken",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done by the electric field is negative when a test charge is moved against the electric field.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "14",
+    "questionText": "Which quantity is defined as the work done per unit charge in bringing a charge from infinity to a point in the electric field?",
+    "options": [
+      {
+        "text": "Electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "Electric potential",
+        "isCorrect": true
+      },
+      {
+        "text": "Potential energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Electric flux",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electric potential is defined as the work done per unit charge in bringing a charge from infinity to a point in the electric field.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "15",
+    "questionText": "The potential energy of a system of charges depends on which of the following?",
+    "options": [
+      {
+        "text": "The path taken to assemble the charges",
+        "isCorrect": false
+      },
+      {
+        "text": "The configuration of the charges",
+        "isCorrect": true
+      },
+      {
+        "text": "The speed of the charges",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of the charges",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential energy of a system of charges depends on the configuration of the charges.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "16",
+    "questionText": "Which of the following expressions correctly represents the work done in bringing a charge $q$ from infinity to a point $r$ in the electric field due to a point charge $Q$?",
+    "options": [
+      {
+        "text": "$\\frac{Qq}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{Qq}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done in bringing a charge $q$ from infinity to a point $r$ in the electric field due to a point charge $Q$ is given by $\\frac{Qq}{4\\pi\\epsilon_0 r}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "What is the potential energy difference $\\Delta U_{RP}$ in terms of the work done $W_{RP}$?",
+    "options": [
+      {
+        "text": "$\\Delta U_{RP} = W_{RP}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta U_{RP} = -W_{RP}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta U_{RP} = 2W_{RP}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta U_{RP} = -2W_{RP}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential energy difference $\\Delta U_{RP}$ is equal to $-W_{RP}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "18",
+    "questionText": "Which of the following is true for the work done by an electrostatic field in moving a charge from one point to another?",
+    "options": [
+      {
+        "text": "It is path-dependent",
+        "isCorrect": false
+      },
+      {
+        "text": "It is path-independent",
+        "isCorrect": true
+      },
+      {
+        "text": "It depends on the speed of the charge",
+        "isCorrect": false
+      },
+      {
+        "text": "It depends on the mass of the charge",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done by an electrostatic field in moving a charge from one point to another is path-independent.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "19",
+    "questionText": "The electrostatic potential energy of a charge in an electrostatic field is equivalent to which of the following?",
+    "options": [
+      {
+        "text": "The work done by the electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "The work done by an external force",
+        "isCorrect": true
+      },
+      {
+        "text": "The kinetic energy of the charge",
+        "isCorrect": false
+      },
+      {
+        "text": "The potential difference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The electrostatic potential energy of a charge in an electrostatic field is equivalent to the work done by an external force in bringing the charge to that point.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "20",
+    "questionText": "Which of the following is conserved in the presence of conservative forces like electrostatic force?",
+    "options": [
+      {
+        "text": "Kinetic energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Potential energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Mechanical energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Thermal energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mechanical energy is conserved in the presence of conservative forces like electrostatic force.",
+    "chapter": "Electrostatics",
+    "topic": "2.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "Consider any general static charge configuration. We define potential energy of a test charge q in terms of the work done on the charge q. This work is proportional to q because the force at any point is qE. What is this resulting quantity independent of q called?",
+    "options": [
+      {
+        "text": "Electrostatic potential V",
+        "isCorrect": true
+      },
+      {
+        "text": "Electric field E",
+        "isCorrect": false
+      },
+      {
+        "text": "Electric flux",
+        "isCorrect": false
+      },
+      {
+        "text": "Potential energy U",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The resulting quantity is called electrostatic potential V, which is independent of q.",
+    "chapter": "Electrostatics",
+    "topic": "2.2 Electrostatic Potential",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "22",
+    "questionText": "Work done by external force in bringing a unit positive charge from point R to P is given by which expression?",
+    "options": [
+      {
+        "text": "$V_P - V_R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U_P - U_R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$W_{RP}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-W_{RP}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Work done by external force in bringing a unit positive charge from point R to P is given by $V_P - V_R$.",
+    "chapter": "Electrostatics",
+    "topic": "2.2 Electrostatic Potential",
+    "level": "EASY"
+  },
+  {
+    "qno": "23",
+    "questionText": "What is the work done in bringing a unit positive charge from infinity to a point in terms of electrostatic potential?",
+    "options": [
+      {
+        "text": "Electrostatic potential at that point",
+        "isCorrect": true
+      },
+      {
+        "text": "Potential energy at that point",
+        "isCorrect": false
+      },
+      {
+        "text": "Electric field at that point",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinetic energy at that point",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done in bringing a unit positive charge from infinity to a point is the electrostatic potential at that point.",
+    "chapter": "Electrostatics",
+    "topic": "2.2 Electrostatic Potential",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "What is the electrostatic potential at a point due to a charge Q located at the origin?",
+    "options": [
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The electrostatic potential at a point due to a charge Q located at the origin is $\\frac{Q}{4\\pi\\epsilon_0 r}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.2 Electrostatic Potential",
+    "level": "EASY"
+  },
+  {
+    "qno": "25",
+    "questionText": "Which of the following statements is true about the potential due to a point charge?",
+    "options": [
+      {
+        "text": "It is inversely proportional to the distance from the charge",
+        "isCorrect": true
+      },
+      {
+        "text": "It is directly proportional to the distance from the charge",
+        "isCorrect": false
+      },
+      {
+        "text": "It is independent of the distance from the charge",
+        "isCorrect": false
+      },
+      {
+        "text": "It is inversely proportional to the square of the distance from the charge",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential due to a point charge is inversely proportional to the distance from the charge.",
+    "chapter": "Electrostatics",
+    "topic": "2.2 Electrostatic Potential",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "26",
+    "questionText": "What is the relation between electric potential (V) and electric field (E) in a uniform electric field?",
+    "options": [
+      {
+        "text": "E = -dV/dx",
+        "isCorrect": true
+      },
+      {
+        "text": "E = dV/dx",
+        "isCorrect": false
+      },
+      {
+        "text": "E = -dV/dy",
+        "isCorrect": false
+      },
+      {
+        "text": "E = dV/dy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a uniform electric field, E = -dV/dx.",
+    "chapter": "Electrostatics",
+    "topic": "2.2 Electrostatic Potential",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "27",
+    "questionText": "If the potential difference between two points is zero, what can be said about the work done in moving a charge between these points?",
+    "options": [
+      {
+        "text": "Work done is zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Work done is positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Work done is negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Work done depends on the path taken",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the potential difference between two points is zero, the work done in moving a charge between these points is zero.",
+    "chapter": "Electrostatics",
+    "topic": "2.2 Electrostatic Potential",
+    "level": "EASY"
+  },
+  {
+    "qno": "28",
+    "questionText": "Which of the following quantities is a scalar quantity?",
+    "options": [
+      {
+        "text": "Electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrostatic potential",
+        "isCorrect": true
+      },
+      {
+        "text": "Force",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electrostatic potential is a scalar quantity.",
+    "chapter": "Electrostatics",
+    "topic": "2.2 Electrostatic Potential",
+    "level": "EASY"
+  },
+  {
+    "qno": "29",
+    "questionText": "Which of the following is true about the work done by the electrostatic field in moving a charge along an equipotential surface?",
+    "options": [
+      {
+        "text": "It is zero",
+        "isCorrect": true
+      },
+      {
+        "text": "It is positive",
+        "isCorrect": false
+      },
+      {
+        "text": "It is negative",
+        "isCorrect": false
+      },
+      {
+        "text": "It depends on the path taken",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done by the electrostatic field in moving a charge along an equipotential surface is zero.",
+    "chapter": "Electrostatics",
+    "topic": "2.2 Electrostatic Potential",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "30",
+    "questionText": "The electric potential at a point in space is defined as which of the following?",
+    "options": [
+      {
+        "text": "The work done by the electrostatic field",
+        "isCorrect": false
+      },
+      {
+        "text": "The work done by an external force in bringing a unit positive charge from infinity to that point",
+        "isCorrect": true
+      },
+      {
+        "text": "The kinetic energy of the charge at that point",
+        "isCorrect": false
+      },
+      {
+        "text": "The potential energy at that point",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The electric potential at a point in space is defined as the work done by an external force in bringing a unit positive charge from infinity to that point.",
+    "chapter": "Electrostatics",
+    "topic": "2.2 Electrostatic Potential",
+    "level": "EASY"
+  },
+  {
+    "qno": "31",
+    "questionText": "Consider a point charge Q at the origin. What is the potential at any point P with position vector r from the origin?",
+    "options": [
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential at any point P with position vector r from the origin due to a point charge Q at the origin is given by $\\frac{Q}{4\\pi\\epsilon_0 r}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.3 Potential due to a Point Charge",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "32",
+    "questionText": "For a positive point charge Q, what is the work done in bringing a unit positive test charge from infinity to a point P with position vector r?",
+    "options": [
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done in bringing a unit positive test charge from infinity to a point P with position vector r due to a positive point charge Q is given by $\\frac{Q}{4\\pi\\epsilon_0 r}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.3 Potential due to a Point Charge",
+    "level": "EASY"
+  },
+  {
+    "qno": "33",
+    "questionText": "What is the electric potential at a point r due to a point charge Q located at the origin?",
+    "options": [
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The electric potential at a point r due to a point charge Q located at the origin is given by $\\frac{Q}{4\\pi\\epsilon_0 r}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.3 Potential due to a Point Charge",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "34",
+    "questionText": "What is the potential at a distance r from a point charge Q?",
+    "options": [
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential at a distance r from a point charge Q is $\\frac{Q}{4\\pi\\epsilon_0 r}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.3 Potential due to a Point Charge",
+    "level": "EASY"
+  },
+  {
+    "qno": "35",
+    "questionText": "Which of the following is true for the potential due to a point charge?",
+    "options": [
+      {
+        "text": "It decreases with distance from the charge",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases with distance from the charge",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It depends on the medium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential due to a point charge decreases with distance from the charge.",
+    "chapter": "Electrostatics",
+    "topic": "2.3 Potential due to a Point Charge",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "36",
+    "questionText": "A positive charge Q is placed at the origin. What is the electric potential at a point P located at a distance r from the origin?",
+    "options": [
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The electric potential at a point P located at a distance r from the origin due to a positive charge Q is $\\frac{Q}{4\\pi\\epsilon_0 r}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.3 Potential due to a Point Charge",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "37",
+    "questionText": "If the electric potential at a point is zero, what can be said about the electric field at that point?",
+    "options": [
+      {
+        "text": "The electric field is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "The electric field is non-zero",
+        "isCorrect": true
+      },
+      {
+        "text": "The electric field depends on the charge",
+        "isCorrect": false
+      },
+      {
+        "text": "The electric field is constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the electric potential at a point is zero, the electric field can still be non-zero.",
+    "chapter": "Electrostatics",
+    "topic": "2.3 Potential due to a Point Charge",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "38",
+    "questionText": "What is the relationship between the electric potential V and the electric field E in a uniform electric field?",
+    "options": [
+      {
+        "text": "E = -dV/dx",
+        "isCorrect": true
+      },
+      {
+        "text": "E = dV/dx",
+        "isCorrect": false
+      },
+      {
+        "text": "E = -dV/dy",
+        "isCorrect": false
+      },
+      {
+        "text": "E = dV/dy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a uniform electric field, the relationship between the electric potential V and the electric field E is given by E = -dV/dx.",
+    "chapter": "Electrostatics",
+    "topic": "2.3 Potential due to a Point Charge",
+    "level": "EASY"
+  },
+  {
+    "qno": "39",
+    "questionText": "For a point charge Q located at the origin, what is the potential at a point r?",
+    "options": [
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a point charge Q located at the origin, the potential at a point r is $\\frac{Q}{4\\pi\\epsilon_0 r}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.3 Potential due to a Point Charge",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "40",
+    "questionText": "Which of the following correctly represents the potential at a point r from a point charge Q?",
+    "options": [
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q^2}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential at a point r from a point charge Q is $\\frac{Q}{4\\pi\\epsilon_0 r}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.3 Potential due to a Point Charge",
+    "level": "EASY"
+  },
+  {
+    "qno": "41",
+    "questionText": "The potential due to an electric dipole at a point on its axial line at a distance r from its center is proportional to which of the following?",
+    "options": [
+      {
+        "text": "$\\frac{1}{r^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{r^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{r^4}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential due to an electric dipole at a point on its axial line at a distance r from its center is proportional to $\\frac{1}{r^2}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.4 Potential due to an Electric Dipole",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "42",
+    "questionText": "The potential due to an electric dipole at a point on its equatorial plane at a distance r from its center is proportional to which of the following?",
+    "options": [
+      {
+        "text": "$\\frac{1}{r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{r^3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{r^4}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential due to an electric dipole at a point on its equatorial plane at a distance r from its center is proportional to $\\frac{1}{r^3}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.4 Potential due to an Electric Dipole",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "43",
+    "questionText": "For a point on the axial line of an electric dipole, the electric potential is given by which of the following expressions?",
+    "options": [
+      {
+        "text": "$\\frac{p \\cos \\theta}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{p \\sin \\theta}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{p \\cos \\theta}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{p \\sin \\theta}{4\\pi\\epsilon_0 r}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The electric potential for a point on the axial line of an electric dipole is given by $\\frac{p \\cos \\theta}{4\\pi\\epsilon_0 r^2}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.4 Potential due to an Electric Dipole",
+    "level": "HARD"
+  },
+  {
+    "qno": "44",
+    "questionText": "For a point on the equatorial plane of an electric dipole, the electric potential is given by which of the following expressions?",
+    "options": [
+      {
+        "text": "$\\frac{p \\cos \\theta}{4\\pi\\epsilon_0 r^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{p \\sin \\theta}{4\\pi\\epsilon_0 r^3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{p \\cos \\theta}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{p \\sin \\theta}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The electric potential for a point on the equatorial plane of an electric dipole is given by $\\frac{p \\sin \\theta}{4\\pi\\epsilon_0 r^3}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.4 Potential due to an Electric Dipole",
+    "level": "HARD"
+  },
+  {
+    "qno": "45",
+    "questionText": "What is the electric potential at a point due to a dipole of moment p, located at the origin, at an axial distance r?",
+    "options": [
+      {
+        "text": "$\\frac{p \\cos \\theta}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{p \\sin \\theta}{4\\pi\\epsilon_0 r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{p \\cos \\theta}{4\\pi\\epsilon_0 r^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{p \\sin \\theta}{4\\pi\\epsilon_0 r^3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The electric potential at a point due to a dipole of moment p, located at the origin, at an axial distance r is given by $\\frac{p \\cos \\theta}{4\\pi\\epsilon_0 r^2}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.4 Potential due to an Electric Dipole",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "46",
+    "questionText": "In an electric dipole, what is the angle between the electric field and the dipole moment vector at a point on the axial line?",
+    "options": [
+      {
+        "text": "0 degrees",
+        "isCorrect": true
+      },
+      {
+        "text": "45 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "90 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "180 degrees",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an electric dipole, the angle between the electric field and the dipole moment vector at a point on the axial line is 0 degrees.",
+    "chapter": "Electrostatics",
+    "topic": "2.4 Potential due to an Electric Dipole",
+    "level": "EASY"
+  },
+  {
+    "qno": "47",
+    "questionText": "In an electric dipole, what is the angle between the electric field and the dipole moment vector at a point on the equatorial plane?",
+    "options": [
+      {
+        "text": "0 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "45 degrees",
+        "isCorrect": false
+      },
+      {
+        "text": "90 degrees",
+        "isCorrect": true
+      },
+      {
+        "text": "180 degrees",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an electric dipole, the angle between the electric field and the dipole moment vector at a point on the equatorial plane is 90 degrees.",
+    "chapter": "Electrostatics",
+    "topic": "2.4 Potential due to an Electric Dipole",
+    "level": "EASY"
+  },
+  {
+    "qno": "48",
+    "questionText": "The potential energy of a dipole in a uniform electric field is given by which of the following expressions?",
+    "options": [
+      {
+        "text": "$-pE \\cos \\theta$",
+        "isCorrect": true
+      },
+      {
+        "text": "$pE \\cos \\theta$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-pE \\sin \\theta$",
+        "isCorrect": false
+      },
+      {
+        "text": "$pE \\sin \\theta$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential energy of a dipole in a uniform electric field is given by $-pE \\cos \\theta$.",
+    "chapter": "Electrostatics",
+    "topic": "2.4 Potential due to an Electric Dipole",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "49",
+    "questionText": "For a point on the axial line of a dipole, the potential is proportional to which of the following?",
+    "options": [
+      {
+        "text": "$\\frac{1}{r^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{r^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{r^4}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a point on the axial line of a dipole, the potential is proportional to $\\frac{1}{r^2}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.4 Potential due to an Electric Dipole",
+    "level": "HARD"
+  },
+  {
+    "qno": "50",
+    "questionText": "For a point on the equatorial plane of a dipole, the potential is proportional to which of the following?",
+    "options": [
+      {
+        "text": "$\\frac{1}{r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{r^3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{r^4}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a point on the equatorial plane of a dipole, the potential is proportional to $\\frac{1}{r^3}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.4 Potential due to an Electric Dipole",
+    "level": "HARD"
+  },
+  {
+    "qno": "51",
+    "questionText": "The potential due to a system of charges is equal to which of the following?",
+    "options": [
+      {
+        "text": "The algebraic sum of the potentials due to individual charges",
+        "isCorrect": true
+      },
+      {
+        "text": "The vector sum of the potentials due to individual charges",
+        "isCorrect": false
+      },
+      {
+        "text": "The product of the potentials due to individual charges",
+        "isCorrect": false
+      },
+      {
+        "text": "The difference of the potentials due to individual charges",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential due to a system of charges is equal to the algebraic sum of the potentials due to individual charges.",
+    "chapter": "Electrostatics",
+    "topic": "2.5 Potential due to a System of Charges",
+    "level": "EASY"
+  },
+  {
+    "qno": "52",
+    "questionText": "For a system of two charges, Q1 and Q2, located at points P1 and P2, what is the potential at a point P?",
+    "options": [
+      {
+        "text": "$V_P = V_{P1} + V_{P2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$V_P = V_{P1} - V_{P2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_P = V_{P1} \\times V_{P2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_P = \\frac{V_{P1}}{V_{P2}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a system of two charges, Q1 and Q2, located at points P1 and P2, the potential at a point P is given by $V_P = V_{P1} + V_{P2}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.5 Potential due to a System of Charges",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "53",
+    "questionText": "What is the potential at a point due to two equal charges Q located at distances r1 and r2?",
+    "options": [
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0} \\left(\\frac{1}{r1} + \\frac{1}{r2}\\right)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0} \\left(\\frac{1}{r1} - \\frac{1}{r2}\\right)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0} \\left(\\frac{1}{r1} \\times \\frac{1}{r2}\\right)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0} \\left(\\frac{r1}{r2}\\right)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential at a point due to two equal charges Q located at distances r1 and r2 is given by $\\frac{Q}{4\\pi\\epsilon_0} \\left(\\frac{1}{r1} + \\frac{1}{r2}\\right)$.",
+    "chapter": "Electrostatics",
+    "topic": "2.5 Potential due to a System of Charges",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "54",
+    "questionText": "For a system of charges, how is the potential at any point determined?",
+    "options": [
+      {
+        "text": "By summing the potentials due to all individual charges",
+        "isCorrect": true
+      },
+      {
+        "text": "By taking the product of the potentials due to all individual charges",
+        "isCorrect": false
+      },
+      {
+        "text": "By taking the difference of the potentials due to all individual charges",
+        "isCorrect": false
+      },
+      {
+        "text": "By dividing the potentials due to all individual charges",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential at any point in a system of charges is determined by summing the potentials due to all individual charges.",
+    "chapter": "Electrostatics",
+    "topic": "2.5 Potential due to a System of Charges",
+    "level": "EASY"
+  },
+  {
+    "qno": "55",
+    "questionText": "In a system of charges, if one charge is moved, what happens to the potential at a point due to the system?",
+    "options": [
+      {
+        "text": "It changes according to the new positions of the charges",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes infinite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a system of charges, if one charge is moved, the potential at a point due to the system changes according to the new positions of the charges.",
+    "chapter": "Electrostatics",
+    "topic": "2.5 Potential due to a System of Charges",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "56",
+    "questionText": "Which of the following statements is true for the potential due to a system of charges?",
+    "options": [
+      {
+        "text": "It is the algebraic sum of the potentials due to individual charges",
+        "isCorrect": true
+      },
+      {
+        "text": "It is the vector sum of the potentials due to individual charges",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the product of the potentials due to individual charges",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the difference of the potentials due to individual charges",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential due to a system of charges is the algebraic sum of the potentials due to individual charges.",
+    "chapter": "Electrostatics",
+    "topic": "2.5 Potential due to a System of Charges",
+    "level": "EASY"
+  },
+  {
+    "qno": "57",
+    "questionText": "What is the potential at a point due to a system of three charges Q1, Q2, and Q3 located at distances r1, r2, and r3 respectively?",
+    "options": [
+      {
+        "text": "$\\frac{1}{4\\pi\\epsilon_0} \\left(\\frac{Q1}{r1} + \\frac{Q2}{r2} + \\frac{Q3}{r3}\\right)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{4\\pi\\epsilon_0} \\left(\\frac{Q1}{r1} - \\frac{Q2}{r2} + \\frac{Q3}{r3}\\right)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{4\\pi\\epsilon_0} \\left(\\frac{Q1}{r1} \\times \\frac{Q2}{r2} \\times \\frac{Q3}{r3}\\right)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{4\\pi\\epsilon_0} \\left(\\frac{Q1}{r1} / \\frac{Q2}{r2} + \\frac{Q3}{r3}\\right)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential at a point due to a system of three charges Q1, Q2, and Q3 located at distances r1, r2, and r3 respectively is given by $\\frac{1}{4\\pi\\epsilon_0} \\left(\\frac{Q1}{r1} + \\frac{Q2}{r2} + \\frac{Q3}{r3}\\right)$.",
+    "chapter": "Electrostatics",
+    "topic": "2.5 Potential due to a System of Charges",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "58",
+    "questionText": "What is the potential at the center of a square with four equal charges Q at the corners?",
+    "options": [
+      {
+        "text": "$\\frac{4Q}{4\\pi\\epsilon_0 a}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 a}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{2Q}{4\\pi\\epsilon_0 a}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{3Q}{4\\pi\\epsilon_0 a}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential at the center of a square with four equal charges Q at the corners is given by $\\frac{Q}{4\\pi\\epsilon_0 a}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.5 Potential due to a System of Charges",
+    "level": "HARD"
+  },
+  {
+    "qno": "59",
+    "questionText": "What is the potential at the center of a square with two positive charges Q and two negative charges -Q at the corners?",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 a}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2Q}{4\\pi\\epsilon_0 a}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{2\\pi\\epsilon_0 a}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential at the center of a square with two positive charges Q and two negative charges -Q at the corners is zero.",
+    "chapter": "Electrostatics",
+    "topic": "2.5 Potential due to a System of Charges",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "60",
+    "questionText": "For a system of charges, how does the potential vary with distance from the charges?",
+    "options": [
+      {
+        "text": "It decreases with distance",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases with distance",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It depends on the configuration of the charges",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a system of charges, the potential generally decreases with distance from the charges.",
+    "chapter": "Electrostatics",
+    "topic": "2.5 Potential due to a System of Charges",
+    "level": "EASY"
+  },
+  {
+    "qno": "61",
+    "questionText": "If a charge is placed at the center of a spherical shell of charge, what is the potential at any point on the shell?",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Constant",
+        "isCorrect": true
+      },
+      {
+        "text": "Proportional to the distance from the center",
+        "isCorrect": false
+      },
+      {
+        "text": "Inversely proportional to the distance from the center",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If a charge is placed at the center of a spherical shell of charge, the potential at any point on the shell is constant.",
+    "chapter": "Electrostatics",
+    "topic": "2.5 Potential due to a System of Charges",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "62",
+    "questionText": "Which of the following correctly represents the potential due to a system of charges at a point?",
+    "options": [
+      {
+        "text": "The sum of the potentials due to individual charges",
+        "isCorrect": true
+      },
+      {
+        "text": "The difference of the potentials due to individual charges",
+        "isCorrect": false
+      },
+      {
+        "text": "The product of the potentials due to individual charges",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of the potentials due to individual charges",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential due to a system of charges at a point is the sum of the potentials due to individual charges.",
+    "chapter": "Electrostatics",
+    "topic": "2.5 Potential due to a System of Charges",
+    "level": "EASY"
+  },
+  {
+    "qno": "64",
+    "questionText": "What is the potential at the center of a triangle with three equal charges Q at the vertices?",
+    "options": [
+      {
+        "text": "$\\frac{3Q}{4\\pi\\epsilon_0 a}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{4\\pi\\epsilon_0 a}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{2Q}{4\\pi\\epsilon_0 a}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{Q}{2\\pi\\epsilon_0 a}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential at the center of a triangle with three equal charges Q at the vertices is given by $\\frac{Q}{4\\pi\\epsilon_0 a}$.",
+    "chapter": "Electrostatics",
+    "topic": "2.5 Potential due to a System of Charges",
+    "level": "HARD"
+  }
+]

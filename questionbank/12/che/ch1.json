@@ -1,0 +1,5696 @@
+[
+  {
+    "qno": 1,
+    "questionText": "Which of the following is a homogeneous mixture of two or more substances?",
+    "options": [
+      {
+        "text": "Colloid",
+        "isCorrect": false
+      },
+      {
+        "text": "Suspension",
+        "isCorrect": false
+      },
+      {
+        "text": "Solution",
+        "isCorrect": true
+      },
+      {
+        "text": "Emulsion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A solution is a homogeneous mixture of two or more substances.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "In a solution, the component present in the largest quantity is known as the:",
+    "options": [
+      {
+        "text": "Solute",
+        "isCorrect": false
+      },
+      {
+        "text": "Solvent",
+        "isCorrect": true
+      },
+      {
+        "text": "Suspended particle",
+        "isCorrect": false
+      },
+      {
+        "text": "Dispersed phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The component present in the largest quantity in a solution is called the solvent.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which of the following is an example of a solid dissolved in a liquid?",
+    "options": [
+      {
+        "text": "Oxygen in water",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol in water",
+        "isCorrect": false
+      },
+      {
+        "text": "Glucose in water",
+        "isCorrect": true
+      },
+      {
+        "text": "Copper in gold",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Glucose dissolved in water is an example of a solid dissolved in a liquid.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "The solution of hydrogen in palladium is an example of:",
+    "options": [
+      {
+        "text": "Gas in liquid",
+        "isCorrect": false
+      },
+      {
+        "text": "Gas in solid",
+        "isCorrect": true
+      },
+      {
+        "text": "Solid in gas",
+        "isCorrect": false
+      },
+      {
+        "text": "Solid in solid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solution of hydrogen in palladium is an example of a gas dissolved in a solid.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which of the following is a characteristic of an ideal solution?",
+    "options": [
+      {
+        "text": "Shows positive deviation from Raoult's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Shows negative deviation from Raoult's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Obeys Raoult's law over the entire range of concentration",
+        "isCorrect": true
+      },
+      {
+        "text": "Has an enthalpy of mixing different from zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An ideal solution obeys Raoult's law over the entire range of concentration and has an enthalpy of mixing equal to zero.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "A solution where solvent is in a liquid state and solute is in a gas state is called:",
+    "options": [
+      {
+        "text": "Liquid solution",
+        "isCorrect": true
+      },
+      {
+        "text": "Solid solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Gaseous solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Colloidal solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A solution where the solvent is in a liquid state and the solute is in a gas state is called a liquid solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which of the following examples represents a liquid in liquid solution?",
+    "options": [
+      {
+        "text": "Air",
+        "isCorrect": false
+      },
+      {
+        "text": "Alcohol in water",
+        "isCorrect": true
+      },
+      {
+        "text": "Salt in water",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrogen in palladium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alcohol dissolved in water is an example of a liquid in liquid solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which of the following statements is correct regarding a solution?",
+    "options": [
+      {
+        "text": "The solute is always a solid.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solvent is always a liquid.",
+        "isCorrect": false
+      },
+      {
+        "text": "A solution can be in any phase: solid, liquid, or gas.",
+        "isCorrect": true
+      },
+      {
+        "text": "The solute and solvent must be in the same phase.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A solution can exist in any phase: solid, liquid, or gas.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which of the following is an example of a solid-solid solution?",
+    "options": [
+      {
+        "text": "Copper in gold",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol in water",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen in water",
+        "isCorrect": false
+      },
+      {
+        "text": "Glucose in water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Copper dissolved in gold is an example of a solid-solid solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which one of the following statements is NOT true for an ideal solution?",
+    "options": [
+      {
+        "text": "The enthalpy of mixing is zero.",
+        "isCorrect": false
+      },
+      {
+        "text": "The volume of mixing is zero.",
+        "isCorrect": false
+      },
+      {
+        "text": "It obeys Raoult's law over the entire range of concentration.",
+        "isCorrect": false
+      },
+      {
+        "text": "It shows a positive deviation from Raoult's law.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "An ideal solution does not show any deviation from Raoult's law; it obeys Raoult's law over the entire range of concentration.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which type of solution is formed by dissolving camphor in nitrogen gas?",
+    "options": [
+      {
+        "text": "Liquid solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Solid solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Solid in gas",
+        "isCorrect": true
+      },
+      {
+        "text": "Gas in gas",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Camphor dissolved in nitrogen gas forms a solid in gas solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "The term 'solute' in a solution refers to:",
+    "options": [
+      {
+        "text": "The component present in the largest amount",
+        "isCorrect": false
+      },
+      {
+        "text": "The component that determines the physical state of the solution",
+        "isCorrect": false
+      },
+      {
+        "text": "The component(s) present in smaller amounts",
+        "isCorrect": true
+      },
+      {
+        "text": "The component that evaporates first",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solute is the component present in smaller amounts in a solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "A mixture of oxygen and nitrogen gases is an example of which type of solution?",
+    "options": [
+      {
+        "text": "Gas in liquid",
+        "isCorrect": false
+      },
+      {
+        "text": "Liquid in gas",
+        "isCorrect": false
+      },
+      {
+        "text": "Gas in gas",
+        "isCorrect": true
+      },
+      {
+        "text": "Solid in gas",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A mixture of oxygen and nitrogen gases is an example of a gas in gas solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 14,
+    "questionText": "In a solution, if the solvent is a liquid and the solute is a solid, it is called:",
+    "options": [
+      {
+        "text": "Solid solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Liquid solution",
+        "isCorrect": true
+      },
+      {
+        "text": "Gas solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Colloid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the solvent is a liquid and the solute is a solid, it is referred to as a liquid solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which of the following is NOT a type of solution based on the physical state of the components?",
+    "options": [
+      {
+        "text": "Solid in gas",
+        "isCorrect": false
+      },
+      {
+        "text": "Gas in liquid",
+        "isCorrect": false
+      },
+      {
+        "text": "Liquid in solid",
+        "isCorrect": false
+      },
+      {
+        "text": "Colloid in gas",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "A colloid in gas is not considered a standard type of solution based on physical states.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 16,
+    "questionText": "What type of solution is formed when glucose is dissolved in water?",
+    "options": [
+      {
+        "text": "Gas in liquid",
+        "isCorrect": false
+      },
+      {
+        "text": "Liquid in liquid",
+        "isCorrect": false
+      },
+      {
+        "text": "Solid in liquid",
+        "isCorrect": true
+      },
+      {
+        "text": "Solid in solid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Glucose dissolved in water forms a solid in liquid solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which of the following represents a liquid in solid solution?",
+    "options": [
+      {
+        "text": "Amalgam of mercury with sodium",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol in water",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen in water",
+        "isCorrect": false
+      },
+      {
+        "text": "Sugar in water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An amalgam of mercury with sodium is an example of a liquid in solid solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which statement is true about solutions?",
+    "options": [
+      {
+        "text": "They are always liquids.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are always homogeneous.",
+        "isCorrect": true
+      },
+      {
+        "text": "They always contain water as a solvent.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are always colorless.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Solutions are homogeneous mixtures, meaning their composition is uniform throughout.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which example represents a gas in liquid solution?",
+    "options": [
+      {
+        "text": "Hydrogen in palladium",
+        "isCorrect": false
+      },
+      {
+        "text": "Camphor in nitrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen in water",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol in water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxygen dissolved in water is an example of a gas in liquid solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which of the following is true for an ideal solution?",
+    "options": [
+      {
+        "text": "Shows deviations from Raoult's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Enthalpy change of mixing is non-zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume change of mixing is zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Total vapor pressure is lower than expected",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An ideal solution has a volume change of mixing equal to zero and does not show deviations from Raoult's law.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "A solution where both solute and solvent are in solid state is called:",
+    "options": [
+      {
+        "text": "Solid solution",
+        "isCorrect": true
+      },
+      {
+        "text": "Liquid solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Gaseous solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Colloidal solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When both the solute and solvent are in solid state, it is referred to as a solid solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which of the following is an example of a liquid in gas solution?",
+    "options": [
+      {
+        "text": "Alcohol in water",
+        "isCorrect": false
+      },
+      {
+        "text": "Water vapor in air",
+        "isCorrect": true
+      },
+      {
+        "text": "Salt in water",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen in water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Water vapor in air is an example of a liquid in gas solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "What is the main characteristic of a solution?",
+    "options": [
+      {
+        "text": "It is always colorless.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a homogeneous mixture.",
+        "isCorrect": true
+      },
+      {
+        "text": "It always contains a liquid.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is always transparent.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main characteristic of a solution is that it is a homogeneous mixture.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which of the following correctly describes a colloidal solution?",
+    "options": [
+      {
+        "text": "It is a true solution with particle size less than 1 nm.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a heterogeneous mixture with particle size between 1 nm to 1000 nm.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is a suspension with particle size greater than 1000 nm.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a homogeneous mixture with particle size between 1 nm to 1000 nm.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A colloidal solution is a heterogeneous mixture with particle size between 1 nm to 1000 nm.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 25,
+    "questionText": "The ability of a solute to dissolve in a solvent to form a solution is called:",
+    "options": [
+      {
+        "text": "Saturation",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility",
+        "isCorrect": true
+      },
+      {
+        "text": "Concentration",
+        "isCorrect": false
+      },
+      {
+        "text": "Miscibility",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Solubility is the ability of a solute to dissolve in a solvent to form a solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 26,
+    "questionText": "A solution in which no more solute can be dissolved at a given temperature and pressure is called:",
+    "options": [
+      {
+        "text": "Unsaturated solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Saturated solution",
+        "isCorrect": true
+      },
+      {
+        "text": "Supersaturated solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Dilute solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A saturated solution is one in which no more solute can be dissolved at a given temperature and pressure.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "Which of the following describes a supersaturated solution?",
+    "options": [
+      {
+        "text": "A solution that contains less solute than it can hold at a given temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "A solution that can dissolve more solute at a given temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "A solution that contains more solute than it can theoretically hold at a given temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "A solution that is in equilibrium with undissolved solute",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A supersaturated solution contains more solute than it can theoretically hold at a given temperature.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 28,
+    "questionText": "The solubility of a gas in a liquid generally decreases with:",
+    "options": [
+      {
+        "text": "Decrease in temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Increase in pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Increase in temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Addition of more solvent",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solubility of a gas in a liquid generally decreases with an increase in temperature.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "Which of the following factors does NOT affect the solubility of a solid in a liquid?",
+    "options": [
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Nature of solute and solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "Intermolecular interactions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure does not significantly affect the solubility of a solid in a liquid.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 30,
+    "questionText": "The process by which solute particles leave the solid surface and enter the solution is called:",
+    "options": [
+      {
+        "text": "Crystallization",
+        "isCorrect": false
+      },
+      {
+        "text": "Dissolution",
+        "isCorrect": true
+      },
+      {
+        "text": "Sublimation",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaporation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dissolution is the process by which solute particles leave the solid surface and enter the solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which of the following is NOT an example of a solid solution?",
+    "options": [
+      {
+        "text": "Brass",
+        "isCorrect": false
+      },
+      {
+        "text": "Bronze",
+        "isCorrect": false
+      },
+      {
+        "text": "German silver",
+        "isCorrect": false
+      },
+      {
+        "text": "Salt in water",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Salt in water is a solid in liquid solution, not a solid solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 32,
+    "questionText": "The process in which solute particles separate out of the solution is called:",
+    "options": [
+      {
+        "text": "Dissolution",
+        "isCorrect": false
+      },
+      {
+        "text": "Crystallization",
+        "isCorrect": true
+      },
+      {
+        "text": "Sublimation",
+        "isCorrect": false
+      },
+      {
+        "text": "Melting",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Crystallization is the process in which solute particles separate out of the solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 33,
+    "questionText": "In a binary solution, the solvent is the component that:",
+    "options": [
+      {
+        "text": "Has the larger molar mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Has the smaller molar mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Is present in the larger amount",
+        "isCorrect": true
+      },
+      {
+        "text": "Is present in the smaller amount",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a binary solution, the solvent is the component present in the larger amount.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 34,
+    "questionText": "Which of the following is an example of a gas in solid solution?",
+    "options": [
+      {
+        "text": "Oxygen in water",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrogen in palladium",
+        "isCorrect": true
+      },
+      {
+        "text": "Nitrogen in air",
+        "isCorrect": false
+      },
+      {
+        "text": "Alcohol in water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hydrogen dissolved in palladium is an example of a gas in solid solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "The enthalpy change for the dissolution process is positive. What does it imply about the dissolution?",
+    "options": [
+      {
+        "text": "The process is exothermic",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is endothermic",
+        "isCorrect": true
+      },
+      {
+        "text": "The process does not involve energy change",
+        "isCorrect": false
+      },
+      {
+        "text": "The process releases heat",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A positive enthalpy change for the dissolution process implies that the process is endothermic.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 36,
+    "questionText": "Which of the following will have a higher boiling point elevation, assuming equal molal concentrations?",
+    "options": [
+      {
+        "text": "Non-electrolyte solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrolyte solution",
+        "isCorrect": true
+      },
+      {
+        "text": "Colloidal solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Suspension",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electrolyte solutions will have a higher boiling point elevation compared to non-electrolyte solutions, given the same molal concentration.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 37,
+    "questionText": "Which of the following is true for an ideal gas in a liquid solution?",
+    "options": [
+      {
+        "text": "It obeys Henry's law over the entire range of concentration.",
+        "isCorrect": true
+      },
+      {
+        "text": "It shows positive deviation from Henry's law.",
+        "isCorrect": false
+      },
+      {
+        "text": "It shows negative deviation from Henry's law.",
+        "isCorrect": false
+      },
+      {
+        "text": "It does not follow Henry's law.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An ideal gas in a liquid solution obeys Henry's law over the entire range of concentration.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 38,
+    "questionText": "What is the effect of temperature on the solubility of gases in liquids?",
+    "options": [
+      {
+        "text": "Solubility increases with increase in temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility decreases with increase in temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Solubility is independent of temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility first increases then decreases with temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solubility of gases in liquids generally decreases with an increase in temperature.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 39,
+    "questionText": "Which of the following is NOT a colligative property?",
+    "options": [
+      {
+        "text": "Vapor pressure lowering",
+        "isCorrect": false
+      },
+      {
+        "text": "Boiling point elevation",
+        "isCorrect": false
+      },
+      {
+        "text": "Freezing point depression",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Viscosity is not a colligative property; it does not depend on the number of solute particles.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 40,
+    "questionText": "The process of separating solute particles from solvent particles using a semi-permeable membrane is called:",
+    "options": [
+      {
+        "text": "Osmosis",
+        "isCorrect": true
+      },
+      {
+        "text": "Diffusion",
+        "isCorrect": false
+      },
+      {
+        "text": "Filtration",
+        "isCorrect": false
+      },
+      {
+        "text": "Sedimentation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Osmosis is the process of separating solute particles from solvent particles using a semi-permeable membrane.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 41,
+    "questionText": "What happens to the vapor pressure of a solvent when a non-volatile solute is added?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It first increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The vapor pressure of a solvent decreases when a non-volatile solute is added.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 42,
+    "questionText": "Which of the following examples best illustrates a solution?",
+    "options": [
+      {
+        "text": "Mixture of oil and water",
+        "isCorrect": false
+      },
+      {
+        "text": "Mixture of sand and salt",
+        "isCorrect": false
+      },
+      {
+        "text": "Mixture of sugar in water",
+        "isCorrect": true
+      },
+      {
+        "text": "Mixture of flour and water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A mixture of sugar in water is a true solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 43,
+    "questionText": "In which of the following states can solutions exist?",
+    "options": [
+      {
+        "text": "Only in liquid state",
+        "isCorrect": false
+      },
+      {
+        "text": "In solid, liquid, and gas states",
+        "isCorrect": true
+      },
+      {
+        "text": "Only in gas state",
+        "isCorrect": false
+      },
+      {
+        "text": "Only in solid state",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Solutions can exist in solid, liquid, and gas states.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 44,
+    "questionText": "Which factor primarily determines whether a solution is considered ideal or non-ideal?",
+    "options": [
+      {
+        "text": "The solute's chemical structure",
+        "isCorrect": false
+      },
+      {
+        "text": "The nature of intermolecular forces",
+        "isCorrect": true
+      },
+      {
+        "text": "The phase of the solute",
+        "isCorrect": false
+      },
+      {
+        "text": "The solvent's boiling point",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The nature of intermolecular forces between solute and solvent molecules determines whether a solution is ideal or non-ideal.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 45,
+    "questionText": "Which of the following is an example of a gas in liquid solution?",
+    "options": [
+      {
+        "text": "Chloroform mixed with nitrogen gas",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen dissolved in water",
+        "isCorrect": true
+      },
+      {
+        "text": "Glucose dissolved in water",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper dissolved in gold",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxygen dissolved in water is an example of a gas in liquid solution.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 46,
+    "questionText": "What is the primary reason for a positive deviation from Raoult's law in a solution?",
+    "options": [
+      {
+        "text": "Strong solute-solvent interactions",
+        "isCorrect": false
+      },
+      {
+        "text": "Weak solute-solvent interactions",
+        "isCorrect": true
+      },
+      {
+        "text": "High solute concentration",
+        "isCorrect": false
+      },
+      {
+        "text": "Low solvent concentration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A positive deviation from Raoult's law occurs due to weak solute-solvent interactions.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 47,
+    "questionText": "Which of the following represents an ideal solution?",
+    "options": [
+      {
+        "text": "Ethanol and acetone",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene and toluene",
+        "isCorrect": true
+      },
+      {
+        "text": "Water and ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetone and chloroform",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene and toluene form an ideal solution as they have similar molecular sizes and intermolecular forces.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 48,
+    "questionText": "What is the effect of pressure on the solubility of gases in liquids?",
+    "options": [
+      {
+        "text": "Solubility increases with increase in pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Solubility decreases with increase in pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility is independent of pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility first increases then decreases with pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solubility of gases in liquids generally increases with an increase in pressure.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 49,
+    "questionText": "What type of deviation from Raoult's law is observed when the total vapor pressure is lower than expected?",
+    "options": [
+      {
+        "text": "Positive deviation",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative deviation",
+        "isCorrect": true
+      },
+      {
+        "text": "No deviation",
+        "isCorrect": false
+      },
+      {
+        "text": "Ideal behavior",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A negative deviation from Raoult's law occurs when the total vapor pressure is lower than expected.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 50,
+    "questionText": "Which of the following correctly describes Henry's law?",
+    "options": [
+      {
+        "text": "The solubility of a gas in a liquid is directly proportional to the pressure of the gas above the liquid.",
+        "isCorrect": true
+      },
+      {
+        "text": "The solubility of a gas in a liquid is inversely proportional to the temperature of the liquid.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solubility of a gas in a liquid is independent of the nature of the gas.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solubility of a gas in a liquid is directly proportional to the volume of the liquid.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Henry's law states that the solubility of a gas in a liquid is directly proportional to the pressure of the gas above the liquid.",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is the mass percentage of a solution if 10 g of solute is dissolved in 90 g of solvent?",
+    "options": [
+      {
+        "text": "10%",
+        "isCorrect": false
+      },
+      {
+        "text": "11.1%",
+        "isCorrect": true
+      },
+      {
+        "text": "9.1%",
+        "isCorrect": false
+      },
+      {
+        "text": "15%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mass percentage = \\(\\frac{\\text{mass of solute}}{\\text{total mass of solution}} \\times 100\\% = \\frac{10}{100} \\times 100 = 11.1\\%\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "How is the volume percentage of a solution calculated?",
+    "options": [
+      {
+        "text": "\\(\\frac{\\text{Volume of solute}}{\\text{Volume of solvent}} \\times 100\\%",
+        "isCorrect": false
+      },
+      {
+        "text": "\\(\\frac{\\text{Volume of solute}}{\\text{Volume of solution}} \\times 100\\%",
+        "isCorrect": true
+      },
+      {
+        "text": "\\(\\frac{\\text{Volume of solvent}}{\\text{Volume of solution}} \\times 100\\%",
+        "isCorrect": false
+      },
+      {
+        "text": "\\(\\frac{\\text{Volume of solution}}{\\text{Volume of solute}} \\times 100\\%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volume percentage = \\(\\frac{\\text{Volume of solute}}{\\text{Volume of solution}} \\times 100\\%\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "Calculate the mole fraction of water in a solution containing 10 moles of water and 5 moles of ethanol.",
+    "options": [
+      {
+        "text": "0.33",
+        "isCorrect": false
+      },
+      {
+        "text": "0.66",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "0.67",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Mole fraction of water = \\(\\frac{\\text{moles of water}}{\\text{total moles}} = \\frac{10}{10+5} = 0.67\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is the molarity of a solution containing 5 moles of solute in 2 liters of solution?",
+    "options": [
+      {
+        "text": "2.5 M",
+        "isCorrect": false
+      },
+      {
+        "text": "5 M",
+        "isCorrect": false
+      },
+      {
+        "text": "10 M",
+        "isCorrect": true
+      },
+      {
+        "text": "2 M",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Molarity (M) = \\(\\frac{\\text{moles of solute}}{\\text{volume of solution in liters}} = \\frac{5}{2} = 2.5\\ M\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "Calculate the molality of a solution containing 10 grams of solute (molar mass = 50 g/mol) in 200 grams of solvent.",
+    "options": [
+      {
+        "text": "0.5 m",
+        "isCorrect": false
+      },
+      {
+        "text": "1.0 m",
+        "isCorrect": false
+      },
+      {
+        "text": "2.0 m",
+        "isCorrect": true
+      },
+      {
+        "text": "2.5 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Molality (m) = \\(\\frac{\\text{moles of solute}}{\\text{mass of solvent in kg}} = \\frac{10/50}{0.2} = 1.0\\ m\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "What is the mass by volume percentage of a solution if 25 grams of solute is dissolved in 250 mL of solution?",
+    "options": [
+      {
+        "text": "10%",
+        "isCorrect": true
+      },
+      {
+        "text": "20%",
+        "isCorrect": false
+      },
+      {
+        "text": "15%",
+        "isCorrect": false
+      },
+      {
+        "text": "25%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mass by volume percentage = \\(\\frac{\\text{mass of solute}}{\\text{volume of solution}} \\times 100\\% = \\frac{25}{250} \\times 100 = 10\\%\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "How is parts per million (ppm) concentration expressed?",
+    "options": [
+      {
+        "text": "\\(\\frac{\\text{mass of solute}}{\\text{total mass of solution}} \\times 10^6\\)",
+        "isCorrect": true
+      },
+      {
+        "text": "\\(\\frac{\\text{mass of solute}}{\\text{total mass of solution}} \\times 10^3\\)",
+        "isCorrect": false
+      },
+      {
+        "text": "\\(\\frac{\\text{volume of solute}}{\\text{total volume of solution}} \\times 10^3\\)",
+        "isCorrect": false
+      },
+      {
+        "text": "\\(\\frac{\\text{volume of solute}}{\\text{total volume of solution}} \\times 10^6\\)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Parts per million (ppm) = \\(\\frac{\\text{mass of solute}}{\\text{total mass of solution}} \\times 10^6\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "If a solution is described as 10% ethanol by volume, what does it mean?",
+    "options": [
+      {
+        "text": "10 mL of ethanol is dissolved in 90 mL of water",
+        "isCorrect": false
+      },
+      {
+        "text": "10 mL of ethanol is dissolved in enough water to make 100 mL of solution",
+        "isCorrect": true
+      },
+      {
+        "text": "10 grams of ethanol is dissolved in 100 mL of water",
+        "isCorrect": false
+      },
+      {
+        "text": "10 grams of ethanol is dissolved in enough water to make 100 mL of solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "10% ethanol by volume means 10 mL of ethanol is dissolved in enough water to make the total volume 100 mL.",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "Calculate the mass percentage of benzene (C6H6) if 22 grams of benzene is dissolved in 122 grams of carbon tetrachloride (CCl4).",
+    "options": [
+      {
+        "text": "15.3%",
+        "isCorrect": false
+      },
+      {
+        "text": "18.0%",
+        "isCorrect": true
+      },
+      {
+        "text": "20.0%",
+        "isCorrect": false
+      },
+      {
+        "text": "21.0%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mass percentage = \\(\\frac{\\text{mass of solute}}{\\text{total mass of solution}} \\times 100\\% = \\frac{22}{22 + 122} \\times 100 = 18\\%\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following concentration units is temperature-dependent?",
+    "options": [
+      {
+        "text": "Molality",
+        "isCorrect": false
+      },
+      {
+        "text": "Mole fraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Molarity",
+        "isCorrect": true
+      },
+      {
+        "text": "Mass percentage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Molarity is temperature-dependent because it involves volume, which can change with temperature.",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "What is the molarity of a solution containing 0.5 moles of NaCl in 250 mL of solution?",
+    "options": [
+      {
+        "text": "1 M",
+        "isCorrect": false
+      },
+      {
+        "text": "2 M",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5 M",
+        "isCorrect": false
+      },
+      {
+        "text": "2.0 M",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Molarity (M) = \\(\\frac{\\text{moles of solute}}{\\text{volume of solution in liters}} = \\frac{0.5}{0.25} = 2.0\\ M\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 12,
+    "questionText": "Calculate the mole fraction of ethanol in a solution containing 30 grams of ethanol (C2H5OH, molar mass = 46 g/mol) and 70 grams of water (H2O, molar mass = 18 g/mol).",
+    "options": [
+      {
+        "text": "0.15",
+        "isCorrect": false
+      },
+      {
+        "text": "0.25",
+        "isCorrect": true
+      },
+      {
+        "text": "0.35",
+        "isCorrect": false
+      },
+      {
+        "text": "0.45",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Moles of ethanol = \\(\\frac{30}{46} = 0.652\\) mol. Moles of water = \\(\\frac{70}{18} = 3.889\\) mol. Mole fraction of ethanol = \\(\\frac{0.652}{0.652 + 3.889} = 0.143\\), approximately 0.15.",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "If a solution contains 10 g of NaOH in 100 mL of solution, what is the mass by volume percentage?",
+    "options": [
+      {
+        "text": "5%",
+        "isCorrect": false
+      },
+      {
+        "text": "10%",
+        "isCorrect": true
+      },
+      {
+        "text": "15%",
+        "isCorrect": false
+      },
+      {
+        "text": "20%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mass by volume percentage = \\(\\frac{\\text{mass of solute}}{\\text{volume of solution}} \\times 100\\% = \\frac{10}{100} \\times 100 = 10\\%\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 14,
+    "questionText": "A solution has a molarity of 3 M and contains 6 moles of solute. What is the volume of the solution?",
+    "options": [
+      {
+        "text": "1 L",
+        "isCorrect": false
+      },
+      {
+        "text": "2 L",
+        "isCorrect": true
+      },
+      {
+        "text": "3 L",
+        "isCorrect": false
+      },
+      {
+        "text": "4 L",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volume of solution (L) = \\(\\frac{\\text{moles of solute}}{\\text{molarity}} = \\frac{6}{3} = 2\\ L\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the parts per million (ppm) concentration if 0.005 grams of solute is dissolved in 500 grams of solution?",
+    "options": [
+      {
+        "text": "5 ppm",
+        "isCorrect": false
+      },
+      {
+        "text": "10 ppm",
+        "isCorrect": false
+      },
+      {
+        "text": "20 ppm",
+        "isCorrect": true
+      },
+      {
+        "text": "50 ppm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Parts per million (ppm) = \\(\\frac{\\text{mass of solute}}{\\text{total mass of solution}} \\times 10^6 = \\frac{0.005}{500} \\times 10^6 = 10\\ ppm\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 16,
+    "questionText": "How is molality different from molarity?",
+    "options": [
+      {
+        "text": "Molality depends on temperature; molarity does not.",
+        "isCorrect": false
+      },
+      {
+        "text": "Molality involves volume; molarity involves mass.",
+        "isCorrect": false
+      },
+      {
+        "text": "Molality involves mass of solvent; molarity involves volume of solution.",
+        "isCorrect": true
+      },
+      {
+        "text": "Molality is used for gases; molarity is used for liquids.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Molality is defined as moles of solute per kilogram of solvent, while molarity is defined as moles of solute per liter of solution.",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "If a solution is 25% by mass of ethanol (C2H5OH), what is the mass of ethanol in 100 grams of solution?",
+    "options": [
+      {
+        "text": "10 grams",
+        "isCorrect": false
+      },
+      {
+        "text": "20 grams",
+        "isCorrect": false
+      },
+      {
+        "text": "25 grams",
+        "isCorrect": true
+      },
+      {
+        "text": "50 grams",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mass percentage = \\(\\frac{\\text{mass of solute}}{\\text{total mass of solution}} \\times 100\\%\\). For a 25% solution by mass, the mass of ethanol in 100 grams of solution is 25 grams.",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "A solution contains 1.5 moles of solute in 750 mL of solution. Calculate its molarity.",
+    "options": [
+      {
+        "text": "1 M",
+        "isCorrect": false
+      },
+      {
+        "text": "2 M",
+        "isCorrect": true
+      },
+      {
+        "text": "3 M",
+        "isCorrect": false
+      },
+      {
+        "text": "4 M",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Molarity (M) = \\(\\frac{\\text{moles of solute}}{\\text{volume of solution in liters}} = \\frac{1.5}{0.75} = 2\\ M\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "Calculate the mass of urea (NH2CONH2) required to prepare 2.5 kg of 0.25 molal solution in water.",
+    "options": [
+      {
+        "text": "35 grams",
+        "isCorrect": false
+      },
+      {
+        "text": "45 grams",
+        "isCorrect": false
+      },
+      {
+        "text": "75 grams",
+        "isCorrect": true
+      },
+      {
+        "text": "85 grams",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Molality (m) = \\(\\frac{\\text{moles of solute}}{\\text{mass of solvent in kg}}\\). Moles of urea = 0.25 mol/kg \\(\\times 2.5 kg = 0.625\\) mol. Molar mass of urea = 60 g/mol. Mass of urea = 0.625 \\(\\times 60 = 37.5\\) grams.",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 20,
+    "questionText": "What is the volume percentage if 30 mL of ethanol is dissolved in 70 mL of water?",
+    "options": [
+      {
+        "text": "20%",
+        "isCorrect": false
+      },
+      {
+        "text": "30%",
+        "isCorrect": true
+      },
+      {
+        "text": "40%",
+        "isCorrect": false
+      },
+      {
+        "text": "50%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volume percentage = \\(\\frac{\\text{volume of solute}}{\\text{total volume of solution}} \\times 100\\% = \\frac{30}{30+70} \\times 100 = 30\\%\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which unit of concentration is independent of temperature?",
+    "options": [
+      {
+        "text": "Molarity",
+        "isCorrect": false
+      },
+      {
+        "text": "Molality",
+        "isCorrect": true
+      },
+      {
+        "text": "Volume percentage",
+        "isCorrect": false
+      },
+      {
+        "text": "Mass percentage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Molality is defined as moles of solute per kilogram of solvent and is independent of temperature because it does not involve volume.",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 22,
+    "questionText": "What is the molarity of a solution containing 20 grams of KOH (molar mass = 56 g/mol) in 500 mL of solution?",
+    "options": [
+      {
+        "text": "0.5 M",
+        "isCorrect": false
+      },
+      {
+        "text": "0.71 M",
+        "isCorrect": true
+      },
+      {
+        "text": "1 M",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5 M",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Moles of KOH = \\(\\frac{20}{56} = 0.357\\) mol. Molarity (M) = \\(\\frac{\\text{moles of solute}}{\\text{volume of solution in liters}} = \\frac{0.357}{0.5} = 0.714\\ M\\), approximately 0.71 M.",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which of the following solutions has the highest molarity if each contains 1 mole of solute?",
+    "options": [
+      {
+        "text": "1 liter of solution",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5 liter of solution",
+        "isCorrect": true
+      },
+      {
+        "text": "2 liters of solution",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5 liters of solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Molarity (M) = \\(\\frac{\\text{moles of solute}}{\\text{volume of solution in liters}}\\). The solution with 0.5 liter of volume will have the highest molarity: \\(\\frac{1}{0.5} = 2\\ M\\).",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "What is the volume percentage of a solution prepared by mixing 40 mL of acetone with 60 mL of water?",
+    "options": [
+      {
+        "text": "40%",
+        "isCorrect": true
+      },
+      {
+        "text": "60%",
+        "isCorrect": false
+      },
+      {
+        "text": "50%",
+        "isCorrect": false
+      },
+      {
+        "text": "70%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volume percentage = \\(\\frac{\\text{volume of solute}}{\\text{total volume of solution}} \\times 100\\% = \\frac{40}{40+60} \\times 100 = 40\\%\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 25,
+    "questionText": "Calculate the mole fraction of water in a solution containing 180 grams of glucose (C6H12O6, molar mass = 180 g/mol) and 180 grams of water (H2O, molar mass = 18 g/mol).",
+    "options": [
+      {
+        "text": "0.1",
+        "isCorrect": true
+      },
+      {
+        "text": "0.2",
+        "isCorrect": false
+      },
+      {
+        "text": "0.3",
+        "isCorrect": false
+      },
+      {
+        "text": "0.4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Moles of glucose = \\(\\frac{180}{180} = 1\\) mol. Moles of water = \\(\\frac{180}{18} = 10\\) mol. Mole fraction of water = \\(\\frac{10}{10 + 1} = 0.909\\), approximately 0.1.",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "What is the molarity of a solution prepared by dissolving 0.5 moles of HCl in enough water to make 250 mL of solution?",
+    "options": [
+      {
+        "text": "1 M",
+        "isCorrect": false
+      },
+      {
+        "text": "2 M",
+        "isCorrect": true
+      },
+      {
+        "text": "0.5 M",
+        "isCorrect": false
+      },
+      {
+        "text": "4 M",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Molarity (M) = \\(\\frac{\\text{moles of solute}}{\\text{volume of solution in liters}} = \\frac{0.5}{0.25} = 2\\ M\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "If a solution is labeled as 5% by mass NaCl, how much NaCl is present in 200 grams of this solution?",
+    "options": [
+      {
+        "text": "5 grams",
+        "isCorrect": false
+      },
+      {
+        "text": "10 grams",
+        "isCorrect": true
+      },
+      {
+        "text": "15 grams",
+        "isCorrect": false
+      },
+      {
+        "text": "20 grams",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mass percentage = \\(\\frac{\\text{mass of solute}}{\\text{total mass of solution}} \\times 100\\%\\). For a 5% solution by mass, the mass of NaCl in 200 grams of solution is 10 grams.",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 28,
+    "questionText": "How many grams of solute are present in 1 liter of a 1.5 M solution of H2SO4 (molar mass = 98 g/mol)?",
+    "options": [
+      {
+        "text": "49 grams",
+        "isCorrect": false
+      },
+      {
+        "text": "98 grams",
+        "isCorrect": false
+      },
+      {
+        "text": "147 grams",
+        "isCorrect": true
+      },
+      {
+        "text": "196 grams",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Moles of H2SO4 = Molarity (M) \\(\\times\\) Volume (L) = 1.5 \\(\\times\\) 1 = 1.5 mol. Mass of H2SO4 = 1.5 \\(\\times\\) 98 = 147 grams.",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 29,
+    "questionText": "Which of the following statements is true about mole fraction?",
+    "options": [
+      {
+        "text": "It is always expressed as a percentage.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is always less than 1.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is independent of the amount of solvent.",
+        "isCorrect": false
+      },
+      {
+        "text": "It changes with temperature.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mole fraction is the ratio of the number of moles of a component to the total number of moles of all components in the solution, and it is always less than 1.",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 30,
+    "questionText": "What is the mass percentage of glucose (C6H12O6) in a solution prepared by dissolving 90 grams of glucose in 360 grams of water?",
+    "options": [
+      {
+        "text": "20%",
+        "isCorrect": true
+      },
+      {
+        "text": "25%",
+        "isCorrect": false
+      },
+      {
+        "text": "30%",
+        "isCorrect": false
+      },
+      {
+        "text": "35%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mass percentage = \\(\\frac{\\text{mass of solute}}{\\text{total mass of solution}} \\times 100\\% = \\frac{90}{90 + 360} \\times 100 = 20\\%\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 31,
+    "questionText": "If a solution has a concentration of 200 ppm, how much solute is present in 1 kg of solution?",
+    "options": [
+      {
+        "text": "0.2 grams",
+        "isCorrect": true
+      },
+      {
+        "text": "2 grams",
+        "isCorrect": false
+      },
+      {
+        "text": "20 grams",
+        "isCorrect": false
+      },
+      {
+        "text": "200 grams",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Parts per million (ppm) = \\(\\frac{\\text{mass of solute}}{\\text{total mass of solution}} \\times 10^6\\). For a 200 ppm solution, the mass of solute in 1 kg (1000 grams) of solution is 0.2 grams.",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 32,
+    "questionText": "A solution contains 30 grams of NaCl in 300 mL of solution. Calculate its molarity.",
+    "options": [
+      {
+        "text": "1.71 M",
+        "isCorrect": true
+      },
+      {
+        "text": "2.5 M",
+        "isCorrect": false
+      },
+      {
+        "text": "3 M",
+        "isCorrect": false
+      },
+      {
+        "text": "4 M",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Moles of NaCl = \\(\\frac{30}{58.5} = 0.513\\) mol. Molarity (M) = \\(\\frac{0.513}{0.3} = 1.71\\ M\\).",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 33,
+    "questionText": "What is the mass percentage if 10 grams of solute is dissolved in 90 grams of solvent?",
+    "options": [
+      {
+        "text": "10%",
+        "isCorrect": false
+      },
+      {
+        "text": "11.1%",
+        "isCorrect": true
+      },
+      {
+        "text": "9.1%",
+        "isCorrect": false
+      },
+      {
+        "text": "15%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mass percentage = \\(\\frac{\\text{mass of solute}}{\\text{total mass of solution}} \\times 100\\% = \\frac{10}{100} \\times 100 = 11.1\\%\\)",
+    "chapter": "Solutions",
+    "topic": "Expressing Concentration of Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is solubility?",
+    "options": [
+      {
+        "text": "The ability of a solute to dissolve in a solvent at a specific temperature and pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "The ability of a solvent to evaporate at a specific temperature and pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "The ability of a solute to crystallize out of a solution",
+        "isCorrect": false
+      },
+      {
+        "text": "The ability of a solution to change color at a specific temperature and pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Solubility is the ability of a solute to dissolve in a solvent at a specific temperature and pressure.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which of the following factors does NOT affect the solubility of a solute in a solvent?",
+    "options": [
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Nature of solute and solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "Color of solute",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The color of the solute does not affect its solubility.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "How does temperature affect the solubility of most solid solutes in liquid solvents?",
+    "options": [
+      {
+        "text": "Solubility decreases with an increase in temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility increases with an increase in temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Solubility remains constant with an increase in temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility first decreases and then increases with an increase in temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solubility of most solid solutes in liquid solvents increases with an increase in temperature.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which law explains the solubility of gases in liquids?",
+    "options": [
+      {
+        "text": "Raoult's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry's law",
+        "isCorrect": true
+      },
+      {
+        "text": "Boyle's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Charles's law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Henry's law explains the solubility of gases in liquids.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "According to Henry's law, the solubility of a gas in a liquid is directly proportional to:",
+    "options": [
+      {
+        "text": "The temperature of the liquid",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure of the gas above the liquid",
+        "isCorrect": true
+      },
+      {
+        "text": "The volume of the liquid",
+        "isCorrect": false
+      },
+      {
+        "text": "The nature of the gas",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Henry's law, the solubility of a gas in a liquid is directly proportional to the pressure of the gas above the liquid.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "What is the effect of pressure on the solubility of gases in liquids?",
+    "options": [
+      {
+        "text": "Solubility increases with an increase in pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Solubility decreases with an increase in pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility remains constant with an increase in pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility first decreases and then increases with an increase in pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solubility of gases in liquids increases with an increase in pressure.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which of the following statements is true about the solubility of ionic compounds in water?",
+    "options": [
+      {
+        "text": "Solubility decreases with an increase in temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility increases with an increase in temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Solubility is independent of temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility is independent of the nature of the ionic compound",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solubility of most ionic compounds in water increases with an increase in temperature.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which of the following factors affects the solubility of a solid in a liquid?",
+    "options": [
+      {
+        "text": "Temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume of the solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface area of the solute",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Temperature affects the solubility of a solid in a liquid.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "What happens to the solubility of a gas in water when the temperature increases?",
+    "options": [
+      {
+        "text": "Solubility increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Solubility remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility first decreases and then increases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solubility of a gas in water decreases when the temperature increases.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following gases is least soluble in water?",
+    "options": [
+      {
+        "text": "Oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Carbon dioxide",
+        "isCorrect": false
+      },
+      {
+        "text": "Ammonia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nitrogen is the least soluble in water among the given gases.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "HARD"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which of the following is NOT a factor affecting the solubility of a solid in a liquid?",
+    "options": [
+      {
+        "text": "Nature of the solute",
+        "isCorrect": false
+      },
+      {
+        "text": "Nature of the solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Pressure does not significantly affect the solubility of a solid in a liquid.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "How does the solubility of a solid solute in a liquid solvent typically change with increasing temperature?",
+    "options": [
+      {
+        "text": "It typically decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It typically increases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It first increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solubility of a solid solute in a liquid solvent typically increases with increasing temperature.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "The maximum amount of solute that can dissolve in a given quantity of solvent at a specific temperature is known as:",
+    "options": [
+      {
+        "text": "Saturation point",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility",
+        "isCorrect": true
+      },
+      {
+        "text": "Concentration",
+        "isCorrect": false
+      },
+      {
+        "text": "Equilibrium point",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Solubility is the maximum amount of solute that can dissolve in a given quantity of solvent at a specific temperature.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which of the following is an example of a gas that is more soluble in water than in organic solvents?",
+    "options": [
+      {
+        "text": "Oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Ammonia",
+        "isCorrect": true
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ammonia is more soluble in water than in organic solvents due to its polarity and ability to form hydrogen bonds with water molecules.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "HARD"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which of the following factors does NOT affect the solubility of gases in liquids?",
+    "options": [
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Nature of gas",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface area of the gas",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Surface area of the gas does not affect the solubility of gases in liquids.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "What is the effect of increasing the temperature on the solubility of most gases in water?",
+    "options": [
+      {
+        "text": "Increases solubility",
+        "isCorrect": false
+      },
+      {
+        "text": "Decreases solubility",
+        "isCorrect": true
+      },
+      {
+        "text": "No effect",
+        "isCorrect": false
+      },
+      {
+        "text": "First increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the temperature generally decreases the solubility of most gases in water.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which one of the following factors has the greatest impact on the solubility of a gas in a liquid?",
+    "options": [
+      {
+        "text": "Nature of the solute",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature of the liquid",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure of the gas above the liquid",
+        "isCorrect": true
+      },
+      {
+        "text": "Volume of the liquid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pressure of the gas above the liquid has the greatest impact on the solubility of a gas in a liquid.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "HARD"
+  },
+  {
+    "qno": 18,
+    "questionText": "In general, how does the solubility of ionic compounds in water change with increasing temperature?",
+    "options": [
+      {
+        "text": "It decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It first increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In general, the solubility of ionic compounds in water increases with increasing temperature.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "EASY"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which of the following substances is least soluble in water?",
+    "options": [
+      {
+        "text": "Sodium chloride",
+        "isCorrect": false
+      },
+      {
+        "text": "Calcium sulfate",
+        "isCorrect": true
+      },
+      {
+        "text": "Potassium nitrate",
+        "isCorrect": false
+      },
+      {
+        "text": "Ammonium chloride",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Calcium sulfate is less soluble in water compared to the other listed substances.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "HARD"
+  },
+  {
+    "qno": 20,
+    "questionText": "The solubility of a substance in water at a given temperature is 20 grams per 100 grams of water. If 25 grams of the substance is added to 100 grams of water at this temperature, what type of solution is formed?",
+    "options": [
+      {
+        "text": "Saturated solution",
+        "isCorrect": true
+      },
+      {
+        "text": "Unsaturated solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Supersaturated solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Dilute solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the solubility limit is 20 grams per 100 grams of water, adding 25 grams will result in a saturated solution where only 20 grams dissolve and 5 grams remain undissolved.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "When a gas dissolves in a liquid, the process is generally:",
+    "options": [
+      {
+        "text": "Endothermic",
+        "isCorrect": false
+      },
+      {
+        "text": "Exothermic",
+        "isCorrect": true
+      },
+      {
+        "text": "Isothermal",
+        "isCorrect": false
+      },
+      {
+        "text": "Adiabatic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dissolution of a gas in a liquid is generally an exothermic process.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which of the following gases is most soluble in water?",
+    "options": [
+      {
+        "text": "Nitrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "Ammonia",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydrogen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ammonia is highly soluble in water due to its ability to form hydrogen bonds with water molecules.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "HARD"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which of the following statements is true regarding the solubility of solids in liquids?",
+    "options": [
+      {
+        "text": "The solubility of solids generally decreases with an increase in temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solubility of solids generally increases with an increase in temperature.",
+        "isCorrect": true
+      },
+      {
+        "text": "The solubility of solids is independent of temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solubility of solids is highest at low temperatures.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solubility of most solid solutes in liquid solvents generally increases with an increase in temperature.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "What is the effect of adding a non-volatile solute on the boiling point of a solvent?",
+    "options": [
+      {
+        "text": "Boiling point decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Boiling point increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Boiling point remains unchanged",
+        "isCorrect": false
+      },
+      {
+        "text": "Boiling point first decreases then increases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding a non-volatile solute to a solvent increases its boiling point, a phenomenon known as boiling point elevation.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which one of the following statements is NOT true about the solubility of a gas in a liquid?",
+    "options": [
+      {
+        "text": "It increases with increasing pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "It is independent of the nature of the gas",
+        "isCorrect": true
+      },
+      {
+        "text": "It depends on the nature of the solvent",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solubility of a gas in a liquid is dependent on the nature of both the gas and the solvent.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "What is meant by the term 'saturated solution'?",
+    "options": [
+      {
+        "text": "A solution that contains less solute than it can dissolve at a given temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "A solution that can dissolve more solute at a given temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "A solution that contains the maximum amount of solute that can dissolve at a given temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "A solution that has precipitated solute",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A saturated solution contains the maximum amount of solute that can dissolve at a given temperature.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "EASY"
+  },
+  {
+    "qno": 27,
+    "questionText": "Which of the following compounds is least soluble in water?",
+    "options": [
+      {
+        "text": "Potassium nitrate",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodium chloride",
+        "isCorrect": false
+      },
+      {
+        "text": "Calcium carbonate",
+        "isCorrect": true
+      },
+      {
+        "text": "Ammonium chloride",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Calcium carbonate is known to have low solubility in water compared to the other listed compounds.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "HARD"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which of the following statements is true about a supersaturated solution?",
+    "options": [
+      {
+        "text": "It contains the maximum amount of solute that can dissolve at a given temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "It contains less solute than it can dissolve at a given temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "It contains more solute than it can theoretically hold at a given temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "It has no undissolved solute",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A supersaturated solution contains more solute than it can theoretically hold at a given temperature.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "The solubility of a gas in a liquid is inversely proportional to:",
+    "options": [
+      {
+        "text": "Temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Nature of the gas",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solubility of a gas in a liquid is inversely proportional to the temperature.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 30,
+    "questionText": "Which of the following statements is true about the solubility of solids in liquids?",
+    "options": [
+      {
+        "text": "It decreases with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases with increasing temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains constant with temperature changes",
+        "isCorrect": false
+      },
+      {
+        "text": "It first increases then decreases with temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solubility of most solid solutes in liquid solvents increases with increasing temperature.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "EASY"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which gas is least soluble in water?",
+    "options": [
+      {
+        "text": "Oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbon dioxide",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Ammonia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hydrogen is the least soluble in water among the given gases.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "HARD"
+  },
+  {
+    "qno": 32,
+    "questionText": "The solubility of a gas in a liquid at constant temperature is proportional to the:",
+    "options": [
+      {
+        "text": "Molar mass of the gas",
+        "isCorrect": false
+      },
+      {
+        "text": "Partial pressure of the gas",
+        "isCorrect": true
+      },
+      {
+        "text": "Volume of the liquid",
+        "isCorrect": false
+      },
+      {
+        "text": "Nature of the gas",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Henry's law, the solubility of a gas in a liquid at constant temperature is proportional to the partial pressure of the gas above the liquid.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 33,
+    "questionText": "Which of the following is a characteristic of a supersaturated solution?",
+    "options": [
+      {
+        "text": "It is in equilibrium with undissolved solute",
+        "isCorrect": false
+      },
+      {
+        "text": "It contains more solute than it can hold at a given temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "It contains the maximum amount of solute that can dissolve at a given temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "It is an unstable solution",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "A supersaturated solution is an unstable solution that contains more solute than it can hold at a given temperature.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "HARD"
+  },
+  {
+    "qno": 34,
+    "questionText": "How does the solubility of most ionic compounds in water change with an increase in temperature?",
+    "options": [
+      {
+        "text": "It decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It first increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The solubility of most ionic compounds in water increases with an increase in temperature.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "EASY"
+  },
+  {
+    "qno": 35,
+    "questionText": "Which of the following factors does NOT significantly affect the solubility of a gas in a liquid?",
+    "options": [
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Nature of the gas",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface area of the gas",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Surface area of the gas does not significantly affect the solubility of a gas in a liquid.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 36,
+    "questionText": "When a solution is in equilibrium with undissolved solute, it is called a:",
+    "options": [
+      {
+        "text": "Saturated solution",
+        "isCorrect": true
+      },
+      {
+        "text": "Unsaturated solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Supersaturated solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Dilute solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A solution in equilibrium with undissolved solute is called a saturated solution.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "EASY"
+  },
+  {
+    "qno": 37,
+    "questionText": "Which of the following is an example of a gas in liquid solution?",
+    "options": [
+      {
+        "text": "Salt in water",
+        "isCorrect": false
+      },
+      {
+        "text": "Sugar in tea",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbon dioxide in water",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxygen in air",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Carbon dioxide dissolved in water is an example of a gas in liquid solution.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 40,
+    "questionText": "Which of the following factors has the greatest impact on the solubility of a gas in a liquid?",
+    "options": [
+      {
+        "text": "Nature of the solute",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature of the liquid",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure of the gas above the liquid",
+        "isCorrect": true
+      },
+      {
+        "text": "Volume of the liquid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pressure of the gas above the liquid has the greatest impact on the solubility of a gas in a liquid.",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "level": "HARD"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is vapour pressure?",
+    "options": [
+      {
+        "text": "The pressure exerted by a vapor in equilibrium with its liquid at a given temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "The pressure exerted by a liquid in equilibrium with its solid at a given temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure exerted by a vapor in equilibrium with its solid at a given temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure exerted by a liquid in equilibrium with its gas at a given temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Vapour pressure is the pressure exerted by a vapor in equilibrium with its liquid at a given temperature.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which of the following factors does NOT affect the vapour pressure of a liquid?",
+    "options": [
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Nature of the liquid",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface area of the liquid",
+        "isCorrect": true
+      },
+      {
+        "text": "Presence of non-volatile solute",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The surface area of the liquid does not affect its vapour pressure.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "How does temperature affect the vapour pressure of a liquid?",
+    "options": [
+      {
+        "text": "Vapour pressure decreases with an increase in temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Vapour pressure increases with an increase in temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Vapour pressure remains constant with an increase in temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Vapour pressure first decreases and then increases with an increase in temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The vapour pressure of a liquid increases with an increase in temperature.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is Raoult's law?",
+    "options": [
+      {
+        "text": "The total vapour pressure of an ideal solution is equal to the sum of the partial vapour pressures of the components",
+        "isCorrect": true
+      },
+      {
+        "text": "The vapour pressure of a solution is directly proportional to the temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "The vapour pressure of a solution is inversely proportional to the concentration of solute",
+        "isCorrect": false
+      },
+      {
+        "text": "The total vapour pressure of an ideal solution is equal to the product of the vapour pressures of the components",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Raoult's law states that the total vapour pressure of an ideal solution is equal to the sum of the partial vapour pressures of the components.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "According to Raoult's law, the partial vapour pressure of a component in an ideal solution is:",
+    "options": [
+      {
+        "text": "Equal to the mole fraction of the component in the solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal to the product of the mole fraction and the vapour pressure of the pure component",
+        "isCorrect": true
+      },
+      {
+        "text": "Equal to the sum of the mole fractions of the components",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal to the difference between the mole fraction and the vapour pressure of the pure component",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Raoult's law, the partial vapour pressure of a component in an ideal solution is equal to the product of the mole fraction and the vapour pressure of the pure component.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which of the following is true for an ideal solution?",
+    "options": [
+      {
+        "text": "It shows positive deviation from Raoult's law",
+        "isCorrect": false
+      },
+      {
+        "text": "It shows negative deviation from Raoult's law",
+        "isCorrect": false
+      },
+      {
+        "text": "It obeys Raoult's law over the entire range of concentration",
+        "isCorrect": true
+      },
+      {
+        "text": "It has an enthalpy of mixing different from zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An ideal solution obeys Raoult's law over the entire range of concentration and has an enthalpy of mixing equal to zero.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "In a binary solution of volatile liquids A and B, the total vapour pressure is:",
+    "options": [
+      {
+        "text": "Less than the sum of the vapour pressures of pure A and B",
+        "isCorrect": false
+      },
+      {
+        "text": "Greater than the sum of the vapour pressures of pure A and B",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal to the sum of the partial vapour pressures of A and B",
+        "isCorrect": true
+      },
+      {
+        "text": "Equal to the difference of the partial vapour pressures of A and B",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a binary solution of volatile liquids A and B, the total vapour pressure is equal to the sum of the partial vapour pressures of A and B.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 8,
+    "questionText": "What happens to the vapour pressure of a solvent when a non-volatile solute is added?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It first increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The vapour pressure of a solvent decreases when a non-volatile solute is added.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which of the following represents a negative deviation from Raoult's law?",
+    "options": [
+      {
+        "text": "The total vapour pressure is higher than expected",
+        "isCorrect": false
+      },
+      {
+        "text": "The total vapour pressure is lower than expected",
+        "isCorrect": true
+      },
+      {
+        "text": "The total vapour pressure is equal to the sum of the partial vapour pressures",
+        "isCorrect": false
+      },
+      {
+        "text": "The total vapour pressure is equal to the product of the partial vapour pressures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A negative deviation from Raoult's law occurs when the total vapour pressure is lower than expected.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following statements is true about vapour pressure?",
+    "options": [
+      {
+        "text": "It is independent of temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases with an increase in temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases with an increase in temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains constant with an increase in temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Vapour pressure increases with an increase in temperature.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "How does the presence of a non-volatile solute affect the boiling point of a solvent?",
+    "options": [
+      {
+        "text": "It decreases the boiling point",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases the boiling point",
+        "isCorrect": true
+      },
+      {
+        "text": "It does not affect the boiling point",
+        "isCorrect": false
+      },
+      {
+        "text": "It first decreases and then increases the boiling point",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The presence of a non-volatile solute increases the boiling point of a solvent, a phenomenon known as boiling point elevation.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 12,
+    "questionText": "Which of the following statements is correct regarding the effect of a non-volatile solute on the vapour pressure of a solvent?",
+    "options": [
+      {
+        "text": "The vapour pressure of the solvent increases",
+        "isCorrect": false
+      },
+      {
+        "text": "The vapour pressure of the solvent decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "The vapour pressure of the solvent remains unchanged",
+        "isCorrect": false
+      },
+      {
+        "text": "The vapour pressure first increases and then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The vapour pressure of the solvent decreases when a non-volatile solute is added.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "In an ideal solution, the total vapour pressure is:",
+    "options": [
+      {
+        "text": "Less than the sum of the vapour pressures of the pure components",
+        "isCorrect": false
+      },
+      {
+        "text": "Greater than the sum of the vapour pressures of the pure components",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal to the sum of the partial vapour pressures of the components",
+        "isCorrect": true
+      },
+      {
+        "text": "Equal to the product of the partial vapour pressures of the components",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an ideal solution, the total vapour pressure is equal to the sum of the partial vapour pressures of the components.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "What happens to the vapour pressure of a liquid when the temperature is increased?",
+    "options": [
+      {
+        "text": "Vapour pressure decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Vapour pressure increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Vapour pressure remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Vapour pressure first decreases and then increases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The vapour pressure of a liquid increases when the temperature is increased.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 15,
+    "questionText": "According to Raoult's law, the partial vapour pressure of a component in a solution is directly proportional to:",
+    "options": [
+      {
+        "text": "The total vapour pressure of the solution",
+        "isCorrect": false
+      },
+      {
+        "text": "The mole fraction of the component in the solution",
+        "isCorrect": true
+      },
+      {
+        "text": "The volume of the solution",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature of the solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Raoult's law, the partial vapour pressure of a component in a solution is directly proportional to the mole fraction of the component in the solution.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which of the following solutions would exhibit the highest vapour pressure?",
+    "options": [
+      {
+        "text": "A solution with a non-volatile solute",
+        "isCorrect": false
+      },
+      {
+        "text": "A solution with a volatile solute",
+        "isCorrect": true
+      },
+      {
+        "text": "A pure solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "A colloidal solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A solution with a volatile solute would exhibit a higher vapour pressure compared to a solution with a non-volatile solute.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which of the following pairs of solutions is most likely to show a positive deviation from Raoult's law?",
+    "options": [
+      {
+        "text": "Acetone and ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene and toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol and water",
+        "isCorrect": false
+      },
+      {
+        "text": "Chloroform and acetone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acetone and ethanol are likely to show a positive deviation from Raoult's law due to weaker intermolecular interactions compared to their pure forms.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which of the following pairs of solutions is most likely to show a negative deviation from Raoult's law?",
+    "options": [
+      {
+        "text": "Chloroform and acetone",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene and toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol and water",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetone and ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chloroform and acetone are likely to show a negative deviation from Raoult's law due to stronger intermolecular interactions compared to their pure forms.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "What is the effect of adding a non-volatile solute to a solvent on the freezing point of the solution?",
+    "options": [
+      {
+        "text": "Freezing point increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Freezing point decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Freezing point remains unchanged",
+        "isCorrect": false
+      },
+      {
+        "text": "Freezing point first increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding a non-volatile solute to a solvent decreases the freezing point of the solution, a phenomenon known as freezing point depression.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 20,
+    "questionText": "In an ideal solution, how does the vapour pressure of each component compare to the vapour pressure of the pure component?",
+    "options": [
+      {
+        "text": "It is higher than the vapour pressure of the pure component",
+        "isCorrect": false
+      },
+      {
+        "text": "It is lower than the vapour pressure of the pure component",
+        "isCorrect": false
+      },
+      {
+        "text": "It is directly proportional to the mole fraction of the component",
+        "isCorrect": true
+      },
+      {
+        "text": "It is inversely proportional to the mole fraction of the component",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an ideal solution, the vapour pressure of each component is directly proportional to the mole fraction of the component.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which of the following statements is true about an ideal solution?",
+    "options": [
+      {
+        "text": "It has a volume change of mixing different from zero",
+        "isCorrect": false
+      },
+      {
+        "text": "It shows deviations from Raoult's law",
+        "isCorrect": false
+      },
+      {
+        "text": "It has an enthalpy of mixing equal to zero",
+        "isCorrect": true
+      },
+      {
+        "text": "It has a total vapour pressure different from the sum of the partial vapour pressures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An ideal solution has an enthalpy of mixing equal to zero and does not show deviations from Raoult's law.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "In a binary solution, if the total vapour pressure is lower than expected, what kind of deviation from Raoult's law does it show?",
+    "options": [
+      {
+        "text": "Positive deviation",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative deviation",
+        "isCorrect": true
+      },
+      {
+        "text": "No deviation",
+        "isCorrect": false
+      },
+      {
+        "text": "Ideal behavior",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A negative deviation from Raoult's law occurs when the total vapour pressure is lower than expected.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 23,
+    "questionText": "What is the effect of adding a non-volatile solute on the vapour pressure of a solvent?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains unchanged",
+        "isCorrect": false
+      },
+      {
+        "text": "It first increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The addition of a non-volatile solute decreases the vapour pressure of a solvent.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which of the following statements is true about an ideal solution?",
+    "options": [
+      {
+        "text": "It shows positive deviation from Raoult's law",
+        "isCorrect": false
+      },
+      {
+        "text": "It shows negative deviation from Raoult's law",
+        "isCorrect": false
+      },
+      {
+        "text": "It obeys Raoult's law over the entire range of concentration",
+        "isCorrect": true
+      },
+      {
+        "text": "It has an enthalpy of mixing different from zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An ideal solution obeys Raoult's law over the entire range of concentration.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which factor does NOT affect the vapour pressure of a liquid?",
+    "options": [
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Nature of the liquid",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface area of the liquid",
+        "isCorrect": true
+      },
+      {
+        "text": "Presence of non-volatile solute",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The surface area of the liquid does not affect its vapour pressure.",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Liquid Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is an ideal solution?",
+    "options": [
+      {
+        "text": "A solution that shows positive deviation from Raoult's law",
+        "isCorrect": false
+      },
+      {
+        "text": "A solution that shows negative deviation from Raoult's law",
+        "isCorrect": false
+      },
+      {
+        "text": "A solution that obeys Raoult's law over the entire range of concentration",
+        "isCorrect": true
+      },
+      {
+        "text": "A solution with an enthalpy of mixing different from zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An ideal solution obeys Raoult's law over the entire range of concentration and has an enthalpy of mixing equal to zero.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which of the following solutions is likely to show a positive deviation from Raoult's law?",
+    "options": [
+      {
+        "text": "Acetone and chloroform",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol and water",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene and toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetone and ethanol",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Acetone and ethanol show a positive deviation from Raoult's law due to weaker intermolecular interactions compared to their pure forms.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "What is a non-ideal solution?",
+    "options": [
+      {
+        "text": "A solution that shows positive deviation from Raoult's law",
+        "isCorrect": true
+      },
+      {
+        "text": "A solution that obeys Raoult's law over the entire range of concentration",
+        "isCorrect": false
+      },
+      {
+        "text": "A solution with an enthalpy of mixing equal to zero",
+        "isCorrect": false
+      },
+      {
+        "text": "A solution that shows no deviation from Raoult's law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A non-ideal solution shows either positive or negative deviation from Raoult's law.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which of the following is true for a non-ideal solution showing negative deviation from Raoult's law?",
+    "options": [
+      {
+        "text": "The total vapour pressure is higher than expected",
+        "isCorrect": false
+      },
+      {
+        "text": "The total vapour pressure is lower than expected",
+        "isCorrect": true
+      },
+      {
+        "text": "The total vapour pressure is equal to the sum of the partial vapour pressures",
+        "isCorrect": false
+      },
+      {
+        "text": "The total vapour pressure is equal to the product of the partial vapour pressures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A non-ideal solution showing negative deviation from Raoult's law has a total vapour pressure lower than expected.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which of the following pairs is most likely to form an ideal solution?",
+    "options": [
+      {
+        "text": "Acetone and ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene and toluene",
+        "isCorrect": true
+      },
+      {
+        "text": "Chloroform and acetone",
+        "isCorrect": false
+      },
+      {
+        "text": "Methanol and water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene and toluene are likely to form an ideal solution because they have similar molecular structures and intermolecular interactions.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which of the following characteristics is true for an ideal solution?",
+    "options": [
+      {
+        "text": "It has a volume change of mixing different from zero",
+        "isCorrect": false
+      },
+      {
+        "text": "It has an enthalpy change of mixing equal to zero",
+        "isCorrect": true
+      },
+      {
+        "text": "It shows positive deviation from Raoult's law",
+        "isCorrect": false
+      },
+      {
+        "text": "It shows negative deviation from Raoult's law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An ideal solution has an enthalpy change of mixing equal to zero and no volume change on mixing.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which of the following statements is true about a solution showing positive deviation from Raoult's law?",
+    "options": [
+      {
+        "text": "The intermolecular forces between unlike molecules are stronger than those between like molecules",
+        "isCorrect": false
+      },
+      {
+        "text": "The intermolecular forces between unlike molecules are weaker than those between like molecules",
+        "isCorrect": true
+      },
+      {
+        "text": "The total vapour pressure is lower than expected",
+        "isCorrect": false
+      },
+      {
+        "text": "The enthalpy of mixing is negative",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A solution showing positive deviation from Raoult's law has weaker intermolecular forces between unlike molecules than between like molecules.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 8,
+    "questionText": "What is the enthalpy change of mixing for an ideal solution?",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Cannot be determined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The enthalpy change of mixing for an ideal solution is zero.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which of the following statements is true for a solution showing negative deviation from Raoult's law?",
+    "options": [
+      {
+        "text": "The total vapour pressure is higher than expected",
+        "isCorrect": false
+      },
+      {
+        "text": "The total vapour pressure is lower than expected",
+        "isCorrect": true
+      },
+      {
+        "text": "The total vapour pressure is equal to the sum of the partial vapour pressures",
+        "isCorrect": false
+      },
+      {
+        "text": "The total vapour pressure is equal to the product of the partial vapour pressures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A solution showing negative deviation from Raoult's law has a total vapour pressure lower than expected.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following pairs of solutions is likely to show a positive deviation from Raoult's law?",
+    "options": [
+      {
+        "text": "Acetone and chloroform",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol and water",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene and toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetone and ethanol",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Acetone and ethanol show a positive deviation from Raoult's law due to weaker intermolecular interactions compared to their pure forms.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which of the following characteristics is true for a non-ideal solution?",
+    "options": [
+      {
+        "text": "It obeys Raoult's law over the entire range of concentration",
+        "isCorrect": false
+      },
+      {
+        "text": "It has an enthalpy change of mixing equal to zero",
+        "isCorrect": false
+      },
+      {
+        "text": "It shows either positive or negative deviation from Raoult's law",
+        "isCorrect": true
+      },
+      {
+        "text": "It has no volume change on mixing",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A non-ideal solution shows either positive or negative deviation from Raoult's law and has an enthalpy change of mixing different from zero.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "What happens to the vapour pressure of a non-ideal solution showing positive deviation from Raoult's law?",
+    "options": [
+      {
+        "text": "It is lower than expected",
+        "isCorrect": false
+      },
+      {
+        "text": "It is higher than expected",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It first increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The vapour pressure of a non-ideal solution showing positive deviation from Raoult's law is higher than expected due to weaker intermolecular forces between unlike molecules.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which of the following solutions is likely to show a negative deviation from Raoult's law?",
+    "options": [
+      {
+        "text": "Acetone and ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene and toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Chloroform and acetone",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol and water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chloroform and acetone show a negative deviation from Raoult's law due to stronger intermolecular interactions compared to their pure forms.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 14,
+    "questionText": "What is the volume change of mixing for an ideal solution?",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Cannot be determined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The volume change of mixing for an ideal solution is zero.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which of the following pairs is most likely to form a non-ideal solution with positive deviation from Raoult's law?",
+    "options": [
+      {
+        "text": "Acetone and chloroform",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene and toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetone and ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Methanol and water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acetone and ethanol form a non-ideal solution with positive deviation from Raoult's law due to weaker intermolecular interactions between unlike molecules.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which of the following pairs is most likely to form a non-ideal solution with negative deviation from Raoult's law?",
+    "options": [
+      {
+        "text": "Benzene and toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetone and ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Chloroform and acetone",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethanol and water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chloroform and acetone form a non-ideal solution with negative deviation from Raoult's law due to stronger intermolecular interactions between unlike molecules.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 18,
+    "questionText": "What is the effect of temperature on the vapour pressure of an ideal solution?",
+    "options": [
+      {
+        "text": "Vapour pressure decreases with an increase in temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Vapour pressure increases with an increase in temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Vapour pressure remains constant with an increase in temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Vapour pressure first decreases and then increases with an increase in temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The vapour pressure of an ideal solution increases with an increase in temperature.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which of the following statements is true for a solution showing positive deviation from Raoult's law?",
+    "options": [
+      {
+        "text": "The intermolecular forces between unlike molecules are stronger than those between like molecules",
+        "isCorrect": false
+      },
+      {
+        "text": "The intermolecular forces between unlike molecules are weaker than those between like molecules",
+        "isCorrect": true
+      },
+      {
+        "text": "The total vapour pressure is lower than expected",
+        "isCorrect": false
+      },
+      {
+        "text": "The enthalpy of mixing is negative",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A solution showing positive deviation from Raoult's law has weaker intermolecular forces between unlike molecules than between like molecules.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "HARD"
+  },
+  {
+    "qno": 50,
+    "questionText": "The total vapour pressure of an ideal solution is equal to:",
+    "options": [
+      {
+        "text": "The product of the mole fractions and the vapour pressures of the components",
+        "isCorrect": false
+      },
+      {
+        "text": "The sum of the partial vapour pressures of the components",
+        "isCorrect": true
+      },
+      {
+        "text": "The difference between the vapour pressures of the components",
+        "isCorrect": false
+      },
+      {
+        "text": "The sum of the mole fractions of the components",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total vapour pressure of an ideal solution is equal to the sum of the partial vapour pressures of the components.",
+    "chapter": "Solutions",
+    "topic": "Ideal and Non-ideal Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 1,
+    "questionText": "What are colligative properties?",
+    "options": [
+      {
+        "text": "Properties that depend on the nature of the solute particles",
+        "isCorrect": false
+      },
+      {
+        "text": "Properties that depend on the number of solute particles",
+        "isCorrect": true
+      },
+      {
+        "text": "Properties that depend on the nature of the solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "Properties that depend on the volume of the solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Colligative properties are properties that depend on the number of solute particles in a solution, not on the nature of the solute.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which of the following is NOT a colligative property?",
+    "options": [
+      {
+        "text": "Boiling point elevation",
+        "isCorrect": false
+      },
+      {
+        "text": "Freezing point depression",
+        "isCorrect": false
+      },
+      {
+        "text": "Vapour pressure lowering",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Viscosity is not a colligative property. Colligative properties include boiling point elevation, freezing point depression, vapour pressure lowering, and osmotic pressure.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "What is the formula for the elevation of boiling point?",
+    "options": [
+      {
+        "text": "$\\Delta T_b = i \\cdot K_b \\cdot m$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta T_b = K_b \\cdot m$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta T_b = K_f \\cdot m$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta T_b = i \\cdot K_f \\cdot m$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for the elevation of boiling point is $\\Delta T_b = i \\cdot K_b \\cdot m$, where $i$ is the van't Hoff factor, $K_b$ is the ebullioscopic constant, and $m$ is the molality of the solution.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "HARD"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is the van't Hoff factor?",
+    "options": [
+      {
+        "text": "A factor that represents the effect of ionization on colligative properties",
+        "isCorrect": true
+      },
+      {
+        "text": "A factor that represents the molar mass of the solute",
+        "isCorrect": false
+      },
+      {
+        "text": "A factor that represents the volume of the solution",
+        "isCorrect": false
+      },
+      {
+        "text": "A factor that represents the nature of the solvent",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The van't Hoff factor, denoted as $i$, represents the effect of ionization on colligative properties. It accounts for the number of particles into which a solute dissociates in solution.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which of the following correctly defines the osmotic pressure?",
+    "options": [
+      {
+        "text": "The pressure required to stop the flow of solvent through a semipermeable membrane",
+        "isCorrect": true
+      },
+      {
+        "text": "The pressure exerted by a vapor in equilibrium with its liquid",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure required to raise the boiling point of a solution",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure required to lower the freezing point of a solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Osmotic pressure is the pressure required to stop the flow of solvent through a semipermeable membrane separating two solutions of different concentrations.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which colligative property is used in the determination of molar mass using the freezing point depression method?",
+    "options": [
+      {
+        "text": "Boiling point elevation",
+        "isCorrect": false
+      },
+      {
+        "text": "Freezing point depression",
+        "isCorrect": true
+      },
+      {
+        "text": "Vapour pressure lowering",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmotic pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The freezing point depression method uses the colligative property of freezing point depression to determine the molar mass of a solute.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "HARD"
+  },
+  {
+    "qno": 7,
+    "questionText": "What is the formula for osmotic pressure?",
+    "options": [
+      {
+        "text": "$\\pi = i \\cdot M \\cdot R \\cdot T$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\pi = M \\cdot R \\cdot T$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\pi = i \\cdot K_b \\cdot m$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\pi = K_f \\cdot m$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for osmotic pressure is $\\pi = i \\cdot M \\cdot R \\cdot T$, where $\\pi$ is the osmotic pressure, $i$ is the van't Hoff factor, $M$ is the molarity, $R$ is the gas constant, and $T$ is the temperature in Kelvin.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which of the following best describes freezing point depression?",
+    "options": [
+      {
+        "text": "The decrease in vapour pressure of a solution compared to the pure solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "The decrease in the freezing point of a solution compared to the pure solvent",
+        "isCorrect": true
+      },
+      {
+        "text": "The increase in the boiling point of a solution compared to the pure solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "The increase in the osmotic pressure of a solution compared to the pure solvent",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Freezing point depression is the decrease in the freezing point of a solution compared to the pure solvent, caused by the addition of a non-volatile solute.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "How is the molar mass of a solute determined using boiling point elevation?",
+    "options": [
+      {
+        "text": "By measuring the change in vapour pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "By measuring the change in boiling point",
+        "isCorrect": true
+      },
+      {
+        "text": "By measuring the change in freezing point",
+        "isCorrect": false
+      },
+      {
+        "text": "By measuring the osmotic pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The molar mass of a solute is determined using boiling point elevation by measuring the change in boiling point of the solution compared to the pure solvent.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "HARD"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which colligative property is used in the determination of molar mass using the osmotic pressure method?",
+    "options": [
+      {
+        "text": "Boiling point elevation",
+        "isCorrect": false
+      },
+      {
+        "text": "Freezing point depression",
+        "isCorrect": false
+      },
+      {
+        "text": "Vapour pressure lowering",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmotic pressure",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The osmotic pressure method uses the colligative property of osmotic pressure to determine the molar mass of a solute.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "HARD"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the formula for freezing point depression?",
+    "options": [
+      {
+        "text": "$\\Delta T_f = i \\cdot K_f \\cdot m$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta T_f = K_f \\cdot m$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta T_f = i \\cdot K_b \\cdot m$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta T_f = K_b \\cdot m$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for freezing point depression is $\\Delta T_f = i \\cdot K_f \\cdot m$, where $i$ is the van't Hoff factor, $K_f$ is the cryoscopic constant, and $m$ is the molality of the solution.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which of the following best describes boiling point elevation?",
+    "options": [
+      {
+        "text": "The decrease in vapour pressure of a solution compared to the pure solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "The increase in the boiling point of a solution compared to the pure solvent",
+        "isCorrect": true
+      },
+      {
+        "text": "The decrease in the freezing point of a solution compared to the pure solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "The increase in the osmotic pressure of a solution compared to the pure solvent",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Boiling point elevation is the increase in the boiling point of a solution compared to the pure solvent, caused by the addition of a non-volatile solute.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "EASY"
+  },
+  {
+    "qno": 14,
+    "questionText": "How does the presence of a non-volatile solute affect the vapour pressure of a solvent?",
+    "options": [
+      {
+        "text": "It increases the vapour pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases the vapour pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "It does not affect the vapour pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "It first increases and then decreases the vapour pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The presence of a non-volatile solute decreases the vapour pressure of a solvent.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which of the following colligative properties can be used to determine the molar mass of a solute?",
+    "options": [
+      {
+        "text": "Boiling point elevation",
+        "isCorrect": true
+      },
+      {
+        "text": "Freezing point depression",
+        "isCorrect": true
+      },
+      {
+        "text": "Vapour pressure lowering",
+        "isCorrect": true
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All of the mentioned colligative properties (boiling point elevation, freezing point depression, and vapour pressure lowering) can be used to determine the molar mass of a solute.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "HARD"
+  },
+  {
+    "qno": 16,
+    "questionText": "What is the effect of adding a non-volatile solute on the freezing point of a solvent?",
+    "options": [
+      {
+        "text": "Freezing point decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Freezing point increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Freezing point remains unchanged",
+        "isCorrect": false
+      },
+      {
+        "text": "Freezing point first increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding a non-volatile solute to a solvent decreases its freezing point, a phenomenon known as freezing point depression.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "What is the relationship between molar mass and colligative properties?",
+    "options": [
+      {
+        "text": "Molar mass is inversely proportional to colligative properties",
+        "isCorrect": false
+      },
+      {
+        "text": "Molar mass is directly proportional to colligative properties",
+        "isCorrect": true
+      },
+      {
+        "text": "Molar mass is unrelated to colligative properties",
+        "isCorrect": false
+      },
+      {
+        "text": "Molar mass first increases then decreases with colligative properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Molar mass is directly proportional to colligative properties, which can be used to determine the molar mass of a solute in a solution.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which constant is used in the calculation of freezing point depression?",
+    "options": [
+      {
+        "text": "Ebullioscopic constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Cryoscopic constant",
+        "isCorrect": true
+      },
+      {
+        "text": "Gas constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Planck constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The cryoscopic constant, denoted as $K_f$, is used in the calculation of freezing point depression.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "EASY"
+  },
+  {
+    "qno": 19,
+    "questionText": "What is the effect of adding a non-volatile solute on the osmotic pressure of a solvent?",
+    "options": [
+      {
+        "text": "Osmotic pressure decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmotic pressure increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Osmotic pressure remains unchanged",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmotic pressure first decreases then increases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding a non-volatile solute to a solvent increases its osmotic pressure.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which of the following colligative properties is most commonly used for the determination of molar mass of macromolecules?",
+    "options": [
+      {
+        "text": "Boiling point elevation",
+        "isCorrect": false
+      },
+      {
+        "text": "Freezing point depression",
+        "isCorrect": false
+      },
+      {
+        "text": "Vapour pressure lowering",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmotic pressure",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Osmotic pressure is most commonly used for the determination of molar mass of macromolecules due to its sensitivity to small changes in solute concentration.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "HARD"
+  },
+  {
+    "qno": 21,
+    "questionText": "What is the unit of the ebullioscopic constant ($K_b$)?",
+    "options": [
+      {
+        "text": "K kg/mol",
+        "isCorrect": true
+      },
+      {
+        "text": "K mol/kg",
+        "isCorrect": false
+      },
+      {
+        "text": "mol/K kg",
+        "isCorrect": false
+      },
+      {
+        "text": "kg/K mol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ebullioscopic constant ($K_b$) has the unit K kg/mol.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "EASY"
+  },
+  {
+    "qno": 22,
+    "questionText": "How does the presence of a non-volatile solute affect the colligative properties of a solution?",
+    "options": [
+      {
+        "text": "It increases all colligative properties",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases all colligative properties",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases boiling point elevation and freezing point depression",
+        "isCorrect": true
+      },
+      {
+        "text": "It decreases boiling point elevation and freezing point depression",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The presence of a non-volatile solute increases boiling point elevation and freezing point depression, which are colligative properties.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "What is the cryoscopic constant ($K_f$)?",
+    "options": [
+      {
+        "text": "A constant used in the calculation of boiling point elevation",
+        "isCorrect": false
+      },
+      {
+        "text": "A constant used in the calculation of freezing point depression",
+        "isCorrect": true
+      },
+      {
+        "text": "A constant used in the calculation of osmotic pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "A constant used in the calculation of vapour pressure lowering",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The cryoscopic constant ($K_f$) is used in the calculation of freezing point depression.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "What is the relationship between the number of solute particles and colligative properties?",
+    "options": [
+      {
+        "text": "Colligative properties are directly proportional to the number of solute particles",
+        "isCorrect": true
+      },
+      {
+        "text": "Colligative properties are inversely proportional to the number of solute particles",
+        "isCorrect": false
+      },
+      {
+        "text": "Colligative properties are independent of the number of solute particles",
+        "isCorrect": false
+      },
+      {
+        "text": "Colligative properties first increase and then decrease with the number of solute particles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Colligative properties are directly proportional to the number of solute particles in a solution.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which of the following equations represents the relation for osmotic pressure?",
+    "options": [
+      {
+        "text": "$\\pi = i \\cdot M \\cdot R \\cdot T$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\pi = K_b \\cdot m$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\pi = K_f \\cdot m$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\pi = i \\cdot K_f \\cdot m$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The relation for osmotic pressure is given by $\\pi = i \\cdot M \\cdot R \\cdot T$, where $i$ is the van't Hoff factor, $M$ is the molarity, $R$ is the gas constant, and $T$ is the temperature in Kelvin.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "What is the unit of the cryoscopic constant ($K_f$)?",
+    "options": [
+      {
+        "text": "K kg/mol",
+        "isCorrect": true
+      },
+      {
+        "text": "K mol/kg",
+        "isCorrect": false
+      },
+      {
+        "text": "mol/K kg",
+        "isCorrect": false
+      },
+      {
+        "text": "kg/K mol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The cryoscopic constant ($K_f$) has the unit K kg/mol.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "EASY"
+  },
+  {
+    "qno": 27,
+    "questionText": "Which of the following best describes vapour pressure lowering?",
+    "options": [
+      {
+        "text": "The decrease in vapour pressure of a solution compared to the pure solvent",
+        "isCorrect": true
+      },
+      {
+        "text": "The increase in the vapour pressure of a solution compared to the pure solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "The decrease in the freezing point of a solution compared to the pure solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "The increase in the boiling point of a solution compared to the pure solvent",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Vapour pressure lowering is the decrease in the vapour pressure of a solution compared to the pure solvent, caused by the addition of a non-volatile solute.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which of the following colligative properties is used in the determination of molar mass using the freezing point depression method?",
+    "options": [
+      {
+        "text": "Boiling point elevation",
+        "isCorrect": false
+      },
+      {
+        "text": "Freezing point depression",
+        "isCorrect": true
+      },
+      {
+        "text": "Vapour pressure lowering",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmotic pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The freezing point depression method uses the colligative property of freezing point depression to determine the molar mass of a solute.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "HARD"
+  },
+  {
+    "qno": 29,
+    "questionText": "Which of the following is true about colligative properties?",
+    "options": [
+      {
+        "text": "They depend on the nature of the solute particles",
+        "isCorrect": false
+      },
+      {
+        "text": "They depend on the number of solute particles",
+        "isCorrect": true
+      },
+      {
+        "text": "They depend on the nature of the solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "They depend on the volume of the solution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Colligative properties depend on the number of solute particles in a solution, not on the nature of the solute.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "EASY"
+  },
+  {
+    "qno": 50,
+    "questionText": "Which of the following correctly defines the van't Hoff factor?",
+    "options": [
+      {
+        "text": "A factor that represents the effect of ionization on colligative properties",
+        "isCorrect": true
+      },
+      {
+        "text": "A factor that represents the molar mass of the solute",
+        "isCorrect": false
+      },
+      {
+        "text": "A factor that represents the volume of the solution",
+        "isCorrect": false
+      },
+      {
+        "text": "A factor that represents the nature of the solvent",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The van't Hoff factor, denoted as $i$, represents the effect of ionization on colligative properties. It accounts for the number of particles into which a solute dissociates in solution.",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties and Determination of Molar Mass",
+    "level": "EASY"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is an abnormal molar mass?",
+    "options": [
+      {
+        "text": "A molar mass that differs from the theoretical value due to association or dissociation of solute particles",
+        "isCorrect": true
+      },
+      {
+        "text": "A molar mass that is equal to the molecular weight of the solute",
+        "isCorrect": false
+      },
+      {
+        "text": "A molar mass that does not change with temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "A molar mass that is unaffected by colligative properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An abnormal molar mass is a molar mass that differs from the theoretical value due to association or dissociation of solute particles.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which phenomenon can cause an abnormal molar mass?",
+    "options": [
+      {
+        "text": "Association of solute molecules",
+        "isCorrect": true
+      },
+      {
+        "text": "Boiling of the solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "Freezing of the solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Mixing of solute and solvent",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Association of solute molecules can cause an abnormal molar mass, leading to a higher observed molar mass.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "How does dissociation of solute particles affect the molar mass?",
+    "options": [
+      {
+        "text": "It increases the observed molar mass",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases the observed molar mass",
+        "isCorrect": true
+      },
+      {
+        "text": "It does not affect the molar mass",
+        "isCorrect": false
+      },
+      {
+        "text": "It doubles the molar mass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dissociation of solute particles decreases the observed molar mass because it increases the number of particles in solution.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "HARD"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which of the following can cause a lower than expected molar mass?",
+    "options": [
+      {
+        "text": "Association of solute particles",
+        "isCorrect": false
+      },
+      {
+        "text": "Dissociation of solute particles",
+        "isCorrect": true
+      },
+      {
+        "text": "No change in the number of solute particles",
+        "isCorrect": false
+      },
+      {
+        "text": "A pure solvent",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dissociation of solute particles can cause a lower than expected molar mass because it increases the number of particles in solution.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which colligative property can be used to detect abnormal molar masses due to association or dissociation?",
+    "options": [
+      {
+        "text": "Boiling point elevation",
+        "isCorrect": true
+      },
+      {
+        "text": "Freezing point depression",
+        "isCorrect": true
+      },
+      {
+        "text": "Osmotic pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All of the mentioned colligative properties (boiling point elevation, freezing point depression, and osmotic pressure) can be used to detect abnormal molar masses due to association or dissociation.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "HARD"
+  },
+  {
+    "qno": 6,
+    "questionText": "What happens to the van't Hoff factor ($i$) when a solute undergoes dissociation?",
+    "options": [
+      {
+        "text": "It becomes greater than 1",
+        "isCorrect": true
+      },
+      {
+        "text": "It becomes less than 1",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains equal to 1",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a solute undergoes dissociation, the van't Hoff factor ($i$) becomes greater than 1 because the number of particles in solution increases.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which equation is used to calculate the van't Hoff factor?",
+    "options": [
+      {
+        "text": "$i = \frac{\text{Observed molar mass}}{\text{Theoretical molar mass}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$i = \frac{\text{Theoretical molar mass}}{\text{Observed molar mass}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$i = \frac{\text{Colligative property}}{\text{Number of particles}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$i = \frac{\text{Number of particles}}{\text{Colligative property}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The van't Hoff factor ($i$) is calculated using the equation $i = \frac{\text{Theoretical molar mass}}{\text{Observed molar mass}}$.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "HARD"
+  },
+  {
+    "qno": 8,
+    "questionText": "What does a van't Hoff factor less than 1 indicate?",
+    "options": [
+      {
+        "text": "Association of solute particles",
+        "isCorrect": true
+      },
+      {
+        "text": "Dissociation of solute particles",
+        "isCorrect": false
+      },
+      {
+        "text": "No change in the number of particles",
+        "isCorrect": false
+      },
+      {
+        "text": "Increase in the number of particles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A van't Hoff factor less than 1 indicates association of solute particles, leading to a decrease in the number of particles in solution.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "How does association of solute particles affect the colligative properties?",
+    "options": [
+      {
+        "text": "It decreases the colligative properties",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases the colligative properties",
+        "isCorrect": false
+      },
+      {
+        "text": "It does not affect the colligative properties",
+        "isCorrect": false
+      },
+      {
+        "text": "It first increases then decreases the colligative properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Association of solute particles decreases the colligative properties because it reduces the number of particles in solution.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following scenarios would lead to an observed molar mass that is higher than the theoretical molar mass?",
+    "options": [
+      {
+        "text": "Dissociation of solute particles",
+        "isCorrect": false
+      },
+      {
+        "text": "Association of solute particles",
+        "isCorrect": true
+      },
+      {
+        "text": "No change in the number of solute particles",
+        "isCorrect": false
+      },
+      {
+        "text": "Increasing the temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Association of solute particles would lead to an observed molar mass that is higher than the theoretical molar mass.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "How does the van't Hoff factor ($i$) change with increasing association of solute particles?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It first increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The van't Hoff factor ($i$) decreases with increasing association of solute particles because the number of particles in solution decreases.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "HARD"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the effect of increasing dissociation on the van't Hoff factor ($i$)?",
+    "options": [
+      {
+        "text": "It decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It first decreases then increases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The van't Hoff factor ($i$) increases with increasing dissociation because the number of particles in solution increases.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which of the following statements is true for a solution showing abnormal molar mass due to association?",
+    "options": [
+      {
+        "text": "The number of solute particles decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "The number of solute particles increases",
+        "isCorrect": false
+      },
+      {
+        "text": "The colligative properties increase",
+        "isCorrect": false
+      },
+      {
+        "text": "The van't Hoff factor is greater than 1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a solution showing abnormal molar mass due to association, the number of solute particles decreases, leading to a lower van't Hoff factor.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "HARD"
+  },
+  {
+    "qno": 15,
+    "questionText": "What does a van't Hoff factor greater than 1 indicate?",
+    "options": [
+      {
+        "text": "Dissociation of solute particles",
+        "isCorrect": true
+      },
+      {
+        "text": "Association of solute particles",
+        "isCorrect": false
+      },
+      {
+        "text": "No change in the number of particles",
+        "isCorrect": false
+      },
+      {
+        "text": "Decrease in the number of particles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A van't Hoff factor greater than 1 indicates dissociation of solute particles, leading to an increase in the number of particles in solution.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which of the following scenarios would lead to an observed molar mass that is lower than the theoretical molar mass?",
+    "options": [
+      {
+        "text": "Dissociation of solute particles",
+        "isCorrect": true
+      },
+      {
+        "text": "Association of solute particles",
+        "isCorrect": false
+      },
+      {
+        "text": "No change in the number of solute particles",
+        "isCorrect": false
+      },
+      {
+        "text": "Decreasing the temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dissociation of solute particles would lead to an observed molar mass that is lower than the theoretical molar mass.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "HARD"
+  },
+  {
+    "qno": 17,
+    "questionText": "How is the van't Hoff factor ($i$) related to the degree of dissociation ($\\alpha$)?",
+    "options": [
+      {
+        "text": "$i = 1 + \\alpha (n - 1)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$i = 1 - \\alpha (n - 1)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$i = 1 + \frac{\\alpha}{(n - 1)}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$i = 1 - \frac{\\alpha}{(n - 1)}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The van't Hoff factor ($i$) is related to the degree of dissociation ($\\alpha$) by the equation $i = 1 + \\alpha (n - 1)$, where $n$ is the number of particles the solute dissociates into.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "What is the observed molar mass of a solute if it undergoes complete dissociation in water?",
+    "options": [
+      {
+        "text": "Equal to the theoretical molar mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Less than the theoretical molar mass",
+        "isCorrect": true
+      },
+      {
+        "text": "Greater than the theoretical molar mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Unchanged from the theoretical molar mass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If a solute undergoes complete dissociation in water, the observed molar mass is less than the theoretical molar mass due to the increased number of particles in solution.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which of the following is an example of association leading to abnormal molar masses?",
+    "options": [
+      {
+        "text": "Formation of dimers",
+        "isCorrect": true
+      },
+      {
+        "text": "Ionization of salts",
+        "isCorrect": false
+      },
+      {
+        "text": "Dissociation of acids",
+        "isCorrect": false
+      },
+      {
+        "text": "Dissociation of bases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Formation of dimers is an example of association, where two or more molecules combine to form a larger particle, leading to abnormal molar masses.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "EASY"
+  },
+  {
+    "qno": 20,
+    "questionText": "What is the effect of association on colligative properties?",
+    "options": [
+      {
+        "text": "It increases colligative properties",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases colligative properties",
+        "isCorrect": true
+      },
+      {
+        "text": "It has no effect on colligative properties",
+        "isCorrect": false
+      },
+      {
+        "text": "It first increases then decreases colligative properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Association decreases colligative properties because it reduces the number of solute particles in the solution.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "What is the observed molar mass of a solute if it undergoes partial dissociation in water?",
+    "options": [
+      {
+        "text": "Equal to the theoretical molar mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Less than the theoretical molar mass",
+        "isCorrect": true
+      },
+      {
+        "text": "Greater than the theoretical molar mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Unchanged from the theoretical molar mass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If a solute undergoes partial dissociation in water, the observed molar mass is less than the theoretical molar mass due to the increased number of particles in solution.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "HARD"
+  },
+  {
+    "qno": 22,
+    "questionText": "How is the degree of association ($\\alpha$) calculated?",
+    "options": [
+      {
+        "text": "$\\alpha = \frac{(i - 1)}{(n - 1)}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\alpha = \frac{(1 - i)}{(n - 1)}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\alpha = \frac{(i + 1)}{(n + 1)}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\alpha = \frac{(1 + i)}{(n + 1)}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The degree of association ($\\alpha$) is calculated using the equation $\\alpha = \frac{(1 - i)}{(n - 1)}$, where $i$ is the van't Hoff factor and $n$ is the number of particles the solute associates into.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which of the following indicates the presence of abnormal molar masses?",
+    "options": [
+      {
+        "text": "The van't Hoff factor ($i$) is equal to 1",
+        "isCorrect": false
+      },
+      {
+        "text": "The van't Hoff factor ($i$) is greater than or less than 1",
+        "isCorrect": true
+      },
+      {
+        "text": "The van't Hoff factor ($i$) is less than 1",
+        "isCorrect": false
+      },
+      {
+        "text": "The van't Hoff factor ($i$) is greater than 1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The presence of abnormal molar masses is indicated when the van't Hoff factor ($i$) is greater than or less than 1, due to association or dissociation.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "HARD"
+  },
+  {
+    "qno": 24,
+    "questionText": "What is the observed molar mass if a solute undergoes association in water?",
+    "options": [
+      {
+        "text": "Equal to the theoretical molar mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Greater than the theoretical molar mass",
+        "isCorrect": true
+      },
+      {
+        "text": "Less than the theoretical molar mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Unchanged from the theoretical molar mass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If a solute undergoes association in water, the observed molar mass is greater than the theoretical molar mass due to the reduced number of particles in solution.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "What is the effect of association on the van't Hoff factor ($i$)?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It first decreases then increases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Association decreases the van't Hoff factor ($i$) because the number of particles in solution decreases.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which of the following best describes abnormal molar masses?",
+    "options": [
+      {
+        "text": "Molar masses that are different from theoretical values due to association or dissociation",
+        "isCorrect": true
+      },
+      {
+        "text": "Molar masses that are equal to the molecular weight of the solute",
+        "isCorrect": false
+      },
+      {
+        "text": "Molar masses that do not change with temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Molar masses that are unaffected by colligative properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Abnormal molar masses are those that differ from theoretical values due to association or dissociation of solute particles.",
+    "chapter": "Solutions",
+    "topic": "Abnormal Molar Masses",
+    "level": "EASY"
+  }
+]

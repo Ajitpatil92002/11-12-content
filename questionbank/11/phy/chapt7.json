@@ -1,0 +1,5488 @@
+[
+  {
+    "qno": "1",
+    "questionText": "Who recognized the fact that all bodies, irrespective of their masses, are accelerated towards the earth with a constant acceleration?",
+    "options": [
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Galileo",
+        "isCorrect": true
+      },
+      {
+        "text": "Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Kepler",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Galileo recognized that all bodies are accelerated towards the earth with a constant acceleration.",
+    "chapter": "Gravitation",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "What did Galileo use to arrive at the value of the acceleration due to gravity?",
+    "options": [
+      {
+        "text": "Inclined planes",
+        "isCorrect": true
+      },
+      {
+        "text": "Pendulums",
+        "isCorrect": false
+      },
+      {
+        "text": "Free fall",
+        "isCorrect": false
+      },
+      {
+        "text": "Projectile motion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Galileo used bodies rolling down inclined planes to arrive at the value of the acceleration due to gravity.",
+    "chapter": "Gravitation",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "According to Ptolemy's geocentric model, what celestial objects revolved around the earth?",
+    "options": [
+      {
+        "text": "Only the planets",
+        "isCorrect": false
+      },
+      {
+        "text": "Only the stars",
+        "isCorrect": false
+      },
+      {
+        "text": "All celestial objects",
+        "isCorrect": true
+      },
+      {
+        "text": "Only the sun",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Ptolemy's geocentric model, all celestial objects, including stars, the sun, and the planets, revolved around the earth.",
+    "chapter": "Gravitation",
+    "topic": "7.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "4",
+    "questionText": "What is the model called where the Sun is the center and planets revolve around it?",
+    "options": [
+      {
+        "text": "Geocentric model",
+        "isCorrect": false
+      },
+      {
+        "text": "Heliocentric model",
+        "isCorrect": true
+      },
+      {
+        "text": "Epicyclic model",
+        "isCorrect": false
+      },
+      {
+        "text": "Axial model",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The model where the Sun is the center and planets revolve around it is called the heliocentric model.",
+    "chapter": "Gravitation",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "5",
+    "questionText": "Who was one of the notable supporters of the heliocentric model proposed by Copernicus?",
+    "options": [
+      {
+        "text": "Kepler",
+        "isCorrect": false
+      },
+      {
+        "text": "Galileo",
+        "isCorrect ": true
+      },
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Ptolemy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Galileo was one of the notable supporters of the heliocentric model proposed by Copernicus.",
+    "chapter": "Gravitation",
+    "topic": "7.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "Who spent his lifetime recording observations of the planets with the naked eye?",
+    "options": [
+      {
+        "text": "Galileo",
+        "isCorrect": false
+      },
+      {
+        "text": "Copernicus",
+        "isCorrect": false
+      },
+      {
+        "text": "Tycho Brahe",
+        "isCorrect": true
+      },
+      {
+        "text": "Kepler",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tycho Brahe spent his lifetime recording observations of the planets with the naked eye.",
+    "chapter": "Gravitation",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "7",
+    "questionText": "Who analyzed Tycho Brahe's data and extracted three elegant laws?",
+    "options": [
+      {
+        "text": "Galileo",
+        "isCorrect": false
+      },
+      {
+        "text": "Copernicus",
+        "isCorrect": false
+      },
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Kepler",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Johannes Kepler analyzed Tycho Brahe's data and extracted three elegant laws.",
+    "chapter": "Gravitation",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "What is the constant acceleration due to gravity denoted by?",
+    "options": [
+      {
+        "text": "$g$",
+        "isCorrect": true
+      },
+      {
+        "text": "$a$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v$",
+        "isCorrect": false
+      },
+      {
+        "text": "$u$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The constant acceleration due to gravity is denoted by $g$.",
+    "chapter": "Gravitation",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "9",
+    "questionText": "In Ptolemy's geocentric model, how were the planets described?",
+    "options": [
+      {
+        "text": "Moving in circles with the centre of the circles moving in larger circles",
+        "isCorrect": true
+      },
+      {
+        "text": "Moving in straight lines",
+        "isCorrect": false
+      },
+      {
+        "text": "Moving in elliptical orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "Stationary in the sky",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Ptolemy's geocentric model, the planets were described as moving in circles with the centre of the circles moving in larger circles.",
+    "chapter": "Gravitation",
+    "topic": "7.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "10",
+    "questionText": "Who proposed the heliocentric model in which the Sun was the centre around which the planets revolved?",
+    "options": [
+      {
+        "text": "Ptolemy",
+        "isCorrect": false
+      },
+      {
+        "text": "Aryabhatta",
+        "isCorrect": true
+      },
+      {
+        "text": "Galileo",
+        "isCorrect": false
+      },
+      {
+        "text": "Kepler",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aryabhatta proposed the heliocentric model in which the Sun was the centre around which the planets revolved.",
+    "chapter": "Gravitation",
+    "topic": "7.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "11",
+    "questionText": "What was the value of the acceleration due to gravity obtained by Galileo close to?",
+    "options": [
+      {
+        "text": "The value obtained by Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "The value obtained by Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "The more accurate value obtained later",
+        "isCorrect": true
+      },
+      {
+        "text": "The value obtained by Kepler",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of the acceleration due to gravity obtained by Galileo was close to the more accurate value obtained later.",
+    "chapter": "Gravitation",
+    "topic": "7.1 Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "12",
+    "questionText": "Who was the Polish monk who proposed a definitive heliocentric model?",
+    "options": [
+      {
+        "text": "Galileo",
+        "isCorrect": false
+      },
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Nicolas Copernicus",
+        "isCorrect": true
+      },
+      {
+        "text": "Kepler",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nicolas Copernicus was the Polish monk who proposed a definitive heliocentric model.",
+    "chapter": "Gravitation",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "27",
+    "questionText": "According to Kepler's laws, what kind of motion is allowed for celestial objects?",
+    "options": [
+      {
+        "text": "Circular",
+        "isCorrect": false
+      },
+      {
+        "text": "Elliptical",
+        "isCorrect": true
+      },
+      {
+        "text": "Parabolic",
+        "isCorrect": false
+      },
+      {
+        "text": "Hyperbolic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kepler's laws allow for elliptical motion of celestial objects.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "EASY"
+  },
+  {
+    "qno": "28",
+    "questionText": "What was the significant deviation of Kepler's first law from the Copernican model?",
+    "options": [
+      {
+        "text": "Introduction of elliptical orbits instead of circular orbits",
+        "isCorrect": true
+      },
+      {
+        "text": "Introduction of parabolic orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "Introduction of hyperbolic orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "Introduction of spiral orbits",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kepler's first law deviated from the Copernican model by introducing elliptical orbits instead of circular orbits.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "29",
+    "questionText": "What does the area swept out by a planet in Kepler's second law represent?",
+    "options": [
+      {
+        "text": "The distance covered by the planet",
+        "isCorrect": false
+      },
+      {
+        "text": "The time interval",
+        "isCorrect": false
+      },
+      {
+        "text": "The gravitational pull",
+        "isCorrect": false
+      },
+      {
+        "text": "The equal areas in equal time intervals",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The area swept out by a planet in Kepler's second law represents equal areas in equal time intervals.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "HARD"
+  },
+  {
+    "qno": "30",
+    "questionText": "What is the significance of the constant angular momentum in Kepler's second law?",
+    "options": [
+      {
+        "text": "It ensures the planet moves at a constant speed",
+        "isCorrect": false
+      },
+      {
+        "text": "It ensures the planet sweeps equal areas in equal intervals of time",
+        "isCorrect": true
+      },
+      {
+        "text": "It ensures the planet remains at a fixed distance from the Sun",
+        "isCorrect": false
+      },
+      {
+        "text": "It ensures the planet's orbit is circular",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The constant angular momentum in Kepler's second law ensures the planet sweeps equal areas in equal intervals of time.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "31",
+    "questionText": "What does the third law of Kepler imply about the relationship between a planet's orbital period and its distance from the Sun?",
+    "options": [
+      {
+        "text": "The orbital period is directly proportional to the distance from the Sun",
+        "isCorrect": false
+      },
+      {
+        "text": "The orbital period is inversely proportional to the distance from the Sun",
+        "isCorrect": false
+      },
+      {
+        "text": "The square of the orbital period is proportional to the cube of the distance from the Sun",
+        "isCorrect": true
+      },
+      {
+        "text": "The orbital period is unrelated to the distance from the Sun",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kepler's third law implies that the square of the orbital period is proportional to the cube of the distance from the Sun.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "HARD"
+  },
+  {
+    "qno": "32",
+    "questionText": "What was the value of the semi-major axis of Earth's orbit as given in Kepler's law of periods?",
+    "options": [
+      {
+        "text": "5.79 x $10^{10}$ m",
+        "isCorrect": false
+      },
+      {
+        "text": "10.8 x $10^{10}$ m",
+        "isCorrect": false
+      },
+      {
+        "text": "15.0 x $10^{10}$ m",
+        "isCorrect": true
+      },
+      {
+        "text": "22.8 x $10^{10}$ m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The semi-major axis of Earth's orbit is given as 15.0 x $10^{10}$ m in Kepler's law of periods.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "33",
+    "questionText": "What does the quotient $\\frac{T^2}{a^3}$ represent in Kepler's third law?",
+    "options": [
+      {
+        "text": "The gravitational force",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of the time period and semi-major axis",
+        "isCorrect": true
+      },
+      {
+        "text": "The mass of the planet",
+        "isCorrect": false
+      },
+      {
+        "text": "The angular momentum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Kepler's third law, the quotient $\\frac{T^2}{a^3}$ represents the ratio of the time period and semi-major axis.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "HARD"
+  },
+  {
+    "qno": "34",
+    "questionText": "What is the ratio of the semi-minor to the semi-major axis for Earth's orbit?",
+    "options": [
+      {
+        "text": "0.99986",
+        "isCorrect": true
+      },
+      {
+        "text": "1.00000",
+        "isCorrect": false
+      },
+      {
+        "text": "1.00014",
+        "isCorrect": false
+      },
+      {
+        "text": "0.99876",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ratio of the semi-minor to the semi-major axis for Earth's orbit is 0.99986.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "HARD"
+  },
+  {
+    "qno": "35",
+    "questionText": "In Kepler's first law, what special case of an ellipse represents a circular orbit?",
+    "options": [
+      {
+        "text": "When the two foci merge into one",
+        "isCorrect": true
+      },
+      {
+        "text": "When the foci are at the aphelion and perihelion",
+        "isCorrect": false
+      },
+      {
+        "text": "When the foci are at the center of the ellipse",
+        "isCorrect": false
+      },
+      {
+        "text": "When the foci are at the semi-major and semi-minor axis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In Kepler's first law, a circular orbit is a special case of an ellipse where the two foci merge into one.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "36",
+    "questionText": "What is the name of the point where the orbiting body is closest to the Earth?",
+    "options": [
+      {
+        "text": "Apogee",
+        "isCorrect": false
+      },
+      {
+        "text": "Perigee",
+        "isCorrect": true
+      },
+      {
+        "text": "Aphelion",
+        "isCorrect": false
+      },
+      {
+        "text": "Perihelion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The point where the orbiting body is closest to the Earth is called the perigee.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "EASY"
+  },
+  {
+    "qno": "37",
+    "questionText": "How did Kepler derive his three laws?",
+    "options": [
+      {
+        "text": "Through mathematical deduction",
+        "isCorrect": false
+      },
+      {
+        "text": "By analyzing Tycho Brahe's observational data",
+        "isCorrect": true
+      },
+      {
+        "text": "By conducting experiments",
+        "isCorrect": false
+      },
+      {
+        "text": "By theoretical assumptions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kepler derived his three laws by analyzing the observational data recorded by Tycho Brahe.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "EASY"
+  },
+  {
+    "qno": "38",
+    "questionText": "What is the term for the point in an orbit where the orbiting body is farthest from the Earth?",
+    "options": [
+      {
+        "text": "Apogee",
+        "isCorrect": true
+      },
+      {
+        "text": "Perigee",
+        "isCorrect": false
+      },
+      {
+        "text": "Aphelion",
+        "isCorrect": false
+      },
+      {
+        "text": "Perihelion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The point where the orbiting body is farthest from the Earth is called the apogee.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "EASY"
+  },
+  {
+    "qno": "39",
+    "questionText": "In which publication did Kepler present his first two laws?",
+    "options": [
+      {
+        "text": "Astronomia nova",
+        "isCorrect": true
+      },
+      {
+        "text": "Harmonices Mundi",
+        "isCorrect": false
+      },
+      {
+        "text": "Principia Mathematica",
+        "isCorrect": false
+      },
+      {
+        "text": "De revolutionibus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kepler presented his first two laws in the publication 'Astronomia nova'.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "40",
+    "questionText": "What mathematical shape did Kepler use to describe planetary orbits?",
+    "options": [
+      {
+        "text": "Circle",
+        "isCorrect": false
+      },
+      {
+        "text": "Ellipse",
+        "isCorrect": true
+      },
+      {
+        "text": "Parabola",
+        "isCorrect": false
+      },
+      {
+        "text": "Hyperbola",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kepler used the ellipse to describe planetary orbits.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "EASY"
+  },
+  {
+    "qno": "41",
+    "questionText": "What is the term for the speed at which a planet moves fastest in its orbit?",
+    "options": [
+      {
+        "text": "Orbital speed",
+        "isCorrect": false
+      },
+      {
+        "text": "Aphelion speed",
+        "isCorrect": false
+      },
+      {
+        "text": "Perihelion speed",
+        "isCorrect": true
+      },
+      {
+        "text": "Keplerian speed",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The perihelion speed is the speed at which a planet moves fastest in its orbit.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "HARD"
+  },
+  {
+    "qno": "42",
+    "questionText": "Which of Kepler's laws is also known as the law of equal areas?",
+    "options": [
+      {
+        "text": "First law",
+        "isCorrect": false
+      },
+      {
+        "text": "Second law",
+        "isCorrect": true
+      },
+      {
+        "text": "Third law",
+        "isCorrect": false
+      },
+      {
+        "text": "Fourth law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kepler's second law is also known as the law of equal areas.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "EASY"
+  },
+  {
+    "qno": "43",
+    "questionText": "Kepler's third law is sometimes called what?",
+    "options": [
+      {
+        "text": "The harmonic law",
+        "isCorrect": true
+      },
+      {
+        "text": "The periodic law",
+        "isCorrect": false
+      },
+      {
+        "text": "The elliptical law",
+        "isCorrect": false
+      },
+      {
+        "text": "The areal law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kepler's third law is sometimes called the harmonic law.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "44",
+    "questionText": "In which year did Kepler publish his third law?",
+    "options": [
+      {
+        "text": "1605",
+        "isCorrect": false
+      },
+      {
+        "text": "1619",
+        "isCorrect": true
+      },
+      {
+        "text": "1628",
+        "isCorrect": false
+      },
+      {
+        "text": "1635",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kepler published his third law in 1619.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "HARD"
+  },
+  {
+    "qno": "45",
+    "questionText": "In which book did Kepler publish his third law?",
+    "options": [
+      {
+        "text": "Astronomia nova",
+        "isCorrect": false
+      },
+      {
+        "text": "Harmonices Mundi",
+        "isCorrect": true
+      },
+      {
+        "text": "Principia Mathematica",
+        "isCorrect": false
+      },
+      {
+        "text": "De revolutionibus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kepler published his third law in the book 'Harmonices Mundi'.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "46",
+    "questionText": "What did Kepler describe in his first law?",
+    "options": [
+      {
+        "text": "The elliptical orbits of planets",
+        "isCorrect": true
+      },
+      {
+        "text": "The equal areas swept out by planets",
+        "isCorrect": false
+      },
+      {
+        "text": "The harmonic law",
+        "isCorrect": false
+      },
+      {
+        "text": "The periodic law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kepler described the elliptical orbits of planets in his first law.",
+    "chapter": "Gravitation",
+    "topic": "7.2 Kepler’s laws",
+    "level": "EASY"
+  },
+  {
+    "qno": "47",
+    "questionText": "What does Newton's universal law of gravitation state?",
+    "options": [
+      {
+        "text": "Every object in the universe attracts every other object with a force",
+        "isCorrect": true
+      },
+      {
+        "text": "Objects repel each other with a force",
+        "isCorrect": false
+      },
+      {
+        "text": "Only planets attract each other",
+        "isCorrect": false
+      },
+      {
+        "text": "Only the Sun exerts gravitational force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Newton's universal law of gravitation states that every object in the universe attracts every other object with a force.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "48",
+    "questionText": "What is the formula for the gravitational force between two masses?",
+    "options": [
+      {
+        "text": "$F = G \\frac{m_1 m_2}{r^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$F = G \\frac{m_1 m_2}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$F = G \\frac{m_1 m_2}{r^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$F = G \\frac{m_1 m_2}{r^4}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for the gravitational force between two masses is $F = G \\frac{m_1 m_2}{r^2}$.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "49",
+    "questionText": "What is the value of the gravitational constant (G)?",
+    "options": [
+      {
+        "text": "$6.67430 \\times 10^{-11} \\text{N m}^2/\\text{kg}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$9.8 \\times 10^{-11} \\text{N m}^2/\\text{kg}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.6 \\times 10^{-11} \\text{N m}^2/\\text{kg}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.14 \\times 10^{-11} \\text{N m}^2/\\text{kg}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of the gravitational constant (G) is $6.67430 \\times 10^{-11} \\text{N m}^2/\\text{kg}^2$.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "50",
+    "questionText": "Who formulated the universal law of gravitation?",
+    "options": [
+      {
+        "text": "Isaac Newton",
+        "isCorrect": true
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Galileo Galilei",
+        "isCorrect": false
+      },
+      {
+        "text": "Johannes Kepler",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isaac Newton formulated the universal law of gravitation.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "51",
+    "questionText": "How does the gravitational force between two objects change if the distance between them is doubled?",
+    "options": [
+      {
+        "text": "It becomes half",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes one-fourth",
+        "isCorrect": true
+      },
+      {
+        "text": "It doubles",
+        "isCorrect": false
+      },
+      {
+        "text": "It quadruples",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the distance between two objects is doubled, the gravitational force between them becomes one-fourth.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "52",
+    "questionText": "If the mass of one object is doubled, how does the gravitational force change?",
+    "options": [
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes half",
+        "isCorrect": false
+      },
+      {
+        "text": "It doubles",
+        "isCorrect": true
+      },
+      {
+        "text": "It quadruples",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the mass of one object is doubled, the gravitational force between the two objects also doubles.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "53",
+    "questionText": "What is the unit of the gravitational constant (G)?",
+    "options": [
+      {
+        "text": "N/kg",
+        "isCorrect": false
+      },
+      {
+        "text": "N m$^2$/kg$^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "kg m/s$^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "N m/kg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The unit of the gravitational constant (G) is N m$^2$/kg$^2$.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "54",
+    "questionText": "What is the significance of the gravitational constant (G) in the universal law of gravitation?",
+    "options": [
+      {
+        "text": "It determines the strength of the gravitational force between two objects",
+        "isCorrect": true
+      },
+      {
+        "text": "It determines the speed of light",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the acceleration due to gravity",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the mass of the objects",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational constant (G) determines the strength of the gravitational force between two objects.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "55",
+    "questionText": "If the distance between two objects is halved, how does the gravitational force between them change?",
+    "options": [
+      {
+        "text": "It becomes half",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes one-fourth",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes four times",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the distance between two objects is halved, the gravitational force between them becomes four times.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "HARD"
+  },
+  {
+    "qno": "56",
+    "questionText": "What is the gravitational force between two 1 kg masses separated by 1 meter?",
+    "options": [
+      {
+        "text": "$6.67430 \\times 10^{-11} \\text{N}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$9.8 \\times 10^{-11} \\text{N}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.6 \\times 10^{-11} \\text{N}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.14 \\times 10^{-11} \\text{N}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational force between two 1 kg masses separated by 1 meter is $6.67430 \\times 10^{-11} \\text{N}$.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "57",
+    "questionText": "How is the gravitational force between two objects affected if both masses are doubled?",
+    "options": [
+      {
+        "text": "It becomes half",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes one-fourth",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes four times",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If both masses are doubled, the gravitational force between the two objects becomes four times.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "HARD"
+  },
+  {
+    "qno": "58",
+    "questionText": "What happens to the gravitational force between two objects if the mass of one object is tripled?",
+    "options": [
+      {
+        "text": "It becomes half",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes one-third",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes three times",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the mass of one object is tripled, the gravitational force between the two objects becomes three times.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "59",
+    "questionText": "What effect does increasing the distance between two objects by a factor of 5 have on the gravitational force?",
+    "options": [
+      {
+        "text": "The force becomes 1/5",
+        "isCorrect": false
+      },
+      {
+        "text": "The force becomes 1/25",
+        "isCorrect": true
+      },
+      {
+        "text": "The force becomes 5 times",
+        "isCorrect": false
+      },
+      {
+        "text": "The force becomes 25 times",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the distance between two objects by a factor of 5 causes the gravitational force to become 1/25.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "HARD"
+  },
+  {
+    "qno": "60",
+    "questionText": "What is the value of gravitational force between the Earth and a 1 kg object on its surface?",
+    "options": [
+      {
+        "text": "9.8 N",
+        "isCorrect": true
+      },
+      {
+        "text": "6.67430 N",
+        "isCorrect": false
+      },
+      {
+        "text": "1 N",
+        "isCorrect": false
+      },
+      {
+        "text": "0 N",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational force between the Earth and a 1 kg object on its surface is 9.8 N.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "61",
+    "questionText": "Which scientist provided experimental verification for the universal law of gravitation?",
+    "options": [
+      {
+        "text": "Henry Cavendish",
+        "isCorrect": true
+      },
+      {
+        "text": "Isaac Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Galileo Galilei",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Henry Cavendish provided experimental verification for the universal law of gravitation.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "62",
+    "questionText": "Which law relates the gravitational force between two masses to the product of their masses and the square of the distance between them?",
+    "options": [
+      {
+        "text": "Newton's third law",
+        "isCorrect": false
+      },
+      {
+        "text": "Universal law of gravitation",
+        "isCorrect": true
+      },
+      {
+        "text": "Law of inertia",
+        "isCorrect": false
+      },
+      {
+        "text": "Kepler's second law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The universal law of gravitation relates the gravitational force between two masses to the product of their masses and the square of the distance between them.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "63",
+    "questionText": "What happens to the gravitational force if the distance between two masses is tripled?",
+    "options": [
+      {
+        "text": "It becomes one-third",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes one-ninth",
+        "isCorrect": true
+      },
+      {
+        "text": "It triples",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the distance between two masses is tripled, the gravitational force becomes one-ninth.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "64",
+    "questionText": "What does the gravitational force between two objects depend on?",
+    "options": [
+      {
+        "text": "Only the distance between them",
+        "isCorrect": false
+      },
+      {
+        "text": "Only the masses of the objects",
+        "isCorrect": false
+      },
+      {
+        "text": "Both the masses and the distance between them",
+        "isCorrect": true
+      },
+      {
+        "text": "Neither the masses nor the distance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational force between two objects depends on both the masses of the objects and the distance between them.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "65",
+    "questionText": "How does the gravitational force between two objects change if the distance between them is reduced to one-fourth?",
+    "options": [
+      {
+        "text": "It becomes 16 times",
+        "isCorrect": true
+      },
+      {
+        "text": "It becomes 4 times",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes one-fourth",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes one-sixteenth",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the distance between two objects is reduced to one-fourth, the gravitational force between them becomes 16 times.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "HARD"
+  },
+  {
+    "qno": "66",
+    "questionText": "What is the relationship between gravitational force and distance according to the inverse-square law?",
+    "options": [
+      {
+        "text": "Gravitational force is directly proportional to the distance",
+        "isCorrect": false
+      },
+      {
+        "text": "Gravitational force is inversely proportional to the distance",
+        "isCorrect": false
+      },
+      {
+        "text": "Gravitational force is inversely proportional to the square of the distance",
+        "isCorrect": true
+      },
+      {
+        "text": "Gravitational force is directly proportional to the square of the distance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the inverse-square law, gravitational force is inversely proportional to the square of the distance.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "67",
+    "questionText": "How is the gravitational force between two objects affected if one of the masses is halved?",
+    "options": [
+      {
+        "text": "It becomes half",
+        "isCorrect": true
+      },
+      {
+        "text": "It becomes one-fourth",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It doubles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If one of the masses is halved, the gravitational force between the two objects becomes half.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "68",
+    "questionText": "What did Newton's universal law of gravitation help explain about planetary motion?",
+    "options": [
+      {
+        "text": "Why planets move in circular orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "Why planets move in elliptical orbits",
+        "isCorrect": true
+      },
+      {
+        "text": "Why planets move in parabolic orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "Why planets move in hyperbolic orbits",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Newton's universal law of gravitation helped explain why planets move in elliptical orbits.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "69",
+    "questionText": "Which physical quantity is conserved according to the law of gravitation?",
+    "options": [
+      {
+        "text": "Energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Momentum",
+        "isCorrect": false
+      },
+      {
+        "text": "Angular momentum",
+        "isCorrect": true
+      },
+      {
+        "text": "Mass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Angular momentum is conserved according to the law of gravitation.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "70",
+    "questionText": "Who was the first to provide a mathematical formulation for the inverse-square law of gravitation?",
+    "options": [
+      {
+        "text": "Isaac Newton",
+        "isCorrect": true
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Galileo Galilei",
+        "isCorrect": false
+      },
+      {
+        "text": "Johannes Kepler",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isaac Newton was the first to provide a mathematical formulation for the inverse-square law of gravitation.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "71",
+    "questionText": "Which constant is used in the formula for gravitational force and has a value of $6.67430 \\times 10^{-11} \\text{N m}^2/\\text{kg}^2$?",
+    "options": [
+      {
+        "text": "Planck's constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Boltzmann constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Gravitational constant",
+        "isCorrect": true
+      },
+      {
+        "text": "Faraday constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational constant, which has a value of $6.67430 \\times 10^{-11} \\text{N m}^2/\\text{kg}^2$, is used in the formula for gravitational force.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "72",
+    "questionText": "What does the gravitational constant (G) signify in the universal law of gravitation?",
+    "options": [
+      {
+        "text": "It signifies the proportionality factor in the equation for gravitational force",
+        "isCorrect": true
+      },
+      {
+        "text": "It signifies the speed of gravitational waves",
+        "isCorrect": false
+      },
+      {
+        "text": "It signifies the mass of the objects",
+        "isCorrect": false
+      },
+      {
+        "text": "It signifies the distance between objects",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational constant (G) signifies the proportionality factor in the equation for gravitational force.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "73",
+    "questionText": "How is gravitational force related to the product of the masses of two objects?",
+    "options": [
+      {
+        "text": "It is directly proportional to the product of the masses",
+        "isCorrect": true
+      },
+      {
+        "text": "It is inversely proportional to the product of the masses",
+        "isCorrect": false
+      },
+      {
+        "text": "It is independent of the product of the masses",
+        "isCorrect": false
+      },
+      {
+        "text": "It is proportional to the sum of the masses",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gravitational force is directly proportional to the product of the masses of two objects.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "74",
+    "questionText": "How does the gravitational force change if the distance between two masses is increased by a factor of 4?",
+    "options": [
+      {
+        "text": "The force becomes 1/4",
+        "isCorrect": false
+      },
+      {
+        "text": "The force becomes 1/16",
+        "isCorrect": true
+      },
+      {
+        "text": "The force becomes 4 times",
+        "isCorrect": false
+      },
+      {
+        "text": "The force becomes 16 times",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the distance between two masses is increased by a factor of 4, the gravitational force becomes 1/16.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "HARD"
+  },
+  {
+    "qno": "75",
+    "questionText": "What is the relationship between gravitational force and the square of the distance between two objects?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Inversely proportional to the square of the distance",
+        "isCorrect": true
+      },
+      {
+        "text": "Independent of the distance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gravitational force is inversely proportional to the square of the distance between two objects.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "76",
+    "questionText": "What is the formula for gravitational force when considering the masses and distance?",
+    "options": [
+      {
+        "text": "$F = G \\frac{m_1 m_2}{r^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$F = G \\frac{m_1 m_2}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$F = G \\frac{m_1 m_2}{r^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$F = G \\frac{m_1 m_2}{r^4}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for gravitational force is $F = G \\frac{m_1 m_2}{r^2}$.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "77",
+    "questionText": "What is the relationship between gravitational force and mass according to the universal law of gravitation?",
+    "options": [
+      {
+        "text": "Directly proportional to the product of the masses",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional to the product of the masses",
+        "isCorrect": false
+      },
+      {
+        "text": "Directly proportional to the sum of the masses",
+        "isCorrect": false
+      },
+      {
+        "text": "Independent of the masses",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gravitational force is directly proportional to the product of the masses according to the universal law of gravitation.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "78",
+    "questionText": "Who verified the universal law of gravitation experimentally?",
+    "options": [
+      {
+        "text": "Henry Cavendish",
+        "isCorrect": true
+      },
+      {
+        "text": "Isaac Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Johannes Kepler",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Henry Cavendish verified the universal law of gravitation experimentally.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "79",
+    "questionText": "What does the universal law of gravitation explain about the motion of planets?",
+    "options": [
+      {
+        "text": "Why planets move in elliptical orbits",
+        "isCorrect": true
+      },
+      {
+        "text": "Why planets move in circular orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "Why planets move in parabolic orbits",
+        "isCorrect": false
+      },
+      {
+        "text": "Why planets move in hyperbolic orbits",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The universal law of gravitation explains why planets move in elliptical orbits.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "EASY"
+  },
+  {
+    "qno": "80",
+    "questionText": "What happens to the gravitational force between two objects if the distance between them is doubled?",
+    "options": [
+      {
+        "text": "It becomes half",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes one-fourth",
+        "isCorrect": true
+      },
+      {
+        "text": "It doubles",
+        "isCorrect": false
+      },
+      {
+        "text": "It quadruples",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the distance between two objects is doubled, the gravitational force between them becomes one-fourth.",
+    "chapter": "Gravitation",
+    "topic": "7.3 Universal law of gravitation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "91",
+    "questionText": "Who experimentally determined the value of the gravitational constant (G)?",
+    "options": [
+      {
+        "text": "Henry Cavendish",
+        "isCorrect": true
+      },
+      {
+        "text": "Isaac Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Galileo Galilei",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Henry Cavendish experimentally determined the value of the gravitational constant (G).",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "EASY"
+  },
+  {
+    "qno": "92",
+    "questionText": "In which experiment was the gravitational constant (G) determined?",
+    "options": [
+      {
+        "text": "Cavendish experiment",
+        "isCorrect": true
+      },
+      {
+        "text": "Millikan oil drop experiment",
+        "isCorrect": false
+      },
+      {
+        "text": "Rutherford gold foil experiment",
+        "isCorrect": false
+      },
+      {
+        "text": "Young's double-slit experiment",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational constant (G) was determined in the Cavendish experiment.",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "94",
+    "questionText": "How is the gravitational constant (G) used in the universal law of gravitation?",
+    "options": [
+      {
+        "text": "As a proportionality constant",
+        "isCorrect": true
+      },
+      {
+        "text": "As a unit of mass",
+        "isCorrect": false
+      },
+      {
+        "text": "As a measure of distance",
+        "isCorrect": false
+      },
+      {
+        "text": "As a measure of force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational constant (G) is used as a proportionality constant in the universal law of gravitation.",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "95",
+    "questionText": "What is the value of the gravitational constant (G) in the CGS system?",
+    "options": [
+      {
+        "text": "$6.67430 \\times 10^{-8} \\text{dyn cm}^2/\\text{g}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6.67430 \\times 10^{-11} \\text{dyn cm}^2/\\text{g}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6.67430 \\times 10^{-6} \\text{dyn cm}^2/\\text{g}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6.67430 \\times 10^{-5} \\text{dyn cm}^2/\\text{g}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of the gravitational constant (G) in the CGS system is $6.67430 \\times 10^{-8} \\text{dyn cm}^2/\\text{g}^2$.",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "HARD"
+  },
+  {
+    "qno": "96",
+    "questionText": "What is the role of the gravitational constant (G) in the Cavendish experiment?",
+    "options": [
+      {
+        "text": "To measure the force between two masses",
+        "isCorrect": true
+      },
+      {
+        "text": "To determine the acceleration due to gravity",
+        "isCorrect": false
+      },
+      {
+        "text": "To calculate the mass of the Earth",
+        "isCorrect": false
+      },
+      {
+        "text": "To measure the speed of light",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the Cavendish experiment, the gravitational constant (G) is used to measure the force between two masses.",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "97",
+    "questionText": "How does the value of the gravitational constant (G) affect gravitational force?",
+    "options": [
+      {
+        "text": "It determines the strength of the gravitational force",
+        "isCorrect": true
+      },
+      {
+        "text": "It determines the direction of the gravitational force",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the mass of the objects",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the distance between the objects",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of the gravitational constant (G) determines the strength of the gravitational force.",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "98",
+    "questionText": "What is the significance of the gravitational constant (G) in Newton's law of universal gravitation?",
+    "options": [
+      {
+        "text": "It is the proportionality factor that relates gravitational force to the product of the masses and the inverse square of the distance",
+        "isCorrect": true
+      },
+      {
+        "text": "It is the proportionality factor that relates gravitational force to the sum of the masses and the distance",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the proportionality factor that relates gravitational force to the difference of the masses and the square of the distance",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the proportionality factor that relates gravitational force to the product of the masses and the cube of the distance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational constant (G) is the proportionality factor that relates gravitational force to the product of the masses and the inverse square of the distance.",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "99",
+    "questionText": "What is the dimension of the gravitational constant (G)?",
+    "options": [
+      {
+        "text": "$[M^{-1}L^3T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[MLT^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^{-1}T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^1L^1T^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimension of the gravitational constant (G) is $[M^{-1}L^3T^{-2}]$.",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "HARD"
+  },
+  {
+    "qno": "100",
+    "questionText": "How is the gravitational constant (G) measured in the Cavendish experiment?",
+    "options": [
+      {
+        "text": "By measuring the force between two known masses",
+        "isCorrect": true
+      },
+      {
+        "text": "By measuring the acceleration due to gravity",
+        "isCorrect": false
+      },
+      {
+        "text": "By measuring the distance between masses",
+        "isCorrect": false
+      },
+      {
+        "text": "By measuring the speed of light",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the Cavendish experiment, the gravitational constant (G) is measured by measuring the force between two known masses.",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "101",
+    "questionText": "Which experimental setup is used to determine the value of G?",
+    "options": [
+      {
+        "text": "Torsion balance",
+        "isCorrect": true
+      },
+      {
+        "text": "Pendulum",
+        "isCorrect": false
+      },
+      {
+        "text": "Inclined plane",
+        "isCorrect": false
+      },
+      {
+        "text": "Spring balance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The torsion balance is used to determine the value of the gravitational constant (G).",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "EASY"
+  },
+  {
+    "qno": "102",
+    "questionText": "How is the gravitational constant (G) related to gravitational force?",
+    "options": [
+      {
+        "text": "It is a proportionality factor",
+        "isCorrect": true
+      },
+      {
+        "text": "It determines the distance between objects",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the mass of the objects",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the velocity of objects",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational constant (G) is a proportionality factor in the formula for gravitational force.",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "103",
+    "questionText": "What did Henry Cavendish measure to determine the value of G?",
+    "options": [
+      {
+        "text": "The force between two lead spheres",
+        "isCorrect": true
+      },
+      {
+        "text": "The acceleration due to gravity",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of the Earth",
+        "isCorrect": false
+      },
+      {
+        "text": "The speed of light",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Henry Cavendish measured the force between two lead spheres to determine the value of the gravitational constant (G).",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "104",
+    "questionText": "What is the value of the gravitational constant (G) in SI units?",
+    "options": [
+      {
+        "text": "$6.67430 \\times 10^{-11} \\text{N m}^2/\\text{kg}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$9.8 \\times 10^{-11} \\text{N m}^2/\\text{kg}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.6 \\times 10^{-11} \\text{N m}^2/\\text{kg}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.14 \\times 10^{-11} \\text{N m}^2/\\text{kg}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of the gravitational constant (G) in SI units is $6.67430 \\times 10^{-11} \\text{N m}^2/\\text{kg}^2$.",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "EASY"
+  },
+  {
+    "qno": "105",
+    "questionText": "What is the significance of the value of G in physics?",
+    "options": [
+      {
+        "text": "It quantifies the strength of gravitational interaction",
+        "isCorrect": true
+      },
+      {
+        "text": "It quantifies the speed of light",
+        "isCorrect": false
+      },
+      {
+        "text": "It quantifies the mass of the objects",
+        "isCorrect": false
+      },
+      {
+        "text": "It quantifies the distance between objects",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of the gravitational constant (G) quantifies the strength of gravitational interaction between masses.",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "106",
+    "questionText": "How does the gravitational constant (G) affect the gravitational force between two masses?",
+    "options": [
+      {
+        "text": "It determines the magnitude of the force",
+        "isCorrect": true
+      },
+      {
+        "text": "It determines the direction of the force",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the mass of the objects",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the distance between the objects",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational constant (G) determines the magnitude of the gravitational force between two masses.",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "107",
+    "questionText": "What was the primary goal of the Cavendish experiment?",
+    "options": [
+      {
+        "text": "To measure the value of the gravitational constant (G)",
+        "isCorrect": true
+      },
+      {
+        "text": "To measure the speed of light",
+        "isCorrect": false
+      },
+      {
+        "text": "To determine the mass of the Earth",
+        "isCorrect": false
+      },
+      {
+        "text": "To measure the acceleration due to gravity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary goal of the Cavendish experiment was to measure the value of the gravitational constant (G).",
+    "chapter": "Gravitation",
+    "topic": "7.4 The gravitational constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "145",
+    "questionText": "What is the approximate value of acceleration due to gravity on the surface of the Earth?",
+    "options": [
+      {
+        "text": "9.8 m/s$^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "6.67 m/s$^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "3.14 m/s$^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "1.6 m/s$^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The approximate value of acceleration due to gravity on the surface of the Earth is 9.8 m/s$^2$.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "EASY"
+  },
+  {
+    "qno": "146",
+    "questionText": "What factors affect the acceleration due to gravity on Earth's surface?",
+    "options": [
+      {
+        "text": "Latitude and altitude",
+        "isCorrect": true
+      },
+      {
+        "text": "Temperature and pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic field and electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "Humidity and wind speed",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acceleration due to gravity on Earth's surface is affected by latitude and altitude.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "147",
+    "questionText": "How does the value of g change with altitude?",
+    "options": [
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It oscillates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of acceleration due to gravity (g) decreases with an increase in altitude.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "EASY"
+  },
+  {
+    "qno": "148",
+    "questionText": "How does the value of g change with depth below the Earth's surface?",
+    "options": [
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It oscillates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of acceleration due to gravity (g) decreases with an increase in depth below the Earth's surface.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "EASY"
+  },
+  {
+    "qno": "149",
+    "questionText": "What is the formula for acceleration due to gravity (g) at the surface of the Earth?",
+    "options": [
+      {
+        "text": "$g = \\frac{GM}{R^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$g = \\frac{GM}{R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g = \\frac{GM}{R^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g = \\frac{GM}{R^4}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for acceleration due to gravity (g) at the surface of the Earth is $g = \\frac{GM}{R^2}$.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "150",
+    "questionText": "How does the value of g vary with latitude?",
+    "options": [
+      {
+        "text": "It is maximum at the poles and minimum at the equator",
+        "isCorrect": true
+      },
+      {
+        "text": "It is maximum at the equator and minimum at the poles",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant at all latitudes",
+        "isCorrect": false
+      },
+      {
+        "text": "It oscillates with latitude",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of acceleration due to gravity (g) is maximum at the poles and minimum at the equator due to the Earth's rotation.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "151",
+    "questionText": "What is the value of g at the center of the Earth?",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "9.8 m/s$^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "4.9 m/s$^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "19.6 m/s$^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of acceleration due to gravity (g) at the center of the Earth is zero.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "HARD"
+  },
+  {
+    "qno": "152",
+    "questionText": "How does the acceleration due to gravity change with the Earth's rotation?",
+    "options": [
+      {
+        "text": "It decreases from the poles to the equator",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases from the poles to the equator",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It oscillates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acceleration due to gravity decreases from the poles to the equator due to the Earth's rotation.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "153",
+    "questionText": "What is the relationship between g and the radius of the Earth?",
+    "options": [
+      {
+        "text": "g is inversely proportional to the square of the radius",
+        "isCorrect": true
+      },
+      {
+        "text": "g is directly proportional to the radius",
+        "isCorrect": false
+      },
+      {
+        "text": "g is directly proportional to the square of the radius",
+        "isCorrect": false
+      },
+      {
+        "text": "g is independent of the radius",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acceleration due to gravity (g) is inversely proportional to the square of the radius of the Earth.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "HARD"
+  },
+  {
+    "qno": "154",
+    "questionText": "What is the value of g at sea level?",
+    "options": [
+      {
+        "text": "9.8 m/s$^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "6.67 m/s$^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "3.14 m/s$^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "1.6 m/s$^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of acceleration due to gravity (g) at sea level is 9.8 m/s$^2$.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "EASY"
+  },
+  {
+    "qno": "155",
+    "questionText": "What is the effect of Earth's shape on the value of g?",
+    "options": [
+      {
+        "text": "g is slightly less at the equator compared to the poles",
+        "isCorrect": true
+      },
+      {
+        "text": "g is slightly more at the equator compared to the poles",
+        "isCorrect": false
+      },
+      {
+        "text": "g is the same everywhere on Earth",
+        "isCorrect": false
+      },
+      {
+        "text": "g varies randomly with location",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Due to the Earth's oblate shape, the value of g is slightly less at the equator compared to the poles.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "156",
+    "questionText": "What is the formula for g at a height h above the Earth's surface?",
+    "options": [
+      {
+        "text": "$g_h = g \\left(1 - \\frac{2h}{R} \\right)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$g_h = g \\left(1 + \\frac{2h}{R} \\right)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g_h = g \\left(1 - \\frac{h}{R} \\right)^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g_h = g \\left(1 + \\frac{h}{R} \\right)^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for acceleration due to gravity (g) at a height h above the Earth's surface is $g_h = g \\left(1 - \\frac{2h}{R} \\right)$.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "HARD"
+  },
+  {
+    "qno": "157",
+    "questionText": "How does the acceleration due to gravity vary with depth d below the Earth's surface?",
+    "options": [
+      {
+        "text": "$g_d = g \\left(1 - \\frac{d}{R} \\right)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$g_d = g \\left(1 + \\frac{d}{R} \\right)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g_d = g \\left(1 - \\frac{d}{R} \\right)^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g_d = g \\left(1 + \\frac{d}{R} \\right)^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for acceleration due to gravity (g) at a depth d below the Earth's surface is $g_d = g \\left(1 - \\frac{d}{R} \\right)$.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "HARD"
+  },
+  {
+    "qno": "158",
+    "questionText": "What is the significance of the gravitational constant (G) in determining g?",
+    "options": [
+      {
+        "text": "It is used in the formula $g = \\frac{GM}{R^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "It is used in the formula $g = \\frac{G}{R^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "It is used in the formula $g = \\frac{G}{R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "It is used in the formula $g = \\frac{GM}{R}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational constant (G) is used in the formula $g = \\frac{GM}{R^2}$ to determine the acceleration due to gravity.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "159",
+    "questionText": "What happens to g when the radius of the Earth is increased by 1%?",
+    "options": [
+      {
+        "text": "g decreases by 2%",
+        "isCorrect": true
+      },
+      {
+        "text": "g increases by 2%",
+        "isCorrect": false
+      },
+      {
+        "text": "g decreases by 1%",
+        "isCorrect": false
+      },
+      {
+        "text": "g increases by 1%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the radius of the Earth is increased by 1%, the value of g decreases by approximately 2%.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "HARD"
+  },
+  {
+    "qno": "160",
+    "questionText": "What is the formula for g at a depth d below the Earth's surface?",
+    "options": [
+      {
+        "text": "$g_d = g \\left(1 - \\frac{d}{R} \\right)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$g_d = g \\left(1 + \\frac{d}{R} \\right)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g_d = g \\left(1 - \\frac{d}{R} \\right)^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g_d = g \\left(1 + \\frac{d}{R} \\right)^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for acceleration due to gravity (g) at a depth d below the Earth's surface is $g_d = g \\left(1 - \\frac{d}{R} \\right)$.",
+    "chapter": "Gravitation",
+    "topic": "7.5 Acceleration due to gravity of the earth",
+    "level": "HARD"
+  },
+  {
+    "qno": "190",
+    "questionText": "How does the value of acceleration due to gravity change with depth below the Earth's surface?",
+    "options": [
+      {
+        "text": "It decreases linearly with depth",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases linearly with depth",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases exponentially with depth",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of acceleration due to gravity decreases linearly with depth below the Earth's surface.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "EASY"
+  },
+  {
+    "qno": "191",
+    "questionText": "What is the value of g at a height h above the Earth's surface?",
+    "options": [
+      {
+        "text": "$g_h = g \\left(1 - \\frac{2h}{R} \\right)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$g_h = g \\left(1 + \\frac{2h}{R} \\right)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g_h = g \\left(1 - \\frac{h}{R} \\right)^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g_h = g \\left(1 + \\frac{h}{R} \\right)^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of acceleration due to gravity at a height h above the Earth's surface is $g_h = g \\left(1 - \\frac{2h}{R} \\right)$.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "HARD"
+  },
+  {
+    "qno": "192",
+    "questionText": "How does the value of g change with height above the Earth's surface?",
+    "options": [
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It oscillates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of acceleration due to gravity (g) decreases with an increase in height above the Earth's surface.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "EASY"
+  },
+  {
+    "qno": "193",
+    "questionText": "What is the value of g at a depth d below the Earth's surface?",
+    "options": [
+      {
+        "text": "$g_d = g \\left(1 - \\frac{d}{R} \\right)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$g_d = g \\left(1 + \\frac{d}{R} \\right)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g_d = g \\left(1 - \\frac{d}{R} \\right)^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g_d = g \\left(1 + \\frac{d}{R} \\right)^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of acceleration due to gravity at a depth d below the Earth's surface is $g_d = g \\left(1 - \\frac{d}{R} \\right)$.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "HARD"
+  },
+  {
+    "qno": "194",
+    "questionText": "What is the effect of altitude on the value of g?",
+    "options": [
+      {
+        "text": "g decreases with increasing altitude",
+        "isCorrect": true
+      },
+      {
+        "text": "g increases with increasing altitude",
+        "isCorrect": false
+      },
+      {
+        "text": "g remains constant at all altitudes",
+        "isCorrect": false
+      },
+      {
+        "text": "g oscillates with altitude",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of acceleration due to gravity (g) decreases with increasing altitude.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "EASY"
+  },
+  {
+    "qno": "195",
+    "questionText": "How is the value of g at a height h above the Earth's surface calculated?",
+    "options": [
+      {
+        "text": "$g_h = g \\left(1 - \\frac{2h}{R} \\right)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$g_h = g \\left(1 + \\frac{2h}{R} \\right)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g_h = g \\left(1 - \\frac{h}{R} \\right)^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$g_h = g \\left(1 + \\frac{h}{R} \\right)^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of acceleration due to gravity at a height h above the Earth's surface is calculated using the formula $g_h = g \\left(1 - \\frac{2h}{R} \\right)$.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "HARD"
+  },
+  {
+    "qno": "196",
+    "questionText": "How does the acceleration due to gravity change with depth below the Earth's surface?",
+    "options": [
+      {
+        "text": "It decreases linearly with depth",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases linearly with depth",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases exponentially with depth",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acceleration due to gravity decreases linearly with depth below the Earth's surface.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "EASY"
+  },
+  {
+    "qno": "198",
+    "questionText": "What is the effect of Earth's rotation on the value of g at the equator?",
+    "options": [
+      {
+        "text": "g decreases at the equator due to Earth's rotation",
+        "isCorrect": true
+      },
+      {
+        "text": "g increases at the equator due to Earth's rotation",
+        "isCorrect": false
+      },
+      {
+        "text": "g remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "g oscillates with rotation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of acceleration due to gravity (g) decreases at the equator due to Earth's rotation.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "201",
+    "questionText": "How does the value of g change if the Earth’s radius is doubled while keeping the mass constant?",
+    "options": [
+      {
+        "text": "It becomes one-fourth",
+        "isCorrect": true
+      },
+      {
+        "text": "It becomes half",
+        "isCorrect": false
+      },
+      {
+        "text": "It doubles",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the Earth’s radius is doubled while keeping the mass constant, the value of g becomes one-fourth.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "HARD"
+  },
+  {
+    "qno": "202",
+    "questionText": "How is the gravitational force between two objects affected if one object's mass is doubled?",
+    "options": [
+      {
+        "text": "It doubles",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes half",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes one-fourth",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If one object's mass is doubled, the gravitational force between the two objects doubles.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "EASY"
+  },
+  {
+    "qno": "203",
+    "questionText": "What happens to the value of g if the mass of the Earth is doubled while keeping the radius constant?",
+    "options": [
+      {
+        "text": "It doubles",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes half",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes one-fourth",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the mass of the Earth is doubled while keeping the radius constant, the value of g doubles.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "HARD"
+  },
+  {
+    "qno": "204",
+    "questionText": "How does the value of g change with increasing depth inside the Earth?",
+    "options": [
+      {
+        "text": "It decreases linearly with depth",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases linearly with depth",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It oscillates with depth",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of g decreases linearly with increasing depth inside the Earth.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "206",
+    "questionText": "How does the value of g vary with altitude above the Earth's surface?",
+    "options": [
+      {
+        "text": "It decreases with altitude",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases with altitude",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It oscillates with altitude",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of acceleration due to gravity (g) decreases with increasing altitude above the Earth's surface.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "EASY"
+  },
+  {
+    "qno": "207",
+    "questionText": "What is the effect of latitude on the value of g?",
+    "options": [
+      {
+        "text": "g is maximum at the poles and minimum at the equator",
+        "isCorrect": true
+      },
+      {
+        "text": "g is maximum at the equator and minimum at the poles",
+        "isCorrect": false
+      },
+      {
+        "text": "g remains constant at all latitudes",
+        "isCorrect": false
+      },
+      {
+        "text": "g oscillates with latitude",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of g is maximum at the poles and minimum at the equator due to the Earth's rotation.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "210",
+    "questionText": "How does the value of g change if the Earth’s radius is halved while keeping the mass constant?",
+    "options": [
+      {
+        "text": "It becomes four times",
+        "isCorrect": true
+      },
+      {
+        "text": "It doubles",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes half",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the Earth’s radius is halved while keeping the mass constant, the value of g becomes four times.",
+    "chapter": "Gravitation",
+    "topic": "7.6 Acceleration due to gravity below and above the surface of earth",
+    "level": "HARD"
+  },
+  {
+    "qno": "248",
+    "questionText": "What is the formula for gravitational potential energy at a height h above the Earth's surface?",
+    "options": [
+      {
+        "text": "$U = mgh$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U = \\frac{1}{2}mv^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for gravitational potential energy at a height h above the Earth's surface is $U = mgh$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "249",
+    "questionText": "What is the gravitational potential energy of an object at a distance r from the center of the Earth?",
+    "options": [
+      {
+        "text": "$U = -\\frac{GMm}{r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U = \\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = -\\frac{GMm}{r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational potential energy of an object at a distance r from the center of the Earth is $U = -\\frac{GMm}{r}$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "250",
+    "questionText": "What is the gravitational potential energy of an object at the Earth's surface?",
+    "options": [
+      {
+        "text": "$U = -\\frac{GMm}{R}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U = \\frac{GMm}{R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{R^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = -\\frac{GMm}{R^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational potential energy of an object at the Earth's surface is $U = -\\frac{GMm}{R}$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "251",
+    "questionText": "What is the gravitational potential energy of an object at a height h above the Earth's surface?",
+    "options": [
+      {
+        "text": "$U = mgh$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U = \\frac{1}{2}mv^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational potential energy of an object at a height h above the Earth's surface is $U = mgh$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "252",
+    "questionText": "How is gravitational potential energy related to the mass of an object?",
+    "options": [
+      {
+        "text": "It is directly proportional to the mass",
+        "isCorrect": true
+      },
+      {
+        "text": "It is inversely proportional to the mass",
+        "isCorrect": false
+      },
+      {
+        "text": "It is independent of the mass",
+        "isCorrect": false
+      },
+      {
+        "text": "It is proportional to the square of the mass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gravitational potential energy is directly proportional to the mass of an object.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "253",
+    "questionText": "What is the potential energy of an object at infinity?",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Infinity",
+        "isCorrect": false
+      },
+      {
+        "text": "A finite value",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative infinity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential energy of an object at infinity is zero.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "254",
+    "questionText": "What is the work done to move an object from a distance r to infinity from a massive body?",
+    "options": [
+      {
+        "text": "$W = \\frac{GMm}{r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$W = -\\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$W = \\frac{GMm}{r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$W = -\\frac{GMm}{r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done to move an object from a distance r to infinity from a massive body is $W = \\frac{GMm}{r}$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "255",
+    "questionText": "What is the gravitational potential energy of an object of mass m at a height h?",
+    "options": [
+      {
+        "text": "$U = mgh$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U = \\frac{1}{2}mv^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational potential energy of an object of mass m at a height h is $U = mgh$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "256",
+    "questionText": "What happens to the gravitational potential energy as an object is moved away from the Earth's surface?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": true
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It oscillates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational potential energy increases as an object is moved away from the Earth's surface.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "257",
+    "questionText": "What is the gravitational potential energy at a distance r from the center of the Earth?",
+    "options": [
+      {
+        "text": "$U = -\\frac{GMm}{r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U = \\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = -\\frac{GMm}{r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational potential energy at a distance r from the center of the Earth is $U = -\\frac{GMm}{r}$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "258",
+    "questionText": "What is the potential energy of a system of two masses $m_1$ and $m_2$ separated by a distance r?",
+    "options": [
+      {
+        "text": "$U = -\\frac{Gm_1m_2}{r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U = \\frac{Gm_1m_2}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{Gm_1m_2}{r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = -\\frac{Gm_1m_2}{r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential energy of a system of two masses $m_1$ and $m_2$ separated by a distance r is $U = -\\frac{Gm_1m_2}{r}$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "259",
+    "questionText": "How does the gravitational potential energy of an object change as it is moved from the surface of the Earth to a height h?",
+    "options": [
+      {
+        "text": "It increases by $mgh$",
+        "isCorrect": true
+      },
+      {
+        "text": "It decreases by $mgh$",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It oscillates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational potential energy of an object increases by $mgh$ as it is moved from the surface of the Earth to a height h.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "260",
+    "questionText": "What is the change in gravitational potential energy when an object is raised to a height h above the Earth's surface?",
+    "options": [
+      {
+        "text": "$\\Delta U = mgh$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta U = \\frac{1}{2}mv^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta U = \\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta U = \\frac{GMm}{r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The change in gravitational potential energy when an object is raised to a height h above the Earth's surface is $\\Delta U = mgh$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "261",
+    "questionText": "What is the potential energy of an object at a distance r from the center of a planet?",
+    "options": [
+      {
+        "text": "$U = -\\frac{GMm}{r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U = \\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = -\\frac{GMm}{r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential energy of an object at a distance r from the center of a planet is $U = -\\frac{GMm}{r}$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "262",
+    "questionText": "What is the work done to move an object from the Earth's surface to a height h?",
+    "options": [
+      {
+        "text": "$W = mgh$",
+        "isCorrect": true
+      },
+      {
+        "text": "$W = \\frac{1}{2}mv^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$W = \\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$W = \\frac{GMm}{r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done to move an object from the Earth's surface to a height h is $W = mgh$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "263",
+    "questionText": "What is the gravitational potential energy of an object at a distance r from the center of a planet of mass M?",
+    "options": [
+      {
+        "text": "$U = -\\frac{GMm}{r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U = \\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = -\\frac{GMm}{r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational potential energy of an object at a distance r from the center of a planet of mass M is $U = -\\frac{GMm}{r}$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "264",
+    "questionText": "What is the potential energy of an object of mass m at a height h above the Earth's surface?",
+    "options": [
+      {
+        "text": "$U = mgh$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U = \\frac{1}{2}mv^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential energy of an object of mass m at a height h above the Earth's surface is $U = mgh$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "265",
+    "questionText": "How does the gravitational potential energy change with the distance from the Earth's center?",
+    "options": [
+      {
+        "text": "It is inversely proportional to the distance",
+        "isCorrect": true
+      },
+      {
+        "text": "It is directly proportional to the distance",
+        "isCorrect": false
+      },
+      {
+        "text": "It is independent of the distance",
+        "isCorrect": false
+      },
+      {
+        "text": "It is proportional to the square of the distance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational potential energy is inversely proportional to the distance from the Earth's center.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "268",
+    "questionText": "What is the gravitational potential energy of a system of two masses $m_1$ and $m_2$ separated by a distance r?",
+    "options": [
+      {
+        "text": "$U = -\\frac{Gm_1m_2}{r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U = \\frac{Gm_1m_2}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{Gm_1m_2}{r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = -\\frac{Gm_1m_2}{r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gravitational potential energy of a system of two masses $m_1$ and $m_2$ separated by a distance r is $U = -\\frac{Gm_1m_2}{r}$.",
+    "chapter": "Gravitation",
+    "topic": "7.7 Gravitational potential energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "290",
+    "questionText": "What is the formula for escape speed from the surface of the Earth?",
+    "options": [
+      {
+        "text": "$v_e = \\sqrt{\\frac{2GM}{R}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$v_e = \\sqrt{\\frac{GM}{R}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v_e = \\sqrt{\\frac{GM}{2R}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v_e = \\sqrt{\\frac{G}{2MR}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for escape speed from the surface of the Earth is $v_e = \\sqrt{\\frac{2GM}{R}}$.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "291",
+    "questionText": "What is the escape speed from the surface of the Earth?",
+    "options": [
+      {
+        "text": "11.2 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "9.8 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "7.9 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "12.4 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed from the surface of the Earth is approximately 11.2 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "292",
+    "questionText": "What factors affect the escape speed from a planet?",
+    "options": [
+      {
+        "text": "Mass and radius of the planet",
+        "isCorrect": true
+      },
+      {
+        "text": "Mass and distance from the sun",
+        "isCorrect": false
+      },
+      {
+        "text": "Radius and temperature of the planet",
+        "isCorrect": false
+      },
+      {
+        "text": "Mass and rotational speed of the planet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed from a planet is affected by its mass and radius.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "293",
+    "questionText": "How does the escape speed change if the mass of the planet increases?",
+    "options": [
+      {
+        "text": "Escape speed increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Escape speed decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the mass of the planet increases, the escape speed also increases.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "294",
+    "questionText": "How does the escape speed change if the radius of the planet decreases?",
+    "options": [
+      {
+        "text": "Escape speed increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Escape speed decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the radius of the planet decreases, the escape speed increases.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "295",
+    "questionText": "What is the escape speed for a body on the moon?",
+    "options": [
+      {
+        "text": "2.4 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "1.6 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "3.2 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "11.2 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed for a body on the moon is approximately 2.4 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "296",
+    "questionText": "What is the relationship between escape speed and gravitational potential energy?",
+    "options": [
+      {
+        "text": "Escape speed is proportional to the square root of gravitational potential energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Escape speed is proportional to gravitational potential energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed is inversely proportional to gravitational potential energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed is independent of gravitational potential energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Escape speed is proportional to the square root of gravitational potential energy.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "297",
+    "questionText": "How is escape speed derived from the law of conservation of energy?",
+    "options": [
+      {
+        "text": "By equating kinetic energy to gravitational potential energy",
+        "isCorrect": true
+      },
+      {
+        "text": "By equating kinetic energy to potential energy",
+        "isCorrect": false
+      },
+      {
+        "text": "By equating kinetic energy to mechanical energy",
+        "isCorrect": false
+      },
+      {
+        "text": "By equating potential energy to gravitational force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Escape speed is derived from the law of conservation of energy by equating kinetic energy to gravitational potential energy.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "298",
+    "questionText": "How does escape speed change with increasing altitude?",
+    "options": [
+      {
+        "text": "Escape speed decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Escape speed increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Escape speed decreases with increasing altitude.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "299",
+    "questionText": "What is the escape speed for a body on Mars?",
+    "options": [
+      {
+        "text": "5.0 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "3.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "7.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.0 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed for a body on Mars is approximately 5.0 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "300",
+    "questionText": "How is escape speed related to the mass of the planet?",
+    "options": [
+      {
+        "text": "Escape speed is directly proportional to the square root of the mass of the planet",
+        "isCorrect": true
+      },
+      {
+        "text": "Escape speed is directly proportional to the mass of the planet",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed is inversely proportional to the mass of the planet",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed is inversely proportional to the square root of the mass of the planet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Escape speed is directly proportional to the square root of the mass of the planet.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "301",
+    "questionText": "What is the escape speed for a body on Jupiter?",
+    "options": [
+      {
+        "text": "60.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "42.1 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "25.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "11.2 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed for a body on Jupiter is approximately 42.1 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "302",
+    "questionText": "Why is the escape speed of a planet important?",
+    "options": [
+      {
+        "text": "It determines the velocity required for an object to leave the planet's gravitational influence",
+        "isCorrect": true
+      },
+      {
+        "text": "It determines the rotational speed of the planet",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the orbital speed of satellites",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the speed of sound on the planet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed of a planet determines the velocity required for an object to leave the planet's gravitational influence.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "303",
+    "questionText": "How does the escape speed change if the mass of the object increases?",
+    "options": [
+      {
+        "text": "Escape speed remains the same",
+        "isCorrect": true
+      },
+      {
+        "text": "Escape speed increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed is independent of the mass of the object; it depends only on the mass and radius of the planet.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "304",
+    "questionText": "What is the escape speed for a body on Mercury?",
+    "options": [
+      {
+        "text": "4.3 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "5.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "3.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "6.0 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed for a body on Mercury is approximately 4.3 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "305",
+    "questionText": "How does the escape speed change with the radius of the planet?",
+    "options": [
+      {
+        "text": "Escape speed is inversely proportional to the square root of the radius",
+        "isCorrect": true
+      },
+      {
+        "text": "Escape speed is directly proportional to the radius",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed is inversely proportional to the radius",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed is directly proportional to the square root of the radius",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed is inversely proportional to the square root of the radius of the planet.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "306",
+    "questionText": "What is the escape speed for a body on Venus?",
+    "options": [
+      {
+        "text": "10.4 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "11.2 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "12.4 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed for a body on Venus is approximately 10.4 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "307",
+    "questionText": "How does the escape speed relate to the gravitational field strength at the surface of the planet?",
+    "options": [
+      {
+        "text": "Escape speed is proportional to the square root of the gravitational field strength",
+        "isCorrect": true
+      },
+      {
+        "text": "Escape speed is proportional to the gravitational field strength",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed is inversely proportional to the gravitational field strength",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed is independent of the gravitational field strength",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed is proportional to the square root of the gravitational field strength at the surface of the planet.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "308",
+    "questionText": "What is the significance of escape speed in space missions?",
+    "options": [
+      {
+        "text": "It determines the velocity required for spacecraft to leave Earth's gravitational influence",
+        "isCorrect": true
+      },
+      {
+        "text": "It determines the velocity required for spacecraft to orbit the Earth",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the velocity required for spacecraft to enter Earth's atmosphere",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the velocity required for spacecraft to land on the moon",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed is crucial in space missions as it determines the velocity required for spacecraft to leave Earth's gravitational influence.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "309",
+    "questionText": "How does the escape speed of a planet affect its ability to retain an atmosphere?",
+    "options": [
+      {
+        "text": "Higher escape speed helps in retaining the atmosphere",
+        "isCorrect": true
+      },
+      {
+        "text": "Lower escape speed helps in retaining the atmosphere",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed has no effect on the atmosphere",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed affects only the gravitational force, not the atmosphere",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A higher escape speed helps a planet retain its atmosphere by preventing atmospheric gases from escaping into space.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "310",
+    "questionText": "What is the escape speed for a body on Neptune?",
+    "options": [
+      {
+        "text": "23.5 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "19.6 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "15.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "11.2 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed for a body on Neptune is approximately 23.5 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "330",
+    "questionText": "What is the primary function of an Earth satellite?",
+    "options": [
+      {
+        "text": "To orbit the Earth and collect data or relay signals",
+        "isCorrect": true
+      },
+      {
+        "text": "To orbit the sun and collect solar data",
+        "isCorrect": false
+      },
+      {
+        "text": "To orbit the moon and collect lunar data",
+        "isCorrect": false
+      },
+      {
+        "text": "To orbit Mars and collect Martian data",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary function of an Earth satellite is to orbit the Earth and collect data or relay signals.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "331",
+    "questionText": "What is the orbital period of a satellite in a geostationary orbit?",
+    "options": [
+      {
+        "text": "24 hours",
+        "isCorrect": true
+      },
+      {
+        "text": "12 hours",
+        "isCorrect": false
+      },
+      {
+        "text": "6 hours",
+        "isCorrect": false
+      },
+      {
+        "text": "48 hours",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The orbital period of a satellite in a geostationary orbit is 24 hours.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "332",
+    "questionText": "What is the height of a geostationary satellite above the Earth's surface?",
+    "options": [
+      {
+        "text": "Approximately 36,000 km",
+        "isCorrect": true
+      },
+      {
+        "text": "Approximately 24,000 km",
+        "isCorrect": false
+      },
+      {
+        "text": "Approximately 12,000 km",
+        "isCorrect": false
+      },
+      {
+        "text": "Approximately 48,000 km",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The height of a geostationary satellite above the Earth's surface is approximately 36,000 km.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "333",
+    "questionText": "What is a polar satellite?",
+    "options": [
+      {
+        "text": "A satellite that orbits the Earth over the poles",
+        "isCorrect": true
+      },
+      {
+        "text": "A satellite that orbits the Earth at the equator",
+        "isCorrect": false
+      },
+      {
+        "text": "A satellite that orbits the moon",
+        "isCorrect": false
+      },
+      {
+        "text": "A satellite that orbits Mars",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A polar satellite is one that orbits the Earth over the poles.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "334",
+    "questionText": "What is the main advantage of a geostationary satellite?",
+    "options": [
+      {
+        "text": "It remains fixed relative to a point on the Earth's surface",
+        "isCorrect": true
+      },
+      {
+        "text": "It can orbit the Earth in 12 hours",
+        "isCorrect": false
+      },
+      {
+        "text": "It can travel to other planets",
+        "isCorrect": false
+      },
+      {
+        "text": "It has a low operational cost",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main advantage of a geostationary satellite is that it remains fixed relative to a point on the Earth's surface.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "335",
+    "questionText": "What is the purpose of a communications satellite?",
+    "options": [
+      {
+        "text": "To relay signals for telephone, television, and internet",
+        "isCorrect": true
+      },
+      {
+        "text": "To observe weather patterns",
+        "isCorrect": false
+      },
+      {
+        "text": "To conduct space research",
+        "isCorrect": false
+      },
+      {
+        "text": "To navigate ships and airplanes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The purpose of a communications satellite is to relay signals for telephone, television, and internet.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "336",
+    "questionText": "What is the velocity required for a satellite to stay in low Earth orbit (LEO)?",
+    "options": [
+      {
+        "text": "Approximately 7.8 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "Approximately 5.8 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "Approximately 10.8 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "Approximately 15.8 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The velocity required for a satellite to stay in low Earth orbit (LEO) is approximately 7.8 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "337",
+    "questionText": "What is the difference between a geostationary satellite and a polar satellite?",
+    "options": [
+      {
+        "text": "A geostationary satellite orbits the equator, while a polar satellite orbits over the poles",
+        "isCorrect": true
+      },
+      {
+        "text": "A geostationary satellite orbits over the poles, while a polar satellite orbits the equator",
+        "isCorrect": false
+      },
+      {
+        "text": "A geostationary satellite is used for weather monitoring, while a polar satellite is used for communication",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no difference",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A geostationary satellite orbits the equator, while a polar satellite orbits over the poles.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "338",
+    "questionText": "How long does it take for a satellite in a low Earth orbit (LEO) to complete one revolution around the Earth?",
+    "options": [
+      {
+        "text": "Approximately 90 minutes",
+        "isCorrect": true
+      },
+      {
+        "text": "Approximately 24 hours",
+        "isCorrect": false
+      },
+      {
+        "text": "Approximately 12 hours",
+        "isCorrect": false
+      },
+      {
+        "text": "Approximately 6 hours",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A satellite in a low Earth orbit (LEO) takes approximately 90 minutes to complete one revolution around the Earth.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "339",
+    "questionText": "What is the primary use of polar satellites?",
+    "options": [
+      {
+        "text": "For weather forecasting and environmental monitoring",
+        "isCorrect": true
+      },
+      {
+        "text": "For communication purposes",
+        "isCorrect": false
+      },
+      {
+        "text": "For space exploration",
+        "isCorrect": false
+      },
+      {
+        "text": "For navigation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary use of polar satellites is for weather forecasting and environmental monitoring.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "340",
+    "questionText": "What is the significance of a satellite's orbital inclination?",
+    "options": [
+      {
+        "text": "It determines the latitude coverage of the satellite",
+        "isCorrect": true
+      },
+      {
+        "text": "It determines the speed of the satellite",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the satellite's distance from the Earth",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the satellite's size",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A satellite's orbital inclination determines the latitude coverage of the satellite.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "341",
+    "questionText": "What is the function of a GPS satellite?",
+    "options": [
+      {
+        "text": "To provide navigation and positioning information",
+        "isCorrect": true
+      },
+      {
+        "text": "To observe space weather",
+        "isCorrect": false
+      },
+      {
+        "text": "To transmit television signals",
+        "isCorrect": false
+      },
+      {
+        "text": "To monitor Earth's climate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The function of a GPS satellite is to provide navigation and positioning information.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "342",
+    "questionText": "How does a satellite remain in orbit around the Earth?",
+    "options": [
+      {
+        "text": "By balancing gravitational force and centripetal force",
+        "isCorrect": true
+      },
+      {
+        "text": "By balancing gravitational force and centrifugal force",
+        "isCorrect": false
+      },
+      {
+        "text": "By balancing gravitational force and frictional force",
+        "isCorrect": false
+      },
+      {
+        "text": "By balancing gravitational force and magnetic force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A satellite remains in orbit around the Earth by balancing gravitational force and centripetal force.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "343",
+    "questionText": "What is the speed required for a satellite to stay in geostationary orbit?",
+    "options": [
+      {
+        "text": "Approximately 3.07 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "Approximately 7.8 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "Approximately 11.2 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "Approximately 5.0 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed required for a satellite to stay in geostationary orbit is approximately 3.07 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "344",
+    "questionText": "What is the main advantage of using a polar satellite?",
+    "options": [
+      {
+        "text": "It covers the entire Earth's surface over time",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains fixed relative to a point on the Earth's surface",
+        "isCorrect": false
+      },
+      {
+        "text": "It has a higher speed compared to other satellites",
+        "isCorrect": false
+      },
+      {
+        "text": "It can communicate with other planets",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main advantage of using a polar satellite is that it covers the entire Earth's surface over time.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "345",
+    "questionText": "What type of orbit do most weather satellites use?",
+    "options": [
+      {
+        "text": "Polar orbit",
+        "isCorrect": true
+      },
+      {
+        "text": "Geostationary orbit",
+        "isCorrect": false
+      },
+      {
+        "text": "Elliptical orbit",
+        "isCorrect": false
+      },
+      {
+        "text": "Equatorial orbit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Most weather satellites use a polar orbit to cover the entire Earth's surface.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "346",
+    "questionText": "What is the purpose of a reconnaissance satellite?",
+    "options": [
+      {
+        "text": "To gather intelligence and conduct surveillance",
+        "isCorrect": true
+      },
+      {
+        "text": "To transmit television signals",
+        "isCorrect": false
+      },
+      {
+        "text": "To navigate ships and airplanes",
+        "isCorrect": false
+      },
+      {
+        "text": "To conduct scientific experiments",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The purpose of a reconnaissance satellite is to gather intelligence and conduct surveillance.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "347",
+    "questionText": "What is the main function of a weather satellite?",
+    "options": [
+      {
+        "text": "To monitor and predict weather conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "To provide communication services",
+        "isCorrect": false
+      },
+      {
+        "text": "To explore outer space",
+        "isCorrect": false
+      },
+      {
+        "text": "To navigate ships and airplanes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main function of a weather satellite is to monitor and predict weather conditions.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "348",
+    "questionText": "What is the function of a navigation satellite?",
+    "options": [
+      {
+        "text": "To provide positioning and timing information",
+        "isCorrect": true
+      },
+      {
+        "text": "To observe space weather",
+        "isCorrect": false
+      },
+      {
+        "text": "To transmit television signals",
+        "isCorrect": false
+      },
+      {
+        "text": "To monitor Earth's climate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The function of a navigation satellite is to provide positioning and timing information.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "349",
+    "questionText": "What is the difference between low Earth orbit (LEO) and geostationary orbit (GEO)?",
+    "options": [
+      {
+        "text": "LEO is closer to Earth and has a shorter orbital period, while GEO is farther and has a 24-hour orbital period",
+        "isCorrect": true
+      },
+      {
+        "text": "LEO is farther from Earth and has a longer orbital period, while GEO is closer and has a shorter orbital period",
+        "isCorrect": false
+      },
+      {
+        "text": "LEO and GEO are the same in terms of distance and orbital period",
+        "isCorrect": false
+      },
+      {
+        "text": "LEO is used for communication satellites, while GEO is used for weather satellites",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Low Earth orbit (LEO) is closer to Earth and has a shorter orbital period, while geostationary orbit (GEO) is farther and has a 24-hour orbital period.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "350",
+    "questionText": "What is the significance of the orbital altitude of a satellite?",
+    "options": [
+      {
+        "text": "It determines the satellite's orbital period and coverage area",
+        "isCorrect": true
+      },
+      {
+        "text": "It determines the satellite's speed",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the satellite's weight",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the satellite's power consumption",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The orbital altitude of a satellite determines its orbital period and coverage area.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "351",
+    "questionText": "What is the primary use of geostationary satellites?",
+    "options": [
+      {
+        "text": "For communication and broadcasting",
+        "isCorrect": true
+      },
+      {
+        "text": "For weather monitoring",
+        "isCorrect": false
+      },
+      {
+        "text": "For navigation",
+        "isCorrect": false
+      },
+      {
+        "text": "For scientific research",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary use of geostationary satellites is for communication and broadcasting.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "352",
+    "questionText": "How does the inclination of a satellite's orbit affect its coverage area?",
+    "options": [
+      {
+        "text": "Higher inclination provides better coverage of higher latitudes",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher inclination provides better coverage of equatorial regions",
+        "isCorrect": false
+      },
+      {
+        "text": "Inclination does not affect coverage area",
+        "isCorrect": false
+      },
+      {
+        "text": "Inclination affects only the satellite's speed",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Higher inclination of a satellite's orbit provides better coverage of higher latitudes.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "353",
+    "questionText": "What is the orbital period of a satellite in low Earth orbit (LEO)?",
+    "options": [
+      {
+        "text": "Approximately 90 minutes",
+        "isCorrect": true
+      },
+      {
+        "text": "Approximately 24 hours",
+        "isCorrect": false
+      },
+      {
+        "text": "Approximately 12 hours",
+        "isCorrect": false
+      },
+      {
+        "text": "Approximately 6 hours",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The orbital period of a satellite in low Earth orbit (LEO) is approximately 90 minutes.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "354",
+    "questionText": "What is the primary function of reconnaissance satellites?",
+    "options": [
+      {
+        "text": "To gather intelligence and conduct surveillance",
+        "isCorrect": true
+      },
+      {
+        "text": "To monitor weather conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide communication services",
+        "isCorrect": false
+      },
+      {
+        "text": "To explore outer space",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary function of reconnaissance satellites is to gather intelligence and conduct surveillance.",
+    "chapter": "Gravitation",
+    "topic": "7.9 Earth satellites",
+    "level": "EASY"
+  },
+  {
+    "qno": "391",
+    "questionText": "What is the total energy of a satellite in orbit around the Earth?",
+    "options": [
+      {
+        "text": "Negative",
+        "isCorrect": true
+      },
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Infinity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total energy of a satellite in orbit around the Earth is negative, indicating a bound system.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "392",
+    "questionText": "What is the kinetic energy of a satellite in orbit?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}mv^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$mv^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{2}mv$",
+        "isCorrect": false
+      },
+      {
+        "text": "$mgh$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic energy of a satellite in orbit is $\\frac{1}{2}mv^2$.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "EASY"
+  },
+  {
+    "qno": "393",
+    "questionText": "How is the potential energy of a satellite in orbit related to its kinetic energy?",
+    "options": [
+      {
+        "text": "Potential energy is twice the kinetic energy, but negative",
+        "isCorrect": true
+      },
+      {
+        "text": "Potential energy is equal to the kinetic energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Potential energy is half the kinetic energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Potential energy is zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential energy of a satellite in orbit is twice the kinetic energy, but negative.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "394",
+    "questionText": "What is the formula for the total energy of a satellite in a circular orbit?",
+    "options": [
+      {
+        "text": "$E = -\\frac{GMm}{2r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$E = -\\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$E = \\frac{GMm}{2r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$E = \\frac{GMm}{r}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for the total energy of a satellite in a circular orbit is $E = -\\frac{GMm}{2r}$.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "HARD"
+  },
+  {
+    "qno": "395",
+    "questionText": "How does the energy of a satellite change if it moves to a higher orbit?",
+    "options": [
+      {
+        "text": "The total energy becomes less negative",
+        "isCorrect": true
+      },
+      {
+        "text": "The total energy becomes more negative",
+        "isCorrect": false
+      },
+      {
+        "text": "The total energy remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "The total energy becomes positive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If a satellite moves to a higher orbit, the total energy becomes less negative, indicating a less tightly bound system.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "396",
+    "questionText": "What is the relationship between the orbital radius and the speed of a satellite in a circular orbit?",
+    "options": [
+      {
+        "text": "Speed is inversely proportional to the square root of the orbital radius",
+        "isCorrect": true
+      },
+      {
+        "text": "Speed is directly proportional to the square root of the orbital radius",
+        "isCorrect": false
+      },
+      {
+        "text": "Speed is inversely proportional to the orbital radius",
+        "isCorrect": false
+      },
+      {
+        "text": "Speed is directly proportional to the orbital radius",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of a satellite in a circular orbit is inversely proportional to the square root of the orbital radius.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "HARD"
+  },
+  {
+    "qno": "397",
+    "questionText": "How does the potential energy of a satellite in a circular orbit compare to its total energy?",
+    "options": [
+      {
+        "text": "Potential energy is twice the total energy, but negative",
+        "isCorrect": true
+      },
+      {
+        "text": "Potential energy is equal to the total energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Potential energy is half the total energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Potential energy is zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential energy of a satellite in a circular orbit is twice the total energy, but negative.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "HARD"
+  },
+  {
+    "qno": "398",
+    "questionText": "What is the kinetic energy of a satellite in a circular orbit?",
+    "options": [
+      {
+        "text": "$K = \\frac{GMm}{2r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K = \\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K = -\\frac{GMm}{2r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K = -\\frac{GMm}{r}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic energy of a satellite in a circular orbit is $K = \\frac{GMm}{2r}$.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "399",
+    "questionText": "What is the effect of increasing the orbital radius on the potential energy of a satellite?",
+    "options": [
+      {
+        "text": "Potential energy becomes less negative",
+        "isCorrect": true
+      },
+      {
+        "text": "Potential energy becomes more negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Potential energy remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Potential energy becomes positive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the orbital radius makes the potential energy less negative.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "EASY"
+  },
+  {
+    "qno": "400",
+    "questionText": "How does the total energy of a satellite in orbit change if it loses some kinetic energy?",
+    "options": [
+      {
+        "text": "The total energy becomes more negative",
+        "isCorrect": true
+      },
+      {
+        "text": "The total energy becomes less negative",
+        "isCorrect": false
+      },
+      {
+        "text": "The total energy remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "The total energy becomes positive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If a satellite loses kinetic energy, the total energy becomes more negative, indicating a more tightly bound system.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "HARD"
+  },
+  {
+    "qno": "401",
+    "questionText": "What is the total energy of a satellite in a circular orbit around the Earth?",
+    "options": [
+      {
+        "text": "$E = -\\frac{GMm}{2r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$E = \\frac{GMm}{2r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$E = -\\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$E = \\frac{GMm}{r}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total energy of a satellite in a circular orbit around the Earth is $E = -\\frac{GMm}{2r}$.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "HARD"
+  },
+  {
+    "qno": "402",
+    "questionText": "What is the relationship between the total energy and kinetic energy of a satellite in orbit?",
+    "options": [
+      {
+        "text": "Total energy is half the kinetic energy, but negative",
+        "isCorrect": true
+      },
+      {
+        "text": "Total energy is equal to the kinetic energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Total energy is twice the kinetic energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Total energy is zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total energy of a satellite in orbit is half the kinetic energy, but negative.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "HARD"
+  },
+  {
+    "qno": "403",
+    "questionText": "What is the formula for the kinetic energy of a satellite in a circular orbit?",
+    "options": [
+      {
+        "text": "$K = \\frac{GMm}{2r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K = \\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K = -\\frac{GMm}{2r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K = -\\frac{GMm}{r}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic energy of a satellite in a circular orbit is $K = \\frac{GMm}{2r}$.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "404",
+    "questionText": "What happens to the total energy of a satellite if its orbital radius is halved?",
+    "options": [
+      {
+        "text": "Total energy becomes more negative",
+        "isCorrect": true
+      },
+      {
+        "text": "Total energy becomes less negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Total energy remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Total energy becomes positive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the orbital radius of a satellite is halved, the total energy becomes more negative.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "405",
+    "questionText": "What is the effect of increasing the orbital radius on the kinetic energy of a satellite?",
+    "options": [
+      {
+        "text": "Kinetic energy decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Kinetic energy increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinetic energy remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinetic energy becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the orbital radius decreases the kinetic energy of the satellite.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "EASY"
+  },
+  {
+    "qno": "406",
+    "questionText": "How is the total energy of a satellite in a circular orbit calculated?",
+    "options": [
+      {
+        "text": "$E = -\\frac{GMm}{2r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$E = \\frac{GMm}{2r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$E = -\\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$E = \\frac{GMm}{r}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total energy of a satellite in a circular orbit is calculated using $E = -\\frac{GMm}{2r}$.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "HARD"
+  },
+  {
+    "qno": "407",
+    "questionText": "What is the effect of increasing the orbital radius on the total energy of a satellite?",
+    "options": [
+      {
+        "text": "Total energy becomes less negative",
+        "isCorrect": true
+      },
+      {
+        "text": "Total energy becomes more negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Total energy remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Total energy becomes positive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the orbital radius makes the total energy less negative.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "408",
+    "questionText": "How is the potential energy of a satellite in a circular orbit calculated?",
+    "options": [
+      {
+        "text": "$U = -\\frac{GMm}{r}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U = \\frac{GMm}{r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = \\frac{GMm}{2r}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U = -\\frac{GMm}{2r}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential energy of a satellite in a circular orbit is calculated using $U = -\\frac{GMm}{r}$.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "HARD"
+  },
+  {
+    "qno": "409",
+    "questionText": "What happens to the kinetic energy of a satellite if its orbital radius is doubled?",
+    "options": [
+      {
+        "text": "Kinetic energy decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Kinetic energy increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinetic energy remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinetic energy becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the orbital radius of a satellite is doubled, its kinetic energy decreases.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "410",
+    "questionText": "What is the relationship between the kinetic energy and potential energy of a satellite in a circular orbit?",
+    "options": [
+      {
+        "text": "Kinetic energy is half the magnitude of potential energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Kinetic energy is equal to the potential energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinetic energy is twice the potential energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinetic energy is zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a circular orbit, the kinetic energy is half the magnitude of the potential energy.",
+    "chapter": "Gravitation",
+    "topic": "7.10 Energy of an orbiting satellite",
+    "level": "HARD"
+  },
+  {
+    "qno": "311",
+    "questionText": "What is the escape speed from the surface of Earth?",
+    "options": [
+      {
+        "text": "11.2 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "7.9 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "5.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "12.4 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed from the surface of Earth is approximately 11.2 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "312",
+    "questionText": "What determines the escape speed of a planet?",
+    "options": [
+      {
+        "text": "Mass and radius of the planet",
+        "isCorrect": true
+      },
+      {
+        "text": "Distance from the sun",
+        "isCorrect": false
+      },
+      {
+        "text": "Orbital speed",
+        "isCorrect": false
+      },
+      {
+        "text": "Atmospheric pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed of a planet is determined by its mass and radius.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "313",
+    "questionText": "How does escape speed change if the radius of the planet is doubled?",
+    "options": [
+      {
+        "text": "Escape speed decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Escape speed increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the radius of the planet is doubled, the escape speed decreases.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "315",
+    "questionText": "How does the escape speed relate to the gravitational potential energy?",
+    "options": [
+      {
+        "text": "Escape speed is proportional to the square root of gravitational potential energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Escape speed is proportional to gravitational potential energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed is inversely proportional to gravitational potential energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed is independent of gravitational potential energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Escape speed is proportional to the square root of gravitational potential energy.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "317",
+    "questionText": "What is the formula to calculate escape speed?",
+    "options": [
+      {
+        "text": "$v_e = \\sqrt{\\frac{2GM}{R}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$v_e = \\sqrt{\\frac{GM}{R}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v_e = \\sqrt{\\frac{GM}{2R}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v_e = \\sqrt{\\frac{G}{2MR}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula to calculate escape speed is $v_e = \\sqrt{\\frac{2GM}{R}}$.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "319",
+    "questionText": "What is the escape speed for a body on Jupiter?",
+    "options": [
+      {
+        "text": "42.1 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "25.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "60.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "11.2 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed for a body on Jupiter is approximately 42.1 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "320",
+    "questionText": "How does the escape speed change with increasing altitude?",
+    "options": [
+      {
+        "text": "Escape speed decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Escape speed increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Escape speed decreases with increasing altitude.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "324",
+    "questionText": "What is the escape speed for a body on Saturn?",
+    "options": [
+      {
+        "text": "35.5 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "25.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "42.1 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "11.2 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed for a body on Saturn is approximately 35.5 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "326",
+    "questionText": "Why is the concept of escape speed important for space missions?",
+    "options": [
+      {
+        "text": "It determines the velocity required for a spacecraft to leave Earth's gravitational influence",
+        "isCorrect": true
+      },
+      {
+        "text": "It determines the velocity required for a spacecraft to orbit the Earth",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the velocity required for a spacecraft to enter Earth's atmosphere",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the velocity required for a spacecraft to land on the moon",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed is crucial in space missions as it determines the velocity required for a spacecraft to leave Earth's gravitational influence.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "327",
+    "questionText": "What is the escape speed for a body on Uranus?",
+    "options": [
+      {
+        "text": "21.3 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "17.5 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "25.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "11.2 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed for a body on Uranus is approximately 21.3 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "328",
+    "questionText": "How does the escape speed change with the mass of the planet?",
+    "options": [
+      {
+        "text": "Escape speed increases with the mass of the planet",
+        "isCorrect": true
+      },
+      {
+        "text": "Escape speed decreases with the mass of the planet",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed remains constant regardless of the mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Escape speed is not related to the mass of the planet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Escape speed increases with the mass of the planet.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "329",
+    "questionText": "What is the escape speed for a body on Pluto?",
+    "options": [
+      {
+        "text": "1.2 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "2.5 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "4.8 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "3.4 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed for a body on Pluto is approximately 1.2 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "330",
+    "questionText": "What is the escape speed for a body on the Sun?",
+    "options": [
+      {
+        "text": "617.7 km/s",
+        "isCorrect": true
+      },
+      {
+        "text": "500.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "700.0 km/s",
+        "isCorrect": false
+      },
+      {
+        "text": "800.0 km/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The escape speed for a body on the Sun is approximately 617.7 km/s.",
+    "chapter": "Gravitation",
+    "topic": "7.8 Escape speed",
+    "level": "HARD"
+  }
+]

@@ -1,0 +1,4474 @@
+[
+  {
+    "qno": "1",
+    "questionText": "Which of the following is an example of motion in a straight line?",
+    "options": [
+      {
+        "text": "A car moving on a circular track",
+        "isCorrect": false
+      },
+      {
+        "text": "A ball rolling on a curved path",
+        "isCorrect": false
+      },
+      {
+        "text": "A train moving on a straight track",
+        "isCorrect": true
+      },
+      {
+        "text": "A plane taking off",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Motion in a straight line refers to the movement of an object along a straight path.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "What is rectilinear motion?",
+    "options": [
+      {
+        "text": "Motion along a curved path",
+        "isCorrect": false
+      },
+      {
+        "text": "Motion along a straight line",
+        "isCorrect": true
+      },
+      {
+        "text": "Rotational motion",
+        "isCorrect": false
+      },
+      {
+        "text": "Vibrational motion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rectilinear motion is the motion of an object along a straight line.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "What is instantaneous velocity?",
+    "options": [
+      {
+        "text": "Average velocity over a time interval",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity at a specific instant of time",
+        "isCorrect": true
+      },
+      {
+        "text": "Total distance covered divided by total time taken",
+        "isCorrect": false
+      },
+      {
+        "text": "The rate of change of velocity with time",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Instantaneous velocity is the velocity of an object at a specific instant of time.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "4",
+    "questionText": "How is instantaneous velocity represented mathematically?",
+    "options": [
+      {
+        "text": "$v = \\lim_{\\Delta t \\to 0} \\frac{\\Delta x}{\\Delta t}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$v = \\frac{x}{t}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v = \\frac{d^2x}{dt^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v = \\int v dt$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Instantaneous velocity is defined as the limit of the average velocity as the time interval approaches zero.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "5",
+    "questionText": "What is the SI unit of acceleration?",
+    "options": [
+      {
+        "text": "m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "m^2/s",
+        "isCorrect": false
+      },
+      {
+        "text": "m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The SI unit of acceleration is meters per second squared (m/s^2).",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "6",
+    "questionText": "What is the definition of average acceleration?",
+    "options": [
+      {
+        "text": "Change in velocity per unit time",
+        "isCorrect": true
+      },
+      {
+        "text": "Change in position per unit time",
+        "isCorrect": false
+      },
+      {
+        "text": "Total distance traveled divided by total time taken",
+        "isCorrect": false
+      },
+      {
+        "text": "Rate of change of acceleration with time",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Average acceleration is defined as the change in velocity divided by the time interval during which the change occurs.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "7",
+    "questionText": "Which of the following is a kinematic equation for uniformly accelerated motion?",
+    "options": [
+      {
+        "text": "$v = v_0 + at$",
+        "isCorrect": true
+      },
+      {
+        "text": "$v = \\frac{dx}{dt}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v = \\int a dt$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v = \\frac{d^2x}{dt^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "One of the kinematic equations for uniformly accelerated motion is $v = v_0 + at$.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "HARD"
+  },
+  {
+    "qno": "8",
+    "questionText": "Which equation relates displacement, initial velocity, time, and acceleration?",
+    "options": [
+      {
+        "text": "$x = v_0 t + \\frac{1}{2}at^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$v = v_0 + at$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v^2 = v_0^2 + 2ax$",
+        "isCorrect": false
+      },
+      {
+        "text": "$a = \\frac{dv}{dt}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equation $x = v_0 t + \\frac{1}{2}at^2$ relates displacement, initial velocity, time, and acceleration.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "HARD"
+  },
+  {
+    "qno": "3",
+    "questionText": "Which of the following scenarios does NOT represent rectilinear motion?",
+    "options": [
+      {
+        "text": "A person walking along a straight road",
+        "isCorrect": false
+      },
+      {
+        "text": "A car moving on a straight highway",
+        "isCorrect": false
+      },
+      {
+        "text": "A satellite orbiting the Earth",
+        "isCorrect": true
+      },
+      {
+        "text": "A train moving on straight tracks",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rectilinear motion refers to motion along a straight line. An orbiting satellite follows a curved path.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "5",
+    "questionText": "If the position-time graph of an object is a straight line, what can be inferred about its velocity?",
+    "options": [
+      {
+        "text": "The velocity is constant",
+        "isCorrect": true
+      },
+      {
+        "text": "The velocity is increasing",
+        "isCorrect": false
+      },
+      {
+        "text": "The velocity is decreasing",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A straight line on a position-time graph indicates constant velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "9",
+    "questionText": "What is the acceleration of an object moving with uniform velocity?",
+    "options": [
+      {
+        "text": "Equal to its velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Equal to its displacement",
+        "isCorrect": false
+      },
+      {
+        "text": "Infinite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acceleration is the rate of change of velocity. If the velocity is uniform, the acceleration is zero.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "11",
+    "questionText": "An object is dropped from rest and falls freely under gravity. Which equation is used to find the distance fallen after time t?",
+    "options": [
+      {
+        "text": "$x = \\frac{1}{2}gt^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x = v_0t + \\frac{1}{2}at^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v = v_0 + at$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v^2 = v_0^2 + 2ax$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an object falling freely from rest, $x = \\frac{1}{2}gt^2$ can be used to find the distance fallen.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "HARD"
+  },
+  {
+    "qno": "4",
+    "questionText": "What does rectilinear motion describe?",
+    "options": [
+      {
+        "text": "Motion along a straight line",
+        "isCorrect": true
+      },
+      {
+        "text": "Motion along a curved path",
+        "isCorrect": false
+      },
+      {
+        "text": "Motion in a circular path",
+        "isCorrect": false
+      },
+      {
+        "text": "Random motion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rectilinear motion refers to motion along a straight line.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "If the velocity of an object is constant, what is its acceleration?",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Depends on the direction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the velocity is constant, the rate of change of velocity (acceleration) is zero.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "11",
+    "questionText": "What happens to the velocity of an object if its acceleration is negative?",
+    "options": [
+      {
+        "text": "The velocity increases",
+        "isCorrect": false
+      },
+      {
+        "text": "The velocity decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "The velocity remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "The object comes to rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Negative acceleration (deceleration) causes the velocity of the object to decrease.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "14",
+    "questionText": "Which kinematic equation is used to find the final velocity of an object with initial velocity, acceleration, and time?",
+    "options": [
+      {
+        "text": "$v = v_0 + at$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x = v_0t + \\frac{1}{2}at^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v^2 = v_0^2 + 2ax$",
+        "isCorrect": false
+      },
+      {
+        "text": "$a = \\frac{dv}{dt}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinematic equation $v = v_0 + at$ relates final velocity, initial velocity, acceleration, and time.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "HARD"
+  },
+  {
+    "qno": "15",
+    "questionText": "What is the relationship between displacement and distance?",
+    "options": [
+      {
+        "text": "Displacement is always greater than distance",
+        "isCorrect": false
+      },
+      {
+        "text": "Displacement is always less than distance",
+        "isCorrect": false
+      },
+      {
+        "text": "Displacement is the shortest distance between two points",
+        "isCorrect": true
+      },
+      {
+        "text": "Displacement is the total path length traveled",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Displacement is the shortest distance between two points, whereas distance is the total path length traveled.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "16",
+    "questionText": "Which of the following best describes rectilinear motion?",
+    "options": [
+      {
+        "text": "Motion in a circle",
+        "isCorrect": false
+      },
+      {
+        "text": "Motion along a straight line",
+        "isCorrect": true
+      },
+      {
+        "text": "Random motion",
+        "isCorrect": false
+      },
+      {
+        "text": "Motion along a curved path",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rectilinear motion refers to motion along a straight line.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "Which of the following is NOT an example of rectilinear motion?",
+    "options": [
+      {
+        "text": "A car moving on a straight road",
+        "isCorrect": false
+      },
+      {
+        "text": "A ball thrown vertically upwards",
+        "isCorrect": false
+      },
+      {
+        "text": "A satellite orbiting the Earth",
+        "isCorrect": true
+      },
+      {
+        "text": "A train moving on a straight track",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A satellite orbiting the Earth follows a curved path and is not an example of rectilinear motion.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "18",
+    "questionText": "Rectilinear motion can be described as:",
+    "options": [
+      {
+        "text": "Motion along a straight line",
+        "isCorrect": true
+      },
+      {
+        "text": "Motion in a circular path",
+        "isCorrect": false
+      },
+      {
+        "text": "Motion along a curved path",
+        "isCorrect": false
+      },
+      {
+        "text": "Random motion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rectilinear motion refers to motion along a straight line.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "19",
+    "questionText": "Which of the following motions can be considered as rectilinear?",
+    "options": [
+      {
+        "text": "A car moving in a curved path",
+        "isCorrect": false
+      },
+      {
+        "text": "A person running along a straight track",
+        "isCorrect": true
+      },
+      {
+        "text": "A stone thrown in a parabolic trajectory",
+        "isCorrect": false
+      },
+      {
+        "text": "A satellite orbiting the Earth",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A person running along a straight track is an example of rectilinear motion.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "20",
+    "questionText": "What is the primary characteristic of rectilinear motion?",
+    "options": [
+      {
+        "text": "It is motion along a curved path",
+        "isCorrect": false
+      },
+      {
+        "text": "It is motion along a straight line",
+        "isCorrect": true
+      },
+      {
+        "text": "It is random motion",
+        "isCorrect": false
+      },
+      {
+        "text": "It is motion in a circular path",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary characteristic of rectilinear motion is that it occurs along a straight line.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "Which of the following is NOT a type of rectilinear motion?",
+    "options": [
+      {
+        "text": "A person walking on a straight path",
+        "isCorrect": false
+      },
+      {
+        "text": "A car moving on a straight highway",
+        "isCorrect": false
+      },
+      {
+        "text": "An airplane taking off in a curved path",
+        "isCorrect": true
+      },
+      {
+        "text": "A train moving on straight tracks",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An airplane taking off in a curved path does not represent rectilinear motion.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "22",
+    "questionText": "Which motion is considered rectilinear?",
+    "options": [
+      {
+        "text": "A ball rolling on a curved path",
+        "isCorrect": false
+      },
+      {
+        "text": "A car driving straight down a road",
+        "isCorrect": true
+      },
+      {
+        "text": "A satellite orbiting the Earth",
+        "isCorrect": false
+      },
+      {
+        "text": "A boat moving in a circular path",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A car driving straight down a road is an example of rectilinear motion.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "23",
+    "questionText": "What does rectilinear motion refer to?",
+    "options": [
+      {
+        "text": "Motion in a circular path",
+        "isCorrect": false
+      },
+      {
+        "text": "Motion along a straight line",
+        "isCorrect": true
+      },
+      {
+        "text": "Random motion",
+        "isCorrect": false
+      },
+      {
+        "text": "Motion along a curved path",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rectilinear motion refers to motion along a straight line.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "24",
+    "questionText": "Which example best represents rectilinear motion?",
+    "options": [
+      {
+        "text": "A car moving in a circular track",
+        "isCorrect": false
+      },
+      {
+        "text": "A train moving on a straight track",
+        "isCorrect": true
+      },
+      {
+        "text": "A ball rolling on a curved path",
+        "isCorrect": false
+      },
+      {
+        "text": "A plane taking off",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A train moving on a straight track is an example of rectilinear motion.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "25",
+    "questionText": "Which of the following motions is not rectilinear?",
+    "options": [
+      {
+        "text": "A ball falling straight down",
+        "isCorrect": false
+      },
+      {
+        "text": "A car moving in a curved path",
+        "isCorrect": true
+      },
+      {
+        "text": "A person walking in a straight line",
+        "isCorrect": false
+      },
+      {
+        "text": "A train moving on straight tracks",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A car moving in a curved path is not an example of rectilinear motion.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "27",
+    "questionText": "What is an example of rectilinear motion?",
+    "options": [
+      {
+        "text": "A car moving on a straight road",
+        "isCorrect": true
+      },
+      {
+        "text": "A ball rolling on a curved path",
+        "isCorrect": false
+      },
+      {
+        "text": "A satellite orbiting the Earth",
+        "isCorrect": false
+      },
+      {
+        "text": "A boat moving in a circular path",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A car moving on a straight road is an example of rectilinear motion.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "28",
+    "questionText": "Which of the following is NOT a characteristic of rectilinear motion?",
+    "options": [
+      {
+        "text": "Motion along a straight line",
+        "isCorrect": false
+      },
+      {
+        "text": "Motion in a straight path",
+        "isCorrect": false
+      },
+      {
+        "text": "Motion in a circular path",
+        "isCorrect": true
+      },
+      {
+        "text": "Motion along a straight trajectory",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Motion in a circular path is not a characteristic of rectilinear motion.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "29",
+    "questionText": "Which type of motion is characterized by a straight path?",
+    "options": [
+      {
+        "text": "Circular motion",
+        "isCorrect": false
+      },
+      {
+        "text": "Rectilinear motion",
+        "isCorrect": true
+      },
+      {
+        "text": "Random motion",
+        "isCorrect": false
+      },
+      {
+        "text": "Projectile motion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rectilinear motion is characterized by a straight path.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "30",
+    "questionText": "What is an example of non-rectilinear motion?",
+    "options": [
+      {
+        "text": "A person walking in a straight line",
+        "isCorrect": false
+      },
+      {
+        "text": "A car moving in a curved path",
+        "isCorrect": true
+      },
+      {
+        "text": "A train moving on straight tracks",
+        "isCorrect": false
+      },
+      {
+        "text": "A ball falling straight down",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A car moving in a curved path is an example of non-rectilinear motion.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "5",
+    "questionText": "What is the SI unit of velocity?",
+    "options": [
+      {
+        "text": "m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "km/h",
+        "isCorrect": false
+      },
+      {
+        "text": "m^2/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The SI unit of velocity is meters per second (m/s).",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "6",
+    "questionText": "What happens to the instantaneous velocity of an object in uniform motion?",
+    "options": [
+      {
+        "text": "It remains constant",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In uniform motion, the instantaneous velocity remains constant.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "7",
+    "questionText": "How is average velocity different from instantaneous velocity?",
+    "options": [
+      {
+        "text": "Average velocity is measured over a time interval, while instantaneous velocity is at a specific instant",
+        "isCorrect": true
+      },
+      {
+        "text": "Average velocity is always greater than instantaneous velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Instantaneous velocity is always greater than average velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "They are always the same",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Average velocity is calculated over a time interval, while instantaneous velocity is the velocity at a specific instant.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "8",
+    "questionText": "What is the formula for instantaneous speed?",
+    "options": [
+      {
+        "text": "$v = \\left| \\frac{dx}{dt} \\right|$",
+        "isCorrect": true
+      },
+      {
+        "text": "$v = \\frac{x}{t}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v = \\int v dt$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v = \\frac{d^2x}{dt^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Instantaneous speed is the magnitude of the instantaneous velocity, given by $v = \\left| \\frac{dx}{dt} \\right|$.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "9",
+    "questionText": "If an object has a constant velocity, what is its instantaneous velocity at any point?",
+    "options": [
+      {
+        "text": "Equal to the average velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "Greater than the average velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Less than the average velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an object with constant velocity, the instantaneous velocity at any point is equal to the average velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "10",
+    "questionText": "What happens to the instantaneous velocity of an object in non-uniform motion?",
+    "options": [
+      {
+        "text": "It changes",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes infinite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In non-uniform motion, the instantaneous velocity changes at different points in time.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "11",
+    "questionText": "How is the instantaneous velocity of an object moving with non-uniform velocity determined?",
+    "options": [
+      {
+        "text": "By dividing the total displacement by the total time",
+        "isCorrect": false
+      },
+      {
+        "text": "By calculating the derivative of the position with respect to time",
+        "isCorrect": true
+      },
+      {
+        "text": "By integrating the velocity over time",
+        "isCorrect": false
+      },
+      {
+        "text": "By taking the average of initial and final velocities",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Instantaneous velocity for non-uniform motion is determined by calculating the derivative of the position with respect to time.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "What is the relationship between instantaneous speed and instantaneous velocity?",
+    "options": [
+      {
+        "text": "Instantaneous speed is the magnitude of instantaneous velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "Instantaneous speed is always greater than instantaneous velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Instantaneous velocity is always greater than instantaneous speed",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no relationship",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Instantaneous speed is the magnitude of the instantaneous velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "13",
+    "questionText": "If the instantaneous velocity of an object is zero, what can be said about the object's motion?",
+    "options": [
+      {
+        "text": "The object is at rest at that instant",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is moving with constant velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is accelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is moving with non-uniform velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the instantaneous velocity is zero, the object is at rest at that specific instant.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "14",
+    "questionText": "How can the instantaneous velocity be graphically determined from a position-time graph?",
+    "options": [
+      {
+        "text": "By finding the slope of the tangent to the curve at that point",
+        "isCorrect": true
+      },
+      {
+        "text": "By finding the area under the curve",
+        "isCorrect": false
+      },
+      {
+        "text": "By taking the average of initial and final positions",
+        "isCorrect": false
+      },
+      {
+        "text": "By measuring the total distance traveled",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity at a point on a position-time graph is determined by the slope of the tangent to the curve at that point.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "15",
+    "questionText": "Which of the following describes instantaneous speed?",
+    "options": [
+      {
+        "text": "It is the derivative of position with respect to time",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the magnitude of the instantaneous velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "It is the average speed over a time interval",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the integral of velocity over time",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Instantaneous speed is the magnitude of the instantaneous velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "16",
+    "questionText": "Which of the following is true for an object in uniform circular motion?",
+    "options": [
+      {
+        "text": "The instantaneous speed is constant, but the instantaneous velocity changes direction",
+        "isCorrect": true
+      },
+      {
+        "text": "Both instantaneous speed and velocity remain constant",
+        "isCorrect": false
+      },
+      {
+        "text": "The instantaneous speed changes, but the velocity remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Both instantaneous speed and velocity change direction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In uniform circular motion, the instantaneous speed is constant, but the direction of the instantaneous velocity changes continuously.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "17",
+    "questionText": "What does the magnitude of instantaneous velocity represent?",
+    "options": [
+      {
+        "text": "The rate at which distance is covered",
+        "isCorrect": false
+      },
+      {
+        "text": "The rate at which displacement is covered",
+        "isCorrect": true
+      },
+      {
+        "text": "The total distance covered",
+        "isCorrect": false
+      },
+      {
+        "text": "The total displacement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnitude of instantaneous velocity represents the rate at which displacement is covered.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "18",
+    "questionText": "If the instantaneous velocity of a particle is given by $v(t) = 5t - 3$, what is the velocity at $t = 2$ seconds?",
+    "options": [
+      {
+        "text": "$2 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-1 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $t = 2$ in the equation $v(t) = 5t - 3$ gives $v(2) = 5(2) - 3 = 10 - 3 = 7 \\text{ m/s}$.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "19",
+    "questionText": "What is the relationship between average velocity and instantaneous velocity in uniform motion?",
+    "options": [
+      {
+        "text": "They are equal",
+        "isCorrect": true
+      },
+      {
+        "text": "Average velocity is greater than instantaneous velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Instantaneous velocity is greater than average velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no relationship",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In uniform motion, average velocity and instantaneous velocity are equal.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "20",
+    "questionText": "Which mathematical operation is used to determine instantaneous velocity from a position-time function?",
+    "options": [
+      {
+        "text": "Integration",
+        "isCorrect": false
+      },
+      {
+        "text": "Differentiation",
+        "isCorrect": true
+      },
+      {
+        "text": "Multiplication",
+        "isCorrect": false
+      },
+      {
+        "text": "Addition",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Differentiation of the position-time function with respect to time gives the instantaneous velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "21",
+    "questionText": "If an object's instantaneous velocity is zero, what can be said about its motion at that instant?",
+    "options": [
+      {
+        "text": "The object is at rest",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is accelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is decelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is moving at constant speed",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the instantaneous velocity is zero, the object is at rest at that specific instant.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "22",
+    "questionText": "How is instantaneous speed calculated from instantaneous velocity?",
+    "options": [
+      {
+        "text": "By taking the magnitude of the instantaneous velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "By squaring the instantaneous velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "By differentiating the instantaneous velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "By integrating the instantaneous velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Instantaneous speed is calculated as the magnitude of the instantaneous velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "23",
+    "questionText": "If a car's position is given by the equation $x(t) = 4t^2 + 2t$, what is its instantaneous velocity at $t = 3$ seconds?",
+    "options": [
+      {
+        "text": "$14 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$26 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$32 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$40 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Instantaneous velocity is the derivative of the position function. $v(t) = \\frac{dx}{dt} = 8t + 2$. Substituting $t = 3$, we get $v(3) = 8(3) + 2 = 24 + 2 = 26 \\text{ m/s}$.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "24",
+    "questionText": "Which graph correctly represents an object moving with constant instantaneous velocity?",
+    "options": [
+      {
+        "text": "A straight horizontal line in a position-time graph",
+        "isCorrect": false
+      },
+      {
+        "text": "A straight line with a positive slope in a position-time graph",
+        "isCorrect": true
+      },
+      {
+        "text": "A parabolic curve in a position-time graph",
+        "isCorrect": false
+      },
+      {
+        "text": "A horizontal line in a velocity-time graph",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A straight line with a positive slope in a position-time graph represents constant instantaneous velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "25",
+    "questionText": "If the velocity-time graph of an object is a horizontal line, what does it indicate about the object's motion?",
+    "options": [
+      {
+        "text": "The object is moving with constant velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is accelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is decelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A horizontal line in a velocity-time graph indicates that the object is moving with constant velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "26",
+    "questionText": "What is the instantaneous velocity of an object at rest?",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity of an object at rest is zero.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "27",
+    "questionText": "Which mathematical tool is used to determine the instantaneous velocity from a position-time graph?",
+    "options": [
+      {
+        "text": "Integration",
+        "isCorrect": false
+      },
+      {
+        "text": "Differentiation",
+        "isCorrect": true
+      },
+      {
+        "text": "Subtraction",
+        "isCorrect": false
+      },
+      {
+        "text": "Addition",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Differentiation of the position-time graph with respect to time gives the instantaneous velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "28",
+    "questionText": "If an object has an instantaneous velocity of 10 m/s, what does this mean?",
+    "options": [
+      {
+        "text": "The object covers 10 meters every second",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is moving with uniform acceleration",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is decelerating",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An instantaneous velocity of 10 m/s means the object covers 10 meters every second at that specific instant.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "29",
+    "questionText": "If the position-time graph is a curve, how can we find the instantaneous velocity?",
+    "options": [
+      {
+        "text": "By finding the slope of the tangent to the curve at that point",
+        "isCorrect": true
+      },
+      {
+        "text": "By finding the area under the curve",
+        "isCorrect": false
+      },
+      {
+        "text": "By integrating the position function",
+        "isCorrect": false
+      },
+      {
+        "text": "By averaging the velocities",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity at a point on a position-time graph is determined by the slope of the tangent to the curve at that point.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "30",
+    "questionText": "What is the significance of the slope of a position-time graph?",
+    "options": [
+      {
+        "text": "It represents the instantaneous velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "It represents the average velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "It represents the instantaneous acceleration",
+        "isCorrect": false
+      },
+      {
+        "text": "It represents the average acceleration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The slope of a position-time graph represents the instantaneous velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "31",
+    "questionText": "If an object's position is given by $x(t) = 2t^3 - 5t^2 + 3t - 1$, what is its instantaneous velocity at $t = 2$ seconds?",
+    "options": [
+      {
+        "text": "$19 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$17 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$15 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$13 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity is found by differentiating the position function: $v(t) = \\frac{dx}{dt} = 6t^2 - 10t + 3$. Substituting $t = 2$, we get $v(2) = 6(2^2) - 10(2) + 3 = 24 - 20 + 3 = 7 \\text{ m/s}$.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "32",
+    "questionText": "In a velocity-time graph, what does a horizontal line indicate?",
+    "options": [
+      {
+        "text": "Constant velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "Increasing velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Decreasing velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A horizontal line in a velocity-time graph indicates constant velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "33",
+    "questionText": "If the velocity of an object is given by $v(t) = 4t - 7$, what is its instantaneous velocity at $t = 3$ seconds?",
+    "options": [
+      {
+        "text": "$5 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$9 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$11 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $t = 3$ into the equation $v(t) = 4t - 7$, we get $v(3) = 4(3) - 7 = 12 - 7 = 5 \\text{ m/s}$.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "34",
+    "questionText": "What does a positive slope on a velocity-time graph indicate?",
+    "options": [
+      {
+        "text": "The object is accelerating",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is moving with constant velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is decelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A positive slope on a velocity-time graph indicates that the object is accelerating.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "35",
+    "questionText": "If an object's instantaneous velocity is changing, what can be said about its motion?",
+    "options": [
+      {
+        "text": "The object is accelerating",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is moving with constant velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is decelerating",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the instantaneous velocity of an object is changing, it means the object is accelerating.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "36",
+    "questionText": "If the instantaneous velocity of an object is given by $v(t) = 3t^2 - 2t + 1$, what is the velocity at $t = 4$ seconds?",
+    "options": [
+      {
+        "text": "$45 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$41 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$37 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$33 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $t = 4$ into the equation $v(t) = 3t^2 - 2t + 1$, we get $v(4) = 3(4)^2 - 2(4) + 1 = 48 - 8 + 1 = 41 \\text{ m/s}$.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "37",
+    "questionText": "How is the instantaneous velocity related to the position-time graph?",
+    "options": [
+      {
+        "text": "It is the slope of the tangent to the position-time graph at that point",
+        "isCorrect": true
+      },
+      {
+        "text": "It is the area under the position-time graph",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the average velocity over the time interval",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the derivative of the velocity-time graph",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Instantaneous velocity is the slope of the tangent to the position-time graph at that point.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "38",
+    "questionText": "Which of the following best describes instantaneous speed?",
+    "options": [
+      {
+        "text": "The magnitude of instantaneous velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "The average speed over a time interval",
+        "isCorrect": false
+      },
+      {
+        "text": "The total distance traveled divided by total time",
+        "isCorrect": false
+      },
+      {
+        "text": "The total displacement divided by total time",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Instantaneous speed is the magnitude of the instantaneous velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "39",
+    "questionText": "If the instantaneous velocity of an object at $t = 5$ seconds is $v = 3 \\text{ m/s}$, what does it mean?",
+    "options": [
+      {
+        "text": "The object is moving at 3 m/s at that specific instant",
+        "isCorrect": true
+      },
+      {
+        "text": "The object has traveled 3 meters in 5 seconds",
+        "isCorrect": false
+      },
+      {
+        "text": "The object has accelerated to 3 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An instantaneous velocity of 3 m/s at $t = 5$ seconds means the object is moving at 3 m/s at that specific instant.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "40",
+    "questionText": "If the position of an object is given by $x(t) = t^3 - 6t^2 + 9t + 1$, what is its instantaneous velocity at $t = 2$ seconds?",
+    "options": [
+      {
+        "text": "$-5 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-1 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity is found by differentiating the position function: $v(t) = \\frac{dx}{dt} = 3t^2 - 12t + 9$. Substituting $t = 2$, we get $v(2) = 3(2)^2 - 12(2) + 9 = 12 - 24 + 9 = -3 \\text{ m/s}$.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "41",
+    "questionText": "What does a zero slope on a position-time graph indicate about the object's motion?",
+    "options": [
+      {
+        "text": "The object is at rest",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is moving with constant velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is accelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is decelerating",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A zero slope on a position-time graph indicates that the object is at rest.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "42",
+    "questionText": "If the velocity of an object is constant, what can be said about its instantaneous velocity?",
+    "options": [
+      {
+        "text": "Instantaneous velocity is constant",
+        "isCorrect": true
+      },
+      {
+        "text": "Instantaneous velocity is changing",
+        "isCorrect": false
+      },
+      {
+        "text": "Instantaneous velocity is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Instantaneous velocity is infinite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the velocity of an object is constant, its instantaneous velocity is also constant.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "43",
+    "questionText": "How can the instantaneous velocity be found from a velocity-time graph?",
+    "options": [
+      {
+        "text": "By reading the value on the graph at a specific time",
+        "isCorrect": true
+      },
+      {
+        "text": "By finding the slope of the tangent to the graph",
+        "isCorrect": false
+      },
+      {
+        "text": "By finding the area under the graph",
+        "isCorrect": false
+      },
+      {
+        "text": "By integrating the velocity function",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity at a specific time can be found by reading the value on the velocity-time graph at that time.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "44",
+    "questionText": "If the instantaneous velocity of an object is negative, what does it indicate about the object's motion?",
+    "options": [
+      {
+        "text": "The object is moving in the opposite direction",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is accelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is moving with constant speed",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A negative instantaneous velocity indicates that the object is moving in the opposite direction.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "45",
+    "questionText": "What is the relationship between instantaneous velocity and average velocity for uniformly accelerated motion?",
+    "options": [
+      {
+        "text": "Instantaneous velocity is equal to the average velocity at the midpoint of the time interval",
+        "isCorrect": true
+      },
+      {
+        "text": "Instantaneous velocity is always greater than average velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Instantaneous velocity is always less than average velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no relationship between them",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For uniformly accelerated motion, the instantaneous velocity is equal to the average velocity at the midpoint of the time interval.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "46",
+    "questionText": "If a car's position is described by $x(t) = 5t^2 + 2t + 1$, what is its instantaneous velocity at $t = 3$ seconds?",
+    "options": [
+      {
+        "text": "$32 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$30 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$28 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$26 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity is the derivative of the position function: $v(t) = \\frac{dx}{dt} = 10t + 2$. Substituting $t = 3$, we get $v(3) = 10(3) + 2 = 30 + 2 = 32 \\text{ m/s}$.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "47",
+    "questionText": "How is the magnitude of instantaneous velocity calculated?",
+    "options": [
+      {
+        "text": "By taking the absolute value of the instantaneous velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "By squaring the instantaneous velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "By differentiating the position function",
+        "isCorrect": false
+      },
+      {
+        "text": "By integrating the velocity function",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnitude of instantaneous velocity is calculated by taking the absolute value of the instantaneous velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "EASY"
+  },
+  {
+    "qno": "48",
+    "questionText": "If an object's position is given by $x(t) = 4t^3 - 3t^2 + 2t - 1$, what is its instantaneous velocity at $t = 1$ second?",
+    "options": [
+      {
+        "text": "$7 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity is found by differentiating the position function: $v(t) = \\frac{dx}{dt} = 12t^2 - 6t + 2$. Substituting $t = 1$, we get $v(1) = 12(1)^2 - 6(1) + 2 = 12 - 6 + 2 = 8 \\text{ m/s}$.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "49",
+    "questionText": "If the instantaneous velocity of a particle is given by $v(t) = 2t^3 - t + 4$, what is the velocity at $t = 0$ seconds?",
+    "options": [
+      {
+        "text": "$4 \\text{ m/s}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1 \\text{ m/s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0 \\text{ m/s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $t = 0$ in the equation $v(t) = 2t^3 - t + 4$ gives $v(0) = 2(0)^3 - 0 + 4 = 4 \\text{ m/s}$.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "HARD"
+  },
+  {
+    "qno": "50",
+    "questionText": "Which of the following represents the instantaneous velocity of an object?",
+    "options": [
+      {
+        "text": "The rate of change of displacement with time",
+        "isCorrect": true
+      },
+      {
+        "text": "The total distance traveled divided by total time",
+        "isCorrect": false
+      },
+      {
+        "text": "The slope of the position-time graph",
+        "isCorrect": false
+      },
+      {
+        "text": "The integral of the position-time graph",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity of an object is the rate of change of displacement with time.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Instantaneous velocity and speed",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "4",
+    "questionText": "What is instantaneous acceleration?",
+    "options": [
+      {
+        "text": "The total change in velocity divided by the total time taken",
+        "isCorrect": false
+      },
+      {
+        "text": "The acceleration at a specific instant of time",
+        "isCorrect": true
+      },
+      {
+        "text": "The average acceleration over a time interval",
+        "isCorrect": false
+      },
+      {
+        "text": "The rate of change of acceleration with time",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Instantaneous acceleration is the acceleration of an object at a specific instant of time.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "5",
+    "questionText": "If an object's velocity-time graph is a straight line with a positive slope, what does this indicate about the object's acceleration?",
+    "options": [
+      {
+        "text": "The object is accelerating",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is moving with constant velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is decelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A straight line with a positive slope on a velocity-time graph indicates that the object is accelerating.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "How is instantaneous acceleration represented mathematically?",
+    "options": [
+      {
+        "text": "$a = \\frac{d^2x}{dt^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$a = \\frac{dv}{dt}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$a = \\frac{v}{t}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$a = \\int a dt$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Instantaneous acceleration is the rate of change of velocity with respect to time, represented as $a = \\frac{dv}{dt}$.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "HARD"
+  },
+  {
+    "qno": "7",
+    "questionText": "If an object is moving with constant acceleration, what is its velocity-time graph?",
+    "options": [
+      {
+        "text": "A straight line",
+        "isCorrect": true
+      },
+      {
+        "text": "A horizontal line",
+        "isCorrect": false
+      },
+      {
+        "text": "A parabolic curve",
+        "isCorrect": false
+      },
+      {
+        "text": "A vertical line",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The velocity-time graph of an object moving with constant acceleration is a straight line.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "8",
+    "questionText": "What is the significance of the area under a velocity-time graph?",
+    "options": [
+      {
+        "text": "It represents the displacement of the object",
+        "isCorrect": true
+      },
+      {
+        "text": "It represents the velocity of the object",
+        "isCorrect": false
+      },
+      {
+        "text": "It represents the acceleration of the object",
+        "isCorrect": false
+      },
+      {
+        "text": "It represents the average velocity of the object",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The area under a velocity-time graph represents the displacement of the object.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "HARD"
+  },
+  {
+    "qno": "9",
+    "questionText": "If the acceleration of an object is zero, what can be said about its velocity?",
+    "options": [
+      {
+        "text": "The velocity is constant",
+        "isCorrect": true
+      },
+      {
+        "text": "The velocity is increasing",
+        "isCorrect": false
+      },
+      {
+        "text": "The velocity is decreasing",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the acceleration is zero, the velocity of the object is constant.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "10",
+    "questionText": "What happens to the velocity of an object if its acceleration is constant and positive?",
+    "options": [
+      {
+        "text": "The velocity increases",
+        "isCorrect": true
+      },
+      {
+        "text": "The velocity decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "The velocity remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "The object comes to rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the acceleration is constant and positive, the velocity of the object increases.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "11",
+    "questionText": "If the velocity of an object is given by $v(t) = 4t + 2$, what is its acceleration?",
+    "options": [
+      {
+        "text": "2 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "6 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "8 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acceleration is the derivative of the velocity function: $a(t) = \\frac{dv}{dt} = 4$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "Which of the following graphs represents an object with constant acceleration?",
+    "options": [
+      {
+        "text": "A straight line in a velocity-time graph",
+        "isCorrect": true
+      },
+      {
+        "text": "A curved line in a velocity-time graph",
+        "isCorrect": false
+      },
+      {
+        "text": "A horizontal line in a velocity-time graph",
+        "isCorrect": false
+      },
+      {
+        "text": "A vertical line in a velocity-time graph",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A straight line in a velocity-time graph represents an object with constant acceleration.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "13",
+    "questionText": "If an object is accelerating at 5 m/s^2, how much will its velocity increase after 3 seconds?",
+    "options": [
+      {
+        "text": "15 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "10 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "20 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "25 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The increase in velocity is given by the product of acceleration and time: $\\Delta v = at = 5 \\times 3 = 15$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "14",
+    "questionText": "What is the acceleration of an object moving with uniform velocity?",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Equal to its velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Infinite",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal to its displacement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If an object is moving with uniform velocity, its acceleration is zero.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "15",
+    "questionText": "If the acceleration of an object is given by $a(t) = 6t + 2$, what is the change in velocity from $t = 1$ to $t = 3$ seconds?",
+    "options": [
+      {
+        "text": "24 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "20 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "18 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "12 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The change in velocity is found by integrating the acceleration function: $\\Delta v = \\int_{1}^{3} (6t + 2) dt = [3t^2 + 2t]_{1}^{3} = (3(3)^2 + 2(3)) - (3(1)^2 + 2(1)) = (27 + 6) - (3 + 2) = 33 - 5 = 28$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "HARD"
+  },
+  {
+    "qno": "16",
+    "questionText": "If an object's velocity-time graph is a horizontal line, what is its acceleration?",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Increasing",
+        "isCorrect": false
+      },
+      {
+        "text": "Decreasing",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A horizontal line in a velocity-time graph indicates that the velocity is constant, so the acceleration is zero.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "What is the relationship between velocity and acceleration?",
+    "options": [
+      {
+        "text": "Acceleration is the rate of change of velocity with respect to time",
+        "isCorrect": true
+      },
+      {
+        "text": "Velocity is the rate of change of acceleration with respect to time",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceleration and velocity are always equal",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no relationship",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acceleration is defined as the rate of change of velocity with respect to time.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "18",
+    "questionText": "If a car accelerates uniformly from rest to 20 m/s in 5 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "4 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "5 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "10 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "2 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acceleration is calculated as the change in velocity divided by the time taken: $a = \\frac{\\Delta v}{\\Delta t} = \\frac{20}{5} = 4$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "19",
+    "questionText": "If an object's acceleration-time graph is a horizontal line, what can be said about its acceleration?",
+    "options": [
+      {
+        "text": "The acceleration is constant",
+        "isCorrect": true
+      },
+      {
+        "text": "The acceleration is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "The acceleration is increasing",
+        "isCorrect": false
+      },
+      {
+        "text": "The acceleration is decreasing",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A horizontal line in an acceleration-time graph indicates that the acceleration is constant.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "20",
+    "questionText": "If the acceleration of an object is given by $a(t) = 3t^2 - 2t + 1$, what is the velocity at $t = 2$ seconds given that the initial velocity at $t = 0$ is 5 m/s?",
+    "options": [
+      {
+        "text": "11 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "9 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "7 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "5 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The velocity is found by integrating the acceleration function and adding the initial velocity: $v(t) = \\int (3t^2 - 2t + 1) dt + v_0 = (t^3 - t^2 + t + C)$, where $C = 5$ m/s (initial velocity). Substituting $t = 2$, we get $v(2) = (2^3 - 2^2 + 2 + 5) = 8 - 4 + 2 + 5 = 11$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "HARD"
+  },
+  {
+    "qno": "21",
+    "questionText": "If an object is decelerating at a rate of 4 m/s^2, how much will its velocity decrease after 3 seconds?",
+    "options": [
+      {
+        "text": "12 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "16 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "10 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The decrease in velocity is given by the product of acceleration and time: $\\Delta v = at = 4 \\times 3 = 12$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "22",
+    "questionText": "What does a negative slope on a velocity-time graph indicate?",
+    "options": [
+      {
+        "text": "The object is decelerating",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is accelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is moving with constant velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A negative slope on a velocity-time graph indicates that the object is decelerating.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "What is the formula for acceleration?",
+    "options": [
+      {
+        "text": "$a = \\frac{dv}{dt}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$a = \\frac{dx}{dt}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$a = v \\cdot t$",
+        "isCorrect": false
+      },
+      {
+        "text": "$a = x \\cdot t$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for acceleration is $a = \\frac{dv}{dt}$, which represents the rate of change of velocity with respect to time.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "HARD"
+  },
+  {
+    "qno": "24",
+    "questionText": "What does a positive slope on a velocity-time graph indicate?",
+    "options": [
+      {
+        "text": "The object is accelerating",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is decelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is moving with constant velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A positive slope on a velocity-time graph indicates that the object is accelerating.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "25",
+    "questionText": "If a car slows down from 30 m/s to 10 m/s in 5 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "-4 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "-6 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "6 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acceleration is calculated as the change in velocity divided by the time taken: $a = \\frac{\\Delta v}{\\Delta t} = \\frac{10 - 30}{5} = \\frac{-20}{5} = -4$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "26",
+    "questionText": "If the velocity of an object changes from 15 m/s to 25 m/s in 2 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "5 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "10 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "15 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "20 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acceleration is calculated as the change in velocity divided by the time taken: $a = \\frac{\\Delta v}{\\Delta t} = \\frac{25 - 15}{2} = \\frac{10}{2} = 5$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "27",
+    "questionText": "Which of the following represents a situation where an object has zero acceleration?",
+    "options": [
+      {
+        "text": "An object moving at constant velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "An object speeding up",
+        "isCorrect": false
+      },
+      {
+        "text": "An object slowing down",
+        "isCorrect": false
+      },
+      {
+        "text": "An object changing direction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An object moving at constant velocity has zero acceleration.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "28",
+    "questionText": "If a car accelerates from rest at a constant rate of 3 m/s^2, how long will it take to reach a speed of 18 m/s?",
+    "options": [
+      {
+        "text": "6 seconds",
+        "isCorrect": true
+      },
+      {
+        "text": "4 seconds",
+        "isCorrect": false
+      },
+      {
+        "text": "5 seconds",
+        "isCorrect": false
+      },
+      {
+        "text": "8 seconds",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Time taken to reach a speed is given by $t = \\frac{\\Delta v}{a} = \\frac{18}{3} = 6$ seconds.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "29",
+    "questionText": "What is the acceleration of an object moving with a velocity of $v(t) = 5t^2 + 3t - 1$ at $t = 2$ seconds?",
+    "options": [
+      {
+        "text": "23 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "21 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "19 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "17 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acceleration is the derivative of the velocity function: $a(t) = \\frac{dv}{dt} = 10t + 3$. Substituting $t = 2$, we get $a(2) = 10(2) + 3 = 20 + 3 = 23$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "HARD"
+  },
+  {
+    "qno": "30",
+    "questionText": "If the acceleration-time graph is a horizontal line at $a = 5$ m/s^2, what can be inferred about the motion of the object?",
+    "options": [
+      {
+        "text": "The object is accelerating at a constant rate",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is moving with constant velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is decelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A horizontal line in an acceleration-time graph at $a = 5$ m/s^2 indicates that the object is accelerating at a constant rate of 5 m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "31",
+    "questionText": "If a car accelerates uniformly from 10 m/s to 30 m/s in 4 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "5 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "10 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "7.5 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "2.5 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acceleration is calculated as the change in velocity divided by the time taken: $a = \\frac{\\Delta v}{\\Delta t} = \\frac{30 - 10}{4} = \\frac{20}{4} = 5$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "32",
+    "questionText": "What does a constant positive acceleration indicate about an object's motion?",
+    "options": [
+      {
+        "text": "The object's velocity is increasing",
+        "isCorrect": true
+      },
+      {
+        "text": "The object's velocity is decreasing",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      },
+      {
+        "text": "The object's velocity remains constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Constant positive acceleration indicates that the object's velocity is increasing.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "33",
+    "questionText": "If a car accelerates from rest with a constant acceleration of 4 m/s^2, what is its velocity after 6 seconds?",
+    "options": [
+      {
+        "text": "24 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "18 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "30 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "12 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The velocity is given by $v = u + at = 0 + 4 \\times 6 = 24$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "34",
+    "questionText": "If the acceleration of an object is given by $a(t) = 4t - 2$, what is the velocity at $t = 3$ seconds given that the initial velocity at $t = 0$ is 2 m/s?",
+    "options": [
+      {
+        "text": "22 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "18 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "14 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "10 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The velocity is found by integrating the acceleration function and adding the initial velocity: $v(t) = \\int (4t - 2) dt + v_0 = (2t^2 - 2t + C)$, where $C = 2$ m/s (initial velocity). Substituting $t = 3$, we get $v(3) = 2(3)^2 - 2(3) + 2 = 18 - 6 + 2 = 14$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "HARD"
+  },
+  {
+    "qno": "35",
+    "questionText": "If an object is thrown vertically upwards with an initial velocity of 20 m/s, what is its acceleration due to gravity?",
+    "options": [
+      {
+        "text": "-9.8 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "9.8 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "-20 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "20 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acceleration due to gravity is -9.8 m/s^2 (negative indicates direction opposite to the initial velocity).",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "36",
+    "questionText": "If an object's acceleration is zero, what can be said about its velocity?",
+    "options": [
+      {
+        "text": "The velocity is constant",
+        "isCorrect": true
+      },
+      {
+        "text": "The velocity is increasing",
+        "isCorrect": false
+      },
+      {
+        "text": "The velocity is decreasing",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the acceleration is zero, the velocity of the object is constant.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "37",
+    "questionText": "If a car decelerates uniformly from 20 m/s to 5 m/s in 5 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "-3 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "-4 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "3 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acceleration is calculated as the change in velocity divided by the time taken: $a = \\frac{\\Delta v}{\\Delta t} = \\frac{5 - 20}{5} = \\frac{-15}{5} = -3$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "38",
+    "questionText": "What does a zero slope on a velocity-time graph indicate?",
+    "options": [
+      {
+        "text": "The object is moving with constant velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is accelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is decelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A zero slope on a velocity-time graph indicates that the object is moving with constant velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "39",
+    "questionText": "If a car accelerates uniformly from 0 to 60 m/s in 10 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "6 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "5 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "10 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acceleration is calculated as the change in velocity divided by the time taken: $a = \\frac{\\Delta v}{\\Delta t} = \\frac{60}{10} = 6$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "40",
+    "questionText": "If the velocity-time graph of an object is a straight line with a negative slope, what does it indicate about the object's motion?",
+    "options": [
+      {
+        "text": "The object is decelerating",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is accelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is moving with constant velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A straight line with a negative slope on a velocity-time graph indicates that the object is decelerating.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "41",
+    "questionText": "If an object's acceleration is given by $a(t) = 2t - 3$, what is the change in velocity from $t = 0$ to $t = 4$ seconds?",
+    "options": [
+      {
+        "text": "2 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "8 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The change in velocity is found by integrating the acceleration function: $\\Delta v = \\int_{0}^{4} (2t - 3) dt = [t^2 - 3t]_{0}^{4} = (16 - 12) - (0 - 0) = 4$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "HARD"
+  },
+  {
+    "qno": "42",
+    "questionText": "If a car accelerates from rest at a constant rate of 6 m/s^2, how long will it take to reach a speed of 30 m/s?",
+    "options": [
+      {
+        "text": "5 seconds",
+        "isCorrect": true
+      },
+      {
+        "text": "6 seconds",
+        "isCorrect": false
+      },
+      {
+        "text": "4 seconds",
+        "isCorrect": false
+      },
+      {
+        "text": "7 seconds",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Time taken to reach a speed is given by $t = \\frac{\\Delta v}{a} = \\frac{30}{6} = 5$ seconds.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "43",
+    "questionText": "What is the acceleration of an object if its velocity changes from 5 m/s to 15 m/s in 2 seconds?",
+    "options": [
+      {
+        "text": "5 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "10 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "7.5 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "2.5 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acceleration is calculated as the change in velocity divided by the time taken: $a = \\frac{\\Delta v}{\\Delta t} = \\frac{15 - 5}{2} = \\frac{10}{2} = 5$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "44",
+    "questionText": "If a car slows down from 40 m/s to 20 m/s in 5 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "-4 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "-6 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "6 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acceleration is calculated as the change in velocity divided by the time taken: $a = \\frac{\\Delta v}{\\Delta t} = \\frac{20 - 40}{5} = \\frac{-20}{5} = -4$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "45",
+    "questionText": "If the acceleration of an object is given by $a(t) = 4t + 2$, what is the velocity at $t = 3$ seconds given that the initial velocity at $t = 0$ is 2 m/s?",
+    "options": [
+      {
+        "text": "26 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "22 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "18 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "14 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The velocity is found by integrating the acceleration function and adding the initial velocity: $v(t) = \\int (4t + 2) dt + v_0 = (2t^2 + 2t + C)$, where $C = 2$ m/s (initial velocity). Substituting $t = 3$, we get $v(3) = 2(3)^2 + 2(3) + 2 = 18 + 6 + 2 = 26$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "HARD"
+  },
+  {
+    "qno": "46",
+    "questionText": "If a car decelerates uniformly from 50 m/s to 20 m/s in 10 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "-3 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "-4 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "3 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acceleration is calculated as the change in velocity divided by the time taken: $a = \\frac{\\Delta v}{\\Delta t} = \\frac{20 - 50}{10} = \\frac{-30}{10} = -3$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "47",
+    "questionText": "If an object's velocity is given by $v(t) = 6t - 3$, what is its acceleration?",
+    "options": [
+      {
+        "text": "6 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "3 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "-3 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "6 m/s^2",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The acceleration is the derivative of the velocity function: $a(t) = \\frac{dv}{dt} = 6$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "48",
+    "questionText": "If a car accelerates uniformly from 10 m/s to 40 m/s in 6 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "5 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "6 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "3 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acceleration is calculated as the change in velocity divided by the time taken: $a = \\frac{\\Delta v}{\\Delta t} = \\frac{40 - 10}{6} = \\frac{30}{6} = 5$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "49",
+    "questionText": "If an object's acceleration-time graph is a horizontal line at $a = 0$, what can be inferred about its motion?",
+    "options": [
+      {
+        "text": "The object is moving with constant velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "The object is accelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is decelerating",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A horizontal line in an acceleration-time graph at $a = 0$ indicates that the object is moving with constant velocity.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "50",
+    "questionText": "What does a positive acceleration indicate about an object's motion?",
+    "options": [
+      {
+        "text": "The object's velocity is increasing",
+        "isCorrect": true
+      },
+      {
+        "text": "The object's velocity is decreasing",
+        "isCorrect": false
+      },
+      {
+        "text": "The object is at rest",
+        "isCorrect": false
+      },
+      {
+        "text": "The object's velocity remains constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Positive acceleration indicates that the object's velocity is increasing.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "Which of the following kinematic equations relates displacement, initial velocity, time, and acceleration?",
+    "options": [
+      {
+        "text": "$x = v_0t + \\frac{1}{2}at^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$v = v_0 + at$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v^2 = v_0^2 + 2ax$",
+        "isCorrect": false
+      },
+      {
+        "text": "$a = \\frac{dv}{dt}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinematic equation $x = v_0t + \\frac{1}{2}at^2$ relates displacement, initial velocity, time, and acceleration.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "HARD"
+  },
+  {
+    "qno": "4",
+    "questionText": "If an object's initial velocity is 5 m/s, its acceleration is 2 m/s^2, and it travels for 3 seconds, what is its final velocity?",
+    "options": [
+      {
+        "text": "11 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "9 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "13 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "7 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 5 + 2 \\times 3 = 5 + 6 = 11$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "5",
+    "questionText": "A car accelerates from rest at a constant rate of 4 m/s^2 for 5 seconds. What is the distance traveled by the car?",
+    "options": [
+      {
+        "text": "50 m",
+        "isCorrect": false
+      },
+      {
+        "text": "25 m",
+        "isCorrect": false
+      },
+      {
+        "text": "40 m",
+        "isCorrect": true
+      },
+      {
+        "text": "60 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 0 \\cdot 5 + \\frac{1}{2} \\cdot 4 \\cdot 5^2 = 0 + 2 \\cdot 25 = 50$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "Which of the following kinematic equations is used to find the displacement when the initial velocity, final velocity, and acceleration are known?",
+    "options": [
+      {
+        "text": "$v^2 = v_0^2 + 2ax$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x = v_0t + \\frac{1}{2}at^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v = v_0 + at$",
+        "isCorrect": false
+      },
+      {
+        "text": "$a = \\frac{dv}{dt}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinematic equation $v^2 = v_0^2 + 2ax$ is used to find the displacement when the initial velocity, final velocity, and acceleration are known.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "HARD"
+  },
+  {
+    "qno": "7",
+    "questionText": "A ball is thrown upwards with an initial velocity of 20 m/s. What is its velocity after 2 seconds? (Assume $g = 10$ m/s^2)",
+    "options": [
+      {
+        "text": "0 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "10 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "20 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "-20 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 20 - 10 \\cdot 2 = 20 - 20 = 0$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "8",
+    "questionText": "If an object starts from rest and accelerates at 3 m/s^2, what is its velocity after 4 seconds?",
+    "options": [
+      {
+        "text": "12 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "16 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "10 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 0 + 3 \\cdot 4 = 12$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "EASY"
+  },
+  {
+    "qno": "9",
+    "questionText": "What is the displacement of an object that starts from rest and accelerates at 5 m/s^2 for 3 seconds?",
+    "options": [
+      {
+        "text": "22.5 m",
+        "isCorrect": true
+      },
+      {
+        "text": "15 m",
+        "isCorrect": false
+      },
+      {
+        "text": "30 m",
+        "isCorrect": false
+      },
+      {
+        "text": "7.5 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 0 \\cdot 3 + \\frac{1}{2} \\cdot 5 \\cdot 3^2 = 0 + 0.5 \\cdot 5 \\cdot 9 = 22.5$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "10",
+    "questionText": "If an object's velocity changes from 10 m/s to 20 m/s in 5 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "2 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "5 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "10 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "1 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we solve for $a$: $20 = 10 + 5a \\Rightarrow 10 = 5a \\Rightarrow a = 2$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "EASY"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the final velocity of an object that starts from rest and accelerates at 4 m/s^2 for 6 seconds?",
+    "options": [
+      {
+        "text": "24 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "20 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "18 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "26 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 0 + 4 \\cdot 6 = 24$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "EASY"
+  },
+  {
+    "qno": "12",
+    "questionText": "An object is thrown vertically upwards with an initial velocity of 30 m/s. What is its displacement after 2 seconds? (Assume $g = 10$ m/s^2)",
+    "options": [
+      {
+        "text": "40 m",
+        "isCorrect": true
+      },
+      {
+        "text": "20 m",
+        "isCorrect": false
+      },
+      {
+        "text": "60 m",
+        "isCorrect": false
+      },
+      {
+        "text": "80 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 30 \\cdot 2 - \\frac{1}{2} \\cdot 10 \\cdot 2^2 = 60 - 20 = 40$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "13",
+    "questionText": "Which kinematic equation is used to find the displacement when the initial velocity, final velocity, and time are known?",
+    "options": [
+      {
+        "text": "$x = \\frac{(v + v_0)t}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$v = v_0 + at$",
+        "isCorrect": false
+      },
+      {
+        "text": "$v^2 = v_0^2 + 2ax$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x = v_0t + \\frac{1}{2}at^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinematic equation $x = \\frac{(v + v_0)t}{2}$ is used to find the displacement when the initial velocity, final velocity, and time are known.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "HARD"
+  },
+  {
+    "qno": "14",
+    "questionText": "If an object's initial velocity is 10 m/s, its acceleration is 3 m/s^2, and it travels for 4 seconds, what is its displacement?",
+    "options": [
+      {
+        "text": "52 m",
+        "isCorrect": true
+      },
+      {
+        "text": "44 m",
+        "isCorrect": false
+      },
+      {
+        "text": "48 m",
+        "isCorrect": false
+      },
+      {
+        "text": "56 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 10 \\cdot 4 + \\frac{1}{2} \\cdot 3 \\cdot 4^2 = 40 + 0.5 \\cdot 3 \\cdot 16 = 40 + 24 = 64$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "15",
+    "questionText": "A car accelerates uniformly from 15 m/s to 35 m/s in 5 seconds. What is its acceleration?",
+    "options": [
+      {
+        "text": "4 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "3 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "5 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "2 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we solve for $a$: $35 = 15 + 5a \\Rightarrow 20 = 5a \\Rightarrow a = 4$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "16",
+    "questionText": "What is the final velocity of an object that starts from rest and accelerates at 6 m/s^2 for 8 seconds?",
+    "options": [
+      {
+        "text": "48 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "56 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "52 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "44 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 0 + 6 \\cdot 8 = 48$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "A car decelerates uniformly from 40 m/s to 10 m/s in 5 seconds. What is its acceleration?",
+    "options": [
+      {
+        "text": "-6 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "-5 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "-4 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "-7 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we solve for $a$: $10 = 40 + 5a \\Rightarrow -30 = 5a \\Rightarrow a = -6$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "18",
+    "questionText": "An object is thrown upwards with an initial velocity of 25 m/s. What is its velocity after 3 seconds? (Assume $g = 10$ m/s^2)",
+    "options": [
+      {
+        "text": "-5 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "5 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "0 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "15 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 25 - 10 \\cdot 3 = 25 - 30 = -5$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "19",
+    "questionText": "What is the displacement of an object that starts from rest and accelerates at 2 m/s^2 for 5 seconds?",
+    "options": [
+      {
+        "text": "25 m",
+        "isCorrect": false
+      },
+      {
+        "text": "20 m",
+        "isCorrect": false
+      },
+      {
+        "text": "10 m",
+        "isCorrect": false
+      },
+      {
+        "text": "25 m",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 0 \\cdot 5 + \\frac{1}{2} \\cdot 2 \\cdot 5^2 = 0 + 0.5 \\cdot 2 \\cdot 25 = 25$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "20",
+    "questionText": "If an object's velocity changes from 5 m/s to 20 m/s in 10 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "1.5 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "2.5 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "3 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "2 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we solve for $a$: $20 = 5 + 10a \\Rightarrow 15 = 10a \\Rightarrow a = 1.5$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "A car accelerates uniformly from rest to 25 m/s in 5 seconds. What is the distance traveled by the car?",
+    "options": [
+      {
+        "text": "62.5 m",
+        "isCorrect": true
+      },
+      {
+        "text": "50 m",
+        "isCorrect": false
+      },
+      {
+        "text": "75 m",
+        "isCorrect": false
+      },
+      {
+        "text": "100 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 0 \\cdot 5 + \\frac{1}{2} \\cdot 5 \\cdot 5^2 = 0 + 0.5 \\cdot 5 \\cdot 25 = 62.5$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "22",
+    "questionText": "An object is thrown vertically upwards with an initial velocity of 15 m/s. What is its displacement after 1 second? (Assume $g = 10$ m/s^2)",
+    "options": [
+      {
+        "text": "10 m",
+        "isCorrect": true
+      },
+      {
+        "text": "5 m",
+        "isCorrect": false
+      },
+      {
+        "text": "15 m",
+        "isCorrect": false
+      },
+      {
+        "text": "20 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 15 \\cdot 1 - \\frac{1}{2} \\cdot 10 \\cdot 1^2 = 15 - 5 = 10$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "Which kinematic equation is used to find the final velocity squared when initial velocity, acceleration, and displacement are known?",
+    "options": [
+      {
+        "text": "$v^2 = v_0^2 + 2ax$",
+        "isCorrect": true
+      },
+      {
+        "text": "$v = v_0 + at$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x = v_0t + \\frac{1}{2}at^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$a = \\frac{dv}{dt}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinematic equation $v^2 = v_0^2 + 2ax$ is used to find the final velocity squared when initial velocity, acceleration, and displacement are known.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "HARD"
+  },
+  {
+    "qno": "24",
+    "questionText": "If an object's initial velocity is 12 m/s, its acceleration is 4 m/s^2, and it travels for 3 seconds, what is its final velocity?",
+    "options": [
+      {
+        "text": "24 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "20 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "18 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "24 m/s",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 12 + 4 \\cdot 3 = 12 + 12 = 24$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "25",
+    "questionText": "What is the displacement of an object that starts from rest and accelerates at 3 m/s^2 for 6 seconds?",
+    "options": [
+      {
+        "text": "54 m",
+        "isCorrect": true
+      },
+      {
+        "text": "48 m",
+        "isCorrect": false
+      },
+      {
+        "text": "60 m",
+        "isCorrect": false
+      },
+      {
+        "text": "66 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 0 \\cdot 6 + \\frac{1}{2} \\cdot 3 \\cdot 6^2 = 0 + 0.5 \\cdot 3 \\cdot 36 = 54$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "26",
+    "questionText": "If an object's velocity changes from 8 m/s to 20 m/s in 6 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "2 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "1 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "2 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "3 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we solve for $a$: $20 = 8 + 6a \\Rightarrow 12 = 6a \\Rightarrow a = 2$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "EASY"
+  },
+  {
+    "qno": "27",
+    "questionText": "A car accelerates uniformly from rest to 30 m/s in 10 seconds. What is the distance traveled by the car?",
+    "options": [
+      {
+        "text": "150 m",
+        "isCorrect": true
+      },
+      {
+        "text": "100 m",
+        "isCorrect": false
+      },
+      {
+        "text": "200 m",
+        "isCorrect": false
+      },
+      {
+        "text": "250 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 0 \\cdot 10 + \\frac{1}{2} \\cdot 3 \\cdot 10^2 = 0 + 0.5 \\cdot 3 \\cdot 100 = 150$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "28",
+    "questionText": "If an object's initial velocity is 0, its acceleration is 9.8 m/s^2, and it travels for 2 seconds, what is its displacement?",
+    "options": [
+      {
+        "text": "19.6 m",
+        "isCorrect": true
+      },
+      {
+        "text": "9.8 m",
+        "isCorrect": false
+      },
+      {
+        "text": "39.2 m",
+        "isCorrect": false
+      },
+      {
+        "text": "4.9 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 0 \\cdot 2 + \\frac{1}{2} \\cdot 9.8 \\cdot 2^2 = 0 + 0.5 \\cdot 9.8 \\cdot 4 = 19.6$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "EASY"
+  },
+  {
+    "qno": "29",
+    "questionText": "An object is thrown vertically upwards with an initial velocity of 20 m/s. What is its displacement after 1 second? (Assume $g = 10$ m/s^2)",
+    "options": [
+      {
+        "text": "15 m",
+        "isCorrect": true
+      },
+      {
+        "text": "10 m",
+        "isCorrect": false
+      },
+      {
+        "text": "20 m",
+        "isCorrect": false
+      },
+      {
+        "text": "5 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 20 \\cdot 1 - \\frac{1}{2} \\cdot 10 \\cdot 1^2 = 20 - 5 = 15$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "30",
+    "questionText": "What is the final velocity of an object that starts from rest and accelerates at 5 m/s^2 for 7 seconds?",
+    "options": [
+      {
+        "text": "35 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "30 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "25 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "40 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 0 + 5 \\cdot 7 = 35$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "EASY"
+  },
+  {
+    "qno": "31",
+    "questionText": "If an object's velocity changes from 12 m/s to 24 m/s in 4 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "3 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "5 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "6 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we solve for $a$: $24 = 12 + 4a \\Rightarrow 12 = 4a \\Rightarrow a = 3$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "EASY"
+  },
+  {
+    "qno": "32",
+    "questionText": "An object is thrown upwards with an initial velocity of 40 m/s. What is its velocity after 3 seconds? (Assume $g = 10$ m/s^2)",
+    "options": [
+      {
+        "text": "10 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "20 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "30 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "40 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 40 - 10 \\cdot 3 = 40 - 30 = 10$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "33",
+    "questionText": "A car accelerates uniformly from 5 m/s to 25 m/s in 8 seconds. What is its acceleration?",
+    "options": [
+      {
+        "text": "2.5 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "2 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "3 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "3.5 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we solve for $a$: $25 = 5 + 8a \\Rightarrow 20 = 8a \\Rightarrow a = 2.5$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "34",
+    "questionText": "If an object's initial velocity is 10 m/s, its acceleration is 5 m/s^2, and it travels for 6 seconds, what is its final velocity?",
+    "options": [
+      {
+        "text": "40 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "50 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "60 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "30 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 10 + 5 \\cdot 6 = 10 + 30 = 40$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "35",
+    "questionText": "An object is thrown vertically upwards with an initial velocity of 35 m/s. What is its velocity after 4 seconds? (Assume $g = 10$ m/s^2)",
+    "options": [
+      {
+        "text": "-5 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "5 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "10 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "-10 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 35 - 10 \\cdot 4 = 35 - 40 = -5$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "36",
+    "questionText": "What is the displacement of an object that starts from rest and accelerates at 4 m/s^2 for 3 seconds?",
+    "options": [
+      {
+        "text": "18 m",
+        "isCorrect": true
+      },
+      {
+        "text": "24 m",
+        "isCorrect": false
+      },
+      {
+        "text": "12 m",
+        "isCorrect": false
+      },
+      {
+        "text": "36 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 0 \\cdot 3 + \\frac{1}{2} \\cdot 4 \\cdot 3^2 = 0 + 0.5 \\cdot 4 \\cdot 9 = 18$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "37",
+    "questionText": "If an object's velocity changes from 15 m/s to 30 m/s in 5 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "3 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "5 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "6 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we solve for $a$: $30 = 15 + 5a \\Rightarrow 15 = 5a \\Rightarrow a = 3$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "EASY"
+  },
+  {
+    "qno": "38",
+    "questionText": "An object is thrown upwards with an initial velocity of 50 m/s. What is its velocity after 4 seconds? (Assume $g = 10$ m/s^2)",
+    "options": [
+      {
+        "text": "10 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "20 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "30 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "40 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 50 - 10 \\cdot 4 = 50 - 40 = 10$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "39",
+    "questionText": "A car accelerates uniformly from 10 m/s to 40 m/s in 5 seconds. What is its acceleration?",
+    "options": [
+      {
+        "text": "6 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "8 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "7 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "6 m/s^2",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we solve for $a$: $40 = 10 + 5a \\Rightarrow 30 = 5a \\Rightarrow a = 6$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "40",
+    "questionText": "If an object's initial velocity is 15 m/s, its acceleration is 4 m/s^2, and it travels for 3 seconds, what is its displacement?",
+    "options": [
+      {
+        "text": "63 m",
+        "isCorrect": true
+      },
+      {
+        "text": "54 m",
+        "isCorrect": false
+      },
+      {
+        "text": "45 m",
+        "isCorrect": false
+      },
+      {
+        "text": "72 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 15 \\cdot 3 + \\frac{1}{2} \\cdot 4 \\cdot 3^2 = 45 + 0.5 \\cdot 4 \\cdot 9 = 45 + 18 = 63$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "41",
+    "questionText": "An object is thrown vertically upwards with an initial velocity of 25 m/s. What is its displacement after 2 seconds? (Assume $g = 10$ m/s^2)",
+    "options": [
+      {
+        "text": "10 m",
+        "isCorrect": true
+      },
+      {
+        "text": "20 m",
+        "isCorrect": false
+      },
+      {
+        "text": "15 m",
+        "isCorrect": false
+      },
+      {
+        "text": "5 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 25 \\cdot 2 - \\frac{1}{2} \\cdot 10 \\cdot 2^2 = 50 - 20 = 30$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "42",
+    "questionText": "If an object's velocity changes from 0 m/s to 40 m/s in 10 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "4 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "3 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "2 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "1 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we solve for $a$: $40 = 0 + 10a \\Rightarrow 40 = 10a \\Rightarrow a = 4$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "EASY"
+  },
+  {
+    "qno": "43",
+    "questionText": "A car accelerates uniformly from rest to 60 m/s in 12 seconds. What is the distance traveled by the car?",
+    "options": [
+      {
+        "text": "360 m",
+        "isCorrect": true
+      },
+      {
+        "text": "300 m",
+        "isCorrect": false
+      },
+      {
+        "text": "400 m",
+        "isCorrect": false
+      },
+      {
+        "text": "500 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 0 \\cdot 12 + \\frac{1}{2} \\cdot 5 \\cdot 12^2 = 0 + 0.5 \\cdot 5 \\cdot 144 = 360$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "44",
+    "questionText": "If an object's initial velocity is 5 m/s, its acceleration is 7 m/s^2, and it travels for 3 seconds, what is its final velocity?",
+    "options": [
+      {
+        "text": "26 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "24 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "28 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "30 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 5 + 7 \\cdot 3 = 5 + 21 = 26$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "45",
+    "questionText": "What is the displacement of an object that starts from rest and accelerates at 3 m/s^2 for 8 seconds?",
+    "options": [
+      {
+        "text": "96 m",
+        "isCorrect": true
+      },
+      {
+        "text": "90 m",
+        "isCorrect": false
+      },
+      {
+        "text": "84 m",
+        "isCorrect": false
+      },
+      {
+        "text": "102 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 0 \\cdot 8 + \\frac{1}{2} \\cdot 3 \\cdot 8^2 = 0 + 0.5 \\cdot 3 \\cdot 64 = 96$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "46",
+    "questionText": "An object is thrown upwards with an initial velocity of 45 m/s. What is its velocity after 2 seconds? (Assume $g = 10$ m/s^2)",
+    "options": [
+      {
+        "text": "25 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "35 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "45 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "15 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 45 - 10 \\cdot 2 = 45 - 20 = 25$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "47",
+    "questionText": "If an object's initial velocity is 8 m/s, its acceleration is 6 m/s^2, and it travels for 4 seconds, what is its final velocity?",
+    "options": [
+      {
+        "text": "32 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "36 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "40 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "44 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 8 + 6 \\cdot 4 = 8 + 24 = 32$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "48",
+    "questionText": "What is the displacement of an object that starts from rest and accelerates at 2 m/s^2 for 10 seconds?",
+    "options": [
+      {
+        "text": "100 m",
+        "isCorrect": false
+      },
+      {
+        "text": "150 m",
+        "isCorrect": false
+      },
+      {
+        "text": "200 m",
+        "isCorrect": true
+      },
+      {
+        "text": "250 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $x = v_0t + \\frac{1}{2}at^2$, we get $x = 0 \\cdot 10 + \\frac{1}{2} \\cdot 2 \\cdot 10^2 = 0 + 0.5 \\cdot 2 \\cdot 100 = 100$ m.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "49",
+    "questionText": "If an object's velocity changes from 10 m/s to 30 m/s in 8 seconds, what is its acceleration?",
+    "options": [
+      {
+        "text": "2.5 m/s^2",
+        "isCorrect": true
+      },
+      {
+        "text": "3 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "2 m/s^2",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5 m/s^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we solve for $a$: $30 = 10 + 8a \\Rightarrow 20 = 8a \\Rightarrow a = 2.5$ m/s^2.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "EASY"
+  },
+  {
+    "qno": "50",
+    "questionText": "An object is thrown vertically upwards with an initial velocity of 60 m/s. What is its velocity after 5 seconds? (Assume $g = 10$ m/s^2)",
+    "options": [
+      {
+        "text": "10 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "20 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "30 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "40 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the kinematic equation $v = v_0 + at$, we get $v = 60 - 10 \\cdot 5 = 60 - 50 = 10$ m/s.",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic equations for uniformly accelerated motion",
+    "level": "MEDIUM"
+  }
+]

@@ -1,0 +1,4128 @@
+[
+  {
+    "qno": "1",
+    "questionText": "Who discovered the law named after him in 1661?",
+    "options": [
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Boyle",
+        "isCorrect": true
+      },
+      {
+        "text": "Maxwell",
+        "isCorrect": false
+      },
+      {
+        "text": "Boltzmann",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Boyle discovered the law named after him in 1661.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "16",
+    "questionText": "Who is credited with the scientific ‘Atomic Theory’?",
+    "options": [
+      {
+        "text": "Kanada",
+        "isCorrect": false
+      },
+      {
+        "text": "Democritus",
+        "isCorrect": false
+      },
+      {
+        "text": "John Dalton",
+        "isCorrect": true
+      },
+      {
+        "text": "Richard Feynman",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "John Dalton is usually credited with the scientific ‘Atomic Theory’.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "What does the Atomic Hypothesis state?",
+    "options": [
+      {
+        "text": "All things are made of molecules.",
+        "isCorrect": false
+      },
+      {
+        "text": "All things are made of atoms.",
+        "isCorrect": true
+      },
+      {
+        "text": "All things are made of energy.",
+        "isCorrect": false
+      },
+      {
+        "text": "All things are made of particles.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Atomic Hypothesis states that all things are made of atoms.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "EASY"
+  },
+  {
+    "qno": "18",
+    "questionText": "Who considered the discovery that 'Matter is made up of atoms' to be very significant?",
+    "options": [
+      {
+        "text": "Boyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Richard Feynman",
+        "isCorrect": true
+      },
+      {
+        "text": "Maxwell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Richard Feynman considered the discovery that 'Matter is made up of atoms' to be very significant.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "EASY"
+  },
+  {
+    "qno": "19",
+    "questionText": "According to Dalton, atoms of one element are identical but differ from those of other elements.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dalton suggested that atoms of one element are identical but differ from those of other elements.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "EASY"
+  },
+  {
+    "qno": "20",
+    "questionText": "What does Gay Lussac’s law state?",
+    "options": [
+      {
+        "text": "Equal volumes of all gases at equal temperature and pressure have the same number of molecules.",
+        "isCorrect": false
+      },
+      {
+        "text": "When gases combine chemically to yield another gas, their volumes are in the ratios of small integers.",
+        "isCorrect": true
+      },
+      {
+        "text": "Any given compound has a fixed proportion by mass of its constituents.",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of an element remains constant in all its compounds.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gay Lussac’s law states that when gases combine chemically to yield another gas, their volumes are in the ratios of small integers.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "21",
+    "questionText": "What is Avogadro’s law?",
+    "options": [
+      {
+        "text": "Equal volumes of all gases at equal temperature and pressure have the same number of molecules.",
+        "isCorrect": true
+      },
+      {
+        "text": "Any given compound has a fixed proportion by mass of its constituents.",
+        "isCorrect": false
+      },
+      {
+        "text": "When gases combine chemically to yield another gas, their volumes are in the ratios of small integers.",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of an element remains constant in all its compounds.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Avogadro’s law states that equal volumes of all gases at equal temperature and pressure have the same number of molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "22",
+    "questionText": "What do the laws of definite and multiple proportions state?",
+    "options": [
+      {
+        "text": "Any given compound has a fixed proportion by mass of its constituents.",
+        "isCorrect": true
+      },
+      {
+        "text": "Equal volumes of all gases at equal temperature and pressure have the same number of molecules.",
+        "isCorrect": false
+      },
+      {
+        "text": "When gases combine chemically to yield another gas, their volumes are in the ratios of small integers.",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of an element remains constant in all its compounds.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The laws of definite and multiple proportions state that any given compound has a fixed proportion by mass of its constituents.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "Who proposed the atomic theory to explain the laws of definite and multiple proportions?",
+    "options": [
+      {
+        "text": "Kanada",
+        "isCorrect": false
+      },
+      {
+        "text": "Democritus",
+        "isCorrect": false
+      },
+      {
+        "text": "John Dalton",
+        "isCorrect": true
+      },
+      {
+        "text": "Richard Feynman",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "John Dalton proposed the atomic theory to explain the laws of definite and multiple proportions.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "Who suggested that matter may consist of indivisible constituents?",
+    "options": [
+      {
+        "text": "Kanada",
+        "isCorrect": true
+      },
+      {
+        "text": "Democritus",
+        "isCorrect": true
+      },
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Boyle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kanada in India and Democritus in Greece suggested that matter may consist of indivisible constituents.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "HARD"
+  },
+  {
+    "qno": "25",
+    "questionText": "Which physicist of the 20th century considered the discovery that 'Matter is made up of atoms' to be very significant?",
+    "options": [
+      {
+        "text": "Boyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Richard Feynman",
+        "isCorrect": true
+      },
+      {
+        "text": "Maxwell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Richard Feynman, one of the great physicists of the 20th century, considered the discovery that 'Matter is made up of atoms' to be very significant.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "26",
+    "questionText": "What does the first law of definite proportions state?",
+    "options": [
+      {
+        "text": "The volume of gases in a reaction is in simple ratios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Any given compound has a fixed proportion by mass of its constituents.",
+        "isCorrect": true
+      },
+      {
+        "text": "The number of molecules in equal volumes of gases is the same.",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of an element in compounds is variable.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The first law of definite proportions states that any given compound has a fixed proportion by mass of its constituents.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "EASY"
+  },
+  {
+    "qno": "27",
+    "questionText": "What does the second law of multiple proportions state?",
+    "options": [
+      {
+        "text": "The volume of gases in a reaction is in simple ratios.",
+        "isCorrect": false
+      },
+      {
+        "text": "When two elements form more than one compound, for a fixed mass of one element, the masses of the other elements are in ratio of small integers.",
+        "isCorrect": true
+      },
+      {
+        "text": "The number of molecules in equal volumes of gases is the same.",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of an element in compounds is variable.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The second law of multiple proportions states that when two elements form more than one compound, for a fixed mass of one element, the masses of the other elements are in ratio of small integers.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "28",
+    "questionText": "Which law combines with Dalton’s theory to explain Gay Lussac’s law?",
+    "options": [
+      {
+        "text": "Boyle's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Avogadro’s law",
+        "isCorrect": true
+      },
+      {
+        "text": "Charles's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Newton's law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Avogadro’s law, when combined with Dalton’s theory, explains Gay Lussac’s law.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "29",
+    "questionText": "What did Feynman consider significant about the atomic hypothesis?",
+    "options": [
+      {
+        "text": "It explained the nature of light.",
+        "isCorrect": false
+      },
+      {
+        "text": "It described the behavior of gases.",
+        "isCorrect": false
+      },
+      {
+        "text": "It stated that all things are made of atoms.",
+        "isCorrect": true
+      },
+      {
+        "text": "It helped in the discovery of electricity.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Feynman considered the atomic hypothesis significant because it stated that all things are made of atoms.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "EASY"
+  },
+  {
+    "qno": "30",
+    "questionText": "Who suggested that matter is not continuous?",
+    "options": [
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Dalton",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanada",
+        "isCorrect": true
+      },
+      {
+        "text": "Feynman",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kanada suggested that matter is not continuous.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "HARD"
+  },
+  {
+    "qno": "31",
+    "questionText": "Who developed the kinetic theory in the nineteenth century?",
+    "options": [
+      {
+        "text": "Newton and Boyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Dalton and Gay Lussac",
+        "isCorrect": false
+      },
+      {
+        "text": "Maxwell and Boltzmann",
+        "isCorrect": true
+      },
+      {
+        "text": "Feynman and Avogadro",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory was developed in the nineteenth century by Maxwell, Boltzmann, and others.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "32",
+    "questionText": "What does Dalton's atomic theory explain?",
+    "options": [
+      {
+        "text": "The laws of reflection",
+        "isCorrect": false
+      },
+      {
+        "text": "The behavior of solids",
+        "isCorrect": false
+      },
+      {
+        "text": "The laws of definite and multiple proportions",
+        "isCorrect": true
+      },
+      {
+        "text": "The laws of motion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dalton's atomic theory explains the laws of definite and multiple proportions.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "HARD"
+  },
+  {
+    "qno": "33",
+    "questionText": "What is the approximate year when Dalton proposed the atomic theory?",
+    "options": [
+      {
+        "text": "100 years ago",
+        "isCorrect": false
+      },
+      {
+        "text": "150 years ago",
+        "isCorrect": false
+      },
+      {
+        "text": "200 years ago",
+        "isCorrect": true
+      },
+      {
+        "text": "250 years ago",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dalton proposed the atomic theory about 200 years ago.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "EASY"
+  },
+  {
+    "qno": "34",
+    "questionText": "Which law states that the number of molecules in equal volumes of gases is the same?",
+    "options": [
+      {
+        "text": "Boyle's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Avogadro’s law",
+        "isCorrect": true
+      },
+      {
+        "text": "Charles's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Newton's law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Avogadro’s law states that the number of molecules in equal volumes of gases is the same.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "35",
+    "questionText": "What did Avogadro’s law help to explain when combined with Dalton’s theory?",
+    "options": [
+      {
+        "text": "Boyle's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Gay Lussac’s law",
+        "isCorrect": true
+      },
+      {
+        "text": "Newton's laws",
+        "isCorrect": false
+      },
+      {
+        "text": "The law of reflection",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Avogadro’s law, when combined with Dalton’s theory, helped to explain Gay Lussac’s law.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "HARD"
+  },
+  {
+    "qno": "36",
+    "questionText": "Which hypothesis suggests that 'all things are made of atoms'?",
+    "options": [
+      {
+        "text": "Dalton's hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Avogadro's hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic Hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Newton's hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Atomic Hypothesis suggests that 'all things are made of atoms'.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "37",
+    "questionText": "What does Avogadro’s hypothesis state?",
+    "options": [
+      {
+        "text": "Equal volumes of all gases at equal temperature and pressure have the same number of molecules.",
+        "isCorrect": true
+      },
+      {
+        "text": "Any given compound has a fixed proportion by mass of its constituents.",
+        "isCorrect": false
+      },
+      {
+        "text": "When gases combine chemically to yield another gas, their volumes are in the ratios of small integers.",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of an element remains constant in all its compounds.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Avogadro’s hypothesis states that equal volumes of all gases at equal temperature and pressure have the same number of molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "HARD"
+  },
+  {
+    "qno": "38",
+    "questionText": "Who is usually credited with the scientific 'Atomic Theory'?",
+    "options": [
+      {
+        "text": "Kanada",
+        "isCorrect": false
+      },
+      {
+        "text": "Democritus",
+        "isCorrect": false
+      },
+      {
+        "text": "John Dalton",
+        "isCorrect": true
+      },
+      {
+        "text": "Richard Feynman",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "John Dalton is usually credited with the scientific 'Atomic Theory'.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "EASY"
+  },
+  {
+    "qno": "39",
+    "questionText": "Who suggested that the smallest constituents of an element are atoms?",
+    "options": [
+      {
+        "text": "Boyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Dalton",
+        "isCorrect": true
+      },
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Feynman",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dalton suggested that the smallest constituents of an element are atoms.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "40",
+    "questionText": "Who is considered one of the great physicists of the 20th century?",
+    "options": [
+      {
+        "text": "Boyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Richard Feynman",
+        "isCorrect": true
+      },
+      {
+        "text": "Maxwell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Richard Feynman is considered one of the great physicists of the 20th century.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "EASY"
+  },
+  {
+    "qno": "41",
+    "questionText": "According to Dalton, what combines to form a molecule of the compound?",
+    "options": [
+      {
+        "text": "Large number of atoms of each element",
+        "isCorrect": false
+      },
+      {
+        "text": "A small number of atoms of each element",
+        "isCorrect": true
+      },
+      {
+        "text": "Equal number of atoms of each element",
+        "isCorrect": false
+      },
+      {
+        "text": "Atoms of different elements",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Dalton, a small number of atoms of each element combine to form a molecule of the compound.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "42",
+    "questionText": "What did Feynman want to be communicated to the next generation if all scientific knowledge were to be destroyed?",
+    "options": [
+      {
+        "text": "Newton's laws",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic Hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Law of gravitation",
+        "isCorrect": false
+      },
+      {
+        "text": "Theory of relativity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Feynman wanted the ‘Atomic Hypothesis’ to be communicated to the next generation if all scientific knowledge were to be destroyed.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "EASY"
+  },
+  {
+    "qno": "43",
+    "questionText": "According to the Atomic Hypothesis, what do atoms do when they are a little distance apart?",
+    "options": [
+      {
+        "text": "Repel each other",
+        "isCorrect": false
+      },
+      {
+        "text": "Attract each other",
+        "isCorrect": true
+      },
+      {
+        "text": "Remain stationary",
+        "isCorrect": false
+      },
+      {
+        "text": "Move away from each other",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the Atomic Hypothesis, atoms attract each other when they are a little distance apart.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "44",
+    "questionText": "What does the Atomic Hypothesis state about atoms when they are squeezed into one another?",
+    "options": [
+      {
+        "text": "They move apart.",
+        "isCorrect": false
+      },
+      {
+        "text": "They repel each other.",
+        "isCorrect": true
+      },
+      {
+        "text": "They attract each other.",
+        "isCorrect": false
+      },
+      {
+        "text": "They remain stationary.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Atomic Hypothesis states that atoms repel each other when they are squeezed into one another.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "HARD"
+  },
+  {
+    "qno": "45",
+    "questionText": "Which ancient cultures speculated that matter may not be continuous?",
+    "options": [
+      {
+        "text": "Indian and Greek",
+        "isCorrect": true
+      },
+      {
+        "text": "Roman and Egyptian",
+        "isCorrect": false
+      },
+      {
+        "text": "Chinese and Persian",
+        "isCorrect": false
+      },
+      {
+        "text": "Mayan and Incan",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Speculation that matter may not be continuous existed in Indian and Greek cultures.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "HARD"
+  },
+  {
+    "qno": "46",
+    "questionText": "What is the significance of the atomic theory according to John Dalton?",
+    "options": [
+      {
+        "text": "It explains the behavior of solids.",
+        "isCorrect": false
+      },
+      {
+        "text": "It explains the laws of definite and multiple proportions.",
+        "isCorrect": true
+      },
+      {
+        "text": "It describes the nature of light.",
+        "isCorrect": false
+      },
+      {
+        "text": "It helps in the discovery of electricity.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to John Dalton, the atomic theory explains the laws of definite and multiple proportions.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "47",
+    "questionText": "Who suggested the laws of definite and multiple proportions?",
+    "options": [
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Dalton",
+        "isCorrect": true
+      },
+      {
+        "text": "Boyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Feynman",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "John Dalton suggested the laws of definite and multiple proportions.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "48",
+    "questionText": "What is the term for the smallest constituents of an element according to Dalton?",
+    "options": [
+      {
+        "text": "Molecules",
+        "isCorrect": false
+      },
+      {
+        "text": "Atoms",
+        "isCorrect": true
+      },
+      {
+        "text": "Particles",
+        "isCorrect": false
+      },
+      {
+        "text": "Compounds",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Dalton, the smallest constituents of an element are atoms.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "EASY"
+  },
+  {
+    "qno": "49",
+    "questionText": "What does Avogadro’s law explain about gases?",
+    "options": [
+      {
+        "text": "Equal volumes of all gases at equal temperature and pressure have the same number of molecules.",
+        "isCorrect": true
+      },
+      {
+        "text": "When gases combine chemically to yield another gas, their volumes are in the ratios of small integers.",
+        "isCorrect": false
+      },
+      {
+        "text": "Any given compound has a fixed proportion by mass of its constituents.",
+        "isCorrect": false
+      },
+      {
+        "text": "The mass of an element remains constant in all its compounds.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Avogadro’s law explains that equal volumes of all gases at equal temperature and pressure have the same number of molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "HARD"
+  },
+  {
+    "qno": "50",
+    "questionText": "What does Dalton’s atomic theory refer to as the molecular theory of matter?",
+    "options": [
+      {
+        "text": "That matter is continuous.",
+        "isCorrect": false
+      },
+      {
+        "text": "That matter is composed of molecules.",
+        "isCorrect": true
+      },
+      {
+        "text": "That matter is made up of particles.",
+        "isCorrect": false
+      },
+      {
+        "text": "That matter is indivisible.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dalton’s atomic theory can also be referred to as the molecular theory of matter because it explains that matter is composed of molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.2 Molecular nature of matter",
+    "level": "HARD"
+  },
+  {
+    "qno": "56",
+    "questionText": "What is the relationship between pressure and volume in Boyle's law?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Boyle's law states that pressure and volume of a gas are inversely proportional.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "EASY"
+  },
+  {
+    "qno": "57",
+    "questionText": "According to Charles's law, the volume of a gas is directly proportional to its:",
+    "options": [
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Density",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Charles's law states that the volume of a gas is directly proportional to its temperature at constant pressure.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "EASY"
+  },
+  {
+    "qno": "58",
+    "questionText": "What happens to the volume of a gas when its temperature increases at constant pressure?",
+    "options": [
+      {
+        "text": "Decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Oscillates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Charles's law, the volume of a gas increases as its temperature increases at constant pressure.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "59",
+    "questionText": "What is the value of the universal gas constant $R$?",
+    "options": [
+      {
+        "text": "8.314 J/mol·K",
+        "isCorrect": true
+      },
+      {
+        "text": "6.022 J/mol·K",
+        "isCorrect": false
+      },
+      {
+        "text": "1.380 J/mol·K",
+        "isCorrect": false
+      },
+      {
+        "text": "3.142 J/mol·K",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of the universal gas constant $R$ is 8.314 J/mol·K.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "EASY"
+  },
+  {
+    "qno": "60",
+    "questionText": "In the ideal gas equation $PV = nRT$, what does $n$ represent?",
+    "options": [
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Number of moles",
+        "isCorrect": true
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the ideal gas equation $PV = nRT$, $n$ represents the number of moles of the gas.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "EASY"
+  },
+  {
+    "qno": "61",
+    "questionText": "According to Avogadro's law, the volume of a gas is directly proportional to:",
+    "options": [
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Number of moles",
+        "isCorrect": true
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Density",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Avogadro's law states that the volume of a gas is directly proportional to the number of moles of the gas at constant temperature and pressure.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "62",
+    "questionText": "What is the ideal gas law equation?",
+    "options": [
+      {
+        "text": "PV = nRT",
+        "isCorrect": true
+      },
+      {
+        "text": "P = kV",
+        "isCorrect": false
+      },
+      {
+        "text": "V = nR",
+        "isCorrect": false
+      },
+      {
+        "text": "P + V = nRT",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ideal gas law equation is $PV = nRT$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "EASY"
+  },
+  {
+    "qno": "63",
+    "questionText": "What is the relationship between the number of moles and volume in Avogadro's law?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Avogadro's law, the number of moles and volume of a gas are directly proportional.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "EASY"
+  },
+  {
+    "qno": "64",
+    "questionText": "Which law is used to describe the relationship between pressure and temperature of a gas?",
+    "options": [
+      {
+        "text": "Boyle's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Charles's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Gay Lussac's law",
+        "isCorrect": true
+      },
+      {
+        "text": "Avogadro's law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gay Lussac's law describes the relationship between the pressure and temperature of a gas.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "65",
+    "questionText": "In the equation $PV = nRT$, what does $T$ represent?",
+    "options": [
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Number of moles",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "In the equation $PV = nRT$, $T$ represents the temperature of the gas.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "EASY"
+  },
+  {
+    "qno": "66",
+    "questionText": "What is the significance of the ideal gas constant $R$ in the ideal gas law?",
+    "options": [
+      {
+        "text": "It relates the number of moles to the volume.",
+        "isCorrect": false
+      },
+      {
+        "text": "It relates pressure, volume, and temperature of an ideal gas.",
+        "isCorrect": true
+      },
+      {
+        "text": "It relates the mass of the gas to its volume.",
+        "isCorrect": false
+      },
+      {
+        "text": "It relates temperature to the density of the gas.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ideal gas constant $R$ in the ideal gas law relates the pressure, volume, and temperature of an ideal gas.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "67",
+    "questionText": "Which law combines the principles of Boyle's, Charles's, and Avogadro's laws?",
+    "options": [
+      {
+        "text": "Dalton's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Gay Lussac's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Ideal gas law",
+        "isCorrect": true
+      },
+      {
+        "text": "Henry's law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ideal gas law combines the principles of Boyle's, Charles's, and Avogadro's laws.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "HARD"
+  },
+  {
+    "qno": "68",
+    "questionText": "What does the ideal gas law explain about gases at high temperature and low pressure?",
+    "options": [
+      {
+        "text": "Gases behave ideally",
+        "isCorrect": true
+      },
+      {
+        "text": "Gases do not behave ideally",
+        "isCorrect": false
+      },
+      {
+        "text": "Gases condense into liquids",
+        "isCorrect": false
+      },
+      {
+        "text": "Gases turn into solids",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ideal gas law explains that gases behave ideally at high temperature and low pressure.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "69",
+    "questionText": "What happens to the pressure of a gas when its volume decreases at constant temperature?",
+    "options": [
+      {
+        "text": "Decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Oscillates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Boyle's law, the pressure of a gas increases when its volume decreases at constant temperature.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "70",
+    "questionText": "Which of the following is not a part of the ideal gas law equation?",
+    "options": [
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Number of moles",
+        "isCorrect": false
+      },
+      {
+        "text": "Density",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Density is not a part of the ideal gas law equation $PV = nRT$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "EASY"
+  },
+  {
+    "qno": "71",
+    "questionText": "What is the relationship between temperature and pressure in Gay Lussac's law?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gay Lussac's law states that temperature and pressure of a gas are directly proportional at constant volume.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "72",
+    "questionText": "In which condition do real gases behave ideally according to the ideal gas law?",
+    "options": [
+      {
+        "text": "High temperature and high pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Low temperature and low pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "High temperature and low pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Low temperature and high pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the ideal gas law, real gases behave ideally at high temperature and low pressure.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "73",
+    "questionText": "What does the term $R$ in the ideal gas equation $PV = nRT$ stand for?",
+    "options": [
+      {
+        "text": "Resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "Reactivity",
+        "isCorrect": false
+      },
+      {
+        "text": "Universal gas constant",
+        "isCorrect": true
+      },
+      {
+        "text": "Relative humidity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the ideal gas equation $PV = nRT$, $R$ stands for the universal gas constant.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "EASY"
+  },
+  {
+    "qno": "74",
+    "questionText": "What is the unit of the universal gas constant $R$?",
+    "options": [
+      {
+        "text": "J/mol·K",
+        "isCorrect": true
+      },
+      {
+        "text": "N/m²",
+        "isCorrect": false
+      },
+      {
+        "text": "Pa·s",
+        "isCorrect": false
+      },
+      {
+        "text": "kg/mol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The unit of the universal gas constant $R$ is J/mol·K.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "EASY"
+  },
+  {
+    "qno": "75",
+    "questionText": "What does the term $n$ in the ideal gas equation $PV = nRT$ represent?",
+    "options": [
+      {
+        "text": "Number of moles",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the ideal gas equation $PV = nRT$, $n$ represents the number of moles of the gas.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "EASY"
+  },
+  {
+    "qno": "76",
+    "questionText": "What does Boyle's law state about the relationship between pressure and volume?",
+    "options": [
+      {
+        "text": "They are directly proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "They are inversely proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "They are exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "They are linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Boyle's law states that pressure and volume of a gas are inversely proportional.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "77",
+    "questionText": "What does Charles's law state about the relationship between volume and temperature?",
+    "options": [
+      {
+        "text": "They are directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "They are inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "They are exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "They are linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Charles's law states that the volume of a gas is directly proportional to its temperature at constant pressure.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "79",
+    "questionText": "What does the ideal gas law equation combine?",
+    "options": [
+      {
+        "text": "Boyle's, Charles's, and Avogadro's laws",
+        "isCorrect": true
+      },
+      {
+        "text": "Boyle's and Newton's laws",
+        "isCorrect": false
+      },
+      {
+        "text": "Charles's and Newton's laws",
+        "isCorrect": false
+      },
+      {
+        "text": "Newton's and Avogadro's laws",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ideal gas law equation combines the principles of Boyle's, Charles's, and Avogadro's laws.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "80",
+    "questionText": "What is the relationship between pressure and temperature in Gay Lussac's law?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gay Lussac's law states that temperature and pressure of a gas are directly proportional at constant volume.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.3 Behaviour of gases",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "101",
+    "questionText": "What does the kinetic theory of gases assume about gas molecules?",
+    "options": [
+      {
+        "text": "They are in continuous, random motion.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are stationary.",
+        "isCorrect": false
+      },
+      {
+        "text": "They repel each other.",
+        "isCorrect": false
+      },
+      {
+        "text": "They have significant volume.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory of gases assumes that gas molecules are in continuous, random motion.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "EASY"
+  },
+  {
+    "qno": "102",
+    "questionText": "What is the average kinetic energy of gas molecules directly proportional to?",
+    "options": [
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Density",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average kinetic energy of gas molecules is directly proportional to the temperature of the gas.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "EASY"
+  },
+  {
+    "qno": "103",
+    "questionText": "What happens to the pressure of a gas if the temperature increases while volume is constant?",
+    "options": [
+      {
+        "text": "Decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Oscillates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the kinetic theory, the pressure of a gas increases when the temperature increases while the volume is constant.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "104",
+    "questionText": "What does the kinetic theory explain about the pressure exerted by a gas?",
+    "options": [
+      {
+        "text": "It is due to collisions of gas molecules with the walls of the container.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is due to the attractive forces between gas molecules.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is due to the volume of gas molecules.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is due to the temperature of gas molecules.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory explains that the pressure exerted by a gas is due to collisions of gas molecules with the walls of the container.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "105",
+    "questionText": "According to the kinetic theory, what is the relationship between temperature and the average speed of gas molecules?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the kinetic theory, the average speed of gas molecules is directly proportional to the temperature.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "106",
+    "questionText": "What does the kinetic theory assume about the collisions between gas molecules?",
+    "options": [
+      {
+        "text": "They are elastic.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are inelastic.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are partially elastic.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are rare.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory assumes that the collisions between gas molecules are elastic.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "EASY"
+  },
+  {
+    "qno": "107",
+    "questionText": "In the kinetic theory of gases, what is the pressure of a gas directly proportional to?",
+    "options": [
+      {
+        "text": "Temperature and volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature and number of molecules",
+        "isCorrect": true
+      },
+      {
+        "text": "Volume and number of molecules",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume and density",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the kinetic theory of gases, the pressure of a gas is directly proportional to its temperature and the number of molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "HARD"
+  },
+  {
+    "qno": "108",
+    "questionText": "What is the root mean square speed of gas molecules proportional to?",
+    "options": [
+      {
+        "text": "Square root of temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Square of temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Inverse of temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The root mean square speed of gas molecules is proportional to the square root of temperature.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "HARD"
+  },
+  {
+    "qno": "109",
+    "questionText": "What does the kinetic theory assume about the volume of gas molecules?",
+    "options": [
+      {
+        "text": "It is significant.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is negligible.",
+        "isCorrect": true
+      },
+      {
+        "text": "It varies with pressure.",
+        "isCorrect": false
+      },
+      {
+        "text": "It varies with temperature.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory assumes that the volume of gas molecules is negligible compared to the volume of the container.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "110",
+    "questionText": "How is the kinetic energy of a gas molecule related to its temperature?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic energy of a gas molecule is directly proportional to its temperature.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "EASY"
+  },
+  {
+    "qno": "111",
+    "questionText": "What does the kinetic theory explain about gas pressure?",
+    "options": [
+      {
+        "text": "It is due to collisions of gas molecules with the walls of the container.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is due to attractive forces between gas molecules.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is due to the volume of gas molecules.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is due to the temperature of gas molecules.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory explains that gas pressure is due to collisions of gas molecules with the walls of the container.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "112",
+    "questionText": "What does the kinetic theory of gases describe?",
+    "options": [
+      {
+        "text": "The macroscopic properties of gases",
+        "isCorrect": false
+      },
+      {
+        "text": "The microscopic behavior of gas molecules",
+        "isCorrect": true
+      },
+      {
+        "text": "The behavior of solids",
+        "isCorrect": false
+      },
+      {
+        "text": "The properties of liquids",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory of gases describes the microscopic behavior of gas molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "HARD"
+  },
+  {
+    "qno": "113",
+    "questionText": "What is the significance of elastic collisions in the kinetic theory?",
+    "options": [
+      {
+        "text": "They conserve kinetic energy.",
+        "isCorrect": true
+      },
+      {
+        "text": "They increase the temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "They decrease the volume.",
+        "isCorrect": false
+      },
+      {
+        "text": "They create pressure.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the kinetic theory, elastic collisions conserve kinetic energy.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "114",
+    "questionText": "What does the kinetic theory assume about the forces between gas molecules?",
+    "options": [
+      {
+        "text": "They are negligible.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are significant.",
+        "isCorrect": false
+      },
+      {
+        "text": "They vary with temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "They vary with pressure.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory assumes that the forces between gas molecules are negligible.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "HARD"
+  },
+  {
+    "qno": "115",
+    "questionText": "What does the kinetic theory say about the motion of gas molecules?",
+    "options": [
+      {
+        "text": "They move in continuous, random motion.",
+        "isCorrect": true
+      },
+      {
+        "text": "They move in straight lines.",
+        "isCorrect": false
+      },
+      {
+        "text": "They move in circular paths.",
+        "isCorrect": false
+      },
+      {
+        "text": "They move towards each other.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory states that gas molecules move in continuous, random motion.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "116",
+    "questionText": "According to the kinetic theory, what is the relationship between the average kinetic energy of gas molecules and the temperature?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the kinetic theory, the average kinetic energy of gas molecules is directly proportional to the temperature.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "EASY"
+  },
+  {
+    "qno": "117",
+    "questionText": "What does the kinetic theory assume about the volume of gas molecules compared to the volume of the container?",
+    "options": [
+      {
+        "text": "It is negligible.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is significant.",
+        "isCorrect": false
+      },
+      {
+        "text": "It varies with pressure.",
+        "isCorrect": false
+      },
+      {
+        "text": "It varies with temperature.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory assumes that the volume of gas molecules is negligible compared to the volume of the container.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "HARD"
+  },
+  {
+    "qno": "118",
+    "questionText": "What is the effect of temperature on the root mean square speed of gas molecules?",
+    "options": [
+      {
+        "text": "Increases with the square root of temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreases with the square root of temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Increases with the square of temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Decreases with the square of temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The root mean square speed of gas molecules increases with the square root of temperature.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "119",
+    "questionText": "What is the assumption about the intermolecular forces in an ideal gas according to the kinetic theory?",
+    "options": [
+      {
+        "text": "They are negligible.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are significant.",
+        "isCorrect": false
+      },
+      {
+        "text": "They vary with temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "They vary with pressure.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory assumes that the intermolecular forces in an ideal gas are negligible.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "HARD"
+  },
+  {
+    "qno": "120",
+    "questionText": "What does the kinetic theory explain about the temperature of a gas?",
+    "options": [
+      {
+        "text": "It is a measure of the average kinetic energy of gas molecules.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is a measure of the total energy of gas molecules.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a measure of the potential energy of gas molecules.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a measure of the density of gas molecules.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory explains that the temperature of a gas is a measure of the average kinetic energy of gas molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "EASY"
+  },
+  {
+    "qno": "121",
+    "questionText": "What is the assumption about the collisions between gas molecules according to the kinetic theory?",
+    "options": [
+      {
+        "text": "They are elastic.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are inelastic.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are partially elastic.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are rare.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory assumes that the collisions between gas molecules are elastic.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "EASY"
+  },
+  {
+    "qno": "122",
+    "questionText": "What does the kinetic theory of gases say about the motion of gas molecules?",
+    "options": [
+      {
+        "text": "They move in continuous, random motion.",
+        "isCorrect": true
+      },
+      {
+        "text": "They move in straight lines.",
+        "isCorrect": false
+      },
+      {
+        "text": "They move in circular paths.",
+        "isCorrect": false
+      },
+      {
+        "text": "They move towards each other.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory of gases states that gas molecules move in continuous, random motion.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "123",
+    "questionText": "How is the average kinetic energy of gas molecules related to temperature?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average kinetic energy of gas molecules is directly proportional to temperature.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "EASY"
+  },
+  {
+    "qno": "125",
+    "questionText": "What is the relationship between the pressure of a gas and the number of collisions of gas molecules with the walls of the container?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pressure of a gas is directly proportional to the number of collisions of gas molecules with the walls of the container.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "HARD"
+  },
+  {
+    "qno": "126",
+    "questionText": "What does the kinetic theory say about the temperature of a gas?",
+    "options": [
+      {
+        "text": "It is a measure of the average kinetic energy of gas molecules.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is a measure of the total energy of gas molecules.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a measure of the potential energy of gas molecules.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a measure of the density of gas molecules.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory explains that the temperature of a gas is a measure of the average kinetic energy of gas molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "127",
+    "questionText": "What is the assumption about the volume of gas molecules according to the kinetic theory?",
+    "options": [
+      {
+        "text": "It is negligible.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is significant.",
+        "isCorrect": false
+      },
+      {
+        "text": "It varies with pressure.",
+        "isCorrect": false
+      },
+      {
+        "text": "It varies with temperature.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory assumes that the volume of gas molecules is negligible compared to the volume of the container.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "HARD"
+  },
+  {
+    "qno": "129",
+    "questionText": "What does the kinetic theory assume about the intermolecular forces in an ideal gas?",
+    "options": [
+      {
+        "text": "They are negligible.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are significant.",
+        "isCorrect": false
+      },
+      {
+        "text": "They vary with temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "They vary with pressure.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory assumes that the intermolecular forces in an ideal gas are negligible.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "HARD"
+  },
+  {
+    "qno": "130",
+    "questionText": "What is the assumption about the collisions between gas molecules in the kinetic theory?",
+    "options": [
+      {
+        "text": "They are elastic.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are inelastic.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are partially elastic.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are rare.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kinetic theory assumes that the collisions between gas molecules are elastic.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "EASY"
+  },
+  {
+    "qno": "135",
+    "questionText": "According to the kinetic theory, what is the relationship between the average kinetic energy of gas molecules and temperature?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the kinetic theory, the average kinetic energy of gas molecules is directly proportional to temperature.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.4 Kinetic theory of an ideal gas",
+    "level": "EASY"
+  },
+  {
+    "qno": "149",
+    "questionText": "What does the law of equipartition of energy state about the energy distribution among degrees of freedom?",
+    "options": [
+      {
+        "text": "Energy is equally distributed among all degrees of freedom.",
+        "isCorrect": true
+      },
+      {
+        "text": "Energy is unequally distributed among all degrees of freedom.",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy is only distributed to translational degrees of freedom.",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy is only distributed to rotational degrees of freedom.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The law of equipartition of energy states that energy is equally distributed among all degrees of freedom.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "150",
+    "questionText": "How much energy is associated with each degree of freedom according to the equipartition theorem?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2}k_BT$",
+        "isCorrect": true
+      },
+      {
+        "text": "$k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{2}R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the equipartition theorem, each degree of freedom is associated with an energy of $\\frac{1}{2}k_BT$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "151",
+    "questionText": "What is the total energy of a monatomic ideal gas molecule with 3 degrees of freedom?",
+    "options": [
+      {
+        "text": "$\\frac{3}{2}k_BT$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{2}k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2k_BT$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a monatomic ideal gas molecule with 3 degrees of freedom, the total energy is $\\frac{3}{2}k_BT$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "152",
+    "questionText": "How many degrees of freedom does a diatomic molecule have?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A diatomic molecule has 5 degrees of freedom (3 translational and 2 rotational).",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "153",
+    "questionText": "What is the total energy of a diatomic molecule with 5 degrees of freedom?",
+    "options": [
+      {
+        "text": "$\\frac{5}{2}k_BT$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{3}{2}k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3k_BT$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a diatomic molecule with 5 degrees of freedom, the total energy is $\\frac{5}{2}k_BT$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "154",
+    "questionText": "What is the significance of the Boltzmann constant $k_B$ in the equipartition theorem?",
+    "options": [
+      {
+        "text": "It relates the average kinetic energy of particles to temperature.",
+        "isCorrect": true
+      },
+      {
+        "text": "It relates the pressure of a gas to its volume.",
+        "isCorrect": false
+      },
+      {
+        "text": "It relates the volume of a gas to the number of particles.",
+        "isCorrect": false
+      },
+      {
+        "text": "It relates the temperature of a gas to its density.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Boltzmann constant $k_B$ relates the average kinetic energy of particles to temperature in the equipartition theorem.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "155",
+    "questionText": "According to the law of equipartition of energy, what is the total energy for a polyatomic molecule with 6 degrees of freedom?",
+    "options": [
+      {
+        "text": "$3k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{6}{2}k_BT$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{3}{2}k_BT$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a polyatomic molecule with 6 degrees of freedom, the total energy is $3k_BT$ (which is the same as $\\frac{6}{2}k_BT$).",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "156",
+    "questionText": "How is the specific heat capacity at constant volume ($C_v$) related to degrees of freedom ($f$) for an ideal gas?",
+    "options": [
+      {
+        "text": "$C_v = \\frac{f}{2}R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_v = fR$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_v = \\frac{2f}{R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_v = \\frac{R}{f}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The specific heat capacity at constant volume ($C_v$) for an ideal gas is related to the degrees of freedom ($f$) by $C_v = \\frac{f}{2}R$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "157",
+    "questionText": "For a monatomic ideal gas, what is the specific heat capacity at constant volume ($C_v$)?",
+    "options": [
+      {
+        "text": "$\\frac{3}{2}R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{5}{2}R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a monatomic ideal gas, the specific heat capacity at constant volume ($C_v$) is $\\frac{3}{2}R$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "158",
+    "questionText": "How does the specific heat capacity at constant pressure ($C_p$) relate to $C_v$ for an ideal gas?",
+    "options": [
+      {
+        "text": "$C_p = C_v + R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_p = C_v - R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_p = \\frac{C_v}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_p = 2C_v$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an ideal gas, the specific heat capacity at constant pressure ($C_p$) is related to $C_v$ by $C_p = C_v + R$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "159",
+    "questionText": "What is the molar specific heat capacity at constant volume for a diatomic ideal gas?",
+    "options": [
+      {
+        "text": "$\\frac{5}{2}R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{3}{2}R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a diatomic ideal gas, the molar specific heat capacity at constant volume is $\\frac{5}{2}R$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "160",
+    "questionText": "What is the ratio of $C_p$ to $C_v$ (denoted as $\\gamma$) for a monatomic ideal gas?",
+    "options": [
+      {
+        "text": "$\\frac{5}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{3}{5}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{7}{5}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{5}{7}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a monatomic ideal gas, the ratio of $C_p$ to $C_v$ (denoted as $\\gamma$) is $\\frac{5}{3}$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "161",
+    "questionText": "What is the relationship between the degrees of freedom ($f$) and the specific heat capacity at constant volume ($C_v$)?",
+    "options": [
+      {
+        "text": "$C_v = \\frac{f}{2}R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_v = fR$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_v = \\frac{2f}{R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_v = \\frac{R}{f}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The specific heat capacity at constant volume ($C_v$) is related to the degrees of freedom ($f$) by $C_v = \\frac{f}{2}R$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "162",
+    "questionText": "For a diatomic gas, what is the ratio $\\gamma = \\frac{C_p}{C_v}$?",
+    "options": [
+      {
+        "text": "$\\frac{7}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{5}{7}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{5}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{3}{5}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a diatomic gas, the ratio $\\gamma = \\frac{C_p}{C_v}$ is $\\frac{7}{5}$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "163",
+    "questionText": "What does the equipartition theorem predict for the internal energy of an ideal gas?",
+    "options": [
+      {
+        "text": "It is proportional to the temperature.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is proportional to the pressure.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is proportional to the volume.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is proportional to the number of moles.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equipartition theorem predicts that the internal energy of an ideal gas is proportional to the temperature.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "164",
+    "questionText": "How many degrees of freedom does a non-linear polyatomic molecule have?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "A non-linear polyatomic molecule has 9 degrees of freedom (3 translational, 3 rotational, and 3 vibrational).",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "165",
+    "questionText": "What is the total energy of a non-linear polyatomic molecule with 9 degrees of freedom?",
+    "options": [
+      {
+        "text": "$\\frac{9}{2}k_BT$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{5}{2}k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6k_BT$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a non-linear polyatomic molecule with 9 degrees of freedom, the total energy is $\\frac{9}{2}k_BT$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "166",
+    "questionText": "What does the law of equipartition of energy imply about the specific heat capacities of gases?",
+    "options": [
+      {
+        "text": "They depend on the degrees of freedom of the gas molecules.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are the same for all gases.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are independent of temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are higher for monatomic gases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The law of equipartition of energy implies that the specific heat capacities of gases depend on the degrees of freedom of the gas molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "167",
+    "questionText": "How is the internal energy of an ideal gas related to its temperature?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The internal energy of an ideal gas is directly proportional to its temperature.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "168",
+    "questionText": "For a polyatomic molecule with 6 degrees of freedom, what is the total energy according to the equipartition theorem?",
+    "options": [
+      {
+        "text": "$3k_BT$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{5}{2}k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{3}{2}k_BT$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a polyatomic molecule with 6 degrees of freedom, the total energy according to the equipartition theorem is $3k_BT$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "169",
+    "questionText": "What is the specific heat capacity at constant pressure ($C_p$) for a diatomic gas?",
+    "options": [
+      {
+        "text": "$\\frac{7}{2}R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{5}{2}R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a diatomic gas, the specific heat capacity at constant pressure ($C_p$) is $\\frac{7}{2}R$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "170",
+    "questionText": "What is the value of the Boltzmann constant $k_B$?",
+    "options": [
+      {
+        "text": "1.38 \\times 10^{-23} \\text{J/K}$",
+        "isCorrect": true
+      },
+      {
+        "text": "6.63 \\times 10^{-34} \\text{J/K}$",
+        "isCorrect": false
+      },
+      {
+        "text": "8.31 \\times 10^{-23} \\text{J/K}$",
+        "isCorrect": false
+      },
+      {
+        "text": "1.6 \\times 10^{-19} \\text{J/K}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of the Boltzmann constant $k_B$ is $1.38 \\times 10^{-23} \\text{J/K}$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "171",
+    "questionText": "What is the specific heat capacity at constant volume ($C_v$) for a polyatomic molecule with 6 degrees of freedom?",
+    "options": [
+      {
+        "text": "$3R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{5}{2}R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{7}{2}R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a polyatomic molecule with 6 degrees of freedom, the specific heat capacity at constant volume ($C_v$) is $3R$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "172",
+    "questionText": "What does the law of equipartition of energy imply about the degrees of freedom and energy?",
+    "options": [
+      {
+        "text": "Each degree of freedom contributes equally to the total energy.",
+        "isCorrect": true
+      },
+      {
+        "text": "Translational degrees of freedom contribute more energy.",
+        "isCorrect": false
+      },
+      {
+        "text": "Rotational degrees of freedom contribute more energy.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vibrational degrees of freedom contribute more energy.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The law of equipartition of energy implies that each degree of freedom contributes equally to the total energy.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "173",
+    "questionText": "What is the internal energy of one mole of a monatomic ideal gas at temperature $T$?",
+    "options": [
+      {
+        "text": "$\\frac{3}{2}RT$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3RT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{5}{2}RT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$RT$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The internal energy of one mole of a monatomic ideal gas at temperature $T$ is $\\frac{3}{2}RT$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "EASY"
+  },
+  {
+    "qno": "174",
+    "questionText": "How is the specific heat capacity at constant volume ($C_v$) related to the internal energy for an ideal gas?",
+    "options": [
+      {
+        "text": "$C_v = \\frac{dU}{dT}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_v = \\frac{dU}{dV}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_v = \\frac{dT}{dU}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_v = \\frac{dV}{dU}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The specific heat capacity at constant volume ($C_v$) is related to the internal energy by $C_v = \\frac{dU}{dT}$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "175",
+    "questionText": "What is the internal energy of one mole of a diatomic ideal gas at temperature $T$?",
+    "options": [
+      {
+        "text": "$\\frac{5}{2}RT$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{3}{2}RT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3RT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2RT$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The internal energy of one mole of a diatomic ideal gas at temperature $T$ is $\\frac{5}{2}RT$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "176",
+    "questionText": "What is the value of the ratio of specific heats $\\gamma$ for a polyatomic gas with 6 degrees of freedom?",
+    "options": [
+      {
+        "text": "$\\frac{4}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{5}{3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{7}{5}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{3}{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a polyatomic gas with 6 degrees of freedom, the ratio of specific heats $\\gamma$ is $\\frac{4}{3}$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "177",
+    "questionText": "What is the molar specific heat capacity at constant pressure for a diatomic ideal gas?",
+    "options": [
+      {
+        "text": "$\\frac{7}{2}R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{5}{2}R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a diatomic ideal gas, the molar specific heat capacity at constant pressure is $\\frac{7}{2}R$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "179",
+    "questionText": "How many degrees of freedom does a linear polyatomic molecule have?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": true
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A linear polyatomic molecule has 7 degrees of freedom (3 translational, 2 rotational, and 2 vibrational).",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "180",
+    "questionText": "What is the total energy of a linear polyatomic molecule with 7 degrees of freedom?",
+    "options": [
+      {
+        "text": "$\\frac{7}{2}k_BT$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{5}{2}k_BT$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6k_BT$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a linear polyatomic molecule with 7 degrees of freedom, the total energy is $\\frac{7}{2}k_BT$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.5 Law of equipartition of energy",
+    "level": "HARD"
+  },
+  {
+    "qno": "197",
+    "questionText": "What is the definition of specific heat capacity?",
+    "options": [
+      {
+        "text": "The amount of heat required to raise the temperature of 1 kg of a substance by 1 K.",
+        "isCorrect": true
+      },
+      {
+        "text": "The amount of heat required to raise the temperature of 1 g of a substance by 1 K.",
+        "isCorrect": false
+      },
+      {
+        "text": "The amount of heat required to raise the temperature of 1 mole of a substance by 1 K.",
+        "isCorrect": false
+      },
+      {
+        "text": "The amount of heat required to raise the temperature of 1 L of a substance by 1 K.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Specific heat capacity is the amount of heat required to raise the temperature of 1 kg of a substance by 1 K.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.6 Specific heat capacity",
+    "level": "EASY"
+  },
+  {
+    "qno": "198",
+    "questionText": "What is the formula for specific heat capacity?",
+    "options": [
+      {
+        "text": "$c = \\frac{Q}{m \\Delta T}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$c = \\frac{Q}{m T}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$c = \\frac{Q}{m}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$c = \\frac{Q}{\\Delta T}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for specific heat capacity is $c = \\frac{Q}{m \\Delta T}$, where $Q$ is the heat added, $m$ is the mass, and $\\Delta T$ is the change in temperature.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.6 Specific heat capacity",
+    "level": "EASY"
+  },
+  {
+    "qno": "199",
+    "questionText": "Which of the following has the highest specific heat capacity?",
+    "options": [
+      {
+        "text": "Water",
+        "isCorrect": true
+      },
+      {
+        "text": "Iron",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper",
+        "isCorrect": false
+      },
+      {
+        "text": "Mercury",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Water has the highest specific heat capacity among the given options.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.6 Specific heat capacity",
+    "level": "EASY"
+  },
+  {
+    "qno": "200",
+    "questionText": "What is the unit of specific heat capacity?",
+    "options": [
+      {
+        "text": "J/kg·K",
+        "isCorrect": true
+      },
+      {
+        "text": "J/mol·K",
+        "isCorrect": false
+      },
+      {
+        "text": "J/g·K",
+        "isCorrect": false
+      },
+      {
+        "text": "J/L·K",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The unit of specific heat capacity is J/kg·K.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.6 Specific heat capacity",
+    "level": "EASY"
+  },
+  {
+    "qno": "201",
+    "questionText": "What is the molar specific heat capacity at constant volume for a monatomic ideal gas?",
+    "options": [
+      {
+        "text": "$\\frac{3}{2}R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{5}{2}R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a monatomic ideal gas, the molar specific heat capacity at constant volume is $\\frac{3}{2}R$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.6 Specific heat capacity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "202",
+    "questionText": "How is the specific heat capacity at constant pressure ($C_p$) related to $C_v$ for an ideal gas?",
+    "options": [
+      {
+        "text": "$C_p = C_v + R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_p = C_v - R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_p = \\frac{C_v}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_p = 2C_v$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an ideal gas, the specific heat capacity at constant pressure ($C_p$) is related to $C_v$ by $C_p = C_v + R$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.6 Specific heat capacity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "205",
+    "questionText": "What is the relationship between specific heat capacity and the thermal conductivity of a material?",
+    "options": [
+      {
+        "text": "Higher specific heat capacity usually means lower thermal conductivity.",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher specific heat capacity usually means higher thermal conductivity.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are directly proportional.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are inversely proportional.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Materials with higher specific heat capacity usually have lower thermal conductivity.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.6 Specific heat capacity",
+    "level": "HARD"
+  },
+  {
+    "qno": "206",
+    "questionText": "What is the specific heat capacity at constant volume for a polyatomic molecule with 6 degrees of freedom?",
+    "options": [
+      {
+        "text": "$3R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{5}{2}R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{7}{2}R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a polyatomic molecule with 6 degrees of freedom, the specific heat capacity at constant volume ($C_v$) is $3R$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.6 Specific heat capacity",
+    "level": "HARD"
+  },
+  {
+    "qno": "207",
+    "questionText": "What is the definition of molar specific heat capacity?",
+    "options": [
+      {
+        "text": "The amount of heat required to raise the temperature of 1 mole of a substance by 1 K.",
+        "isCorrect": true
+      },
+      {
+        "text": "The amount of heat required to raise the temperature of 1 kg of a substance by 1 K.",
+        "isCorrect": false
+      },
+      {
+        "text": "The amount of heat required to raise the temperature of 1 g of a substance by 1 K.",
+        "isCorrect": false
+      },
+      {
+        "text": "The amount of heat required to raise the temperature of 1 L of a substance by 1 K.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Molar specific heat capacity is the amount of heat required to raise the temperature of 1 mole of a substance by 1 K.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.6 Specific heat capacity",
+    "level": "EASY"
+  },
+  {
+    "qno": "208",
+    "questionText": "What is the specific heat capacity at constant pressure for a diatomic ideal gas?",
+    "options": [
+      {
+        "text": "$\\frac{7}{2}R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{5}{2}R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a diatomic ideal gas, the specific heat capacity at constant pressure ($C_p$) is $\\frac{7}{2}R$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.6 Specific heat capacity",
+    "level": "HARD"
+  },
+  {
+    "qno": "209",
+    "questionText": "What is the value of the Boltzmann constant $k_B$?",
+    "options": [
+      {
+        "text": "$1.38 \\times 10^{-23} \\text{J/K}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6.63 \\times 10^{-34} \\text{J/K}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8.31 \\times 10^{-23} \\text{J/K}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.6 \\times 10^{-19} \\text{J/K}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of the Boltzmann constant $k_B$ is $1.38 \\times 10^{-23} \\text{J/K}$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.6 Specific heat capacity",
+    "level": "EASY"
+  },
+  {
+    "qno": "246",
+    "questionText": "What is meant by the 'mean free path' of a gas molecule?",
+    "options": [
+      {
+        "text": "The average distance a molecule travels before colliding with another molecule.",
+        "isCorrect": true
+      },
+      {
+        "text": "The total distance a molecule travels in a given time.",
+        "isCorrect": false
+      },
+      {
+        "text": "The distance a molecule travels in one second.",
+        "isCorrect": false
+      },
+      {
+        "text": "The distance between two molecules at equilibrium.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path is the average distance a molecule travels before colliding with another molecule.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "EASY"
+  },
+  {
+    "qno": "247",
+    "questionText": "Which factors affect the mean free path of gas molecules?",
+    "options": [
+      {
+        "text": "Temperature, pressure, and molecular diameter",
+        "isCorrect": true
+      },
+      {
+        "text": "Volume, density, and molecular weight",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure, volume, and temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Density, viscosity, and temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path of gas molecules is affected by temperature, pressure, and molecular diameter.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "248",
+    "questionText": "What is the relationship between mean free path (λ) and the number density (n) of gas molecules?",
+    "options": [
+      {
+        "text": "λ is inversely proportional to n",
+        "isCorrect": true
+      },
+      {
+        "text": "λ is directly proportional to n",
+        "isCorrect": false
+      },
+      {
+        "text": "λ is exponentially proportional to n",
+        "isCorrect": false
+      },
+      {
+        "text": "λ is independent of n",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path (λ) is inversely proportional to the number density (n) of gas molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "HARD"
+  },
+  {
+    "qno": "249",
+    "questionText": "Which of the following is the correct expression for the mean free path (λ) of gas molecules?",
+    "options": [
+      {
+        "text": "λ = $\\frac{k_BT}{\\sqrt{2} \\pi d^2 P}$",
+        "isCorrect": true
+      },
+      {
+        "text": "λ = $\\frac{k_BT}{\\pi d^2 P}$",
+        "isCorrect": false
+      },
+      {
+        "text": "λ = $\\frac{\\pi d^2 P}{k_BT}$",
+        "isCorrect": false
+      },
+      {
+        "text": "λ = $\\frac{\\sqrt{2} \\pi d^2 P}{k_BT}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The correct expression for the mean free path (λ) of gas molecules is $\\frac{k_BT}{\\sqrt{2} \\pi d^2 P}$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "HARD"
+  },
+  {
+    "qno": "250",
+    "questionText": "How does the mean free path change with an increase in temperature?",
+    "options": [
+      {
+        "text": "Increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "First increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path increases with an increase in temperature because the kinetic energy of molecules increases, causing fewer collisions.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "251",
+    "questionText": "What is the impact of increasing pressure on the mean free path?",
+    "options": [
+      {
+        "text": "Decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "First decreases then increases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing pressure decreases the mean free path because the number of molecules per unit volume increases, leading to more frequent collisions.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "252",
+    "questionText": "What does the mean free path depend on for a given gas at constant temperature?",
+    "options": [
+      {
+        "text": "Molecular diameter and number density",
+        "isCorrect": true
+      },
+      {
+        "text": "Molecular weight and volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Molecular speed and pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity and density",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a given gas at constant temperature, the mean free path depends on the molecular diameter and the number density of molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "HARD"
+  },
+  {
+    "qno": "253",
+    "questionText": "How is the mean free path (λ) related to the diameter (d) of gas molecules?",
+    "options": [
+      {
+        "text": "λ is inversely proportional to d²",
+        "isCorrect": true
+      },
+      {
+        "text": "λ is directly proportional to d",
+        "isCorrect": false
+      },
+      {
+        "text": "λ is inversely proportional to d",
+        "isCorrect": false
+      },
+      {
+        "text": "λ is directly proportional to d²",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path (λ) is inversely proportional to the square of the diameter (d) of gas molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "254",
+    "questionText": "What is the formula for the mean free path in terms of temperature (T), pressure (P), and molecular diameter (d)?",
+    "options": [
+      {
+        "text": "λ = $\\frac{k_BT}{\\sqrt{2} \\pi d^2 P}$",
+        "isCorrect": true
+      },
+      {
+        "text": "λ = $\\frac{k_BT}{\\pi d^2 P}$",
+        "isCorrect": false
+      },
+      {
+        "text": "λ = $\\frac{\\pi d^2 P}{k_BT}$",
+        "isCorrect": false
+      },
+      {
+        "text": "λ = $\\frac{\\sqrt{2} \\pi d^2 P}{k_BT}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for the mean free path (λ) in terms of temperature (T), pressure (P), and molecular diameter (d) is $\\frac{k_BT}{\\sqrt{2} \\pi d^2 P}$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "HARD"
+  },
+  {
+    "qno": "255",
+    "questionText": "How does increasing the molecular diameter affect the mean free path?",
+    "options": [
+      {
+        "text": "Decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "First increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the molecular diameter decreases the mean free path because larger molecules are more likely to collide with each other.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "256",
+    "questionText": "What is the mean free path for a gas with molecular diameter $3.0 \\times 10^{-10} \\text{m}$, pressure $1.0 \\times 10^5 \\text{Pa}$, and temperature $300 \\text{K}$?",
+    "options": [
+      {
+        "text": "λ = $2.5 \\times 10^{-7} \\text{m}$",
+        "isCorrect": true
+      },
+      {
+        "text": "λ = $1.0 \\times 10^{-7} \\text{m}$",
+        "isCorrect": false
+      },
+      {
+        "text": "λ = $3.0 \\times 10^{-7} \\text{m}$",
+        "isCorrect": false
+      },
+      {
+        "text": "λ = $5.0 \\times 10^{-7} \\text{m}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the formula λ = $\\frac{k_BT}{\\sqrt{2} \\pi d^2 P}$, the mean free path is calculated as $2.5 \\times 10^{-7} \\text{m}$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "HARD"
+  },
+  {
+    "qno": "257",
+    "questionText": "How does the mean free path change with an increase in molecular speed?",
+    "options": [
+      {
+        "text": "Remains the same",
+        "isCorrect": true
+      },
+      {
+        "text": "Increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "First increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path remains the same with an increase in molecular speed because it depends on temperature, pressure, and molecular diameter, not speed.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "258",
+    "questionText": "Which expression correctly defines the mean free path (λ) in terms of number density (n) and molecular diameter (d)?",
+    "options": [
+      {
+        "text": "λ = $\\frac{1}{\\sqrt{2} \\pi d^2 n}$",
+        "isCorrect": true
+      },
+      {
+        "text": "λ = $\\frac{\\sqrt{2} \\pi d^2 n}{1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "λ = $\\frac{\\pi d^2 n}{\\sqrt{2}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "λ = $\\frac{\\sqrt{2}}{\\pi d^2 n}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path (λ) is defined as $\\frac{1}{\\sqrt{2} \\pi d^2 n}$, where n is the number density and d is the molecular diameter.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "HARD"
+  },
+  {
+    "qno": "259",
+    "questionText": "What is the effect of decreasing the number density on the mean free path?",
+    "options": [
+      {
+        "text": "Increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "First decreases then increases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the number density increases the mean free path because there are fewer molecules per unit volume, leading to fewer collisions.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "260",
+    "questionText": "How is the mean free path (λ) related to pressure (P) for an ideal gas?",
+    "options": [
+      {
+        "text": "λ is inversely proportional to P",
+        "isCorrect": true
+      },
+      {
+        "text": "λ is directly proportional to P",
+        "isCorrect": false
+      },
+      {
+        "text": "λ is exponentially proportional to P",
+        "isCorrect": false
+      },
+      {
+        "text": "λ is independent of P",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path (λ) is inversely proportional to the pressure (P) for an ideal gas.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "HARD"
+  },
+  {
+    "qno": "261",
+    "questionText": "What is the relationship between mean free path (λ) and temperature (T) for an ideal gas?",
+    "options": [
+      {
+        "text": "λ is directly proportional to T",
+        "isCorrect": true
+      },
+      {
+        "text": "λ is inversely proportional to T",
+        "isCorrect": false
+      },
+      {
+        "text": "λ is exponentially proportional to T",
+        "isCorrect": false
+      },
+      {
+        "text": "λ is independent of T",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path (λ) is directly proportional to the temperature (T) for an ideal gas.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "HARD"
+  },
+  {
+    "qno": "262",
+    "questionText": "How does the mean free path (λ) of gas molecules change with an increase in the size of the container?",
+    "options": [
+      {
+        "text": "Remains the same",
+        "isCorrect": true
+      },
+      {
+        "text": "Increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "First increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path (λ) remains the same with an increase in the size of the container because it depends on temperature, pressure, and molecular diameter.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "263",
+    "questionText": "Which of the following correctly describes the effect of molecular speed on the mean free path?",
+    "options": [
+      {
+        "text": "No effect",
+        "isCorrect": true
+      },
+      {
+        "text": "Increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "First increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The molecular speed has no effect on the mean free path as it is determined by temperature, pressure, and molecular diameter.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "264",
+    "questionText": "What is the formula for mean free path (λ) in terms of Boltzmann constant (k_B), temperature (T), pressure (P), and molecular diameter (d)?",
+    "options": [
+      {
+        "text": "λ = $\\frac{k_BT}{\\sqrt{2} \\pi d^2 P}$",
+        "isCorrect": true
+      },
+      {
+        "text": "λ = $\\frac{k_BT}{\\pi d^2 P}$",
+        "isCorrect": false
+      },
+      {
+        "text": "λ = $\\frac{\\pi d^2 P}{k_BT}$",
+        "isCorrect": false
+      },
+      {
+        "text": "λ = $\\frac{\\sqrt{2} \\pi d^2 P}{k_BT}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for mean free path (λ) in terms of Boltzmann constant (k_B), temperature (T), pressure (P), and molecular diameter (d) is $\\frac{k_BT}{\\sqrt{2} \\pi d^2 P}$.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "HARD"
+  },
+  {
+    "qno": "265",
+    "questionText": "What is the effect of increasing molecular diameter on the mean free path?",
+    "options": [
+      {
+        "text": "Decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "First increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the molecular diameter decreases the mean free path because larger molecules are more likely to collide with each other.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "266",
+    "questionText": "What is the relationship between the mean free path and the diameter of gas molecules?",
+    "options": [
+      {
+        "text": "Inversely proportional to the square of the diameter",
+        "isCorrect": true
+      },
+      {
+        "text": "Directly proportional to the diameter",
+        "isCorrect": false
+      },
+      {
+        "text": "Inversely proportional to the diameter",
+        "isCorrect": false
+      },
+      {
+        "text": "Directly proportional to the square of the diameter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path is inversely proportional to the square of the diameter of gas molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "267",
+    "questionText": "What is the effect of increasing the temperature of a gas on its mean free path?",
+    "options": [
+      {
+        "text": "Increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "First increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the temperature of a gas increases its mean free path because the kinetic energy of molecules increases, leading to fewer collisions.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "269",
+    "questionText": "How does the mean free path change with an increase in pressure?",
+    "options": [
+      {
+        "text": "Decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "First decreases then increases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path decreases with an increase in pressure because the number of molecules per unit volume increases, leading to more frequent collisions.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "270",
+    "questionText": "What is the relationship between the mean free path and temperature for an ideal gas?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Linearly proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path is directly proportional to temperature for an ideal gas.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "HARD"
+  },
+  {
+    "qno": "276",
+    "questionText": "What is the effect of increasing temperature on the mean free path?",
+    "options": [
+      {
+        "text": "Increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "First increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing temperature increases the mean free path because the kinetic energy of molecules increases, leading to fewer collisions.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "278",
+    "questionText": "What is the effect of increasing the molecular diameter on the mean free path?",
+    "options": [
+      {
+        "text": "Decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "First increases then decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the molecular diameter decreases the mean free path because larger molecules are more likely to collide with each other.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "279",
+    "questionText": "How is the mean free path (λ) related to the number density (n) of gas molecules?",
+    "options": [
+      {
+        "text": "λ is inversely proportional to n",
+        "isCorrect": true
+      },
+      {
+        "text": "λ is directly proportional to n",
+        "isCorrect": false
+      },
+      {
+        "text": "λ is exponentially proportional to n",
+        "isCorrect": false
+      },
+      {
+        "text": "λ is independent of n",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mean free path (λ) is inversely proportional to the number density (n) of gas molecules.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "HARD"
+  },
+  {
+    "qno": "281",
+    "questionText": "What is the effect of increasing pressure on the mean free path?",
+    "options": [
+      {
+        "text": "Decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "First decreases then increases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing pressure decreases the mean free path because the number of molecules per unit volume increases, leading to more frequent collisions.",
+    "chapter": "Kinetic Theory",
+    "topic": "12.7 Mean free path",
+    "level": "MEDIUM"
+  }
+]

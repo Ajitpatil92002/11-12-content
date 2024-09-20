@@ -1,0 +1,25 @@
+[
+  {
+    "chapter": "Trigonometric Functions",
+    "topics": [
+      "Introduction",
+      "Angles",
+      "Trigonometric Functions",
+      "Trigonometric Functions of Sum and Difference of Two Angles",
+      "Values of Trigonometric Functions",
+      "Trigonometric Equations"
+    ]
+  },
+  {
+    "chapter": "Introduction to Trigonometry",
+    "topics": [
+      "Basic Trigonometric Ratios"
+    ]
+  },
+  {
+    "chapter": "Angles",
+    "topics": [
+      "Complementary and Supplementary Angles"
+    ]
+  }
+]

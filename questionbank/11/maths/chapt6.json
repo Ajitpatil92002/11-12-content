@@ -1,0 +1,5774 @@
+[
+  {
+    "qno": 1,
+    "questionText": "How many 3-digit numbers can be formed from the digits 1, 2, 3, 4, and 5 if repetition of digits is allowed?",
+    "options": [
+      {
+        "text": "$5^3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5 \\times 4 \\times 3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 3-digit numbers formed from 5 digits (with repetition allowed) is $5^3 = 125$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "How many 3-digit numbers can be formed from the digits 1, 2, 3, 4, and 5 if repetition of digits is not allowed?",
+    "options": [
+      {
+        "text": "$5 \\times 4 \\times 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 3-digit numbers formed from 5 digits (without repetition) is $5 \\times 4 \\times 3 = 60$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "How many 4-letter words can be formed using the first 10 letters of the English alphabet if no letter can be repeated?",
+    "options": [
+      {
+        "text": "$10 \\times 9 \\times 8 \\times 7$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10 \\times 10 \\times 10 \\times 10$",
+        "isCorrect": false
+      },
+      {
+        "text": "$9 \\times 8 \\times 7 \\times 6$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 4-letter words formed using the first 10 letters of the English alphabet (without repetition) is $10 \\times 9 \\times 8 \\times 7 = 5040$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "How many 5-digit telephone numbers can be constructed using the digits 0 to 9 if each number starts with 67 and no digit appears more than once?",
+    "options": [
+      {
+        "text": "$8 \\times 7 \\times 6$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10 \\times 9 \\times 8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$9 \\times 8 \\times 7$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 5-digit telephone numbers starting with 67 (and no repetition) is $8 \\times 7 \\times 6 = 336$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "A coin is tossed 3 times and the outcomes are recorded. How many possible outcomes are there?",
+    "options": [
+      {
+        "text": "$2^3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Each toss has 2 possible outcomes (Head or Tail). Therefore, for 3 tosses, the total number of outcomes is $2^3 = 8$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "How many different signals can be generated if each signal requires the use of 2 flags one below the other from 5 different flags?",
+    "options": [
+      {
+        "text": "$5 \\times 4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different signals using 2 flags from 5 different flags (without repetition) is $5 \\times 4 = 20$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "How many 2-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, if the digits can be repeated?",
+    "options": [
+      {
+        "text": "$5 \\times 2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4 \\times 2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\times 5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a 2-digit even number, the units place can be 2 or 4 (2 ways), and the tens place can be any of the 5 digits (1, 2, 3, 4, 5). Thus, the number of such numbers is $5 \\times 2 = 10$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "How many 3-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, 6 if the digits can be repeated?",
+    "options": [
+      {
+        "text": "$5 \\times 5 \\times 2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6 \\times 6 \\times 3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 6 \\times 2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 5 \\times 3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a 3-digit even number, the units place can be 2, 4, or 6 (3 ways), the tens place can be any of the 6 digits, and the hundreds place can also be any of the 6 digits. Thus, the number of such numbers is $6 \\times 6 \\times 3 = 108$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "Find the number of different signals that can be generated by arranging at least 2 flags in order (one below the other) on a vertical staff if five different flags are available.",
+    "options": [
+      {
+        "text": "320",
+        "isCorrect": true
+      },
+      {
+        "text": "120",
+        "isCorrect": false
+      },
+      {
+        "text": "200",
+        "isCorrect": false
+      },
+      {
+        "text": "240",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A signal can consist of 2, 3, 4, or 5 flags. The number of 2-flag signals is $5 \\times 4 = 20$, the number of 3-flag signals is $5 \\times 4 \\times 3 = 60$, the number of 4-flag signals is $5 \\times 4 \\times 3 \\times 2 = 120$, and the number of 5-flag signals is $5 \\times 4 \\times 3 \\times 2 \\times 1 = 120$. Therefore, the total number of signals is $20 + 60 + 120 + 120 = 320$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 10,
+    "questionText": "Find the number of 4-letter words, with or without meaning, which can be formed out of the letters of the word ROSE, where the repetition of the letters is not allowed.",
+    "options": [
+      {
+        "text": "$4!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\times 3 \\times 2 \\times 1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\times 4 \\times 4 \\times 4$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 4-letter words formed out of the letters of the word ROSE without repetition is $4! = 4 \\times 3 \\times 2 \\times 1 = 24$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "How many different signals can be generated if each signal requires the use of 3 flags one below the other from 5 different flags?",
+    "options": [
+      {
+        "text": "$5 \\times 4 \\times 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 5 \\times 5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\times 3 \\times 2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different signals using 3 flags from 5 different flags (without repetition) is $5 \\times 4 \\times 3 = 60$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "How many 3-letter words, with or without meaning, can be formed from the letters of the word NUMBER if the repetition of the letters is not allowed?",
+    "options": [
+      {
+        "text": "$6 \\times 5 \\times 4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 6 \\times 6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 4 \\times 3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 3-letter words formed from the letters of the word NUMBER without repetition is $6 \\times 5 \\times 4 = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "How many 4-letter code can be formed using the first 10 letters of the English alphabet if no letter can be repeated?",
+    "options": [
+      {
+        "text": "$10 \\times 9 \\times 8 \\times 7$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$9 \\times 8 \\times 7 \\times 6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10 \\times 10 \\times 10 \\times 10$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 4-letter codes formed using the first 10 letters of the English alphabet (without repetition) is $10 \\times 9 \\times 8 \\times 7 = 5040$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "How many 3-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, 6 if the digits can be repeated?",
+    "options": [
+      {
+        "text": "$6 \\times 6 \\times 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5 \\times 5 \\times 2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 6 \\times 2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 5 \\times 3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a 3-digit even number, the units place can be 2, 4, or 6 (3 ways), the tens place can be any of the 6 digits, and the hundreds place can also be any of the 6 digits. Thus, the number of such numbers is $6 \\times 6 \\times 3 = 108$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "Find the number of 2-letter words that can be formed using the first 5 letters of the English alphabet if no letter can be repeated.",
+    "options": [
+      {
+        "text": "$5 \\times 4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\times 3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 2-letter words formed using the first 5 letters of the English alphabet (without repetition) is $5 \\times 4 = 20$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 22,
+    "questionText": "How many ways can the letters of the word 'APPLE' be arranged if the repetition of letters is not allowed?",
+    "options": [
+      {
+        "text": "$\\frac{5!}{2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{5!}{3!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'APPLE' is $\\frac{5!}{2!} = \\frac{120}{2} = 60$, accounting for the repetition of the letter P.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "In how many ways can a committee of 3 be formed from a group of 5 people?",
+    "options": [
+      {
+        "text": "$\\binom{5}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 4 \\times 3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 3 from 5 people is $\\binom{5}{3} = \\frac{5!}{3!(5-3)!} = 10$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "How many different ways can the letters of the word 'PERMUTATION' be arranged?",
+    "options": [
+      {
+        "text": "$\\frac{11!}{2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$11!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{11!}{3!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'PERMUTATION' is $\\frac{11!}{2!} = \\frac{39916800}{2} = 19958400$, accounting for the repetition of the letter T.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 25,
+    "questionText": "How many different ways can the letters of the word 'BANANA' be arranged if the repetition of letters is not allowed?",
+    "options": [
+      {
+        "text": "$\\frac{6!}{3!2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{6!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{6!}{3!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'BANANA' is $\\frac{6!}{3!2!} = \\frac{720}{6 \\times 2} = 60$, accounting for the repetition of the letters A and N.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 26,
+    "questionText": "How many different ways can the letters of the word 'MISSISSIPPI' be arranged?",
+    "options": [
+      {
+        "text": "$\\frac{11!}{4!4!2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$11!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{11!}{4!3!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{11!}{4!2!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'MISSISSIPPI' is $\\frac{11!}{4!4!2!} = \\frac{39916800}{24 \\times 24 \\times 2} = 34650$, accounting for the repetition of the letters I, S, and P.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 27,
+    "questionText": "How many different ways can the letters of the word 'COMBINATION' be arranged?",
+    "options": [
+      {
+        "text": "$\\frac{11!}{2!2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$11!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{11!}{3!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{11!}{2!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'COMBINATION' is $\\frac{11!}{2!2!} = \\frac{39916800}{4} = 9979200$, accounting for the repetition of the letters O and N.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 28,
+    "questionText": "How many ways can the letters of the word 'INDEPENDENCE' be arranged if all the vowels must come together?",
+    "options": [
+      {
+        "text": "$\\frac{8!}{3!2!} \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{11!}{3!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{12!}{3!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{11!}{4!2!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'INDEPENDENCE' is $\\frac{8!}{3!2!} \\times 5! = 16800$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 29,
+    "questionText": "How many ways can the letters of the word 'INDEPENDENCE' be arranged if the vowels must never come together?",
+    "options": [
+      {
+        "text": "$\\frac{12!}{3!2!} - \\frac{8!}{3!2!} \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{11!}{3!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{12!}{3!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{11!}{4!2!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total number of ways to arrange the letters of the word 'INDEPENDENCE' minus the number of ways the vowels are together is $\\frac{12!}{3!2!} - \\frac{8!}{3!2!} \\times 5! = 1646400$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 30,
+    "questionText": "How many ways can the letters of the word 'DAUGHTER' be arranged if all the vowels must come together?",
+    "options": [
+      {
+        "text": "$6! \\times 3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'DAUGHTER' is $6! \\times 3! = 4320$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 31,
+    "questionText": "How many ways can the letters of the word 'DAUGHTER' be arranged if the vowels must never come together?",
+    "options": [
+      {
+        "text": "$8! - 6! \\times 3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total number of ways to arrange the letters of the word 'DAUGHTER' minus the number of ways the vowels are together is $8! - 6! \\times 3! = 36000$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 32,
+    "questionText": "How many ways can the letters of the word 'EQUATION' be arranged if the vowels must come together?",
+    "options": [
+      {
+        "text": "$5! \\times 4!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'EQUATION' is $5! \\times 4! = 2880$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 33,
+    "questionText": "How many ways can the letters of the word 'EQUATION' be arranged if the vowels must never come together?",
+    "options": [
+      {
+        "text": "$8! - 5! \\times 4!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total number of ways to arrange the letters of the word 'EQUATION' minus the number of ways the vowels are together is $8! - 5! \\times 4! = 33240$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 34,
+    "questionText": "How many ways can the letters of the word 'BANANA' be arranged if all the vowels must come together?",
+    "options": [
+      {
+        "text": "$4! \\times 3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{6!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'BANANA' is $4! \\times 3! = 144$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 35,
+    "questionText": "How many ways can the letters of the word 'BANANA' be arranged if the vowels must never come together?",
+    "options": [
+      {
+        "text": "$6! - 4! \\times 3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{6!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total number of ways to arrange the letters of the word 'BANANA' minus the number of ways the vowels are together is $6! - 4! \\times 3! = 576$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 36,
+    "questionText": "How many ways can the letters of the word 'COMBINATION' be arranged if all the vowels must come together?",
+    "options": [
+      {
+        "text": "$7! \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$11!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{11!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'COMBINATION' is $7! \\times 5! = 604800$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 37,
+    "questionText": "How many ways can the letters of the word 'COMBINATION' be arranged if the vowels must never come together?",
+    "options": [
+      {
+        "text": "$11! - 7! \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$11!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{11!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total number of ways to arrange the letters of the word 'COMBINATION' minus the number of ways the vowels are together is $11! - 7! \\times 5! = 3628800$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 38,
+    "questionText": "How many ways can the letters of the word 'INDEPENDENCE' be arranged if all the vowels must never come together?",
+    "options": [
+      {
+        "text": "$12! - 8! \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{12!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total number of ways to arrange the letters of the word 'INDEPENDENCE' minus the number of ways the vowels are together is $12! - 8! \\times 5! = 1646400$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 39,
+    "questionText": "How many ways can the letters of the word 'DAUGHTER' be arranged if the vowels must come together?",
+    "options": [
+      {
+        "text": "$6! \\times 3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'DAUGHTER' is $6! \\times 3! = 4320$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 41,
+    "questionText": "How many ways can the letters of the word 'BANANA' be arranged if the vowels must come together?",
+    "options": [
+      {
+        "text": "$4! \\times 3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{6!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'BANANA' is $4! \\times 3! = 144$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 42,
+    "questionText": "How many ways can the letters of the word 'INDEPENDENCE' be arranged if all the vowels must come together?",
+    "options": [
+      {
+        "text": "$8! \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{12!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'INDEPENDENCE' is $8! \\times 5! = 40320$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 43,
+    "questionText": "How many ways can the letters of the word 'INDEPENDENCE' be arranged if the vowels must never come together?",
+    "options": [
+      {
+        "text": "$12! - 8! \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{12!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total number of ways to arrange the letters of the word 'INDEPENDENCE' minus the number of ways the vowels are together is $12! - 8! \\times 5! = 1646400$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 48,
+    "questionText": "How many ways can the letters of the word 'INDEPENDENCE' be arranged if the vowels must come together?",
+    "options": [
+      {
+        "text": "$8! \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{12!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'INDEPENDENCE' is $8! \\times 5! = 40320$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 55,
+    "questionText": "How many different signals can be generated using 4 flags from 5 different flags?",
+    "options": [
+      {
+        "text": "$5 \\times 4 \\times 3 \\times 2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\times 3 \\times 2 \\times 1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different signals using 4 flags from 5 different flags (without repetition) is $5 \\times 4 \\times 3 \\times 2 = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 56,
+    "questionText": "How many 3-letter words, with or without meaning, can be formed from the letters of the word APPLE if repetition of the letters is not allowed?",
+    "options": [
+      {
+        "text": "$5 \\times 4 \\times 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 5 \\times 5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 3-letter words formed from the letters of the word APPLE without repetition is $5 \\times 4 \\times 3 = 60$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 57,
+    "questionText": "How many 3-letter words, with or without meaning, can be formed from the letters of the word BANANA if repetition of the letters is not allowed?",
+    "options": [
+      {
+        "text": "$6 \\times 5 \\times 4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 6 \\times 6$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 3-letter words formed from the letters of the word BANANA without repetition is $6 \\times 5 \\times 4 = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 58,
+    "questionText": "How many 3-digit odd numbers can be formed from the digits 1, 2, 3, 4, 5, 6 if repetition of the digits is not allowed?",
+    "options": [
+      {
+        "text": "$5 \\times 4 \\times 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 5 \\times 4$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a 3-digit odd number, the units place can be 1, 3, or 5 (3 ways), the tens place can be any of the remaining 5 digits, and the hundreds place can be any of the remaining 4 digits. Thus, the number of such numbers is $5 \\times 4 \\times 3 = 60$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 59,
+    "questionText": "How many 4-letter words can be formed using the first 5 letters of the English alphabet if repetition of the letters is allowed?",
+    "options": [
+      {
+        "text": "$5^4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 4-letter words formed using the first 5 letters of the English alphabet (with repetition) is $5^4 = 625$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 60,
+    "questionText": "How many 3-digit numbers can be formed from the digits 1, 2, 3, 4, 5, 6 if repetition of the digits is not allowed?",
+    "options": [
+      {
+        "text": "$6 \\times 5 \\times 4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 6 \\times 6$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 3-digit numbers formed from 6 digits (without repetition) is $6 \\times 5 \\times 4 = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 61,
+    "questionText": "How many 4-letter words, with or without meaning, can be formed from the letters of the word EQUATION if repetition of the letters is not allowed?",
+    "options": [
+      {
+        "text": "$8 \\times 7 \\times 6 \\times 5$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8 \\times 8 \\times 8 \\times 8$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 4-letter words formed from the letters of the word EQUATION without repetition is $8 \\times 7 \\times 6 \\times 5 = 1680$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 62,
+    "questionText": "How many different signals can be generated using 3 flags from 6 different flags?",
+    "options": [
+      {
+        "text": "$6 \\times 5 \\times 4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 6 \\times 6$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different signals using 3 flags from 6 different flags (without repetition) is $6 \\times 5 \\times 4 = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 63,
+    "questionText": "How many 4-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, 6 if repetition of the digits is not allowed?",
+    "options": [
+      {
+        "text": "$5 \\times 5 \\times 4 \\times 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 5 \\times 4 \\times 3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a 4-digit even number, the units place can be 2, 4, or 6 (3 ways), the tens place can be any of the remaining 5 digits, the hundreds place can be any of the remaining 4 digits, and the thousands place can be any of the remaining 4 digits. Thus, the number of such numbers is $5 \\times 5 \\times 4 \\times 3 = 300$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 64,
+    "questionText": "How many different signals can be generated using 2 flags from 6 different flags?",
+    "options": [
+      {
+        "text": "$6 \\times 5$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 6$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different signals using 2 flags from 6 different flags (without repetition) is $6 \\times 5 = 30$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 65,
+    "questionText": "How many 4-letter words, with or without meaning, can be formed from the letters of the word PROGRAM if repetition of the letters is not allowed?",
+    "options": [
+      {
+        "text": "$7 \\times 6 \\times 5 \\times 4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7 \\times 7 \\times 7 \\times 7$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 4-letter words formed from the letters of the word PROGRAM without repetition is $7 \\times 6 \\times 5 \\times 4 = 840$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 66,
+    "questionText": "How many different signals can be generated using 5 flags from 6 different flags?",
+    "options": [
+      {
+        "text": "$6 \\times 5 \\times 4 \\times 3 \\times 2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 5 \\times 4 \\times 3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different signals using 5 flags from 6 different flags (without repetition) is $6 \\times 5 \\times 4 \\times 3 \\times 2 = 720$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 67,
+    "questionText": "How many 3-letter words, with or without meaning, can be formed from the letters of the word GARDEN if repetition of the letters is not allowed?",
+    "options": [
+      {
+        "text": "$6 \\times 5 \\times 4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 6 \\times 6$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 3-letter words formed from the letters of the word GARDEN without repetition is $6 \\times 5 \\times 4 = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 68,
+    "questionText": "How many different signals can be generated using 4 flags from 6 different flags?",
+    "options": [
+      {
+        "text": "$6 \\times 5 \\times 4 \\times 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 5 \\times 4$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different signals using 4 flags from 6 different flags (without repetition) is $6 \\times 5 \\times 4 \\times 3 = 360$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 69,
+    "questionText": "How many 4-digit odd numbers can be formed from the digits 1, 2, 3, 4, 5, 6 if repetition of the digits is not allowed?",
+    "options": [
+      {
+        "text": "$5 \\times 5 \\times 4 \\times 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 5 \\times 4 \\times 3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a 4-digit odd number, the units place can be 1, 3, or 5 (3 ways), the tens place can be any of the remaining 5 digits, the hundreds place can be any of the remaining 4 digits, and the thousands place can be any of the remaining 4 digits. Thus, the number of such numbers is $5 \\times 5 \\times 4 \\times 3 = 300$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 70,
+    "questionText": "How many different signals can be generated using 2 flags from 5 different flags?",
+    "options": [
+      {
+        "text": "$5 \\times 4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different signals using 2 flags from 5 different flags (without repetition) is $5 \\times 4 = 20$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 71,
+    "questionText": "How many 4-letter words, with or without meaning, can be formed from the letters of the word BASKET if repetition of the letters is not allowed?",
+    "options": [
+      {
+        "text": "$6 \\times 5 \\times 4 \\times 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 6 \\times 6 \\times 6$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 4-letter words formed from the letters of the word BASKET without repetition is $6 \\times 5 \\times 4 \\times 3 = 360$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 72,
+    "questionText": "How many different signals can be generated using 3 flags from 5 different flags?",
+    "options": [
+      {
+        "text": "$5 \\times 4 \\times 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 5 \\times 5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different signals using 3 flags from 5 different flags (without repetition) is $5 \\times 4 \\times 3 = 60$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 73,
+    "questionText": "How many 3-letter words, with or without meaning, can be formed from the letters of the word BASKET if repetition of the letters is not allowed?",
+    "options": [
+      {
+        "text": "$6 \\times 5 \\times 4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 6 \\times 6$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 3-letter words formed from the letters of the word BASKET without repetition is $6 \\times 5 \\times 4 = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 74,
+    "questionText": "How many 4-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, 6 if repetition of the digits is allowed?",
+    "options": [
+      {
+        "text": "$6^4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 5 \\times 4 \\times 3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 4-digit even numbers formed from 6 digits (with repetition) is $6^4 = 1296$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 75,
+    "questionText": "How many different signals can be generated using 5 flags from 5 different flags?",
+    "options": [
+      {
+        "text": "$5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5 \\times 4 \\times 3 \\times 2 \\times 1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different signals using 5 flags from 5 different flags (without repetition) is $5! = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 76,
+    "questionText": "How many 3-digit numbers can be formed from the digits 1, 2, 3, 4, 5 if repetition of the digits is allowed?",
+    "options": [
+      {
+        "text": "$5^3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5 \\times 4 \\times 3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 3-digit numbers formed from 5 digits (with repetition allowed) is $5^3 = 125$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 77,
+    "questionText": "How many 4-digit numbers can be formed from the digits 1, 2, 3, 4, 5 if repetition of the digits is allowed?",
+    "options": [
+      {
+        "text": "$5^4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5 \\times 4 \\times 3 \\times 2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^4$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 4-digit numbers formed from 5 digits (with repetition allowed) is $5^4 = 625$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 78,
+    "questionText": "How many 3-digit numbers can be formed from the digits 1, 2, 3, 4, 5 if repetition of the digits is not allowed?",
+    "options": [
+      {
+        "text": "$5 \\times 4 \\times 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 3-digit numbers formed from 5 digits (without repetition) is $5 \\times 4 \\times 3 = 60$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 90,
+    "questionText": "How many different ways can the letters of the word 'PERMUTATION' be arranged?",
+    "options": [
+      {
+        "text": "$\frac{11!}{2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$11!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{11!}{3!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'PERMUTATION' is $\frac{11!}{2!} = \frac{39916800}{2} = 19958400$, accounting for the repetition of the letter T.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 91,
+    "questionText": "How many different ways can the letters of the word 'BANANA' be arranged if the repetition of letters is not allowed?",
+    "options": [
+      {
+        "text": "$\frac{6!}{3!2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{6!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{6!}{3!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'BANANA' is $\frac{6!}{3!2!} = \frac{720}{6 \times 2} = 60$, accounting for the repetition of the letters A and N.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 92,
+    "questionText": "How many different ways can the letters of the word 'MISSISSIPPI' be arranged?",
+    "options": [
+      {
+        "text": "$\frac{11!}{4!4!2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$11!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{11!}{4!3!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{11!}{4!2!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'MISSISSIPPI' is $\frac{11!}{4!4!2!} = \frac{39916800}{24 \times 24 \times 2} = 34650$, accounting for the repetition of the letters I, S, and P.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 93,
+    "questionText": "How many different ways can the letters of the word 'COMBINATION' be arranged?",
+    "options": [
+      {
+        "text": "$\frac{11!}{2!2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$11!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{11!}{3!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{11!}{2!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'COMBINATION' is $\frac{11!}{2!2!} = \frac{39916800}{4} = 9979200$, accounting for the repetition of the letters O and N.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 94,
+    "questionText": "How many ways can the letters of the word 'INDEPENDENCE' be arranged if all the vowels must come together?",
+    "options": [
+      {
+        "text": "$\frac{8!}{3!2!} \times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\frac{11!}{3!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{12!}{3!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{11!}{4!2!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'INDEPENDENCE' is $\frac{8!}{3!2!} \times 5! = 16800$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 95,
+    "questionText": "How many ways can the letters of the word 'INDEPENDENCE' be arranged if the vowels must never come together?",
+    "options": [
+      {
+        "text": "$\frac{12!}{3!2!} - \frac{8!}{3!2!} \times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\frac{11!}{3!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{12!}{3!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{11!}{4!2!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total number of ways to arrange the letters of the word 'INDEPENDENCE' minus the number of ways the vowels are together is $\frac{12!}{3!2!} - \frac{8!}{3!2!} \times 5! = 1646400$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 96,
+    "questionText": "How many ways can the letters of the word 'DAUGHTER' be arranged if all the vowels must come together?",
+    "options": [
+      {
+        "text": "$6! \times 3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'DAUGHTER' is $6! \times 3! = 4320$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 97,
+    "questionText": "How many ways can the letters of the word 'DAUGHTER' be arranged if the vowels must never come together?",
+    "options": [
+      {
+        "text": "$8! - 6! \times 3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total number of ways to arrange the letters of the word 'DAUGHTER' minus the number of ways the vowels are together is $8! - 6! \times 3! = 36000$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 98,
+    "questionText": "How many ways can the letters of the word 'EQUATION' be arranged if the vowels must come together?",
+    "options": [
+      {
+        "text": "$5! \times 4!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'EQUATION' is $5! \times 4! = 2880$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 99,
+    "questionText": "How many ways can the letters of the word 'EQUATION' be arranged if the vowels must never come together?",
+    "options": [
+      {
+        "text": "$8! - 5! \times 4!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total number of ways to arrange the letters of the word 'EQUATION' minus the number of ways the vowels are together is $8! - 5! \times 4! = 33240$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 100,
+    "questionText": "How many ways can the letters of the word 'BANANA' be arranged if the vowels must come together?",
+    "options": [
+      {
+        "text": "$4! \times 3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\frac{6!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'BANANA' is $4! \times 3! = 144$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": 1,
+    "questionText": "How many different 5-letter words can be formed using the letters A, B, C, D, and E?",
+    "options": [
+      {
+        "text": "$5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different 5-letter words that can be formed using 5 distinct letters is $5! = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "How many ways can you arrange 7 books on a shelf?",
+    "options": [
+      {
+        "text": "$7!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7^7$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^7$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 7 books on a shelf is $7! = 5040$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "How many different ways can the letters of the word 'PERMUTE' be arranged?",
+    "options": [
+      {
+        "text": "$7!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7^7$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^7$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different ways to arrange the letters of the word 'PERMUTE' is $7! = 5040$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "How many 3-digit numbers can be formed using the digits 1, 2, 3, 4, and 5 if each digit is used only once?",
+    "options": [
+      {
+        "text": "$5 \\times 4 \\times 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 3-digit numbers formed from 5 digits (without repetition) is $5 \\times 4 \\times 3 = 60$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "How many different ways can the letters of the word 'COMPUTER' be arranged?",
+    "options": [
+      {
+        "text": "$8!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8^8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7^8$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different ways to arrange the letters of the word 'COMPUTER' is $8! = 40320$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "How many ways can a committee of 4 be formed from a group of 10 people?",
+    "options": [
+      {
+        "text": "$\\binom{10}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^10$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 4 from 10 people is $\\binom{10}{4} = \\frac{10!}{4!(10-4)!} = 210$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "How many ways can 3 boys and 3 girls be seated in a row such that no two boys sit together?",
+    "options": [
+      {
+        "text": "$3! \\times 4!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3! \\times 3!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4! \\times 3!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 3 boys and 3 girls in a row such that no two boys sit together is $3! \\times 4! = 6 \\times 24 = 144$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "HARD"
+  },
+  {
+    "qno": 8,
+    "questionText": "How many different signals can be generated using 4 flags from 7 different flags?",
+    "options": [
+      {
+        "text": "$7 \\times 6 \\times 5 \\times 4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7^4$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different signals using 4 flags from 7 different flags (without repetition) is $7 \\times 6 \\times 5 \\times 4 = 840$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "How many ways can 5 different books be arranged on a shelf if one specific book must always be at the end?",
+    "options": [
+      {
+        "text": "$4!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 5 different books on a shelf with one specific book always at the end is $4! = 24$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "How many ways can 4 different books be arranged on a shelf if two specific books must always be together?",
+    "options": [
+      {
+        "text": "$3! \\times 2!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 4 different books on a shelf with two specific books always together is $3! \\times 2! = 12$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "How many 4-letter words can be formed using the first 7 letters of the English alphabet if no letter can be repeated?",
+    "options": [
+      {
+        "text": "$7 \\times 6 \\times 5 \\times 4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7 \\times 7 \\times 7 \\times 7$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 4-letter words formed using the first 7 letters of the English alphabet (without repetition) is $7 \\times 6 \\times 5 \\times 4 = 840$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "How many different 4-letter words can be formed using the letters A, B, C, D, and E if repetition of letters is allowed?",
+    "options": [
+      {
+        "text": "$5^4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different 4-letter words that can be formed using 5 letters (with repetition allowed) is $5^4 = 625$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "EASY"
+  },
+  {
+    "qno": 16,
+    "questionText": "How many different ways can the letters of the word 'PARALLEL' be arranged?",
+    "options": [
+      {
+        "text": "$\\frac{8!}{3!2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different ways to arrange the letters of the word 'PARALLEL' is $\\frac{8!}{3!2!} = \\frac{40320}{12} = 3360$, accounting for the repetition of the letters L and A.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "How many ways can a committee of 5 be formed from a group of 12 people?",
+    "options": [
+      {
+        "text": "$\\binom{12}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^12$",
+        "isCorrect": false
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 5 from 12 people is $\\binom{12}{5} = \\frac{12!}{5!(12-5)!} = 792$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "How many ways can a basketball team of 7 players be selected from a group of 10 players?",
+    "options": [
+      {
+        "text": "$\\binom{10}{7}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10^7$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7^10$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to select a basketball team of 7 players from 10 players is $\\binom{10}{7} = \\frac{10!}{7!(10-7)!} = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "How many different 4-letter words can be formed using the letters A, B, C, D, and E if no letter is repeated?",
+    "options": [
+      {
+        "text": "$5 \\times 4 \\times 3 \\times 2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different 4-letter words that can be formed using 5 letters (without repetition) is $5 \\times 4 \\times 3 \\times 2 = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "How many ways can a committee of 3 be formed from a group of 6 people?",
+    "options": [
+      {
+        "text": "$\\binom{6}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 3 from 6 people is $\\binom{6}{3} = \\frac{6!}{3!(6-3)!} = 20$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "How many different ways can the letters of the word 'INDEPENDENCE' be arranged if all the vowels must come together?",
+    "options": [
+      {
+        "text": "$8! \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{12!}{3!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'INDEPENDENCE' is $8! \\times 5! = 40320$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "HARD"
+  },
+  {
+    "qno": 24,
+    "questionText": "How many different ways can the letters of the word 'INDEPENDENCE' be arranged if the vowels must never come together?",
+    "options": [
+      {
+        "text": "$12! - 8! \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{12!}{3!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total number of ways to arrange the letters of the word 'INDEPENDENCE' minus the number of ways the vowels are together is $12! - 8! \\times 5! = 1646400$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "HARD"
+  },
+  {
+    "qno": 25,
+    "questionText": "How many different ways can the letters of the word 'DAUGHTER' be arranged if all the vowels must come together?",
+    "options": [
+      {
+        "text": "$6! \\times 3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'DAUGHTER' is $6! \\times 3! = 4320$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "How many different ways can the letters of the word 'DAUGHTER' be arranged if the vowels must never come together?",
+    "options": [
+      {
+        "text": "$8! - 6! \\times 3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total number of ways to arrange the letters of the word 'DAUGHTER' minus the number of ways the vowels are together is $8! - 6! \\times 3! = 36000$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "HARD"
+  },
+  {
+    "qno": 27,
+    "questionText": "How many ways can 4 different books be arranged on a shelf if one specific book must always be at the end?",
+    "options": [
+      {
+        "text": "$3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 4 different books on a shelf with one specific book always at the end is $3! = 6$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "EASY"
+  },
+  {
+    "qno": 28,
+    "questionText": "How many different ways can the letters of the word 'EQUATION' be arranged if the vowels must come together?",
+    "options": [
+      {
+        "text": "$5! \\times 4!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'EQUATION' is $5! \\times 4! = 2880$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "HARD"
+  },
+  {
+    "qno": 29,
+    "questionText": "How many different ways can the letters of the word 'EQUATION' be arranged if the vowels must never come together?",
+    "options": [
+      {
+        "text": "$8! - 5! \\times 4!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total number of ways to arrange the letters of the word 'EQUATION' minus the number of ways the vowels are together is $8! - 5! \\times 4! = 33240$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "HARD"
+  },
+  {
+    "qno": 31,
+    "questionText": "How many ways can 5 different books be arranged on a shelf if one specific book must always be at the beginning?",
+    "options": [
+      {
+        "text": "$4!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 5 different books on a shelf with one specific book always at the beginning is $4! = 24$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "EASY"
+  },
+  {
+    "qno": 51,
+    "questionText": "How many different 3-digit numbers can be formed using the digits 1, 2, 3, 4, and 5 if each digit is used only once?",
+    "options": [
+      {
+        "text": "$5 \\times 4 \\times 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of 3-digit numbers formed from 5 digits (without repetition) is $5 \\times 4 \\times 3 = 60$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 55,
+    "questionText": "How many ways can 4 different books be arranged on a shelf if one specific book must always be at the beginning?",
+    "options": [
+      {
+        "text": "$3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 4 different books on a shelf with one specific book always at the beginning is $3! = 6$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "EASY"
+  },
+  {
+    "qno": 62,
+    "questionText": "How many different ways can the letters of the word 'INDEPENDENCE' be arranged if the vowels must come together?",
+    "options": [
+      {
+        "text": "$8! \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{12!}{3!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels as a single unit, the number of ways to arrange the letters of the word 'INDEPENDENCE' is $8! \\times 5! = 40320$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "HARD"
+  },
+  {
+    "qno": 66,
+    "questionText": "How many different signals can be generated using 3 flags from 7 different flags?",
+    "options": [
+      {
+        "text": "$7 \\times 6 \\times 5$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7 \\times 7 \\times 7$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different signals using 3 flags from 7 different flags (without repetition) is $7 \\times 6 \\times 5 = 210$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 73,
+    "questionText": "How many ways can a committee of 5 be formed from a group of 10 people?",
+    "options": [
+      {
+        "text": "$\\binom{10}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^10$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 5 from 10 people is $\\binom{10}{5} = \\frac{10!}{5!(10-5)!} = 252$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Fundamental Principle of Counting",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 1,
+    "questionText": "How many different 3-digit numbers can be formed using the digits 1, 2, and 3 without repetition?",
+    "options": [
+      {
+        "text": "$3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different 3-digit numbers that can be formed using the digits 1, 2, and 3 without repetition is $3! = 6$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "How many ways can 5 people be arranged in a line?",
+    "options": [
+      {
+        "text": "$5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 5 people in a line is $5! = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "How many different 4-letter words can be formed using the letters A, B, C, and D without repetition?",
+    "options": [
+      {
+        "text": "$4!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\times 3 \\times 2 \\times 1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of different 4-letter words that can be formed using the letters A, B, C, and D without repetition is $4! = 24$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "How many ways can 6 people be arranged in a circle?",
+    "options": [
+      {
+        "text": "$(6-1)!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$(6-1)^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$(6-1)^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 6 people in a circle is $(6-1)! = 5! = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "How many ways can 8 books be arranged on a shelf if 3 specific books must always be together?",
+    "options": [
+      {
+        "text": "$6! \\times 3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5! \\times 3!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7! \\times 3!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 8 books on a shelf if 3 specific books must always be together is $6! \\times 3! = 720 \\times 6 = 4320$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "How many ways can the letters of the word 'MATH' be arranged?",
+    "options": [
+      {
+        "text": "$4!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\times 3 \\times 2 \\times 1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'MATH' is $4! = 24$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "In how many ways can the letters of the word 'LEVEL' be arranged?",
+    "options": [
+      {
+        "text": "$\\frac{5!}{2!2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{5!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{5!}{3!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'LEVEL' is $\\frac{5!}{2!2!} = 30$, accounting for the repetition of the letters E and L.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "How many ways can 10 people be seated at a round table?",
+    "options": [
+      {
+        "text": "$(10-1)!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$(10-1)^10$",
+        "isCorrect": false
+      },
+      {
+        "text": "$(10-1)^9$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to seat 10 people at a round table is $(10-1)! = 9! = 362880$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "HARD"
+  },
+  {
+    "qno": 9,
+    "questionText": "How many ways can 5 boys and 5 girls be arranged in a row such that all the boys are together and all the girls are together?",
+    "options": [
+      {
+        "text": "2! \\times 5! \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\times 5! \\times 5!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2! \\times 5!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 5 boys and 5 girls in a row such that all the boys are together and all the girls are together is $2! \\times 5! \\times 5! = 2 \\times 120 \\times 120 = 28800$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "How many ways can 6 different books be arranged on a shelf if 2 specific books must be at the ends?",
+    "options": [
+      {
+        "text": "$4! \\times 2!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 6 different books on a shelf with 2 specific books at the ends is $4! \\times 2! = 24 \\times 2 = 48$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "In how many ways can the letters of the word 'BOTTLE' be arranged?",
+    "options": [
+      {
+        "text": "$\\frac{6!}{2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{6!}{2!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'BOTTLE' is $\\frac{6!}{2!} = 360$, accounting for the repetition of the letter T.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "How many ways can 4 boys and 4 girls be arranged in a row such that no two boys sit together?",
+    "options": [
+      {
+        "text": "$4! \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4! \\times 4!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5! \\times 4!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 4 boys and 4 girls in a row such that no two boys sit together is $4! \\times 5! = 24 \\times 120 = 2880$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "How many ways can the letters of the word 'SUCCESS' be arranged?",
+    "options": [
+      {
+        "text": "$\\frac{7!}{3!2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{7!}{2!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{7!}{3!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'SUCCESS' is $\\frac{7!}{3!2!} = 420$, accounting for the repetition of the letters S and C.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "How many ways can 3 boys and 2 girls be arranged in a row if the boys and girls must alternate?",
+    "options": [
+      {
+        "text": "$3! \\times 2! \\times 2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3! \\times 2!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4! \\times 2!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 3 boys and 2 girls in a row if they must alternate is $3! \\times 2! \\times 2 = 24$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "How many ways can the letters of the word 'PROGRAM' be arranged if the vowels must always be together?",
+    "options": [
+      {
+        "text": "$6! \\times 3!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{7!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6! \\times 2!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels O and A as a single unit, the number of ways to arrange the letters of the word 'PROGRAM' is $6! \\times 2! = 1440$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "HARD"
+  },
+  {
+    "qno": 16,
+    "questionText": "In how many ways can the letters of the word 'BALLOON' be arranged?",
+    "options": [
+      {
+        "text": "$\\frac{7!}{2!2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{7!}{3!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{7!}{2!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'BALLOON' is $\\frac{7!}{2!2!} = 1260$, accounting for the repetition of the letters L and O.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "How many ways can 4 boys and 3 girls be seated in a row such that no two girls sit together?",
+    "options": [
+      {
+        "text": "$4! \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4! \\times 4!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5! \\times 4!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 4 boys and 3 girls in a row such that no two girls sit together is $4! \\times 5! = 2880$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "HARD"
+  },
+  {
+    "qno": 18,
+    "questionText": "How many ways can the letters of the word 'ACCOUNT' be arranged?",
+    "options": [
+      {
+        "text": "$\\frac{7!}{2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{7!}{2!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'ACCOUNT' is $\\frac{7!}{2!} = 2520$, accounting for the repetition of the letter C.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "How many ways can 5 boys and 3 girls be seated in a row such that no two boys sit together?",
+    "options": [
+      {
+        "text": "$3! \\times 6!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4! \\times 6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3! \\times 5!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 5 boys and 3 girls in a row such that no two boys sit together is $3! \\times 6! = 4320$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "HARD"
+  },
+  {
+    "qno": 20,
+    "questionText": "In how many ways can the letters of the word 'BANANA' be arranged?",
+    "options": [
+      {
+        "text": "$\\frac{6!}{3!2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{6!}{2!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{6!}{3!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'BANANA' is $\\frac{6!}{3!2!} = 60$, accounting for the repetition of the letters A and N.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "How many ways can 4 boys and 2 girls be seated in a row such that all the boys are together and all the girls are together?",
+    "options": [
+      {
+        "text": "2! \\times 4! \\times 2!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4! \\times 2!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2! \\times 4!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 4 boys and 2 girls in a row such that all the boys are together and all the girls are together is $2! \\times 4! \\times 2! = 96$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "How many ways can the letters of the word 'MISSISSIPPI' be arranged?",
+    "options": [
+      {
+        "text": "$\\frac{11!}{4!4!2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$11!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{11!}{4!3!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{11!}{4!2!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'MISSISSIPPI' is $\\frac{11!}{4!4!2!} = 34650$, accounting for the repetition of the letters I, S, and P.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "HARD"
+  },
+  {
+    "qno": 23,
+    "questionText": "How many ways can 6 boys and 4 girls be seated in a row such that no two boys sit together?",
+    "options": [
+      {
+        "text": "$4! \\times 7!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5! \\times 7!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6! \\times 4!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 6 boys and 4 girls in a row such that no two boys sit together is $4! \\times 7! = 20160$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "HARD"
+  },
+  {
+    "qno": 24,
+    "questionText": "How many ways can the letters of the word 'EQUATION' be arranged if the vowels must always come together?",
+    "options": [
+      {
+        "text": "$6! \\times 4!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{8!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6! \\times 3!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels E, U, A, I, O as a single unit, the number of ways to arrange the letters of the word 'EQUATION' is $6! \\times 5! = 86400$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "HARD"
+  },
+  {
+    "qno": 25,
+    "questionText": "How many ways can 7 boys and 3 girls be seated in a row such that no two boys sit together?",
+    "options": [
+      {
+        "text": "$3! \\times 8!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4! \\times 7!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7! \\times 3!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange 7 boys and 3 girls in a row such that no two boys sit together is $3! \\times 8! = 120960$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "How many ways can the letters of the word 'DAUGHTER' be arranged?",
+    "options": [
+      {
+        "text": "$8!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8^8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7^8$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'DAUGHTER' is $8! = 40320$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "How many ways can 8 people be seated at a round table?",
+    "options": [
+      {
+        "text": "$(8-1)!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$(8-1)^8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$(8-1)^7$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to seat 8 people at a round table is $(8-1)! = 7! = 5040$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "HARD"
+  },
+  {
+    "qno": 29,
+    "questionText": "How many ways can the letters of the word 'UNIVERSITY' be arranged if all the vowels must always be together?",
+    "options": [
+      {
+        "text": "$6! \\times 5!$",
+        "isCorrect": true
+      },
+      {
+        "text": "$9!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{9!}{2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6! \\times 4!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Treating the vowels U, I, E, I as a single unit, the number of ways to arrange the letters of the word 'UNIVERSITY' is $6! \\times 4! = 17280$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "HARD"
+  },
+  {
+    "qno": 31,
+    "questionText": "How many ways can the letters of the word 'BALLOON' be arranged?",
+    "options": [
+      {
+        "text": "$\\frac{7!}{2!2!}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{7!}{3!2!}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{7!}{2!}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to arrange the letters of the word 'BALLOON' is $\\frac{7!}{2!2!} = 1260$, accounting for the repetition of the letters L and O.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Permutations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 2,
+    "questionText": "How many ways can 5 different objects be chosen from 8 different objects?",
+    "options": [
+      {
+        "text": "$\\binom{8}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 5 different objects from 8 different objects is $\\binom{8}{5} = \\frac{8!}{5!(8-5)!} = 56$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "How many ways can 3 books be chosen from a shelf of 7 different books?",
+    "options": [
+      {
+        "text": "$\\binom{7}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^7$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 books from 7 different books is $\\binom{7}{3} = \\frac{7!}{3!(7-3)!} = 35$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "How many ways can a team of 4 students be formed from a class of 15 students?",
+    "options": [
+      {
+        "text": "$\\binom{15}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$15^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^15$",
+        "isCorrect": false
+      },
+      {
+        "text": "$15!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a team of 4 students from a class of 15 students is $\\binom{15}{4} = \\frac{15!}{4!(15-4)!} = 1365$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "How many ways can 6 people be chosen from a group of 12 people?",
+    "options": [
+      {
+        "text": "$\\binom{12}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^12$",
+        "isCorrect": false
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 6 people from 12 people is $\\binom{12}{6} = \\frac{12!}{6!(12-6)!} = 924$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "How many ways can 4 cards be chosen from a deck of 52 cards?",
+    "options": [
+      {
+        "text": "$\\binom{52}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$52^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^52$",
+        "isCorrect": false
+      },
+      {
+        "text": "$52!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 cards from a deck of 52 cards is $\\binom{52}{4} = \\frac{52!}{4!(52-4)!} = 270725$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 7,
+    "questionText": "How many ways can 5 people be chosen from a group of 9 people?",
+    "options": [
+      {
+        "text": "$\\binom{9}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$9^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^9$",
+        "isCorrect": false
+      },
+      {
+        "text": "$9!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 5 people from 9 people is $\\binom{9}{5} = \\frac{9!}{5!(9-5)!} = 126$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "How many ways can 2 different letters be chosen from the word 'MATH'?",
+    "options": [
+      {
+        "text": "$\\binom{4}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 2 different letters from the word 'MATH' is $\\binom{4}{2} = \\frac{4!}{2!(4-2)!} = 6$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "How many ways can 3 different fruits be chosen from a basket of 10 different fruits?",
+    "options": [
+      {
+        "text": "$\\binom{10}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^10$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different fruits from a basket of 10 different fruits is $\\binom{10}{3} = \\frac{10!}{3!(10-3)!} = 120$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "How many ways can a committee of 5 be formed from a group of 20 people?",
+    "options": [
+      {
+        "text": "$\\binom{20}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$20^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^20$",
+        "isCorrect": false
+      },
+      {
+        "text": "$20!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 5 from 20 people is $\\binom{20}{5} = \\frac{20!}{5!(20-5)!} = 15504$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 11,
+    "questionText": "How many ways can 4 different books be chosen from a library of 15 different books?",
+    "options": [
+      {
+        "text": "$\\binom{15}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$15^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^15$",
+        "isCorrect": false
+      },
+      {
+        "text": "$15!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different books from a library of 15 different books is $\\binom{15}{4} = \\frac{15!}{4!(15-4)!} = 1365$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "How many ways can 7 different cards be chosen from a deck of 52 cards?",
+    "options": [
+      {
+        "text": "$\\binom{52}{7}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$52^7$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7^52$",
+        "isCorrect": false
+      },
+      {
+        "text": "$52!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 7 different cards from a deck of 52 cards is $\\binom{52}{7} = \\frac{52!}{7!(52-7)!} = 133784560$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "How many ways can 2 different letters be chosen from the word 'ALGEBRA'?",
+    "options": [
+      {
+        "text": "$\\binom{6}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 2 different letters from the word 'ALGEBRA' is $\\binom{6}{2} = \\frac{6!}{2!(6-2)!} = 15$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 14,
+    "questionText": "How many ways can 3 students be chosen from a class of 18 students?",
+    "options": [
+      {
+        "text": "$\\binom{18}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$18^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^18$",
+        "isCorrect": false
+      },
+      {
+        "text": "$18!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 students from a class of 18 students is $\\binom{18}{3} = \\frac{18!}{3!(18-3)!} = 816$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "How many ways can a committee of 6 be formed from a group of 15 people?",
+    "options": [
+      {
+        "text": "$\\binom{15}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$15^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^15$",
+        "isCorrect": false
+      },
+      {
+        "text": "$15!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 6 from 15 people is $\\binom{15}{6} = \\frac{15!}{6!(15-6)!} = 5005$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 16,
+    "questionText": "How many ways can 4 different students be chosen from a class of 20 students?",
+    "options": [
+      {
+        "text": "$\\binom{20}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$20^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^20$",
+        "isCorrect": false
+      },
+      {
+        "text": "$20!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different students from a class of 20 students is $\\binom{20}{4} = \\frac{20!}{4!(20-4)!} = 4845$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "How many ways can 3 different letters be chosen from the word 'NUMBERS'?",
+    "options": [
+      {
+        "text": "$\\binom{7}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^7$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different letters from the word 'NUMBERS' is $\\binom{7}{3} = \\frac{7!}{3!(7-3)!} = 35$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "How many ways can 5 different cards be chosen from a deck of 52 cards?",
+    "options": [
+      {
+        "text": "$\\binom{52}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$52^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^52$",
+        "isCorrect": false
+      },
+      {
+        "text": "$52!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 5 different cards from a deck of 52 cards is $\\binom{52}{5} = \\frac{52!}{5!(52-5)!} = 2598960$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "How many ways can a team of 5 be formed from a group of 12 people?",
+    "options": [
+      {
+        "text": "$\\binom{12}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^12$",
+        "isCorrect": false
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a team of 5 from 12 people is $\\binom{12}{5} = \\frac{12!}{5!(12-5)!} = 792$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "How many ways can 4 different fruits be chosen from a basket of 9 different fruits?",
+    "options": [
+      {
+        "text": "$\\binom{9}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$9^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^9$",
+        "isCorrect": false
+      },
+      {
+        "text": "$9!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different fruits from a basket of 9 different fruits is $\\binom{9}{4} = \\frac{9!}{4!(9-4)!} = 126$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "How many ways can 6 different people be chosen from a group of 20 people?",
+    "options": [
+      {
+        "text": "$\\binom{20}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$20^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^20$",
+        "isCorrect": false
+      },
+      {
+        "text": "$20!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 6 different people from a group of 20 people is $\\binom{20}{6} = \\frac{20!}{6!(20-6)!} = 38760$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "How many ways can 4 students be chosen from a class of 25 students?",
+    "options": [
+      {
+        "text": "$\\binom{25}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$25^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^25$",
+        "isCorrect": false
+      },
+      {
+        "text": "$25!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 students from a class of 25 students is $\\binom{25}{4} = \\frac{25!}{4!(25-4)!} = 12650$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "How many ways can a team of 7 be formed from a group of 15 people?",
+    "options": [
+      {
+        "text": "$\\binom{15}{7}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$15^7$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7^15$",
+        "isCorrect": false
+      },
+      {
+        "text": "$15!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a team of 7 from a group of 15 people is $\\binom{15}{7} = \\frac{15!}{7!(15-7)!} = 6435$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 24,
+    "questionText": "How many ways can 5 different books be chosen from a shelf of 18 different books?",
+    "options": [
+      {
+        "text": "$\\binom{18}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$18^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^18$",
+        "isCorrect": false
+      },
+      {
+        "text": "$18!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 5 different books from a shelf of 18 different books is $\\binom{18}{5} = \\frac{18!}{5!(18-5)!} = 8568$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "How many ways can 3 different letters be chosen from the word 'CALCULUS'?",
+    "options": [
+      {
+        "text": "$\\binom{8}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different letters from the word 'CALCULUS' is $\\binom{8}{3} = \\frac{8!}{3!(8-3)!} = 56$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 26,
+    "questionText": "How many ways can a committee of 4 be formed from a group of 16 people?",
+    "options": [
+      {
+        "text": "$\\binom{16}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$16^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^16$",
+        "isCorrect": false
+      },
+      {
+        "text": "$16!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 4 from a group of 16 people is $\\binom{16}{4} = \\frac{16!}{4!(16-4)!} = 1820$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "How many ways can 2 different cards be chosen from a deck of 52 cards?",
+    "options": [
+      {
+        "text": "$\\binom{52}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$52^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^52$",
+        "isCorrect": false
+      },
+      {
+        "text": "$52!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 2 different cards from a deck of 52 cards is $\\binom{52}{2} = \\frac{52!}{2!(52-2)!} = 1326$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 28,
+    "questionText": "How many ways can 5 different students be chosen from a class of 30 students?",
+    "options": [
+      {
+        "text": "$\\binom{30}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$30^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^30$",
+        "isCorrect": false
+      },
+      {
+        "text": "$30!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 5 different students from a class of 30 students is $\\binom{30}{5} = \\frac{30!}{5!(30-5)!} = 142506$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 29,
+    "questionText": "How many ways can 3 different fruits be chosen from a basket of 12 different fruits?",
+    "options": [
+      {
+        "text": "$\\binom{12}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^12$",
+        "isCorrect": false
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different fruits from a basket of 12 different fruits is $\\binom{12}{3} = \\frac{12!}{3!(12-3)!} = 220$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 30,
+    "questionText": "How many ways can 6 people be chosen from a group of 25 people?",
+    "options": [
+      {
+        "text": "$\\binom{25}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$25^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^25$",
+        "isCorrect": false
+      },
+      {
+        "text": "$25!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 6 people from a group of 25 people is $\\binom{25}{6} = \\frac{25!}{6!(25-6)!} = 177100$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 31,
+    "questionText": "How many ways can 2 different letters be chosen from the word 'STATISTICS'?",
+    "options": [
+      {
+        "text": "$\\binom{10}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^10$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 2 different letters from the word 'STATISTICS' is $\\binom{10}{2} = \\frac{10!}{2!(10-2)!} = 45$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 32,
+    "questionText": "How many ways can 7 different books be chosen from a shelf of 20 different books?",
+    "options": [
+      {
+        "text": "$\\binom{20}{7}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$20^7$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7^20$",
+        "isCorrect": false
+      },
+      {
+        "text": "$20!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 7 different books from a shelf of 20 different books is $\\binom{20}{7} = \\frac{20!}{7!(20-7)!} = 77520$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 33,
+    "questionText": "How many ways can 3 different students be chosen from a class of 14 students?",
+    "options": [
+      {
+        "text": "$\\binom{14}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$14^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^14$",
+        "isCorrect": false
+      },
+      {
+        "text": "$14!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different students from a class of 14 students is $\\binom{14}{3} = \\frac{14!}{3!(14-3)!} = 364$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 34,
+    "questionText": "How many ways can 6 different cards be chosen from a deck of 52 cards?",
+    "options": [
+      {
+        "text": "$\\binom{52}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$52^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^52$",
+        "isCorrect": false
+      },
+      {
+        "text": "$52!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 6 different cards from a deck of 52 cards is $\\binom{52}{6} = \\frac{52!}{6!(52-6)!} = 20358520$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 35,
+    "questionText": "How many ways can a committee of 5 be formed from a group of 14 people?",
+    "options": [
+      {
+        "text": "$\\binom{14}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$14^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^14$",
+        "isCorrect": false
+      },
+      {
+        "text": "$14!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 5 from a group of 14 people is $\\binom{14}{5} = \\frac{14!}{5!(14-5)!} = 2002$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 36,
+    "questionText": "How many ways can 4 different students be chosen from a class of 12 students?",
+    "options": [
+      {
+        "text": "$\\binom{12}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^12$",
+        "isCorrect": false
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different students from a class of 12 students is $\\binom{12}{4} = \\frac{12!}{4!(12-4)!} = 495$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 37,
+    "questionText": "How many ways can 2 different letters be chosen from the word 'MATHEMATICS'?",
+    "options": [
+      {
+        "text": "$\\binom{11}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$11^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^11$",
+        "isCorrect": false
+      },
+      {
+        "text": "$11!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 2 different letters from the word 'MATHEMATICS' is $\\binom{11}{2} = \\frac{11!}{2!(11-2)!} = 55$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 38,
+    "questionText": "How many ways can a team of 4 be formed from a group of 11 people?",
+    "options": [
+      {
+        "text": "$\\binom{11}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$11^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^11$",
+        "isCorrect": false
+      },
+      {
+        "text": "$11!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a team of 4 from a group of 11 people is $\\binom{11}{4} = \\frac{11!}{4!(11-4)!} = 330$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 39,
+    "questionText": "How many ways can 5 different students be chosen from a class of 20 students?",
+    "options": [
+      {
+        "text": "$\\binom{20}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$20^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^20$",
+        "isCorrect": false
+      },
+      {
+        "text": "$20!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 5 different students from a class of 20 students is $\\binom{20}{5} = \\frac{20!}{5!(20-5)!} = 15504$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 40,
+    "questionText": "How many ways can 3 different books be chosen from a library of 13 different books?",
+    "options": [
+      {
+        "text": "$\\binom{13}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$13^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^13$",
+        "isCorrect": false
+      },
+      {
+        "text": "$13!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different books from a library of 13 different books is $\\binom{13}{3} = \\frac{13!}{3!(13-3)!} = 286$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 41,
+    "questionText": "How many ways can a committee of 6 be formed from a group of 18 people?",
+    "options": [
+      {
+        "text": "$\\binom{18}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$18^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^18$",
+        "isCorrect": false
+      },
+      {
+        "text": "$18!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 6 from a group of 18 people is $\\binom{18}{6} = \\frac{18!}{6!(18-6)!} = 18564$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 43,
+    "questionText": "How many ways can 2 different students be chosen from a class of 10 students?",
+    "options": [
+      {
+        "text": "$\\binom{10}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^10$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 2 different students from a class of 10 students is $\\binom{10}{2} = \\frac{10!}{2!(10-2)!} = 45$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 44,
+    "questionText": "How many ways can a team of 5 be formed from a group of 20 people?",
+    "options": [
+      {
+        "text": "$\\binom{20}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$20^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^20$",
+        "isCorrect": false
+      },
+      {
+        "text": "$20!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a team of 5 from a group of 20 people is $\\binom{20}{5} = \\frac{20!}{5!(20-5)!} = 15504$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 45,
+    "questionText": "How many ways can 4 different fruits be chosen from a basket of 15 different fruits?",
+    "options": [
+      {
+        "text": "$\\binom{15}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$15^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^15$",
+        "isCorrect": false
+      },
+      {
+        "text": "$15!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different fruits from a basket of 15 different fruits is $\\binom{15}{4} = \\frac{15!}{4!(15-4)!} = 1365$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 46,
+    "questionText": "How many ways can 5 different people be chosen from a group of 14 people?",
+    "options": [
+      {
+        "text": "$\\binom{14}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$14^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^14$",
+        "isCorrect": false
+      },
+      {
+        "text": "$14!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 5 different people from a group of 14 people is $\\binom{14}{5} = \\frac{14!}{5!(14-5)!} = 2002$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 47,
+    "questionText": "How many ways can 2 different letters be chosen from the word 'COMBINATION'?",
+    "options": [
+      {
+        "text": "$\\binom{11}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$11^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^11$",
+        "isCorrect": false
+      },
+      {
+        "text": "$11!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 2 different letters from the word 'COMBINATION' is $\\binom{11}{2} = \\frac{11!}{2!(11-2)!} = 55$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 49,
+    "questionText": "How many ways can 5 different books be chosen from a shelf of 12 different books?",
+    "options": [
+      {
+        "text": "$\\binom{12}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^12$",
+        "isCorrect": false
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 5 different books from a shelf of 12 different books is $\\binom{12}{5} = \\frac{12!}{5!(12-5)!} = 792$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 50,
+    "questionText": "How many ways can 4 different fruits be chosen from a basket of 10 different fruits?",
+    "options": [
+      {
+        "text": "$\\binom{10}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^10$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different fruits from a basket of 10 different fruits is $\\binom{10}{4} = \\frac{10!}{4!(10-4)!} = 210$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 51,
+    "questionText": "How many ways can 2 different students be chosen from a class of 8 students?",
+    "options": [
+      {
+        "text": "$\\binom{8}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 2 different students from a class of 8 students is $\\binom{8}{2} = \\frac{8!}{2!(8-2)!} = 28$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 52,
+    "questionText": "How many ways can 6 different students be chosen from a class of 16 students?",
+    "options": [
+      {
+        "text": "$\\binom{16}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$16^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^16$",
+        "isCorrect": false
+      },
+      {
+        "text": "$16!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 6 different students from a class of 16 students is $\\binom{16}{6} = \\frac{16!}{6!(16-6)!} = 8008$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 53,
+    "questionText": "How many ways can 4 different letters be chosen from the word 'PROBABILITY'?",
+    "options": [
+      {
+        "text": "$\\binom{11}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$11^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^11$",
+        "isCorrect": false
+      },
+      {
+        "text": "$11!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different letters from the word 'PROBABILITY' is $\\binom{11}{4} = \\frac{11!}{4!(11-4)!} = 330$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 54,
+    "questionText": "How many ways can a team of 5 be formed from a group of 25 people?",
+    "options": [
+      {
+        "text": "$\\binom{25}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$25^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^25$",
+        "isCorrect": false
+      },
+      {
+        "text": "$25!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a team of 5 from a group of 25 people is $\\binom{25}{5} = \\frac{25!}{5!(25-5)!} = 53130$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 55,
+    "questionText": "How many ways can 3 different fruits be chosen from a basket of 8 different fruits?",
+    "options": [
+      {
+        "text": "$\\binom{8}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different fruits from a basket of 8 different fruits is $\\binom{8}{3} = \\frac{8!}{3!(8-3)!} = 56$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 56,
+    "questionText": "How many ways can a committee of 6 be formed from a group of 14 people?",
+    "options": [
+      {
+        "text": "$\\binom{14}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$14^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^14$",
+        "isCorrect": false
+      },
+      {
+        "text": "$14!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 6 from a group of 14 people is $\\binom{14}{6} = \\frac{14!}{6!(14-6)!} = 3003$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 58,
+    "questionText": "How many ways can 2 different students be chosen from a class of 6 students?",
+    "options": [
+      {
+        "text": "$\\binom{6}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 2 different students from a class of 6 students is $\\binom{6}{2} = \\frac{6!}{2!(6-2)!} = 15$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 59,
+    "questionText": "How many ways can a team of 4 be formed from a group of 10 people?",
+    "options": [
+      {
+        "text": "$\\binom{10}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^10$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a team of 4 from a group of 10 people is $\\binom{10}{4} = \\frac{10!}{4!(10-4)!} = 210$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 60,
+    "questionText": "How many ways can 3 different students be chosen from a class of 12 students?",
+    "options": [
+      {
+        "text": "$\\binom{12}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^12$",
+        "isCorrect": false
+      },
+      {
+        "text": "$12!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different students from a class of 12 students is $\\binom{12}{3} = \\frac{12!}{3!(12-3)!} = 220$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 61,
+    "questionText": "How many ways can a committee of 5 be formed from a group of 16 people?",
+    "options": [
+      {
+        "text": "$\\binom{16}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$16^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^16$",
+        "isCorrect": false
+      },
+      {
+        "text": "$16!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 5 from a group of 16 people is $\\binom{16}{5} = \\frac{16!}{5!(16-5)!} = 4368$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 62,
+    "questionText": "How many ways can 6 different books be chosen from a library of 20 different books?",
+    "options": [
+      {
+        "text": "$\\binom{20}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$20^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^20$",
+        "isCorrect": false
+      },
+      {
+        "text": "$20!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 6 different books from a library of 20 different books is $\\binom{20}{6} = \\frac{20!}{6!(20-6)!} = 38760$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 63,
+    "questionText": "How many ways can 3 different letters be chosen from the word 'EXAMPLE'?",
+    "options": [
+      {
+        "text": "$\\binom{7}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^7$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different letters from the word 'EXAMPLE' is $\\binom{7}{3} = \\frac{7!}{3!(7-3)!} = 35$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 64,
+    "questionText": "How many ways can 4 different cards be chosen from a deck of 52 cards?",
+    "options": [
+      {
+        "text": "$\\binom{52}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$52^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^52$",
+        "isCorrect": false
+      },
+      {
+        "text": "$52!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different cards from a deck of 52 cards is $\\binom{52}{4} = \\frac{52!}{4!(52-4)!} = 270725$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 65,
+    "questionText": "How many ways can a committee of 3 be formed from a group of 8 people?",
+    "options": [
+      {
+        "text": "$\\binom{8}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 3 from a group of 8 people is $\\binom{8}{3} = \\frac{8!}{3!(8-3)!} = 56$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 66,
+    "questionText": "How many ways can 5 different books be chosen from a shelf of 22 different books?",
+    "options": [
+      {
+        "text": "$\\binom{22}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$22^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^22$",
+        "isCorrect": false
+      },
+      {
+        "text": "$22!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 5 different books from a shelf of 22 different books is $\\binom{22}{5} = \\frac{22!}{5!(22-5)!} = 26334$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 67,
+    "questionText": "How many ways can 3 different students be chosen from a class of 17 students?",
+    "options": [
+      {
+        "text": "$\\binom{17}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$17^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^17$",
+        "isCorrect": false
+      },
+      {
+        "text": "$17!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different students from a class of 17 students is $\\binom{17}{3} = \\frac{17!}{3!(17-3)!} = 680$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 68,
+    "questionText": "How many ways can a team of 6 be formed from a group of 18 people?",
+    "options": [
+      {
+        "text": "$\\binom{18}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$18^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^18$",
+        "isCorrect": false
+      },
+      {
+        "text": "$18!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a team of 6 from a group of 18 people is $\\binom{18}{6} = \\frac{18!}{6!(18-6)!} = 18564$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 69,
+    "questionText": "How many ways can 4 different students be chosen from a class of 14 students?",
+    "options": [
+      {
+        "text": "$\\binom{14}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$14^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^14$",
+        "isCorrect": false
+      },
+      {
+        "text": "$14!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different students from a class of 14 students is $\\binom{14}{4} = \\frac{14!}{4!(14-4)!} = 1001$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 71,
+    "questionText": "How many ways can a committee of 5 be formed from a group of 21 people?",
+    "options": [
+      {
+        "text": "$\\binom{21}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$21^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^21$",
+        "isCorrect": false
+      },
+      {
+        "text": "$21!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 5 from a group of 21 people is $\\binom{21}{5} = \\frac{21!}{5!(21-5)!} = 20349$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 73,
+    "questionText": "How many ways can 3 different students be chosen from a class of 15 students?",
+    "options": [
+      {
+        "text": "$\\binom{15}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$15^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^15$",
+        "isCorrect": false
+      },
+      {
+        "text": "$15!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different students from a class of 15 students is $\\binom{15}{3} = \\frac{15!}{3!(15-3)!} = 455$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 74,
+    "questionText": "How many ways can a team of 4 be formed from a group of 13 people?",
+    "options": [
+      {
+        "text": "$\\binom{13}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$13^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^13$",
+        "isCorrect": false
+      },
+      {
+        "text": "$13!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a team of 4 from a group of 13 people is $\\binom{13}{4} = \\frac{13!}{4!(13-4)!} = 715$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 75,
+    "questionText": "How many ways can 5 different fruits be chosen from a basket of 20 different fruits?",
+    "options": [
+      {
+        "text": "$\\binom{20}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$20^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^20$",
+        "isCorrect": false
+      },
+      {
+        "text": "$20!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 5 different fruits from a basket of 20 different fruits is $\\binom{20}{5} = \\frac{20!}{5!(20-5)!} = 15504$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 76,
+    "questionText": "How many ways can 2 different students be chosen from a class of 9 students?",
+    "options": [
+      {
+        "text": "$\\binom{9}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$9^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^9$",
+        "isCorrect": false
+      },
+      {
+        "text": "$9!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 2 different students from a class of 9 students is $\\binom{9}{2} = \\frac{9!}{2!(9-2)!} = 36$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 77,
+    "questionText": "How many ways can 6 different books be chosen from a library of 25 different books?",
+    "options": [
+      {
+        "text": "$\\binom{25}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$25^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^25$",
+        "isCorrect": false
+      },
+      {
+        "text": "$25!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 6 different books from a library of 25 different books is $\\binom{25}{6} = \\frac{25!}{6!(25-6)!} = 177100$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 78,
+    "questionText": "How many ways can 3 different fruits be chosen from a basket of 15 different fruits?",
+    "options": [
+      {
+        "text": "$\\binom{15}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$15^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^15$",
+        "isCorrect": false
+      },
+      {
+        "text": "$15!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different fruits from a basket of 15 different fruits is $\\binom{15}{3} = \\frac{15!}{3!(15-3)!} = 455$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 79,
+    "questionText": "How many ways can a committee of 5 be formed from a group of 18 people?",
+    "options": [
+      {
+        "text": "$\\binom{18}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$18^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^18$",
+        "isCorrect": false
+      },
+      {
+        "text": "$18!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 5 from a group of 18 people is $\\binom{18}{5} = \\frac{18!}{5!(18-5)!} = 8568$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 80,
+    "questionText": "How many ways can 4 different students be chosen from a class of 10 students?",
+    "options": [
+      {
+        "text": "$\\binom{10}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^10$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different students from a class of 10 students is $\\binom{10}{4} = \\frac{10!}{4!(10-4)!} = 210$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 81,
+    "questionText": "How many ways can a team of 6 be formed from a group of 20 people?",
+    "options": [
+      {
+        "text": "$\\binom{20}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$20^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^20$",
+        "isCorrect": false
+      },
+      {
+        "text": "$20!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a team of 6 from a group of 20 people is $\\binom{20}{6} = \\frac{20!}{6!(20-6)!} = 38760$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 82,
+    "questionText": "How many ways can 5 different students be chosen from a class of 22 students?",
+    "options": [
+      {
+        "text": "$\\binom{22}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$22^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^22$",
+        "isCorrect": false
+      },
+      {
+        "text": "$22!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 5 different students from a class of 22 students is $\\binom{22}{5} = \\frac{22!}{5!(22-5)!} = 26334$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 84,
+    "questionText": "How many ways can a team of 5 be formed from a group of 15 people?",
+    "options": [
+      {
+        "text": "$\\binom{15}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$15^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^15$",
+        "isCorrect": false
+      },
+      {
+        "text": "$15!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a team of 5 from a group of 15 people is $\\binom{15}{5} = \\frac{15!}{5!(15-5)!} = 3003$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 86,
+    "questionText": "How many ways can 4 different fruits be chosen from a basket of 18 different fruits?",
+    "options": [
+      {
+        "text": "$\\binom{18}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$18^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^18$",
+        "isCorrect": false
+      },
+      {
+        "text": "$18!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different fruits from a basket of 18 different fruits is $\\binom{18}{4} = \\frac{18!}{4!(18-4)!} = 3060$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 88,
+    "questionText": "How many ways can a committee of 4 be formed from a group of 19 people?",
+    "options": [
+      {
+        "text": "$\\binom{19}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$19^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^19$",
+        "isCorrect": false
+      },
+      {
+        "text": "$19!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 4 from a group of 19 people is $\\binom{19}{4} = \\frac{19!}{4!(19-4)!} = 3876$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 89,
+    "questionText": "How many ways can 3 different letters be chosen from the word 'GEOMETRY'?",
+    "options": [
+      {
+        "text": "$\\binom{8}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different letters from the word 'GEOMETRY' is $\\binom{8}{3} = \\frac{8!}{3!(8-3)!} = 56$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 90,
+    "questionText": "How many ways can a team of 6 be formed from a group of 23 people?",
+    "options": [
+      {
+        "text": "$\\binom{23}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$23^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^23$",
+        "isCorrect": false
+      },
+      {
+        "text": "$23!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a team of 6 from a group of 23 people is $\\binom{23}{6} = \\frac{23!}{6!(23-6)!} = 100947$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 91,
+    "questionText": "How many ways can 4 different students be chosen from a class of 18 students?",
+    "options": [
+      {
+        "text": "$\\binom{18}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$18^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^18$",
+        "isCorrect": false
+      },
+      {
+        "text": "$18!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different students from a class of 18 students is $\\binom{18}{4} = \\frac{18!}{4!(18-4)!} = 3060$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 92,
+    "questionText": "How many ways can 3 different fruits be chosen from a basket of 13 different fruits?",
+    "options": [
+      {
+        "text": "$\\binom{13}{3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$13^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3^13$",
+        "isCorrect": false
+      },
+      {
+        "text": "$13!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 3 different fruits from a basket of 13 different fruits is $\\binom{13}{3} = \\frac{13!}{3!(13-3)!} = 286$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 93,
+    "questionText": "How many ways can a committee of 5 be formed from a group of 17 people?",
+    "options": [
+      {
+        "text": "$\\binom{17}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$17^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^17$",
+        "isCorrect": false
+      },
+      {
+        "text": "$17!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a committee of 5 from a group of 17 people is $\\binom{17}{5} = \\frac{17!}{5!(17-5)!} = 6188$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 94,
+    "questionText": "How many ways can 2 different letters be chosen from the word 'SYMMETRY'?",
+    "options": [
+      {
+        "text": "$\\binom{8}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 2 different letters from the word 'SYMMETRY' is $\\binom{8}{2} = \\frac{8!}{2!(8-2)!} = 28$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 95,
+    "questionText": "How many ways can 5 different students be chosen from a class of 24 students?",
+    "options": [
+      {
+        "text": "$\\binom{24}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$24^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^24$",
+        "isCorrect": false
+      },
+      {
+        "text": "$24!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 5 different students from a class of 24 students is $\\binom{24}{5} = \\frac{24!}{5!(24-5)!} = 42504$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 96,
+    "questionText": "How many ways can 4 different books be chosen from a library of 16 different books?",
+    "options": [
+      {
+        "text": "$\\binom{16}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$16^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^16$",
+        "isCorrect": false
+      },
+      {
+        "text": "$16!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different books from a library of 16 different books is $\\binom{16}{4} = \\frac{16!}{4!(16-4)!} = 1820$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 97,
+    "questionText": "How many ways can 2 different students be chosen from a class of 7 students?",
+    "options": [
+      {
+        "text": "$\\binom{7}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$7^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2^7$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 2 different students from a class of 7 students is $\\binom{7}{2} = \\frac{7!}{2!(7-2)!} = 21$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "EASY"
+  },
+  {
+    "qno": 98,
+    "questionText": "How many ways can a team of 6 be formed from a group of 16 people?",
+    "options": [
+      {
+        "text": "$\\binom{16}{6}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$16^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6^16$",
+        "isCorrect": false
+      },
+      {
+        "text": "$16!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to form a team of 6 from a group of 16 people is $\\binom{16}{6} = \\frac{16!}{6!(16-6)!} = 8008$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "HARD"
+  },
+  {
+    "qno": 99,
+    "questionText": "How many ways can 5 different books be chosen from a shelf of 13 different books?",
+    "options": [
+      {
+        "text": "$\\binom{13}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$13^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5^13$",
+        "isCorrect": false
+      },
+      {
+        "text": "$13!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 5 different books from a shelf of 13 different books is $\\binom{13}{5} = \\frac{13!}{5!(13-5)!} = 1287$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 100,
+    "questionText": "How many ways can 4 different students be chosen from a class of 19 students?",
+    "options": [
+      {
+        "text": "$\\binom{19}{4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$19^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4^19$",
+        "isCorrect": false
+      },
+      {
+        "text": "$19!$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of ways to choose 4 different students from a class of 19 students is $\\binom{19}{4} = \\frac{19!}{4!(19-4)!} = 3876$.",
+    "chapter": "Permutations and Combinations",
+    "topic": "Combinations",
+    "level": "MEDIUM"
+  }
+]

@@ -1,0 +1,6398 @@
+[
+  {
+    "qno": "1",
+    "questionText": "What is the main reason for preferring AC voltage over DC voltage for power transmission?",
+    "options": [
+      {
+        "text": "AC voltage can be easily and efficiently converted from one voltage to another by means of transformers.",
+        "isCorrect": true
+      },
+      {
+        "text": "AC voltage requires less maintenance.",
+        "isCorrect": false
+      },
+      {
+        "text": "AC voltage is cheaper to produce.",
+        "isCorrect": false
+      },
+      {
+        "text": "AC voltage is safer to use.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "AC voltage can be easily and efficiently converted from one voltage to another by means of transformers, making it more economical for long-distance power transmission.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "What is the primary characteristic of alternating current (AC)?",
+    "options": [
+      {
+        "text": "AC varies in magnitude and direction periodically.",
+        "isCorrect": true
+      },
+      {
+        "text": "AC maintains a constant magnitude but varies in direction.",
+        "isCorrect": false
+      },
+      {
+        "text": "AC maintains a constant direction but varies in magnitude.",
+        "isCorrect": false
+      },
+      {
+        "text": "AC neither varies in magnitude nor in direction.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alternating current (AC) varies in both magnitude and direction periodically, typically following a sinusoidal pattern.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "Which scientist is associated with the invention of the induction motor and the high frequency induction coil?",
+    "options": [
+      {
+        "text": "Nicola Tesla",
+        "isCorrect": true
+      },
+      {
+        "text": "Thomas Edison",
+        "isCorrect": false
+      },
+      {
+        "text": "George Westinghouse",
+        "isCorrect": false
+      },
+      {
+        "text": "James Clerk Maxwell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nicola Tesla is credited with the invention of the induction motor and the high frequency induction coil, among other contributions to alternating current (AC) technology.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "4",
+    "questionText": "Why is the electric power in homes and offices typically supplied as alternating current (AC)?",
+    "options": [
+      {
+        "text": "Because AC can be easily transmitted over long distances and transformed to different voltages.",
+        "isCorrect": true
+      },
+      {
+        "text": "Because AC devices are more efficient.",
+        "isCorrect": false
+      },
+      {
+        "text": "Because AC is safer than DC.",
+        "isCorrect": false
+      },
+      {
+        "text": "Because AC is cheaper to produce.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "AC is typically used in homes and offices because it can be easily transmitted over long distances and transformed to different voltages using transformers.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "5",
+    "questionText": "What is the frequency of the AC voltage supplied to homes in India?",
+    "options": [
+      {
+        "text": "50 Hz",
+        "isCorrect": true
+      },
+      {
+        "text": "60 Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "40 Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "30 Hz",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In India, the standard frequency of AC voltage supplied to homes is 50 Hz.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "6",
+    "questionText": "What is the main advantage of using AC voltage for transmitting electrical energy over long distances?",
+    "options": [
+      {
+        "text": "It reduces energy loss due to resistance in the transmission lines.",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases the speed of energy transmission.",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases the cost of electrical energy.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is safer than DC voltage.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main advantage of using AC voltage for transmitting electrical energy over long distances is that it reduces energy loss due to resistance in the transmission lines.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "7",
+    "questionText": "What is the unit of frequency of alternating current?",
+    "options": [
+      {
+        "text": "Hertz (Hz)",
+        "isCorrect": true
+      },
+      {
+        "text": "Volt (V)",
+        "isCorrect": false
+      },
+      {
+        "text": "Ampere (A)",
+        "isCorrect": false
+      },
+      {
+        "text": "Ohm (Ω)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The unit of frequency of alternating current is Hertz (Hz), which indicates the number of cycles per second.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "Which device is used to convert AC voltage from one level to another?",
+    "options": [
+      {
+        "text": "Transformer",
+        "isCorrect": true
+      },
+      {
+        "text": "Rectifier",
+        "isCorrect": false
+      },
+      {
+        "text": "Generator",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitor",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A transformer is used to convert AC voltage from one level to another, either stepping it up or stepping it down.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "9",
+    "questionText": "In an AC circuit, the voltage and current are:",
+    "options": [
+      {
+        "text": "In phase in a purely resistive circuit.",
+        "isCorrect": true
+      },
+      {
+        "text": "Out of phase in a purely resistive circuit.",
+        "isCorrect": false
+      },
+      {
+        "text": "Always out of phase regardless of the circuit components.",
+        "isCorrect": false
+      },
+      {
+        "text": "Always in phase regardless of the circuit components.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely resistive AC circuit, the voltage and current are in phase with each other.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "10",
+    "questionText": "What is the primary use of AC in electrical devices?",
+    "options": [
+      {
+        "text": "To efficiently power electrical devices that require varying voltage levels.",
+        "isCorrect": true
+      },
+      {
+        "text": "To provide a constant power supply.",
+        "isCorrect": false
+      },
+      {
+        "text": "To reduce the cost of electrical devices.",
+        "isCorrect": false
+      },
+      {
+        "text": "To ensure the safety of electrical devices.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "AC is primarily used to efficiently power electrical devices that require varying voltage levels, which can be easily adjusted using transformers.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "11",
+    "questionText": "Who is the scientist known for pioneering work in AC power and the invention of the induction motor?",
+    "options": [
+      {
+        "text": "Nicola Tesla",
+        "isCorrect": true
+      },
+      {
+        "text": "Thomas Edison",
+        "isCorrect": false
+      },
+      {
+        "text": "Michael Faraday",
+        "isCorrect": false
+      },
+      {
+        "text": "James Watt",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nicola Tesla is renowned for his pioneering work in AC power and the invention of the induction motor.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "12",
+    "questionText": "Which unit is used to measure the frequency of alternating current?",
+    "options": [
+      {
+        "text": "Hertz (Hz)",
+        "isCorrect": true
+      },
+      {
+        "text": "Volt (V)",
+        "isCorrect": false
+      },
+      {
+        "text": "Ampere (A)",
+        "isCorrect": false
+      },
+      {
+        "text": "Ohm (Ω)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The frequency of alternating current is measured in Hertz (Hz).",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "Which device is essential for converting AC voltage from one level to another?",
+    "options": [
+      {
+        "text": "Transformer",
+        "isCorrect": true
+      },
+      {
+        "text": "Rectifier",
+        "isCorrect": false
+      },
+      {
+        "text": "Inductor",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitor",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A transformer is used to convert AC voltage from one level to another.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "14",
+    "questionText": "Why is AC voltage preferred over DC voltage for the transmission of electrical power?",
+    "options": [
+      {
+        "text": "AC voltage can be easily stepped up or down using transformers.",
+        "isCorrect": true
+      },
+      {
+        "text": "AC voltage is less expensive to generate.",
+        "isCorrect": false
+      },
+      {
+        "text": "AC voltage has a higher efficiency.",
+        "isCorrect": false
+      },
+      {
+        "text": "AC voltage is safer to use.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "AC voltage is preferred for power transmission because it can be easily stepped up or down using transformers.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "15",
+    "questionText": "What is the standard frequency of the AC mains supply in India?",
+    "options": [
+      {
+        "text": "50 Hz",
+        "isCorrect": true
+      },
+      {
+        "text": "60 Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "40 Hz",
+        "isCorrect": false
+      },
+      {
+        "text": "70 Hz",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard frequency of the AC mains supply in India is 50 Hz.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "16",
+    "questionText": "AC voltage can be easily transformed from one voltage level to another. This characteristic makes it advantageous for:",
+    "options": [
+      {
+        "text": "Long-distance power transmission",
+        "isCorrect": true
+      },
+      {
+        "text": "Reducing production costs",
+        "isCorrect": false
+      },
+      {
+        "text": "Increasing production efficiency",
+        "isCorrect": false
+      },
+      {
+        "text": "Enhancing safety measures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ability to easily transform AC voltage from one level to another makes it advantageous for long-distance power transmission.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "17",
+    "questionText": "In an AC circuit, the current and voltage are in phase when the circuit is purely:",
+    "options": [
+      {
+        "text": "Resistive",
+        "isCorrect": true
+      },
+      {
+        "text": "Inductive",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitive",
+        "isCorrect": false
+      },
+      {
+        "text": "Reactive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely resistive AC circuit, the current and voltage are in phase.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "18",
+    "questionText": "The term 'alternating current' refers to a current that:",
+    "options": [
+      {
+        "text": "Varies in magnitude and reverses its direction periodically.",
+        "isCorrect": true
+      },
+      {
+        "text": "Maintains a constant magnitude but reverses its direction periodically.",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintains a constant direction but varies in magnitude periodically.",
+        "isCorrect": false
+      },
+      {
+        "text": "Does not change in magnitude or direction.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alternating current (AC) varies in magnitude and reverses its direction periodically.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "19",
+    "questionText": "Who is credited with the development of AC power transmission systems?",
+    "options": [
+      {
+        "text": "George Westinghouse",
+        "isCorrect": true
+      },
+      {
+        "text": "Thomas Edison",
+        "isCorrect": false
+      },
+      {
+        "text": "James Clerk Maxwell",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "George Westinghouse is credited with the development of AC power transmission systems.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "20",
+    "questionText": "The RMS (Root Mean Square) value of an AC voltage is:",
+    "options": [
+      {
+        "text": "0.707 times the peak voltage",
+        "isCorrect": true
+      },
+      {
+        "text": "1.414 times the peak voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal to the peak voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "Half of the peak voltage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The RMS value of an AC voltage is 0.707 times the peak voltage.",
+    "chapter": "Alternating Current",
+    "topic": "7.1 Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "21",
+    "questionText": "When an AC voltage of peak value $V_m$ is applied across a resistor $R$, the peak current through the resistor is given by:",
+    "options": [
+      {
+        "text": "$I_m = \\frac{V_m}{R}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$I_m = V_mR$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_m = \\frac{R}{V_m}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_m = V_m + R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The peak current $I_m$ through a resistor when an AC voltage $V_m$ is applied is given by Ohm's law: $I_m = \\frac{V_m}{R}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "EASY"
+  },
+  {
+    "qno": "22",
+    "questionText": "In a purely resistive AC circuit, the voltage and current:",
+    "options": [
+      {
+        "text": "Are in phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Are out of phase by $90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Are out of phase by $180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Are out of phase by $45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely resistive AC circuit, the voltage and current are in phase, meaning they reach their maximum and minimum values simultaneously.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "EASY"
+  },
+  {
+    "qno": "23",
+    "questionText": "In an AC circuit with a resistor, the power dissipated is given by:",
+    "options": [
+      {
+        "text": "$P = I^2R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P = IR$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = \\frac{V^2}{R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = \\frac{V}{R}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power dissipated in a resistor in an AC circuit is given by $P = I^2R$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "EASY"
+  },
+  {
+    "qno": "24",
+    "questionText": "The RMS value of an AC current $I_{m}$ is:",
+    "options": [
+      {
+        "text": "$I_{rms} = \\frac{I_m}{\\sqrt{2}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$I_{rms} = I_m$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_{rms} = \\frac{I_m}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_{rms} = 2I_m$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The RMS value of an AC current $I_{m}$ is $I_{rms} = \\frac{I_m}{\\sqrt{2}}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "EASY"
+  },
+  {
+    "qno": "25",
+    "questionText": "For a resistor in an AC circuit, the instantaneous power is given by:",
+    "options": [
+      {
+        "text": "$p(t) = V_mI_m \\sin^2(\\omega t)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$p(t) = V_mI_m \\cos(\\omega t)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$p(t) = V_mI_m \\sin(\\omega t)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$p(t) = V_mI_m$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous power $p(t)$ for a resistor in an AC circuit is given by $p(t) = V_mI_m \\sin^2(\\omega t)$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "26",
+    "questionText": "What is the average power consumed by a resistor in an AC circuit?",
+    "options": [
+      {
+        "text": "$P_{avg} = \\frac{V_{m}I_{m}}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P_{avg} = V_{m}I_{m}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P_{avg} = \\frac{V_{m}I_{m}}{4}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P_{avg} = \\frac{V_{m}^2}{R}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average power consumed by a resistor in an AC circuit is $P_{avg} = \\frac{V_{m}I_{m}}{2}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "27",
+    "questionText": "If the peak voltage of an AC source is $311V$, what is the RMS voltage?",
+    "options": [
+      {
+        "text": "$220V$",
+        "isCorrect": true
+      },
+      {
+        "text": "$311V$",
+        "isCorrect": false
+      },
+      {
+        "text": "$155.5V$",
+        "isCorrect": false
+      },
+      {
+        "text": "$110V$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The RMS voltage is given by $V_{rms} = \\frac{V_m}{\\sqrt{2}} = \\frac{311V}{\\sqrt{2}} = 220V$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "EASY"
+  },
+  {
+    "qno": "28",
+    "questionText": "In a purely resistive AC circuit, the phase difference between voltage and current is:",
+    "options": [
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely resistive AC circuit, the phase difference between voltage and current is $0^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "EASY"
+  },
+  {
+    "qno": "29",
+    "questionText": "The formula for the RMS value of an AC voltage $V_m$ is:",
+    "options": [
+      {
+        "text": "$V_{rms} = \\frac{V_m}{\\sqrt{2}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$V_{rms} = V_m$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_{rms} = \\frac{V_m}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_{rms} = 2V_m$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The RMS value of an AC voltage $V_m$ is $V_{rms} = \\frac{V_m}{\\sqrt{2}}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "EASY"
+  },
+  {
+    "qno": "30",
+    "questionText": "Which of the following is true for a resistor in an AC circuit?",
+    "options": [
+      {
+        "text": "The current and voltage are in phase.",
+        "isCorrect": true
+      },
+      {
+        "text": "The current leads the voltage by $90^\\circ$.",
+        "isCorrect": false
+      },
+      {
+        "text": "The current lags the voltage by $90^\\circ$.",
+        "isCorrect": false
+      },
+      {
+        "text": "The current and voltage are out of phase by $180^\\circ$.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely resistive AC circuit, the current and voltage are in phase.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "EASY"
+  },
+  {
+    "qno": "31",
+    "questionText": "In a resistor, the peak value of the voltage is $V_m$ and the peak value of the current is $I_m$. The average power dissipated is:",
+    "options": [
+      {
+        "text": "$P_{avg} = \\frac{V_mI_m}{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P_{avg} = V_mI_m$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P_{avg} = \\frac{V_mI_m}{\\sqrt{2}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P_{avg} = \\frac{V_m}{I_m}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average power dissipated in a resistor is $P_{avg} = \\frac{V_mI_m}{2}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "32",
+    "questionText": "What is the power factor for a purely resistive AC circuit?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power factor for a purely resistive AC circuit is 1 because the voltage and current are in phase.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "EASY"
+  },
+  {
+    "qno": "33",
+    "questionText": "The power consumed in a purely resistive AC circuit is given by:",
+    "options": [
+      {
+        "text": "$P = I_{rms}^2 R$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P = I_{m}^2 R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = V_{m} I_{m}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = V_{rms} I_{rms}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power consumed in a purely resistive AC circuit is given by $P = I_{rms}^2 R$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "34",
+    "questionText": "The phase angle between the voltage and current in a purely resistive AC circuit is:",
+    "options": [
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The phase angle between the voltage and current in a purely resistive AC circuit is $0^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "EASY"
+  },
+  {
+    "qno": "35",
+    "questionText": "If an AC source with a peak voltage of $311V$ is connected across a $100\\Omega$ resistor, what is the peak current?",
+    "options": [
+      {
+        "text": "$3.11A$",
+        "isCorrect": true
+      },
+      {
+        "text": "$311A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$31.1A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.311A$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The peak current $I_m$ is given by $I_m = \\frac{V_m}{R} = \\frac{311V}{100\\Omega} = 3.11A$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "36",
+    "questionText": "Which of the following expressions represents the instantaneous power dissipated in a resistor in an AC circuit?",
+    "options": [
+      {
+        "text": "$p(t) = V_m I_m \\sin^2(\\omega t)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$p(t) = V_m I_m \\cos^2(\\omega t)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$p(t) = V_m I_m \\sin(\\omega t)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$p(t) = V_m I_m \\cos(\\omega t)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous power dissipated in a resistor in an AC circuit is given by $p(t) = V_m I_m \\sin^2(\\omega t)$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "HARD"
+  },
+  {
+    "qno": "37",
+    "questionText": "In a purely resistive AC circuit, the power dissipated is:",
+    "options": [
+      {
+        "text": "Equal to the average power",
+        "isCorrect": true
+      },
+      {
+        "text": "Equal to the instantaneous power",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Maximum at all times",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely resistive AC circuit, the power dissipated is equal to the average power, as the instantaneous power fluctuates but the average over a cycle remains constant.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "38",
+    "questionText": "The average power dissipated in a purely resistive AC circuit is given by:",
+    "options": [
+      {
+        "text": "$P = V_{rms} I_{rms}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P = V_{m} I_{m}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = \\frac{V_{m} I_{m}}{\\sqrt{2}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = \\frac{V_{m}}{I_{m}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average power dissipated in a purely resistive AC circuit is given by $P = V_{rms} I_{rms}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "39",
+    "questionText": "If the RMS voltage in an AC circuit is $110V$, what is the peak voltage?",
+    "options": [
+      {
+        "text": "$V_m = 155.5V$",
+        "isCorrect": true
+      },
+      {
+        "text": "$V_m = 110V$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_m = 220V$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_m = 77.78V$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The peak voltage $V_m$ is given by $V_m = V_{rms} \\sqrt{2} = 110V \\sqrt{2} = 155.5V$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "EASY"
+  },
+  {
+    "qno": "40",
+    "questionText": "The instantaneous power in a resistor in an AC circuit is maximum when:",
+    "options": [
+      {
+        "text": "The current is at its peak value",
+        "isCorrect": true
+      },
+      {
+        "text": "The voltage is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "The voltage is at its peak value",
+        "isCorrect": false
+      },
+      {
+        "text": "The current is zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous power in a resistor in an AC circuit is maximum when the current is at its peak value.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "41",
+    "questionText": "In a purely resistive AC circuit, the power factor is:",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely resistive AC circuit, the power factor is 1 because the voltage and current are in phase.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "EASY"
+  },
+  {
+    "qno": "42",
+    "questionText": "What happens to the average power dissipation in a resistor if the RMS voltage is doubled?",
+    "options": [
+      {
+        "text": "It becomes four times",
+        "isCorrect": true
+      },
+      {
+        "text": "It doubles",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes half",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average power dissipation in a resistor is proportional to the square of the RMS voltage. Hence, if the RMS voltage is doubled, the power dissipation becomes four times.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "HARD"
+  },
+  {
+    "qno": "43",
+    "questionText": "For an AC voltage $v(t) = V_m \\sin(\\omega t)$ applied to a resistor $R$, the instantaneous current is given by:",
+    "options": [
+      {
+        "text": "$i(t) = \\frac{V_m}{R} \\sin(\\omega t)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$i(t) = V_m R \\sin(\\omega t)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$i(t) = \\frac{R}{V_m} \\sin(\\omega t)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$i(t) = V_m \\cos(\\omega t)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an AC voltage $v(t) = V_m \\sin(\\omega t)$ applied to a resistor $R$, the instantaneous current is given by $i(t) = \\frac{V_m}{R} \\sin(\\omega t)$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "44",
+    "questionText": "The average power dissipated in a purely resistive AC circuit is equal to:",
+    "options": [
+      {
+        "text": "$P = \\frac{1}{2} V_m I_m$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P = V_m I_m$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = \\frac{V_m^2}{R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = \\frac{I_m^2}{R}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average power dissipated in a purely resistive AC circuit is equal to $P = \\frac{1}{2} V_m I_m$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "HARD"
+  },
+  {
+    "qno": "45",
+    "questionText": "The phase difference between the voltage and current in a purely resistive AC circuit is:",
+    "options": [
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$270^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The phase difference between the voltage and current in a purely resistive AC circuit is $0^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "EASY"
+  },
+  {
+    "qno": "46",
+    "questionText": "If an AC source with an RMS voltage of $120V$ is connected to a $60\\Omega$ resistor, what is the RMS current?",
+    "options": [
+      {
+        "text": "$2A$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4A$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The RMS current $I_{rms}$ is given by $I_{rms} = \\frac{V_{rms}}{R} = \\frac{120V}{60\\Omega} = 2A$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "47",
+    "questionText": "In an AC circuit, if the peak voltage is $300V$, the RMS voltage is approximately:",
+    "options": [
+      {
+        "text": "$212V$",
+        "isCorrect": true
+      },
+      {
+        "text": "$300V$",
+        "isCorrect": false
+      },
+      {
+        "text": "$150V$",
+        "isCorrect": false
+      },
+      {
+        "text": "$100V$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The RMS voltage $V_{rms}$ is given by $V_{rms} = \\frac{V_m}{\\sqrt{2}} = \\frac{300V}{\\sqrt{2}} \\approx 212V$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "48",
+    "questionText": "The instantaneous power in a resistor in an AC circuit is given by $p(t) = V_m I_m \\sin^2(\\omega t)$. What is the average power?",
+    "options": [
+      {
+        "text": "$P_{avg} = \\frac{1}{2} V_m I_m$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P_{avg} = V_m I_m$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P_{avg} = \\frac{1}{2} V_m^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P_{avg} = V_m^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average power is given by $P_{avg} = \\frac{1}{2} V_m I_m$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "HARD"
+  },
+  {
+    "qno": "49",
+    "questionText": "For a resistor in an AC circuit, the peak power is:",
+    "options": [
+      {
+        "text": "$P_{peak} = V_m I_m$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P_{peak} = \\frac{V_m I_m}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P_{peak} = V_{rms} I_{rms}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P_{peak} = \\frac{V_{rms} I_{rms}}{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The peak power for a resistor in an AC circuit is given by $P_{peak} = V_m I_m$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "50",
+    "questionText": "If an AC source with a peak voltage of $220V$ is connected across a $50\\Omega$ resistor, what is the peak current?",
+    "options": [
+      {
+        "text": "$4.4A$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2.2A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.1A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.3A$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The peak current $I_m$ is given by $I_m = \\frac{V_m}{R} = \\frac{220V}{50\\Omega} = 4.4A$.",
+    "chapter": "Alternating Current",
+    "topic": "7.2 AC Voltage Applied to a Resistor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "51",
+    "questionText": "What is a phasor in the context of AC circuits?",
+    "options": [
+      {
+        "text": "A rotating vector representing the amplitude and phase of an AC quantity.",
+        "isCorrect": true
+      },
+      {
+        "text": "A fixed vector representing the amplitude of a DC quantity.",
+        "isCorrect": false
+      },
+      {
+        "text": "A scalar quantity representing the frequency of an AC signal.",
+        "isCorrect": false
+      },
+      {
+        "text": "A unit vector representing the direction of current flow.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A phasor is a rotating vector used to represent the amplitude and phase of an AC quantity.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "EASY"
+  },
+  {
+    "qno": "52",
+    "questionText": "The magnitude of a phasor represents:",
+    "options": [
+      {
+        "text": "The peak value of the AC quantity.",
+        "isCorrect": true
+      },
+      {
+        "text": "The RMS value of the AC quantity.",
+        "isCorrect": false
+      },
+      {
+        "text": "The average value of the AC quantity.",
+        "isCorrect": false
+      },
+      {
+        "text": "The instantaneous value of the AC quantity.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnitude of a phasor represents the peak value of the AC quantity it describes.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "EASY"
+  },
+  {
+    "qno": "53",
+    "questionText": "In a phasor diagram, the angle between the voltage and current phasors represents:",
+    "options": [
+      {
+        "text": "The phase difference between voltage and current.",
+        "isCorrect": true
+      },
+      {
+        "text": "The frequency of the AC signal.",
+        "isCorrect": false
+      },
+      {
+        "text": "The amplitude of the AC signal.",
+        "isCorrect": false
+      },
+      {
+        "text": "The time period of the AC signal.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a phasor diagram, the angle between the voltage and current phasors represents the phase difference between them.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "54",
+    "questionText": "If the current lags behind the voltage by $90^\\circ$, the circuit is:",
+    "options": [
+      {
+        "text": "Purely inductive",
+        "isCorrect": true
+      },
+      {
+        "text": "Purely resistive",
+        "isCorrect": false
+      },
+      {
+        "text": "Purely capacitive",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the current lags behind the voltage by $90^\\circ$, the circuit is purely inductive.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "EASY"
+  },
+  {
+    "qno": "55",
+    "questionText": "What does the projection of a phasor on the vertical axis represent in an AC circuit?",
+    "options": [
+      {
+        "text": "The instantaneous value of the AC quantity.",
+        "isCorrect": true
+      },
+      {
+        "text": "The peak value of the AC quantity.",
+        "isCorrect": false
+      },
+      {
+        "text": "The RMS value of the AC quantity.",
+        "isCorrect": false
+      },
+      {
+        "text": "The average value of the AC quantity.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The projection of a phasor on the vertical axis represents the instantaneous value of the AC quantity.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "56",
+    "questionText": "In a purely capacitive AC circuit, the current:",
+    "options": [
+      {
+        "text": "Leads the voltage by $90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "Lags behind the voltage by $90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Is in phase with the voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "Leads the voltage by $180^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely capacitive AC circuit, the current leads the voltage by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "EASY"
+  },
+  {
+    "qno": "57",
+    "questionText": "Which of the following statements is true for a phasor diagram?",
+    "options": [
+      {
+        "text": "Phasors rotate counterclockwise with angular frequency $\\omega$.",
+        "isCorrect": true
+      },
+      {
+        "text": "Phasors rotate clockwise with angular frequency $\\omega$.",
+        "isCorrect": false
+      },
+      {
+        "text": "Phasors are static vectors.",
+        "isCorrect": false
+      },
+      {
+        "text": "Phasors do not represent the phase relationship.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a phasor diagram, phasors rotate counterclockwise with angular frequency $\\omega$.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "58",
+    "questionText": "The length of the phasor in an AC circuit represents:",
+    "options": [
+      {
+        "text": "The amplitude (peak value) of the AC quantity.",
+        "isCorrect": true
+      },
+      {
+        "text": "The instantaneous value of the AC quantity.",
+        "isCorrect": false
+      },
+      {
+        "text": "The RMS value of the AC quantity.",
+        "isCorrect": false
+      },
+      {
+        "text": "The average value of the AC quantity.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The length of the phasor represents the amplitude (peak value) of the AC quantity.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "59",
+    "questionText": "If the voltage phasor leads the current phasor by $90^\\circ$, the circuit is:",
+    "options": [
+      {
+        "text": "Purely inductive",
+        "isCorrect": true
+      },
+      {
+        "text": "Purely resistive",
+        "isCorrect": false
+      },
+      {
+        "text": "Purely capacitive",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the voltage phasor leads the current phasor by $90^\\circ$, the circuit is purely inductive.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "60",
+    "questionText": "In an AC circuit, if the current leads the voltage by $90^\\circ$, what type of circuit element is present?",
+    "options": [
+      {
+        "text": "Capacitor",
+        "isCorrect": true
+      },
+      {
+        "text": "Resistor",
+        "isCorrect": false
+      },
+      {
+        "text": "Inductor",
+        "isCorrect": false
+      },
+      {
+        "text": "Transformer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit, if the current leads the voltage by $90^\\circ$, the circuit element present is a capacitor.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "61",
+    "questionText": "A phasor is a rotating vector with an angular frequency $\\omega$. What does $\\omega$ represent?",
+    "options": [
+      {
+        "text": "The angular frequency of the AC signal.",
+        "isCorrect": true
+      },
+      {
+        "text": "The peak value of the AC signal.",
+        "isCorrect": false
+      },
+      {
+        "text": "The RMS value of the AC signal.",
+        "isCorrect": false
+      },
+      {
+        "text": "The average value of the AC signal.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a phasor, $\\omega$ represents the angular frequency of the AC signal.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "62",
+    "questionText": "The phasor representing an AC quantity is rotating in a counterclockwise direction. What does this signify?",
+    "options": [
+      {
+        "text": "The phasor is following the convention for positive angular frequency.",
+        "isCorrect": true
+      },
+      {
+        "text": "The phasor represents a DC quantity.",
+        "isCorrect": false
+      },
+      {
+        "text": "The phasor is following the convention for negative angular frequency.",
+        "isCorrect": false
+      },
+      {
+        "text": "The phasor represents a complex number.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In phasor diagrams, rotating counterclockwise signifies positive angular frequency.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "63",
+    "questionText": "The projection of a voltage phasor on the vertical axis gives:",
+    "options": [
+      {
+        "text": "The instantaneous voltage.",
+        "isCorrect": true
+      },
+      {
+        "text": "The peak voltage.",
+        "isCorrect": false
+      },
+      {
+        "text": "The RMS voltage.",
+        "isCorrect": false
+      },
+      {
+        "text": "The average voltage.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The projection of a voltage phasor on the vertical axis gives the instantaneous voltage.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "64",
+    "questionText": "What does the length of the current phasor represent in an AC circuit?",
+    "options": [
+      {
+        "text": "The peak current.",
+        "isCorrect": true
+      },
+      {
+        "text": "The instantaneous current.",
+        "isCorrect": false
+      },
+      {
+        "text": "The RMS current.",
+        "isCorrect": false
+      },
+      {
+        "text": "The average current.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The length of the current phasor represents the peak current in an AC circuit.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "65",
+    "questionText": "If the current phasor lags behind the voltage phasor by $90^\\circ$, what element is in the AC circuit?",
+    "options": [
+      {
+        "text": "Inductor",
+        "isCorrect": true
+      },
+      {
+        "text": "Resistor",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitor",
+        "isCorrect": false
+      },
+      {
+        "text": "Transformer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the current phasor lags behind the voltage phasor by $90^\\circ$, the element in the AC circuit is an inductor.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "66",
+    "questionText": "In an AC circuit, which element causes the current to lag the voltage by $90^\\circ$?",
+    "options": [
+      {
+        "text": "Inductor",
+        "isCorrect": true
+      },
+      {
+        "text": "Resistor",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitor",
+        "isCorrect": false
+      },
+      {
+        "text": "Transformer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An inductor causes the current to lag the voltage by $90^\\circ$ in an AC circuit.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "67",
+    "questionText": "In a purely capacitive circuit, the phase difference between voltage and current is:",
+    "options": [
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely capacitive circuit, the phase difference between voltage and current is $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "68",
+    "questionText": "In an AC circuit containing only a capacitor, the current:",
+    "options": [
+      {
+        "text": "Leads the voltage by $90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "Lags behind the voltage by $90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Is in phase with the voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "Leads the voltage by $180^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit containing only a capacitor, the current leads the voltage by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "69",
+    "questionText": "The representation of AC quantities using rotating vectors is known as:",
+    "options": [
+      {
+        "text": "Phasor representation",
+        "isCorrect": true
+      },
+      {
+        "text": "Vector representation",
+        "isCorrect": false
+      },
+      {
+        "text": "Scalar representation",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar representation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The representation of AC quantities using rotating vectors is known as phasor representation.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "EASY"
+  },
+  {
+    "qno": "70",
+    "questionText": "In a phasor diagram, the length of the voltage phasor represents:",
+    "options": [
+      {
+        "text": "The peak voltage",
+        "isCorrect": true
+      },
+      {
+        "text": "The RMS voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "The instantaneous voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "The average voltage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a phasor diagram, the length of the voltage phasor represents the peak voltage.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "71",
+    "questionText": "What is the phase difference between the voltage and current in a purely inductive circuit?",
+    "options": [
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely inductive circuit, the phase difference between the voltage and current is $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "EASY"
+  },
+  {
+    "qno": "72",
+    "questionText": "In a phasor diagram, what does the angle between two phasors represent?",
+    "options": [
+      {
+        "text": "The phase difference between the corresponding AC quantities",
+        "isCorrect": true
+      },
+      {
+        "text": "The amplitude of the AC quantities",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency of the AC quantities",
+        "isCorrect": false
+      },
+      {
+        "text": "The RMS values of the AC quantities",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a phasor diagram, the angle between two phasors represents the phase difference between the corresponding AC quantities.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "73",
+    "questionText": "In a purely inductive circuit, the voltage phasor leads the current phasor by:",
+    "options": [
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely inductive circuit, the voltage phasor leads the current phasor by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "EASY"
+  },
+  {
+    "qno": "74",
+    "questionText": "The phase difference between voltage and current in a purely resistive circuit is:",
+    "options": [
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely resistive circuit, the phase difference between voltage and current is $0^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "EASY"
+  },
+  {
+    "qno": "75",
+    "questionText": "What is the phase relationship between voltage and current in a purely capacitive circuit?",
+    "options": [
+      {
+        "text": "Current leads voltage by $90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "Voltage leads current by $90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Current lags behind voltage by $90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Voltage and current are in phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely capacitive circuit, the current leads the voltage by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "76",
+    "questionText": "In a phasor diagram, the voltage phasor is represented by a rotating vector. What does the angle of the phasor with respect to the horizontal axis represent?",
+    "options": [
+      {
+        "text": "The phase angle of the voltage",
+        "isCorrect": true
+      },
+      {
+        "text": "The amplitude of the voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency of the voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "The RMS value of the voltage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a phasor diagram, the angle of the voltage phasor with respect to the horizontal axis represents the phase angle of the voltage.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "77",
+    "questionText": "In an AC circuit with both resistive and reactive elements, the phase difference between voltage and current is:",
+    "options": [
+      {
+        "text": "Between $0^\\circ$ and $90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit with both resistive and reactive elements, the phase difference between voltage and current is between $0^\\circ$ and $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "HARD"
+  },
+  {
+    "qno": "78",
+    "questionText": "If the voltage in an AC circuit is given by $V(t) = V_m \\sin(\\omega t)$, what is the expression for the corresponding phasor?",
+    "options": [
+      {
+        "text": "$V = V_m \\angle 0^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$V = V_m \\angle 90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V = V_m \\angle 180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V = V_m \\angle 270^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The phasor representation of $V(t) = V_m \\sin(\\omega t)$ is $V = V_m \\angle 0^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "HARD"
+  },
+  {
+    "qno": "79",
+    "questionText": "In a purely inductive circuit, the voltage and current are:",
+    "options": [
+      {
+        "text": "Out of phase by $90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "In phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Out of phase by $180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Out of phase by $45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely inductive circuit, the voltage and current are out of phase by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "80",
+    "questionText": "In a phasor diagram, a phasor rotates at an angular frequency $\\omega$. What does this rotation represent?",
+    "options": [
+      {
+        "text": "The time-varying nature of the AC quantity",
+        "isCorrect": true
+      },
+      {
+        "text": "The constant value of the AC quantity",
+        "isCorrect": false
+      },
+      {
+        "text": "The average value of the AC quantity",
+        "isCorrect": false
+      },
+      {
+        "text": "The peak value of the AC quantity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The rotation of a phasor at an angular frequency $\\omega$ represents the time-varying nature of the AC quantity.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "81",
+    "questionText": "In an AC circuit, if the current lags the voltage by $45^\\circ$, what type of circuit element is present?",
+    "options": [
+      {
+        "text": "Both inductive and resistive elements",
+        "isCorrect": true
+      },
+      {
+        "text": "Only resistive elements",
+        "isCorrect": false
+      },
+      {
+        "text": "Only inductive elements",
+        "isCorrect": false
+      },
+      {
+        "text": "Only capacitive elements",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the current lags the voltage by $45^\\circ$, the circuit contains both inductive and resistive elements.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "HARD"
+  },
+  {
+    "qno": "82",
+    "questionText": "In a purely resistive AC circuit, the voltage and current are:",
+    "options": [
+      {
+        "text": "In phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Out of phase by $90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Out of phase by $180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Out of phase by $45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely resistive AC circuit, the voltage and current are in phase.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "EASY"
+  },
+  {
+    "qno": "83",
+    "questionText": "If the current in an AC circuit leads the voltage by $60^\\circ$, the circuit is likely to be:",
+    "options": [
+      {
+        "text": "Capacitive with some resistance",
+        "isCorrect": true
+      },
+      {
+        "text": "Inductive with some resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "Purely resistive",
+        "isCorrect": false
+      },
+      {
+        "text": "Purely inductive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the current leads the voltage by $60^\\circ$, the circuit is likely to be capacitive with some resistance.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "HARD"
+  },
+  {
+    "qno": "84",
+    "questionText": "In a phasor diagram, the length of the current phasor represents:",
+    "options": [
+      {
+        "text": "The peak current",
+        "isCorrect": true
+      },
+      {
+        "text": "The RMS current",
+        "isCorrect": false
+      },
+      {
+        "text": "The instantaneous current",
+        "isCorrect": false
+      },
+      {
+        "text": "The average current",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a phasor diagram, the length of the current phasor represents the peak current.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "85",
+    "questionText": "The projection of a phasor on the horizontal axis represents:",
+    "options": [
+      {
+        "text": "The instantaneous value of the AC quantity",
+        "isCorrect": true
+      },
+      {
+        "text": "The peak value of the AC quantity",
+        "isCorrect": false
+      },
+      {
+        "text": "The RMS value of the AC quantity",
+        "isCorrect": false
+      },
+      {
+        "text": "The average value of the AC quantity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The projection of a phasor on the horizontal axis represents the instantaneous value of the AC quantity.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "HARD"
+  },
+  {
+    "qno": "86",
+    "questionText": "In a phasor diagram, if the current phasor is at $0^\\circ$ and the voltage phasor is at $90^\\circ$, the circuit is:",
+    "options": [
+      {
+        "text": "Purely inductive",
+        "isCorrect": true
+      },
+      {
+        "text": "Purely resistive",
+        "isCorrect": false
+      },
+      {
+        "text": "Purely capacitive",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the current phasor is at $0^\\circ$ and the voltage phasor is at $90^\\circ$, the circuit is purely inductive.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "87",
+    "questionText": "In an AC circuit with a capacitor, the current phasor:",
+    "options": [
+      {
+        "text": "Leads the voltage phasor by $90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "Lags behind the voltage phasor by $90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Is in phase with the voltage phasor",
+        "isCorrect": false
+      },
+      {
+        "text": "Leads the voltage phasor by $180^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit with a capacitor, the current phasor leads the voltage phasor by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "88",
+    "questionText": "In a phasor diagram, the voltage phasor is ahead of the current phasor by $45^\\circ$. What type of circuit element does this indicate?",
+    "options": [
+      {
+        "text": "Inductive",
+        "isCorrect": true
+      },
+      {
+        "text": "Capacitive",
+        "isCorrect": false
+      },
+      {
+        "text": "Resistive",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the voltage phasor is ahead of the current phasor by $45^\\circ$, it indicates the presence of an inductive element.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "HARD"
+  },
+  {
+    "qno": "89",
+    "questionText": "What does the angle between the voltage and current phasors indicate in an AC circuit?",
+    "options": [
+      {
+        "text": "The phase difference between voltage and current",
+        "isCorrect": true
+      },
+      {
+        "text": "The amplitude of the AC quantities",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency of the AC quantities",
+        "isCorrect": false
+      },
+      {
+        "text": "The RMS values of the AC quantities",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The angle between the voltage and current phasors indicates the phase difference between them in an AC circuit.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "90",
+    "questionText": "In a phasor diagram, what does the projection of a phasor on the horizontal axis represent?",
+    "options": [
+      {
+        "text": "The instantaneous value of the AC quantity",
+        "isCorrect": true
+      },
+      {
+        "text": "The peak value of the AC quantity",
+        "isCorrect": false
+      },
+      {
+        "text": "The RMS value of the AC quantity",
+        "isCorrect": false
+      },
+      {
+        "text": "The average value of the AC quantity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The projection of a phasor on the horizontal axis represents the instantaneous value of the AC quantity.",
+    "chapter": "Alternating Current",
+    "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "91",
+    "questionText": "When an AC voltage $V(t) = V_m \\sin(\\omega t)$ is applied across an inductor, the current through the inductor:",
+    "options": [
+      {
+        "text": "Lags behind the voltage by $90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "Leads the voltage by $90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Is in phase with the voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "Lags behind the voltage by $180^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an inductive circuit, the current lags behind the voltage by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "EASY"
+  },
+  {
+    "qno": "92",
+    "questionText": "The inductive reactance $X_L$ is given by:",
+    "options": [
+      {
+        "text": "$X_L = \\omega L$",
+        "isCorrect": true
+      },
+      {
+        "text": "$X_L = \\frac{1}{\\omega L}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$X_L = \\omega C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$X_L = \\frac{1}{\\omega C}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The inductive reactance $X_L$ is given by $X_L = \\omega L$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "EASY"
+  },
+  {
+    "qno": "93",
+    "questionText": "What is the unit of inductive reactance $X_L$?",
+    "options": [
+      {
+        "text": "Ohm ($\\Omega$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Henry (H)",
+        "isCorrect": false
+      },
+      {
+        "text": "Farad (F)",
+        "isCorrect": false
+      },
+      {
+        "text": "Volt (V)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The unit of inductive reactance $X_L$ is Ohm ($\\Omega$).",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "EASY"
+  },
+  {
+    "qno": "94",
+    "questionText": "In a purely inductive AC circuit, the average power consumed is:",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Maximum",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal to the reactive power",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal to the apparent power",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely inductive AC circuit, the average power consumed is zero because the power alternates between positive and negative values, canceling each other out over a full cycle.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "95",
+    "questionText": "The formula for the RMS current in an inductive circuit is given by:",
+    "options": [
+      {
+        "text": "$I_{rms} = \\frac{V_{rms}}{X_L}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$I_{rms} = \\frac{V_{rms}}{R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_{rms} = V_{rms} X_L$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_{rms} = \\frac{X_L}{V_{rms}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The RMS current in an inductive circuit is given by $I_{rms} = \\frac{V_{rms}}{X_L}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "96",
+    "questionText": "In an AC circuit with an inductor, if the frequency of the AC source is doubled, the inductive reactance will:",
+    "options": [
+      {
+        "text": "Double",
+        "isCorrect": true
+      },
+      {
+        "text": "Halve",
+        "isCorrect": false
+      },
+      {
+        "text": "Remain the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Become zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The inductive reactance $X_L = \\omega L$ is directly proportional to the frequency $\\omega$. Therefore, if the frequency is doubled, the inductive reactance will also double.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "97",
+    "questionText": "In an inductive circuit, the phase angle between the voltage and current is:",
+    "options": [
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an inductive circuit, the phase angle between the voltage and current is $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "EASY"
+  },
+  {
+    "qno": "98",
+    "questionText": "The inductive reactance $X_L$ of a coil is directly proportional to:",
+    "options": [
+      {
+        "text": "Frequency",
+        "isCorrect": true
+      },
+      {
+        "text": "Capacitance",
+        "isCorrect": false
+      },
+      {
+        "text": "Resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The inductive reactance $X_L$ is directly proportional to the frequency $f$ of the AC supply.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "99",
+    "questionText": "In a purely inductive AC circuit, the power factor is:",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "One",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely inductive AC circuit, the power factor is zero because the voltage and current are out of phase by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "EASY"
+  },
+  {
+    "qno": "100",
+    "questionText": "For an inductor with inductance $L$ in an AC circuit, the inductive reactance $X_L$ is:",
+    "options": [
+      {
+        "text": "$X_L = \\omega L$",
+        "isCorrect": true
+      },
+      {
+        "text": "$X_L = \\frac{1}{\\omega L}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$X_L = \\omega C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$X_L = \\frac{1}{\\omega C}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an inductor with inductance $L$ in an AC circuit, the inductive reactance $X_L = \\omega L$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "EASY"
+  },
+  {
+    "qno": "101",
+    "questionText": "In a purely inductive AC circuit, the voltage and current are out of phase by:",
+    "options": [
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely inductive AC circuit, the voltage and current are out of phase by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "102",
+    "questionText": "In an AC circuit containing a pure inductor, the current lags the voltage by:",
+    "options": [
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit containing a pure inductor, the current lags the voltage by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "EASY"
+  },
+  {
+    "qno": "103",
+    "questionText": "For an inductor with inductance $L$, the impedance in an AC circuit is given by:",
+    "options": [
+      {
+        "text": "$Z = j\\omega L$",
+        "isCorrect": true
+      },
+      {
+        "text": "$Z = \\frac{1}{j\\omega L}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Z = \\omega L$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Z = \\frac{1}{\\omega L}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The impedance $Z$ of an inductor with inductance $L$ in an AC circuit is given by $Z = j\\omega L$, where $j$ is the imaginary unit.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "104",
+    "questionText": "In a purely inductive circuit, the instantaneous power alternates between positive and negative values. This results in:",
+    "options": [
+      {
+        "text": "Zero average power",
+        "isCorrect": true
+      },
+      {
+        "text": "Maximum power dissipation",
+        "isCorrect": false
+      },
+      {
+        "text": "Constant power dissipation",
+        "isCorrect": false
+      },
+      {
+        "text": "Minimum power dissipation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely inductive circuit, the instantaneous power alternates between positive and negative values, resulting in zero average power.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "105",
+    "questionText": "If the inductive reactance in an AC circuit is $50\\Omega$ and the inductance is $L$, what is the frequency of the AC source?",
+    "options": [
+      {
+        "text": "$f = \\frac{50}{2\\pi L}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$f = \\frac{L}{50}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f = 2\\pi L$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f = \\frac{50L}{2\\pi}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The inductive reactance $X_L = 2\\pi f L$. Therefore, $f = \\frac{X_L}{2\\pi L} = \\frac{50}{2\\pi L}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "HARD"
+  },
+  {
+    "qno": "106",
+    "questionText": "What is the average power consumed by a purely inductive AC circuit with RMS voltage $V_{rms}$ and RMS current $I_{rms}$?",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "$V_{rms} I_{rms}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{V_{rms} I_{rms}}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{V_{rms}}{I_{rms}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average power consumed by a purely inductive AC circuit is zero because the power alternates between positive and negative values, canceling each other out over a full cycle.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "107",
+    "questionText": "In an AC circuit with an inductor, the inductive reactance is directly proportional to:",
+    "options": [
+      {
+        "text": "Frequency",
+        "isCorrect": true
+      },
+      {
+        "text": "Capacitance",
+        "isCorrect": false
+      },
+      {
+        "text": "Resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "Conductance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit with an inductor, the inductive reactance $X_L = \\omega L$ is directly proportional to the frequency $\\omega$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "EASY"
+  },
+  {
+    "qno": "108",
+    "questionText": "In a purely inductive AC circuit, the phase angle between the current and voltage is:",
+    "options": [
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely inductive AC circuit, the phase angle between the current and voltage is $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "EASY"
+  },
+  {
+    "qno": "109",
+    "questionText": "The impedance of an inductor in an AC circuit is given by $Z = j\\omega L$. What does the imaginary unit $j$ represent?",
+    "options": [
+      {
+        "text": "The phase difference between voltage and current",
+        "isCorrect": true
+      },
+      {
+        "text": "The magnitude of the impedance",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency of the AC source",
+        "isCorrect": false
+      },
+      {
+        "text": "The amplitude of the current",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The imaginary unit $j$ in the impedance $Z = j\\omega L$ represents the phase difference between the voltage and current in an inductive circuit.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "HARD"
+  },
+  {
+    "qno": "110",
+    "questionText": "If the inductive reactance of an inductor is $100\\Omega$ at a frequency of $50$Hz, what is the inductance of the inductor?",
+    "options": [
+      {
+        "text": "$L = \\frac{100}{2\\pi \\times 50}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$L = \\frac{100}{50}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$L = \\frac{50}{100}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$L = \\frac{2\\pi \\times 50}{100}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The inductive reactance $X_L = 2\\pi f L$. Therefore, $L = \\frac{X_L}{2\\pi f} = \\frac{100}{2\\pi \\times 50}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "HARD"
+  },
+  {
+    "qno": "111",
+    "questionText": "In a purely inductive AC circuit, if the frequency of the AC source is halved, the inductive reactance will:",
+    "options": [
+      {
+        "text": "Halve",
+        "isCorrect": true
+      },
+      {
+        "text": "Double",
+        "isCorrect": false
+      },
+      {
+        "text": "Remain the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Become zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely inductive AC circuit, the inductive reactance $X_L = \\omega L$. If the frequency is halved, the inductive reactance will also halve.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "112",
+    "questionText": "In an AC circuit with an inductor, if the inductive reactance is $200\\Omega$ and the frequency is $60$Hz, what is the inductance of the inductor?",
+    "options": [
+      {
+        "text": "$L = \\frac{200}{2\\pi \\times 60}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$L = \\frac{60}{200}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$L = \\frac{2\\pi \\times 60}{200}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$L = \\frac{200}{60}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The inductive reactance $X_L = 2\\pi f L$. Therefore, $L = \\frac{X_L}{2\\pi f} = \\frac{200}{2\\pi \\times 60}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "HARD"
+  },
+  {
+    "qno": "113",
+    "questionText": "The impedance of a purely inductive circuit is given by $Z = j\\omega L$. What is the phase angle between voltage and current in such a circuit?",
+    "options": [
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The phase angle between voltage and current in a purely inductive circuit is $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "114",
+    "questionText": "In a purely inductive AC circuit, the average power consumed is zero because:",
+    "options": [
+      {
+        "text": "The power alternates between positive and negative values.",
+        "isCorrect": true
+      },
+      {
+        "text": "The power is constant.",
+        "isCorrect": false
+      },
+      {
+        "text": "The current and voltage are in phase.",
+        "isCorrect": false
+      },
+      {
+        "text": "The impedance is zero.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely inductive AC circuit, the average power consumed is zero because the power alternates between positive and negative values, canceling each other out over a full cycle.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "115",
+    "questionText": "If the frequency of an AC source is increased, the inductive reactance of an inductor will:",
+    "options": [
+      {
+        "text": "Increase",
+        "isCorrect": true
+      },
+      {
+        "text": "Decrease",
+        "isCorrect": false
+      },
+      {
+        "text": "Remain the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Become zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The inductive reactance $X_L = \\omega L$ is directly proportional to the frequency $\\omega$. Therefore, if the frequency is increased, the inductive reactance will also increase.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "EASY"
+  },
+  {
+    "qno": "116",
+    "questionText": "In an AC circuit containing a pure inductor, the instantaneous power alternates between positive and negative values. This indicates that:",
+    "options": [
+      {
+        "text": "The inductor stores and releases energy.",
+        "isCorrect": true
+      },
+      {
+        "text": "The inductor dissipates energy.",
+        "isCorrect": false
+      },
+      {
+        "text": "The inductor increases the power.",
+        "isCorrect": false
+      },
+      {
+        "text": "The inductor decreases the power.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit containing a pure inductor, the instantaneous power alternates between positive and negative values, indicating that the inductor stores and releases energy.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "117",
+    "questionText": "The inductive reactance of an inductor in an AC circuit is $30\\Omega$ at a frequency of $50$Hz. What is the inductance of the inductor?",
+    "options": [
+      {
+        "text": "$L = \\frac{30}{2\\pi \\times 50}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$L = \\frac{30}{50}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$L = \\frac{50}{30}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$L = \\frac{2\\pi \\times 50}{30}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The inductive reactance $X_L = 2\\pi f L$. Therefore, $L = \\frac{X_L}{2\\pi f} = \\frac{30}{2\\pi \\times 50}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "HARD"
+  },
+  {
+    "qno": "118",
+    "questionText": "In an inductive circuit, the phase difference between the voltage and current is $90^\\circ$. The voltage:",
+    "options": [
+      {
+        "text": "Leads the current",
+        "isCorrect": true
+      },
+      {
+        "text": "Lags behind the current",
+        "isCorrect": false
+      },
+      {
+        "text": "Is in phase with the current",
+        "isCorrect": false
+      },
+      {
+        "text": "Is out of phase by $180^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an inductive circuit, the voltage leads the current by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "EASY"
+  },
+  {
+    "qno": "119",
+    "questionText": "The impedance of an inductor in an AC circuit is given by $Z = j\\omega L$. The magnitude of the impedance is:",
+    "options": [
+      {
+        "text": "$|Z| = \\omega L$",
+        "isCorrect": true
+      },
+      {
+        "text": "$|Z| = \\frac{1}{\\omega L}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$|Z| = j\\omega L$",
+        "isCorrect": false
+      },
+      {
+        "text": "$|Z| = \\frac{\\omega L}{j}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnitude of the impedance of an inductor in an AC circuit is $|Z| = \\omega L$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "HARD"
+  },
+  {
+    "qno": "120",
+    "questionText": "If an AC source with an RMS voltage of $120V$ is connected to an inductor with an inductive reactance of $60\\Omega$, what is the RMS current?",
+    "options": [
+      {
+        "text": "$I_{rms} = 2A$",
+        "isCorrect": true
+      },
+      {
+        "text": "$I_{rms} = 1A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_{rms} = 0.5A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_{rms} = 4A$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The RMS current $I_{rms}$ is given by $I_{rms} = \\frac{V_{rms}}{X_L} = \\frac{120V}{60\\Omega} = 2A$.",
+    "chapter": "Alternating Current",
+    "topic": "7.4 AC Voltage Applied to an Inductor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "131",
+    "questionText": "When an AC voltage $V(t) = V_m \\sin(\\omega t)$ is applied across a capacitor, the current through the capacitor:",
+    "options": [
+      {
+        "text": "Leads the voltage by $90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "Lags behind the voltage by $90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Is in phase with the voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "Lags behind the voltage by $180^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a capacitive circuit, the current leads the voltage by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "EASY"
+  },
+  {
+    "qno": "132",
+    "questionText": "The capacitive reactance $X_C$ is given by:",
+    "options": [
+      {
+        "text": "$X_C = \\frac{1}{\\omega C}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$X_C = \\omega C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$X_C = \\frac{1}{L}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$X_C = L$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The capacitive reactance $X_C$ is given by $X_C = \\frac{1}{\\omega C}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "EASY"
+  },
+  {
+    "qno": "133",
+    "questionText": "What is the unit of capacitive reactance $X_C$?",
+    "options": [
+      {
+        "text": "Ohm ($\\Omega$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Henry (H)",
+        "isCorrect": false
+      },
+      {
+        "text": "Farad (F)",
+        "isCorrect": false
+      },
+      {
+        "text": "Volt (V)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The unit of capacitive reactance $X_C$ is Ohm ($\\Omega$).",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "EASY"
+  },
+  {
+    "qno": "134",
+    "questionText": "In a purely capacitive AC circuit, the average power consumed is:",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Maximum",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal to the reactive power",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal to the apparent power",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely capacitive AC circuit, the average power consumed is zero because the power alternates between positive and negative values, canceling each other out over a full cycle.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "135",
+    "questionText": "The formula for the RMS current in a capacitive circuit is given by:",
+    "options": [
+      {
+        "text": "$I_{rms} = \\frac{V_{rms}}{X_C}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$I_{rms} = \\frac{V_{rms}}{R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_{rms} = V_{rms} X_C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_{rms} = \\frac{X_C}{V_{rms}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The RMS current in a capacitive circuit is given by $I_{rms} = \\frac{V_{rms}}{X_C}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "136",
+    "questionText": "In an AC circuit with a capacitor, if the frequency of the AC source is doubled, the capacitive reactance will:",
+    "options": [
+      {
+        "text": "Halve",
+        "isCorrect": true
+      },
+      {
+        "text": "Double",
+        "isCorrect": false
+      },
+      {
+        "text": "Remain the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Become zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The capacitive reactance $X_C = \\frac{1}{\\omega C}$ is inversely proportional to the frequency $\\omega$. Therefore, if the frequency is doubled, the capacitive reactance will halve.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "137",
+    "questionText": "In a capacitive circuit, the phase angle between the voltage and current is:",
+    "options": [
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a capacitive circuit, the phase angle between the voltage and current is $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "EASY"
+  },
+  {
+    "qno": "138",
+    "questionText": "The capacitive reactance $X_C$ of a capacitor is inversely proportional to:",
+    "options": [
+      {
+        "text": "Frequency",
+        "isCorrect": true
+      },
+      {
+        "text": "Inductance",
+        "isCorrect": false
+      },
+      {
+        "text": "Resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The capacitive reactance $X_C$ is inversely proportional to the frequency $f$ of the AC supply.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "139",
+    "questionText": "In a purely capacitive AC circuit, the power factor is:",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "One",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely capacitive AC circuit, the power factor is zero because the voltage and current are out of phase by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "EASY"
+  },
+  {
+    "qno": "140",
+    "questionText": "For a capacitor with capacitance $C$ in an AC circuit, the capacitive reactance $X_C$ is:",
+    "options": [
+      {
+        "text": "$X_C = \\frac{1}{\\omega C}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$X_C = \\omega C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$X_C = \\frac{1}{L}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$X_C = L$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a capacitor with capacitance $C$ in an AC circuit, the capacitive reactance $X_C = \\frac{1}{\\omega C}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "EASY"
+  },
+  {
+    "qno": "141",
+    "questionText": "In a purely capacitive AC circuit, the voltage and current are out of phase by:",
+    "options": [
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely capacitive AC circuit, the voltage and current are out of phase by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "142",
+    "questionText": "In an AC circuit containing a pure capacitor, the current leads the voltage by:",
+    "options": [
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit containing a pure capacitor, the current leads the voltage by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "EASY"
+  },
+  {
+    "qno": "143",
+    "questionText": "For a capacitor with capacitance $C$, the impedance in an AC circuit is given by:",
+    "options": [
+      {
+        "text": "$Z = \\frac{1}{j\\omega C}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$Z = j\\omega C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Z = \\frac{1}{\\omega C}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Z = \\omega C$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The impedance $Z$ of a capacitor with capacitance $C$ in an AC circuit is given by $Z = \\frac{1}{j\\omega C}$, where $j$ is the imaginary unit.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "144",
+    "questionText": "In a purely capacitive circuit, the instantaneous power alternates between positive and negative values. This results in:",
+    "options": [
+      {
+        "text": "Zero average power",
+        "isCorrect": true
+      },
+      {
+        "text": "Maximum power dissipation",
+        "isCorrect": false
+      },
+      {
+        "text": "Constant power dissipation",
+        "isCorrect": false
+      },
+      {
+        "text": "Minimum power dissipation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely capacitive circuit, the instantaneous power alternates between positive and negative values, resulting in zero average power.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "145",
+    "questionText": "If the capacitive reactance in an AC circuit is $50\\Omega$ and the capacitance is $C$, what is the frequency of the AC source?",
+    "options": [
+      {
+        "text": "$f = \\frac{1}{2\\pi \\times 50C}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$f = \\frac{C}{50}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f = 2\\pi C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f = \\frac{50C}{2\\pi}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The capacitive reactance $X_C = \\frac{1}{2\\pi f C}$. Therefore, $f = \\frac{1}{2\\pi X_C C} = \\frac{1}{2\\pi \\times 50C}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "HARD"
+  },
+  {
+    "qno": "146",
+    "questionText": "What is the average power consumed by a purely capacitive AC circuit with RMS voltage $V_{rms}$ and RMS current $I_{rms}$?",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "$V_{rms} I_{rms}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{V_{rms} I_{rms}}{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{V_{rms}}{I_{rms}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average power consumed by a purely capacitive AC circuit is zero because the power alternates between positive and negative values, canceling each other out over a full cycle.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "147",
+    "questionText": "In an AC circuit with a capacitor, the capacitive reactance is inversely proportional to:",
+    "options": [
+      {
+        "text": "Frequency",
+        "isCorrect": true
+      },
+      {
+        "text": "Inductance",
+        "isCorrect": false
+      },
+      {
+        "text": "Resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "Conductance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit with a capacitor, the capacitive reactance $X_C = \\frac{1}{\\omega C}$ is inversely proportional to the frequency $\\omega$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "EASY"
+  },
+  {
+    "qno": "148",
+    "questionText": "In a purely capacitive AC circuit, the phase angle between the current and voltage is:",
+    "options": [
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely capacitive AC circuit, the phase angle between the current and voltage is $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "EASY"
+  },
+  {
+    "qno": "149",
+    "questionText": "The impedance of a capacitor in an AC circuit is given by $Z = \\frac{1}{j\\omega C}$. What does the imaginary unit $j$ represent?",
+    "options": [
+      {
+        "text": "The phase difference between voltage and current",
+        "isCorrect": true
+      },
+      {
+        "text": "The magnitude of the impedance",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency of the AC source",
+        "isCorrect": false
+      },
+      {
+        "text": "The amplitude of the current",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The imaginary unit $j$ in the impedance $Z = \\frac{1}{j\\omega C}$ represents the phase difference between the voltage and current in a capacitive circuit.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "HARD"
+  },
+  {
+    "qno": "150",
+    "questionText": "If the capacitive reactance of a capacitor is $100\\Omega$ at a frequency of $50$Hz, what is the capacitance of the capacitor?",
+    "options": [
+      {
+        "text": "$C = \\frac{1}{2\\pi \\times 50 \\times 100}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C = \\frac{100}{50}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C = \\frac{50}{100}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C = \\frac{2\\pi \\times 50}{100}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The capacitive reactance $X_C = \\frac{1}{2\\pi f C}$. Therefore, $C = \\frac{1}{2\\pi f X_C} = \\frac{1}{2\\pi \\times 50 \\times 100}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "HARD"
+  },
+  {
+    "qno": "151",
+    "questionText": "In a purely capacitive AC circuit, if the frequency of the AC source is halved, the capacitive reactance will:",
+    "options": [
+      {
+        "text": "Double",
+        "isCorrect": true
+      },
+      {
+        "text": "Halve",
+        "isCorrect": false
+      },
+      {
+        "text": "Remain the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Become zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely capacitive AC circuit, the capacitive reactance $X_C = \\frac{1}{\\omega C}$. If the frequency is halved, the capacitive reactance will double.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "152",
+    "questionText": "In an AC circuit with a capacitor, if the capacitive reactance is $200\\Omega$ and the frequency is $60$Hz, what is the capacitance of the capacitor?",
+    "options": [
+      {
+        "text": "$C = \\frac{1}{2\\pi \\times 60 \\times 200}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C = \\frac{60}{200}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C = \\frac{2\\pi \\times 60}{200}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C = \\frac{200}{60}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The capacitive reactance $X_C = \\frac{1}{2\\pi f C}$. Therefore, $C = \\frac{1}{2\\pi f X_C} = \\frac{1}{2\\pi \\times 60 \\times 200}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "HARD"
+  },
+  {
+    "qno": "153",
+    "questionText": "The impedance of a capacitor in an AC circuit is given by $Z = \\frac{1}{j\\omega C}$. What is the phase angle between voltage and current in such a circuit?",
+    "options": [
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The phase angle between voltage and current in a purely capacitive circuit is $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "154",
+    "questionText": "In a purely capacitive AC circuit, the average power consumed is zero because:",
+    "options": [
+      {
+        "text": "The power alternates between positive and negative values.",
+        "isCorrect": true
+      },
+      {
+        "text": "The power is constant.",
+        "isCorrect": false
+      },
+      {
+        "text": "The current and voltage are in phase.",
+        "isCorrect": false
+      },
+      {
+        "text": "The impedance is zero.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely capacitive AC circuit, the average power consumed is zero because the power alternates between positive and negative values, canceling each other out over a full cycle.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "155",
+    "questionText": "If the frequency of an AC source is increased, the capacitive reactance of a capacitor will:",
+    "options": [
+      {
+        "text": "Decrease",
+        "isCorrect": true
+      },
+      {
+        "text": "Increase",
+        "isCorrect": false
+      },
+      {
+        "text": "Remain the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Become zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The capacitive reactance $X_C = \\frac{1}{\\omega C}$ is inversely proportional to the frequency $\\omega$. Therefore, if the frequency is increased, the capacitive reactance will decrease.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "EASY"
+  },
+  {
+    "qno": "156",
+    "questionText": "In an AC circuit containing a pure capacitor, the instantaneous power alternates between positive and negative values. This indicates that:",
+    "options": [
+      {
+        "text": "The capacitor stores and releases energy.",
+        "isCorrect": true
+      },
+      {
+        "text": "The capacitor dissipates energy.",
+        "isCorrect": false
+      },
+      {
+        "text": "The capacitor increases the power.",
+        "isCorrect": false
+      },
+      {
+        "text": "The capacitor decreases the power.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit containing a pure capacitor, the instantaneous power alternates between positive and negative values, indicating that the capacitor stores and releases energy.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "157",
+    "questionText": "The capacitive reactance of a capacitor in an AC circuit is $30\\Omega$ at a frequency of $50$Hz. What is the capacitance of the capacitor?",
+    "options": [
+      {
+        "text": "$C = \\frac{1}{2\\pi \\times 50 \\times 30}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C = \\frac{30}{50}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C = \\frac{50}{30}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C = \\frac{2\\pi \\times 50}{30}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The capacitive reactance $X_C = \\frac{1}{2\\pi f C}$. Therefore, $C = \\frac{1}{2\\pi f X_C} = \\frac{1}{2\\pi \\times 50 \\times 30}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "HARD"
+  },
+  {
+    "qno": "158",
+    "questionText": "In a capacitive circuit, the phase difference between the voltage and current is $90^\\circ$. The current:",
+    "options": [
+      {
+        "text": "Leads the voltage",
+        "isCorrect": true
+      },
+      {
+        "text": "Lags behind the voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "Is in phase with the voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "Is out of phase by $180^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a capacitive circuit, the current leads the voltage by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "EASY"
+  },
+  {
+    "qno": "159",
+    "questionText": "The impedance of a capacitor in an AC circuit is given by $Z = \\frac{1}{j\\omega C}$. The magnitude of the impedance is:",
+    "options": [
+      {
+        "text": "$|Z| = \\frac{1}{\\omega C}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$|Z| = \\omega C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$|Z| = j\\omega C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$|Z| = \\frac{\\omega C}{j}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnitude of the impedance of a capacitor in an AC circuit is $|Z| = \\frac{1}{\\omega C}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "HARD"
+  },
+  {
+    "qno": "160",
+    "questionText": "If an AC source with an RMS voltage of $120V$ is connected to a capacitor with a capacitive reactance of $60\\Omega$, what is the RMS current?",
+    "options": [
+      {
+        "text": "$I_{rms} = 2A$",
+        "isCorrect": true
+      },
+      {
+        "text": "$I_{rms} = 1A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_{rms} = 0.5A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_{rms} = 4A$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The RMS current $I_{rms}$ is given by $I_{rms} = \\frac{V_{rms}}{X_C} = \\frac{120V}{60\\Omega} = 2A$.",
+    "chapter": "Alternating Current",
+    "topic": "7.5 AC Voltage Applied to a Capacitor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "171",
+    "questionText": "In a series LCR circuit, the impedance $Z$ is given by:",
+    "options": [
+      {
+        "text": "$Z = \\sqrt{R^2 + (X_L - X_C)^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$Z = R + X_L + X_C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Z = \\sqrt{R^2 + (X_L + X_C)^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Z = R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the impedance $Z$ is given by $Z = \\sqrt{R^2 + (X_L - X_C)^2}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "172",
+    "questionText": "The resonance frequency $f_0$ of a series LCR circuit is given by:",
+    "options": [
+      {
+        "text": "$f_0 = \\frac{1}{2\\pi \\sqrt{LC}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$f_0 = \\frac{1}{2\\pi LC}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f_0 = \\frac{LC}{2\\pi}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f_0 = 2\\pi \\sqrt{LC}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The resonance frequency $f_0$ of a series LCR circuit is given by $f_0 = \\frac{1}{2\\pi \\sqrt{LC}}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "173",
+    "questionText": "At resonance in a series LCR circuit, the impedance is:",
+    "options": [
+      {
+        "text": "Minimum",
+        "isCorrect": true
+      },
+      {
+        "text": "Maximum",
+        "isCorrect": false
+      },
+      {
+        "text": "Infinite",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At resonance, the inductive reactance $X_L$ equals the capacitive reactance $X_C$, and the impedance is minimum, equal to $R$.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "174",
+    "questionText": "The quality factor $Q$ of a series LCR circuit is given by:",
+    "options": [
+      {
+        "text": "$Q = \\frac{1}{R} \\sqrt{\\frac{L}{C}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$Q = \\frac{R}{L} \\sqrt{C}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Q = R \\sqrt{\\frac{L}{C}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Q = \\frac{L}{R} \\sqrt{C}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The quality factor $Q$ of a series LCR circuit is given by $Q = \\frac{1}{R} \\sqrt{\\frac{L}{C}}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "175",
+    "questionText": "At resonance in a series LCR circuit, the phase angle between voltage and current is:",
+    "options": [
+      {
+        "text": "$0^\\circ$",
+        "isCorrect": true
+      },
+      {
+        "text": "$90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$180^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$45^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At resonance, the phase angle between voltage and current in a series LCR circuit is $0^\\circ$ because the inductive and capacitive reactances cancel each other out.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "176",
+    "questionText": "In a series LCR circuit, if $X_L > X_C$, the circuit is:",
+    "options": [
+      {
+        "text": "Inductive",
+        "isCorrect": true
+      },
+      {
+        "text": "Capacitive",
+        "isCorrect": false
+      },
+      {
+        "text": "Resonant",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, if the inductive reactance $X_L$ is greater than the capacitive reactance $X_C$, the circuit is inductive.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "177",
+    "questionText": "In a series LCR circuit, if $X_C > X_L$, the circuit is:",
+    "options": [
+      {
+        "text": "Capacitive",
+        "isCorrect": true
+      },
+      {
+        "text": "Inductive",
+        "isCorrect": false
+      },
+      {
+        "text": "Resonant",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, if the capacitive reactance $X_C$ is greater than the inductive reactance $X_L$, the circuit is capacitive.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "178",
+    "questionText": "The total reactance $X$ of a series LCR circuit is given by:",
+    "options": [
+      {
+        "text": "$X = X_L - X_C$",
+        "isCorrect": true
+      },
+      {
+        "text": "$X = X_L + X_C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$X = \\sqrt{X_L^2 + X_C^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$X = \\frac{X_L}{X_C}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The total reactance $X$ of a series LCR circuit is given by $X = X_L - X_C$.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "179",
+    "questionText": "In a series LCR circuit at resonance, the current:",
+    "options": [
+      {
+        "text": "Is maximum",
+        "isCorrect": true
+      },
+      {
+        "text": "Is minimum",
+        "isCorrect": false
+      },
+      {
+        "text": "Is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Depends on the values of $L$, $C$, and $R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At resonance in a series LCR circuit, the impedance is minimum, and the current is maximum.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "180",
+    "questionText": "The bandwidth of a series LCR circuit is given by:",
+    "options": [
+      {
+        "text": "$B = \\frac{R}{L}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$B = \\frac{L}{R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$B = R \\sqrt{\\frac{L}{C}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$B = \\frac{1}{R} \\sqrt{\\frac{L}{C}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bandwidth $B$ of a series LCR circuit is given by $B = \\frac{R}{L}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "181",
+    "questionText": "In a series LCR circuit, if the resistance $R$ is increased, the bandwidth:",
+    "options": [
+      {
+        "text": "Increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Depends on the values of $L$ and $C$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, if the resistance $R$ is increased, the bandwidth increases because the bandwidth $B = \\frac{R}{L}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "182",
+    "questionText": "In a series LCR circuit at resonance, the power factor is:",
+    "options": [
+      {
+        "text": "One",
+        "isCorrect": true
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At resonance, the power factor of a series LCR circuit is one because the voltage and current are in phase.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "183",
+    "questionText": "In a series LCR circuit, the phase angle $\\phi$ between the voltage and current is given by:",
+    "options": [
+      {
+        "text": "$\\tan \\phi = \\frac{X_L - X_C}{R}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\tan \\phi = \\frac{R}{X_L - X_C}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\tan \\phi = \\frac{X_L + X_C}{R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\tan \\phi = \\frac{R}{X_L + X_C}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the phase angle $\\phi$ between the voltage and current is given by $\\tan \\phi = \\frac{X_L - X_C}{R}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "184",
+    "questionText": "In a series LCR circuit, the total voltage $V$ is given by:",
+    "options": [
+      {
+        "text": "$V = \\sqrt{V_R^2 + (V_L - V_C)^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$V = V_R + V_L + V_C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V = \\sqrt{V_R^2 + (V_L + V_C)^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V = V_R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the total voltage $V$ is given by $V = \\sqrt{V_R^2 + (V_L - V_C)^2}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "185",
+    "questionText": "In a series LCR circuit, the power consumed is given by:",
+    "options": [
+      {
+        "text": "$P = V_{rms} I_{rms} \\cos \\phi$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P = V_{rms} I_{rms}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = V_{rms} I_{rms} \\sin \\phi$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = V_{rms} I_{rms} \\tan \\phi$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the power consumed is given by $P = V_{rms} I_{rms} \\cos \\phi$, where $\\phi$ is the phase angle between the voltage and current.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "186",
+    "questionText": "The phase angle $\\phi$ in a series LCR circuit is positive if:",
+    "options": [
+      {
+        "text": "$X_L > X_C$",
+        "isCorrect": true
+      },
+      {
+        "text": "$X_C > X_L$",
+        "isCorrect": false
+      },
+      {
+        "text": "$X_L = X_C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$R > X_L$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The phase angle $\\phi$ in a series LCR circuit is positive if the inductive reactance $X_L$ is greater than the capacitive reactance $X_C$, indicating an inductive circuit.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "187",
+    "questionText": "The phase angle $\\phi$ in a series LCR circuit is negative if:",
+    "options": [
+      {
+        "text": "$X_C > X_L$",
+        "isCorrect": true
+      },
+      {
+        "text": "$X_L > X_C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$X_L = X_C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$R > X_C$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The phase angle $\\phi$ in a series LCR circuit is negative if the capacitive reactance $X_C$ is greater than the inductive reactance $X_L$, indicating a capacitive circuit.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "188",
+    "questionText": "In a series LCR circuit, the current is given by:",
+    "options": [
+      {
+        "text": "$I = \\frac{V}{Z}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$I = VZ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I = \\frac{Z}{V}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I = V + Z$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the current $I$ is given by $I = \\frac{V}{Z}$, where $Z$ is the impedance of the circuit.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "189",
+    "questionText": "In a series LCR circuit, if the inductance $L$ is doubled, the resonance frequency $f_0$ will:",
+    "options": [
+      {
+        "text": "Decrease",
+        "isCorrect": true
+      },
+      {
+        "text": "Increase",
+        "isCorrect": false
+      },
+      {
+        "text": "Remain the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Become zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The resonance frequency $f_0 = \\frac{1}{2\\pi \\sqrt{LC}}$. If the inductance $L$ is doubled, the resonance frequency will decrease.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "190",
+    "questionText": "In a series LCR circuit, if the capacitance $C$ is doubled, the resonance frequency $f_0$ will:",
+    "options": [
+      {
+        "text": "Decrease",
+        "isCorrect": true
+      },
+      {
+        "text": "Increase",
+        "isCorrect": false
+      },
+      {
+        "text": "Remain the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Become zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The resonance frequency $f_0 = \\frac{1}{2\\pi \\sqrt{LC}}$. If the capacitance $C$ is doubled, the resonance frequency will decrease.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "191",
+    "questionText": "In a series LCR circuit, the voltage across the resistor is given by:",
+    "options": [
+      {
+        "text": "$V_R = IR$",
+        "isCorrect": true
+      },
+      {
+        "text": "$V_R = IX_R$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_R = IZ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_R = I(X_L - X_C)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the voltage $V_R$ across the resistor is given by $V_R = IR$, where $I$ is the current and $R$ is the resistance.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "192",
+    "questionText": "In a series LCR circuit, the voltage across the inductor is given by:",
+    "options": [
+      {
+        "text": "$V_L = IX_L$",
+        "isCorrect": true
+      },
+      {
+        "text": "$V_L = IR$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_L = IZ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_L = I(X_C - X_R)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the voltage $V_L$ across the inductor is given by $V_L = IX_L$, where $I$ is the current and $X_L$ is the inductive reactance.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "193",
+    "questionText": "In a series LCR circuit, the voltage across the capacitor is given by:",
+    "options": [
+      {
+        "text": "$V_C = IX_C$",
+        "isCorrect": true
+      },
+      {
+        "text": "$V_C = IR$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_C = IZ$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_C = I(X_L - X_R)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the voltage $V_C$ across the capacitor is given by $V_C = IX_C$, where $I$ is the current and $X_C$ is the capacitive reactance.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "194",
+    "questionText": "In a series LCR circuit, the total voltage $V$ is the vector sum of:",
+    "options": [
+      {
+        "text": "$V_R$, $V_L$, and $V_C$",
+        "isCorrect": true
+      },
+      {
+        "text": "$V_R$ and $V_L$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_R$ and $V_C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V_L$ and $V_C$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the total voltage $V$ is the vector sum of $V_R$, $V_L$, and $V_C$.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "195",
+    "questionText": "In a series LCR circuit at resonance, the voltage across the inductor and the capacitor:",
+    "options": [
+      {
+        "text": "Are equal and opposite",
+        "isCorrect": true
+      },
+      {
+        "text": "Are equal and in phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Are maximum",
+        "isCorrect": false
+      },
+      {
+        "text": "Are zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At resonance, the voltage across the inductor and the capacitor are equal in magnitude and opposite in phase, thus canceling each other out.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "196",
+    "questionText": "In a series LCR circuit, the resonant frequency is determined by:",
+    "options": [
+      {
+        "text": "$L$ and $C$",
+        "isCorrect": true
+      },
+      {
+        "text": "$R$ and $L$",
+        "isCorrect": false
+      },
+      {
+        "text": "$R$ and $C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$R$, $L$, and $C$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the resonant frequency is determined by the inductance $L$ and capacitance $C$, and is given by $f_0 = \\frac{1}{2\\pi \\sqrt{LC}}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "197",
+    "questionText": "In a series LCR circuit at resonance, the current is:",
+    "options": [
+      {
+        "text": "In phase with the voltage",
+        "isCorrect": true
+      },
+      {
+        "text": "Lagging behind the voltage by $90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Leading the voltage by $90^\\circ$",
+        "isCorrect": false
+      },
+      {
+        "text": "Lagging behind the voltage by $180^\\circ$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At resonance in a series LCR circuit, the current is in phase with the voltage because the inductive and capacitive reactances cancel each other out.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "198",
+    "questionText": "In a series LCR circuit, the maximum current occurs at:",
+    "options": [
+      {
+        "text": "Resonance frequency",
+        "isCorrect": true
+      },
+      {
+        "text": "Zero frequency",
+        "isCorrect": false
+      },
+      {
+        "text": "Infinite frequency",
+        "isCorrect": false
+      },
+      {
+        "text": "Any frequency",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the maximum current occurs at the resonance frequency because the impedance is minimum at resonance.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "199",
+    "questionText": "In a series LCR circuit, the resonant frequency is:",
+    "options": [
+      {
+        "text": "The frequency at which the impedance is minimum",
+        "isCorrect": true
+      },
+      {
+        "text": "The frequency at which the impedance is maximum",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency at which the resistance is maximum",
+        "isCorrect": false
+      },
+      {
+        "text": "The frequency at which the inductance is maximum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the resonant frequency is the frequency at which the impedance is minimum.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "200",
+    "questionText": "In a series LCR circuit, if the resistance $R$ is zero, the quality factor $Q$ will be:",
+    "options": [
+      {
+        "text": "Infinite",
+        "isCorrect": true
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Maximum",
+        "isCorrect": false
+      },
+      {
+        "text": "Minimum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, if the resistance $R$ is zero, the quality factor $Q = \\frac{1}{R} \\sqrt{\\frac{L}{C}}$ will be infinite.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "201",
+    "questionText": "In a series LCR circuit, the power dissipated at resonance is:",
+    "options": [
+      {
+        "text": "Maximum",
+        "isCorrect": true
+      },
+      {
+        "text": "Minimum",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Infinite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the power dissipated at resonance is maximum because the current is maximum at resonance.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "202",
+    "questionText": "In a series LCR circuit, the impedance $Z$ is:",
+    "options": [
+      {
+        "text": "$Z = \\sqrt{R^2 + (X_L - X_C)^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$Z = R + X_L + X_C$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Z = \\sqrt{R^2 + (X_L + X_C)^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Z = R$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the impedance $Z$ is given by $Z = \\sqrt{R^2 + (X_L - X_C)^2}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "204",
+    "questionText": "In a series LCR circuit, the phase angle between the voltage and current is given by:",
+    "options": [
+      {
+        "text": "$\\tan \\phi = \\frac{X_L - X_C}{R}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\tan \\phi = \\frac{R}{X_L - X_C}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\tan \\phi = \\frac{X_L + X_C}{R}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\tan \\phi = \\frac{R}{X_L + X_C}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the phase angle $\\phi$ between the voltage and current is given by $\\tan \\phi = \\frac{X_L - X_C}{R}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "205",
+    "questionText": "In a series LCR circuit, the impedance $Z$ is minimum at:",
+    "options": [
+      {
+        "text": "Resonance frequency",
+        "isCorrect": true
+      },
+      {
+        "text": "Zero frequency",
+        "isCorrect": false
+      },
+      {
+        "text": "Infinite frequency",
+        "isCorrect": false
+      },
+      {
+        "text": "Any frequency",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a series LCR circuit, the impedance $Z$ is minimum at the resonance frequency because the inductive and capacitive reactances cancel each other out.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "EASY"
+  },
+  {
+    "qno": "206",
+    "questionText": "In a series LCR circuit, if the capacitance $C$ is increased, the resonance frequency $f_0$ will:",
+    "options": [
+      {
+        "text": "Decrease",
+        "isCorrect": true
+      },
+      {
+        "text": "Increase",
+        "isCorrect": false
+      },
+      {
+        "text": "Remain the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Become zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The resonance frequency $f_0 = \\frac{1}{2\\pi \\sqrt{LC}}$. If the capacitance $C$ is increased, the resonance frequency will decrease.",
+    "chapter": "Alternating Current",
+    "topic": "7.6 AC Voltage Applied to a Series LCR Circuit",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "220",
+    "questionText": "The power factor in an AC circuit is given by:",
+    "options": [
+      {
+        "text": "$\\cos \\phi$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\sin \\phi$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\tan \\phi$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\cot \\phi$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power factor in an AC circuit is given by the cosine of the phase angle between the voltage and the current.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "EASY"
+  },
+  {
+    "qno": "221",
+    "questionText": "In an AC circuit, the power factor is a measure of:",
+    "options": [
+      {
+        "text": "The efficiency of power usage",
+        "isCorrect": true
+      },
+      {
+        "text": "The total power supplied",
+        "isCorrect": false
+      },
+      {
+        "text": "The reactive power",
+        "isCorrect": false
+      },
+      {
+        "text": "The apparent power",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power factor is a measure of the efficiency of power usage in an AC circuit.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "222",
+    "questionText": "In a purely resistive circuit, the power factor is:",
+    "options": [
+      {
+        "text": "One",
+        "isCorrect": true
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely resistive circuit, the power factor is one because the voltage and current are in phase.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "EASY"
+  },
+  {
+    "qno": "223",
+    "questionText": "In a purely inductive circuit, the power factor is:",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "One",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely inductive circuit, the power factor is zero because the voltage and current are out of phase by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "EASY"
+  },
+  {
+    "qno": "224",
+    "questionText": "In a purely capacitive circuit, the power factor is:",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "One",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a purely capacitive circuit, the power factor is zero because the voltage and current are out of phase by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "EASY"
+  },
+  {
+    "qno": "225",
+    "questionText": "The real power in an AC circuit is given by:",
+    "options": [
+      {
+        "text": "$P = V_{rms} I_{rms} \\cos \\phi$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P = V_{rms} I_{rms}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = V_{rms} I_{rms} \\sin \\phi$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = V_{rms} I_{rms} \\tan \\phi$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The real power $P$ in an AC circuit is given by $P = V_{rms} I_{rms} \\cos \\phi$, where $\\phi$ is the phase angle between the voltage and current.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "226",
+    "questionText": "The apparent power in an AC circuit is given by:",
+    "options": [
+      {
+        "text": "$S = V_{rms} I_{rms}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$S = V_{rms} I_{rms} \\cos \\phi$",
+        "isCorrect": false
+      },
+      {
+        "text": "$S = V_{rms} I_{rms} \\sin \\phi$",
+        "isCorrect": false
+      },
+      {
+        "text": "$S = V_{rms} I_{rms} \\tan \\phi$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The apparent power $S$ in an AC circuit is given by $S = V_{rms} I_{rms}$.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "EASY"
+  },
+  {
+    "qno": "227",
+    "questionText": "The reactive power in an AC circuit is given by:",
+    "options": [
+      {
+        "text": "$Q = V_{rms} I_{rms} \\sin \\phi$",
+        "isCorrect": true
+      },
+      {
+        "text": "$Q = V_{rms} I_{rms}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Q = V_{rms} I_{rms} \\cos \\phi$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Q = V_{rms} I_{rms} \\tan \\phi$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reactive power $Q$ in an AC circuit is given by $Q = V_{rms} I_{rms} \\sin \\phi$, where $\\phi$ is the phase angle between the voltage and current.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "228",
+    "questionText": "In an AC circuit, if the power factor is unity, the circuit is:",
+    "options": [
+      {
+        "text": "Purely resistive",
+        "isCorrect": true
+      },
+      {
+        "text": "Purely inductive",
+        "isCorrect": false
+      },
+      {
+        "text": "Purely capacitive",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the power factor is unity, the circuit is purely resistive, meaning the voltage and current are in phase.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "EASY"
+  },
+  {
+    "qno": "229",
+    "questionText": "In an AC circuit, the power factor can be improved by adding:",
+    "options": [
+      {
+        "text": "Capacitors",
+        "isCorrect": true
+      },
+      {
+        "text": "Inductors",
+        "isCorrect": false
+      },
+      {
+        "text": "Resistors",
+        "isCorrect": false
+      },
+      {
+        "text": "Transformers",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit, the power factor can be improved by adding capacitors to counteract the effect of inductors, thereby reducing the phase difference between voltage and current.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "230",
+    "questionText": "In an AC circuit, the power factor is zero when the circuit is:",
+    "options": [
+      {
+        "text": "Purely inductive or purely capacitive",
+        "isCorrect": true
+      },
+      {
+        "text": "Purely resistive",
+        "isCorrect": false
+      },
+      {
+        "text": "Both inductive and resistive",
+        "isCorrect": false
+      },
+      {
+        "text": "Both capacitive and resistive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit, the power factor is zero when the circuit is purely inductive or purely capacitive, meaning the voltage and current are out of phase by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "EASY"
+  },
+  {
+    "qno": "231",
+    "questionText": "In an AC circuit, the real power is zero when the power factor is:",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "One",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit, the real power is zero when the power factor is zero, indicating a purely inductive or purely capacitive circuit.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "232",
+    "questionText": "In an AC circuit, the apparent power is given by:",
+    "options": [
+      {
+        "text": "$S = \\sqrt{P^2 + Q^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$S = P + Q$",
+        "isCorrect": false
+      },
+      {
+        "text": "$S = P - Q$",
+        "isCorrect": false
+      },
+      {
+        "text": "$S = P \\times Q$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an AC circuit, the apparent power $S$ is given by $S = \\sqrt{P^2 + Q^2}$, where $P$ is the real power and $Q$ is the reactive power.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "HARD"
+  },
+  {
+    "qno": "233",
+    "questionText": "In an AC circuit, the power factor can be increased by:",
+    "options": [
+      {
+        "text": "Reducing the reactive power",
+        "isCorrect": true
+      },
+      {
+        "text": "Increasing the reactive power",
+        "isCorrect": false
+      },
+      {
+        "text": "Increasing the apparent power",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power factor can be increased by reducing the reactive power, which decreases the phase difference between voltage and current.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "HARD"
+  },
+  {
+    "qno": "234",
+    "questionText": "In an AC circuit, the real power is maximum when the power factor is:",
+    "options": [
+      {
+        "text": "One",
+        "isCorrect": true
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The real power is maximum when the power factor is one, indicating a purely resistive circuit where the voltage and current are in phase.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "EASY"
+  },
+  {
+    "qno": "235",
+    "questionText": "In an AC circuit, the power factor is given by the ratio of:",
+    "options": [
+      {
+        "text": "Real power to apparent power",
+        "isCorrect": true
+      },
+      {
+        "text": "Apparent power to real power",
+        "isCorrect": false
+      },
+      {
+        "text": "Real power to reactive power",
+        "isCorrect": false
+      },
+      {
+        "text": "Reactive power to apparent power",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power factor in an AC circuit is given by the ratio of real power to apparent power.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "236",
+    "questionText": "In an AC circuit, the power factor is unity when:",
+    "options": [
+      {
+        "text": "The circuit is purely resistive",
+        "isCorrect": true
+      },
+      {
+        "text": "The circuit is purely inductive",
+        "isCorrect": false
+      },
+      {
+        "text": "The circuit is purely capacitive",
+        "isCorrect": false
+      },
+      {
+        "text": "The circuit is both inductive and capacitive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power factor is unity when the circuit is purely resistive, meaning the voltage and current are in phase.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "EASY"
+  },
+  {
+    "qno": "237",
+    "questionText": "In an AC circuit, the power factor is zero when:",
+    "options": [
+      {
+        "text": "The circuit is purely inductive or purely capacitive",
+        "isCorrect": true
+      },
+      {
+        "text": "The circuit is purely resistive",
+        "isCorrect": false
+      },
+      {
+        "text": "The circuit is both inductive and resistive",
+        "isCorrect": false
+      },
+      {
+        "text": "The circuit is both capacitive and resistive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power factor is zero when the circuit is purely inductive or purely capacitive, meaning the voltage and current are out of phase by $90^\\circ$.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "EASY"
+  },
+  {
+    "qno": "238",
+    "questionText": "In an AC circuit, the real power is zero when:",
+    "options": [
+      {
+        "text": "The power factor is zero",
+        "isCorrect": true
+      },
+      {
+        "text": "The power factor is one",
+        "isCorrect": false
+      },
+      {
+        "text": "The power factor is $0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "The power factor is $\\sqrt{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The real power is zero when the power factor is zero, indicating a purely inductive or purely capacitive circuit.",
+    "chapter": "Alternating Current",
+    "topic": "7.7 Power in AC Circuit: The Power Factor",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "259",
+    "questionText": "A transformer works on the principle of:",
+    "options": [
+      {
+        "text": "Electromagnetic induction",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrostatic induction",
+        "isCorrect": false
+      },
+      {
+        "text": "Mutual induction",
+        "isCorrect": false
+      },
+      {
+        "text": "Self-induction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A transformer works on the principle of electromagnetic induction, where a change in the magnetic field induces an electromotive force (EMF) in the coils.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "260",
+    "questionText": "In a transformer, the primary and secondary coils are:",
+    "options": [
+      {
+        "text": "Electrically isolated but magnetically coupled",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrically and magnetically isolated",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrically and magnetically coupled",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrically coupled but magnetically isolated",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, the primary and secondary coils are electrically isolated but magnetically coupled through the core.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "261",
+    "questionText": "The ratio of the number of turns in the primary coil to the number of turns in the secondary coil is known as the:",
+    "options": [
+      {
+        "text": "Turns ratio",
+        "isCorrect": true
+      },
+      {
+        "text": "Efficiency",
+        "isCorrect": false
+      },
+      {
+        "text": "Load ratio",
+        "isCorrect": false
+      },
+      {
+        "text": "Voltage ratio",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ratio of the number of turns in the primary coil to the number of turns in the secondary coil is known as the turns ratio.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "262",
+    "questionText": "In an ideal transformer, the power output is:",
+    "options": [
+      {
+        "text": "Equal to the power input",
+        "isCorrect": true
+      },
+      {
+        "text": "Greater than the power input",
+        "isCorrect": false
+      },
+      {
+        "text": "Less than the power input",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an ideal transformer, the power output is equal to the power input because there are no losses.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "263",
+    "questionText": "The efficiency of a transformer is given by the ratio of:",
+    "options": [
+      {
+        "text": "Power output to power input",
+        "isCorrect": true
+      },
+      {
+        "text": "Power input to power output",
+        "isCorrect": false
+      },
+      {
+        "text": "Secondary voltage to primary voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary voltage to secondary voltage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The efficiency of a transformer is given by the ratio of power output to power input.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "264",
+    "questionText": "If the number of turns in the secondary coil is greater than the number of turns in the primary coil, the transformer is called a:",
+    "options": [
+      {
+        "text": "Step-up transformer",
+        "isCorrect": true
+      },
+      {
+        "text": "Step-down transformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Autotransformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Isolation transformer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the number of turns in the secondary coil is greater than the number of turns in the primary coil, the transformer is called a step-up transformer.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "265",
+    "questionText": "If the primary coil of a transformer has 100 turns and the secondary coil has 200 turns, the transformer is:",
+    "options": [
+      {
+        "text": "Step-up transformer",
+        "isCorrect": true
+      },
+      {
+        "text": "Step-down transformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Autotransformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Isolation transformer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the primary coil of a transformer has 100 turns and the secondary coil has 200 turns, the transformer is a step-up transformer because the secondary coil has more turns.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "266",
+    "questionText": "In a step-down transformer, the primary voltage is:",
+    "options": [
+      {
+        "text": "Greater than the secondary voltage",
+        "isCorrect": true
+      },
+      {
+        "text": "Equal to the secondary voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "Less than the secondary voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a step-down transformer, the primary voltage is greater than the secondary voltage because the primary coil has more turns.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "267",
+    "questionText": "In a transformer, if the number of turns in the primary coil is 500 and the number of turns in the secondary coil is 250, the transformer is:",
+    "options": [
+      {
+        "text": "Step-down transformer",
+        "isCorrect": true
+      },
+      {
+        "text": "Step-up transformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Autotransformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Isolation transformer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the number of turns in the primary coil is 500 and the number of turns in the secondary coil is 250, the transformer is a step-down transformer.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "268",
+    "questionText": "The core of a transformer is made of:",
+    "options": [
+      {
+        "text": "Soft iron",
+        "isCorrect": true
+      },
+      {
+        "text": "Copper",
+        "isCorrect": false
+      },
+      {
+        "text": "Aluminum",
+        "isCorrect": false
+      },
+      {
+        "text": "Steel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The core of a transformer is made of soft iron because it has high magnetic permeability and low hysteresis loss.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "269",
+    "questionText": "In an ideal transformer, the ratio of the secondary voltage to the primary voltage is equal to the ratio of:",
+    "options": [
+      {
+        "text": "Number of turns in the secondary coil to the number of turns in the primary coil",
+        "isCorrect": true
+      },
+      {
+        "text": "Primary current to secondary current",
+        "isCorrect": false
+      },
+      {
+        "text": "Secondary current to primary current",
+        "isCorrect": false
+      },
+      {
+        "text": "Number of turns in the primary coil to the number of turns in the secondary coil",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an ideal transformer, the ratio of the secondary voltage to the primary voltage is equal to the ratio of the number of turns in the secondary coil to the number of turns in the primary coil.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "270",
+    "questionText": "In a transformer, the voltage per turn in the primary coil is equal to the:",
+    "options": [
+      {
+        "text": "Voltage per turn in the secondary coil",
+        "isCorrect": true
+      },
+      {
+        "text": "Current per turn in the secondary coil",
+        "isCorrect": false
+      },
+      {
+        "text": "Voltage per turn in the secondary coil multiplied by the turns ratio",
+        "isCorrect": false
+      },
+      {
+        "text": "Voltage per turn in the secondary coil divided by the turns ratio",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, the voltage per turn in the primary coil is equal to the voltage per turn in the secondary coil.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "271",
+    "questionText": "In a transformer, if the primary voltage is 220V and the secondary voltage is 110V, the transformer is a:",
+    "options": [
+      {
+        "text": "Step-down transformer",
+        "isCorrect": true
+      },
+      {
+        "text": "Step-up transformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Autotransformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Isolation transformer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the primary voltage is 220V and the secondary voltage is 110V, the transformer is a step-down transformer.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "272",
+    "questionText": "In a transformer, if the number of turns in the primary coil is 100 and the primary voltage is 220V, what is the secondary voltage if the secondary coil has 50 turns?",
+    "options": [
+      {
+        "text": "110V",
+        "isCorrect": true
+      },
+      {
+        "text": "220V",
+        "isCorrect": false
+      },
+      {
+        "text": "440V",
+        "isCorrect": false
+      },
+      {
+        "text": "55V",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The secondary voltage can be calculated using the formula $V_s = V_p \\times \\frac{N_s}{N_p}$, where $V_p$ is the primary voltage, $N_p$ is the number of turns in the primary coil, and $N_s$ is the number of turns in the secondary coil. Thus, $V_s = 220V \\times \\frac{50}{100} = 110V$.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "273",
+    "questionText": "In a transformer, if the secondary current is greater than the primary current, the transformer is a:",
+    "options": [
+      {
+        "text": "Step-down transformer",
+        "isCorrect": true
+      },
+      {
+        "text": "Step-up transformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Autotransformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Isolation transformer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, if the secondary current is greater than the primary current, the transformer is a step-down transformer.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "274",
+    "questionText": "In a transformer, if the primary coil has 500 turns and the secondary coil has 1000 turns, the transformer is a:",
+    "options": [
+      {
+        "text": "Step-up transformer",
+        "isCorrect": true
+      },
+      {
+        "text": "Step-down transformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Autotransformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Isolation transformer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, if the primary coil has 500 turns and the secondary coil has 1000 turns, the transformer is a step-up transformer.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "275",
+    "questionText": "The primary function of a transformer is to:",
+    "options": [
+      {
+        "text": "Change the voltage level",
+        "isCorrect": true
+      },
+      {
+        "text": "Change the frequency",
+        "isCorrect": false
+      },
+      {
+        "text": "Convert AC to DC",
+        "isCorrect": false
+      },
+      {
+        "text": "Convert DC to AC",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary function of a transformer is to change the voltage level while maintaining the same frequency.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "276",
+    "questionText": "The efficiency of a transformer is typically:",
+    "options": [
+      {
+        "text": "Greater than 90%",
+        "isCorrect": true
+      },
+      {
+        "text": "Less than 50%",
+        "isCorrect": false
+      },
+      {
+        "text": "50%",
+        "isCorrect": false
+      },
+      {
+        "text": "70%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The efficiency of a transformer is typically greater than 90%, as modern transformers are designed to minimize energy losses.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "277",
+    "questionText": "In a transformer, the losses due to hysteresis and eddy currents can be minimized by using:",
+    "options": [
+      {
+        "text": "Laminated cores",
+        "isCorrect": true
+      },
+      {
+        "text": "Solid cores",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper cores",
+        "isCorrect": false
+      },
+      {
+        "text": "Aluminum cores",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, the losses due to hysteresis and eddy currents can be minimized by using laminated cores, which reduce the eddy current paths.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "278",
+    "questionText": "In a transformer, the current in the primary coil is:",
+    "options": [
+      {
+        "text": "Inversely proportional to the current in the secondary coil",
+        "isCorrect": true
+      },
+      {
+        "text": "Directly proportional to the current in the secondary coil",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal to the current in the secondary coil",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, the current in the primary coil is inversely proportional to the current in the secondary coil, according to the turns ratio.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "279",
+    "questionText": "In a transformer, the primary and secondary currents are related by the formula:",
+    "options": [
+      {
+        "text": "$\\frac{I_p}{I_s} = \\frac{N_s}{N_p}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{I_p}{I_s} = \\frac{N_p}{N_s}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{I_p}{I_s} = \\frac{V_s}{V_p}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{I_p}{I_s} = \\frac{V_p}{V_s}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, the primary and secondary currents are related by the formula $\\frac{I_p}{I_s} = \\frac{N_s}{N_p}$, where $I_p$ is the primary current, $I_s$ is the secondary current, $N_p$ is the number of turns in the primary coil, and $N_s$ is the number of turns in the secondary coil.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "HARD"
+  },
+  {
+    "qno": "280",
+    "questionText": "In a transformer, if the primary voltage is 100V and the turns ratio is 1:2, what is the secondary voltage?",
+    "options": [
+      {
+        "text": "200V",
+        "isCorrect": true
+      },
+      {
+        "text": "100V",
+        "isCorrect": false
+      },
+      {
+        "text": "50V",
+        "isCorrect": false
+      },
+      {
+        "text": "400V",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The secondary voltage can be calculated using the turns ratio formula $\\frac{V_s}{V_p} = \\frac{N_s}{N_p}$, where $V_p$ is the primary voltage and $V_s$ is the secondary voltage. If the turns ratio is 1:2, the secondary voltage is $V_s = 100V \\times 2 = 200V$.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "281",
+    "questionText": "In a transformer, if the primary voltage is 240V and the secondary voltage is 120V, the turns ratio is:",
+    "options": [
+      {
+        "text": "2:1",
+        "isCorrect": true
+      },
+      {
+        "text": "1:2",
+        "isCorrect": false
+      },
+      {
+        "text": "4:1",
+        "isCorrect": false
+      },
+      {
+        "text": "1:4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The turns ratio can be calculated using the formula $\\frac{V_p}{V_s} = \\frac{N_p}{N_s}$, where $V_p$ is the primary voltage and $V_s$ is the secondary voltage. If the primary voltage is 240V and the secondary voltage is 120V, the turns ratio is 2:1.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "282",
+    "questionText": "In a transformer, the mutual induction between the primary and secondary coils is maximized by:",
+    "options": [
+      {
+        "text": "Using a soft iron core",
+        "isCorrect": true
+      },
+      {
+        "text": "Using a copper core",
+        "isCorrect": false
+      },
+      {
+        "text": "Using an aluminum core",
+        "isCorrect": false
+      },
+      {
+        "text": "Using an air core",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mutual induction between the primary and secondary coils in a transformer is maximized by using a soft iron core, which has high magnetic permeability.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "283",
+    "questionText": "The primary winding of a transformer is connected to a 240V AC supply. The secondary winding is connected to a 60V load. What is the turns ratio of the transformer?",
+    "options": [
+      {
+        "text": "4:1",
+        "isCorrect": true
+      },
+      {
+        "text": "1:4",
+        "isCorrect": false
+      },
+      {
+        "text": "2:1",
+        "isCorrect": false
+      },
+      {
+        "text": "1:2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The turns ratio can be calculated using the formula $\\frac{V_p}{V_s} = \\frac{N_p}{N_s}$, where $V_p$ is the primary voltage and $V_s$ is the secondary voltage. If the primary voltage is 240V and the secondary voltage is 60V, the turns ratio is 4:1.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "284",
+    "questionText": "In a transformer, if the primary coil has 300 turns and the secondary coil has 900 turns, what is the voltage ratio?",
+    "options": [
+      {
+        "text": "1:3",
+        "isCorrect": true
+      },
+      {
+        "text": "3:1",
+        "isCorrect": false
+      },
+      {
+        "text": "1:2",
+        "isCorrect": false
+      },
+      {
+        "text": "2:1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The voltage ratio in a transformer is equal to the ratio of the number of turns in the secondary coil to the number of turns in the primary coil. If the primary coil has 300 turns and the secondary coil has 900 turns, the voltage ratio is 1:3.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "285",
+    "questionText": "The primary current in a transformer is 5A, and the turns ratio is 1:4. What is the secondary current?",
+    "options": [
+      {
+        "text": "1.25A",
+        "isCorrect": true
+      },
+      {
+        "text": "20A",
+        "isCorrect": false
+      },
+      {
+        "text": "10A",
+        "isCorrect": false
+      },
+      {
+        "text": "2.5A",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The secondary current can be calculated using the formula $\\frac{I_p}{I_s} = \\frac{N_s}{N_p}$, where $I_p$ is the primary current and $I_s$ is the secondary current. If the primary current is 5A and the turns ratio is 1:4, the secondary current is $I_s = \\frac{5A}{4} = 1.25A$.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "HARD"
+  },
+  {
+    "qno": "286",
+    "questionText": "In a transformer, if the power input is 1000W and the efficiency is 95%, what is the power output?",
+    "options": [
+      {
+        "text": "950W",
+        "isCorrect": true
+      },
+      {
+        "text": "1000W",
+        "isCorrect": false
+      },
+      {
+        "text": "900W",
+        "isCorrect": false
+      },
+      {
+        "text": "1050W",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The power output can be calculated using the efficiency formula $\\eta = \\frac{P_{out}}{P_{in}} \\times 100$%. If the power input is 1000W and the efficiency is 95%, the power output is $P_{out} = 1000W \\times 0.95 = 950W$.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "287",
+    "questionText": "In a transformer, if the primary voltage is 120V and the secondary voltage is 240V, the transformer is a:",
+    "options": [
+      {
+        "text": "Step-up transformer",
+        "isCorrect": true
+      },
+      {
+        "text": "Step-down transformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Autotransformer",
+        "isCorrect": false
+      },
+      {
+        "text": "Isolation transformer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the primary voltage is 120V and the secondary voltage is 240V, the transformer is a step-up transformer because the secondary voltage is higher.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "288",
+    "questionText": "In a transformer, the secondary voltage is directly proportional to the:",
+    "options": [
+      {
+        "text": "Number of turns in the secondary coil",
+        "isCorrect": true
+      },
+      {
+        "text": "Number of turns in the primary coil",
+        "isCorrect": false
+      },
+      {
+        "text": "Current in the secondary coil",
+        "isCorrect": false
+      },
+      {
+        "text": "Current in the primary coil",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, the secondary voltage is directly proportional to the number of turns in the secondary coil.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "289",
+    "questionText": "In a transformer, the voltage ratio is equal to the:",
+    "options": [
+      {
+        "text": "Turns ratio",
+        "isCorrect": true
+      },
+      {
+        "text": "Current ratio",
+        "isCorrect": false
+      },
+      {
+        "text": "Power ratio",
+        "isCorrect": false
+      },
+      {
+        "text": "Efficiency ratio",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, the voltage ratio is equal to the turns ratio, which is the ratio of the number of turns in the secondary coil to the number of turns in the primary coil.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "290",
+    "questionText": "In a transformer, the primary and secondary coils are wound on:",
+    "options": [
+      {
+        "text": "A common core",
+        "isCorrect": true
+      },
+      {
+        "text": "Separate cores",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper cores",
+        "isCorrect": false
+      },
+      {
+        "text": "Aluminum cores",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, the primary and secondary coils are wound on a common core, usually made of soft iron, to maximize the magnetic coupling.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "291",
+    "questionText": "The core of a transformer is laminated to reduce:",
+    "options": [
+      {
+        "text": "Eddy current losses",
+        "isCorrect": true
+      },
+      {
+        "text": "Hysteresis losses",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper losses",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic losses",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The core of a transformer is laminated to reduce eddy current losses, which are induced currents in the core that cause energy dissipation.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "292",
+    "questionText": "The main cause of energy loss in a transformer is due to:",
+    "options": [
+      {
+        "text": "Hysteresis and eddy current losses",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnetic losses",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper losses",
+        "isCorrect": false
+      },
+      {
+        "text": "Mechanical losses",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main cause of energy loss in a transformer is due to hysteresis and eddy current losses in the core material.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "293",
+    "questionText": "In a transformer, the copper losses are due to:",
+    "options": [
+      {
+        "text": "Resistance of the windings",
+        "isCorrect": true
+      },
+      {
+        "text": "Hysteresis in the core",
+        "isCorrect": false
+      },
+      {
+        "text": "Eddy currents in the core",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic flux leakage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, the copper losses are due to the resistance of the windings, which cause energy dissipation as heat.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "294",
+    "questionText": "In a transformer, the core losses are minimized by using:",
+    "options": [
+      {
+        "text": "High-quality magnetic materials",
+        "isCorrect": true
+      },
+      {
+        "text": "Thick copper windings",
+        "isCorrect": false
+      },
+      {
+        "text": "Large cores",
+        "isCorrect": false
+      },
+      {
+        "text": "Multiple windings",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, the core losses are minimized by using high-quality magnetic materials with low hysteresis and eddy current losses.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "295",
+    "questionText": "The primary and secondary windings of a transformer are:",
+    "options": [
+      {
+        "text": "Electrically isolated but magnetically coupled",
+        "isCorrect": true
+      },
+      {
+        "text": "Electrically and magnetically isolated",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrically and magnetically coupled",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrically coupled but magnetically isolated",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary and secondary windings of a transformer are electrically isolated but magnetically coupled through the core.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "296",
+    "questionText": "In a transformer, the voltage per turn is the same for:",
+    "options": [
+      {
+        "text": "Both primary and secondary windings",
+        "isCorrect": true
+      },
+      {
+        "text": "Only the primary winding",
+        "isCorrect": false
+      },
+      {
+        "text": "Only the secondary winding",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither primary nor secondary winding",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, the voltage per turn is the same for both primary and secondary windings because the same magnetic flux links both windings.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "297",
+    "questionText": "The primary voltage of a transformer is 500V, and the primary coil has 100 turns. If the secondary coil has 50 turns, what is the secondary voltage?",
+    "options": [
+      {
+        "text": "250V",
+        "isCorrect": true
+      },
+      {
+        "text": "500V",
+        "isCorrect": false
+      },
+      {
+        "text": "1000V",
+        "isCorrect": false
+      },
+      {
+        "text": "125V",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The secondary voltage can be calculated using the turns ratio formula $V_s = V_p \\times \\frac{N_s}{N_p}$, where $V_p$ is the primary voltage, $N_p$ is the number of turns in the primary coil, and $N_s$ is the number of turns in the secondary coil. Thus, $V_s = 500V \\times \\frac{50}{100} = 250V$.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "298",
+    "questionText": "In a transformer, the efficiency is highest when:",
+    "options": [
+      {
+        "text": "Copper losses and iron losses are equal",
+        "isCorrect": true
+      },
+      {
+        "text": "Copper losses are maximum",
+        "isCorrect": false
+      },
+      {
+        "text": "Iron losses are maximum",
+        "isCorrect": false
+      },
+      {
+        "text": "Iron losses are zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a transformer, the efficiency is highest when copper losses (resistive losses in the windings) and iron losses (hysteresis and eddy current losses in the core) are equal.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "HARD"
+  },
+  {
+    "qno": "299",
+    "questionText": "The voltage ratio in a transformer is the ratio of the:",
+    "options": [
+      {
+        "text": "Number of turns in the secondary coil to the number of turns in the primary coil",
+        "isCorrect": true
+      },
+      {
+        "text": "Number of turns in the primary coil to the number of turns in the secondary coil",
+        "isCorrect": false
+      },
+      {
+        "text": "Secondary voltage to the primary voltage",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary voltage to the secondary voltage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The voltage ratio in a transformer is the ratio of the number of turns in the secondary coil to the number of turns in the primary coil.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "EASY"
+  },
+  {
+    "qno": "300",
+    "questionText": "A transformer is used to step up the voltage from 110V to 220V. If the primary coil has 100 turns, how many turns does the secondary coil have?",
+    "options": [
+      {
+        "text": "200",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "text": "400",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The number of turns in the secondary coil can be calculated using the turns ratio formula $\\frac{N_s}{N_p} = \\frac{V_s}{V_p}$, where $V_p$ is the primary voltage, $V_s$ is the secondary voltage, $N_p$ is the number of turns in the primary coil, and $N_s$ is the number of turns in the secondary coil. Thus, $N_s = 100 \\times \\frac{220}{110} = 200$.",
+    "chapter": "Alternating Current",
+    "topic": "7.8 Transformers",
+    "level": "MEDIUM"
+  }
+]

@@ -1,0 +1,6788 @@
+[
+  {
+    "qno": 1,
+    "questionText": "Where is the male reproductive system located?",
+    "options": [
+      {
+        "text": "Abdomen",
+        "isCorrect": false
+      },
+      {
+        "text": "Pelvis region",
+        "isCorrect": true
+      },
+      {
+        "text": "Thoracic region",
+        "isCorrect": false
+      },
+      {
+        "text": "Cranial region",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The male reproductive system is located in the pelvis region.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "What is the function of the scrotum?",
+    "options": [
+      {
+        "text": "Helps in digestion",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintains the low temperature of the testes",
+        "isCorrect": true
+      },
+      {
+        "text": "Produces sperm",
+        "isCorrect": false
+      },
+      {
+        "text": "Stores urine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The scrotum helps in maintaining the low temperature of the testes necessary for spermatogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "What is the average length and width of each testis in adults?",
+    "options": [
+      {
+        "text": "4-5 cm length and 2-3 cm width",
+        "isCorrect": true
+      },
+      {
+        "text": "5-6 cm length and 3-4 cm width",
+        "isCorrect": false
+      },
+      {
+        "text": "2-3 cm length and 1-2 cm width",
+        "isCorrect": false
+      },
+      {
+        "text": "6-7 cm length and 4-5 cm width",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In adults, each testis is oval in shape, with a length of about 4 to 5 cm and a width of about 2 to 3 cm.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "What cells are found inside the seminiferous tubules?",
+    "options": [
+      {
+        "text": "Male germ cells and Sertoli cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Leydig cells and Sertoli cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Sertoli cells and interstitial cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Male germ cells and Leydig cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Each seminiferous tubule is lined on its inside by male germ cells (spermatogonia) and Sertoli cells.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which cells in the testes secrete androgens?",
+    "options": [
+      {
+        "text": "Sertoli cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Male germ cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Leydig cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Interstitial cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Leydig cells, found in the interstitial spaces outside the seminiferous tubules, secrete testicular hormones called androgens.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which structure stores and transports the sperms from the testis to the outside?",
+    "options": [
+      {
+        "text": "Epididymis",
+        "isCorrect": false
+      },
+      {
+        "text": "Vas deferens",
+        "isCorrect": false
+      },
+      {
+        "text": "Male accessory ducts",
+        "isCorrect": true
+      },
+      {
+        "text": "Seminiferous tubules",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The male accessory ducts store and transport the sperms from the testis to the outside through the urethra.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "What are the components of seminal plasma?",
+    "options": [
+      {
+        "text": "Fructose, calcium, and certain enzymes",
+        "isCorrect": true
+      },
+      {
+        "text": "Proteins, lipids, and carbohydrates",
+        "isCorrect": false
+      },
+      {
+        "text": "Hormones, vitamins, and minerals",
+        "isCorrect": false
+      },
+      {
+        "text": "Water, salts, and urea",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Secretions of the male accessory glands constitute the seminal plasma, which is rich in fructose, calcium, and certain enzymes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which gland's secretion helps in the lubrication of the penis?",
+    "options": [
+      {
+        "text": "Seminal vesicles",
+        "isCorrect": false
+      },
+      {
+        "text": "Prostate gland",
+        "isCorrect": false
+      },
+      {
+        "text": "Bulbourethral glands",
+        "isCorrect": true
+      },
+      {
+        "text": "Epididymis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The secretions of bulbourethral glands help in the lubrication of the penis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 9,
+    "questionText": "What is the role of Sertoli cells in spermatogenesis?",
+    "options": [
+      {
+        "text": "Secretion of testicular hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Providing nutrition to germ cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Storage and transport of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Production of seminal plasma",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sertoli cells provide nutrition to the germ cells during spermatogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which part of the male reproductive system is involved in the erection of the penis?",
+    "options": [
+      {
+        "text": "Scrotum",
+        "isCorrect": false
+      },
+      {
+        "text": "Seminal vesicles",
+        "isCorrect": false
+      },
+      {
+        "text": "Special tissue in the penis",
+        "isCorrect": true
+      },
+      {
+        "text": "Urethral meatus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The penis is made up of special tissue that helps in the erection of the penis to facilitate insemination.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 11,
+    "questionText": "What is the function of the male germ cells (spermatogonia) in the seminiferous tubules?",
+    "options": [
+      {
+        "text": "To secrete testicular hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "To produce sperm through meiotic divisions",
+        "isCorrect": true
+      },
+      {
+        "text": "To transport sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide nutrition to germ cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The male germ cells (spermatogonia) in the seminiferous tubules undergo meiotic divisions to produce sperm.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the role of the Leydig cells in the testes?",
+    "options": [
+      {
+        "text": "To transport sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "To secrete testicular hormones called androgens",
+        "isCorrect": true
+      },
+      {
+        "text": "To produce sperm",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide nutrition to germ cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Leydig cells in the testes secrete testicular hormones called androgens.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which ducts are involved in the storage and transport of sperms in the male reproductive system?",
+    "options": [
+      {
+        "text": "Seminiferous tubules",
+        "isCorrect": false
+      },
+      {
+        "text": "Vas deferens",
+        "isCorrect": false
+      },
+      {
+        "text": "Epididymis",
+        "isCorrect": false
+      },
+      {
+        "text": "Male accessory ducts",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The male accessory ducts, including the rete testis, vasa efferentia, epididymis, and vas deferens, are involved in the storage and transport of sperms.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "What is the urethral meatus?",
+    "options": [
+      {
+        "text": "The external opening of the urethra",
+        "isCorrect": true
+      },
+      {
+        "text": "The internal part of the penis",
+        "isCorrect": false
+      },
+      {
+        "text": "A gland in the male reproductive system",
+        "isCorrect": false
+      },
+      {
+        "text": "A duct that transports sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The urethral meatus is the external opening of the urethra.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the function of the seminal vesicles?",
+    "options": [
+      {
+        "text": "To produce sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide nutrition to germ cells",
+        "isCorrect": false
+      },
+      {
+        "text": "To secrete seminal plasma rich in fructose, calcium, and enzymes",
+        "isCorrect": true
+      },
+      {
+        "text": "To transport sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The seminal vesicles secrete seminal plasma, which is rich in fructose, calcium, and certain enzymes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which part of the male reproductive system produces sperm?",
+    "options": [
+      {
+        "text": "Leydig cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Sertoli cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Seminiferous tubules",
+        "isCorrect": true
+      },
+      {
+        "text": "Prostate gland",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sperm is produced in the seminiferous tubules of the testes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which glands constitute the male accessory glands?",
+    "options": [
+      {
+        "text": "Seminal vesicles, prostate, and bulbourethral glands",
+        "isCorrect": true
+      },
+      {
+        "text": "Testes, epididymis, and vas deferens",
+        "isCorrect": false
+      },
+      {
+        "text": "Leydig cells, Sertoli cells, and prostate",
+        "isCorrect": false
+      },
+      {
+        "text": "Seminiferous tubules, epididymis, and vas deferens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The male accessory glands include paired seminal vesicles, a prostate, and paired bulbourethral glands.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "What is the function of the prostate gland?",
+    "options": [
+      {
+        "text": "To produce sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "To secrete a part of the seminal plasma",
+        "isCorrect": true
+      },
+      {
+        "text": "To transport sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide nutrition to germ cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The prostate gland secretes a part of the seminal plasma.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which structure in the male reproductive system is responsible for ejaculation?",
+    "options": [
+      {
+        "text": "Vas deferens",
+        "isCorrect": false
+      },
+      {
+        "text": "Epididymis",
+        "isCorrect": false
+      },
+      {
+        "text": "Seminal vesicles",
+        "isCorrect": false
+      },
+      {
+        "text": "Ejaculatory duct",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The ejaculatory duct is responsible for the process of ejaculation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 20,
+    "questionText": "What are the dimensions of an adult human testis?",
+    "options": [
+      {
+        "text": "2-3 cm long and 1-2 cm wide",
+        "isCorrect": false
+      },
+      {
+        "text": "4-5 cm long and 2-3 cm wide",
+        "isCorrect": true
+      },
+      {
+        "text": "5-6 cm long and 3-4 cm wide",
+        "isCorrect": false
+      },
+      {
+        "text": "6-7 cm long and 4-5 cm wide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In adults, each testis is oval in shape, with a length of about 4 to 5 cm and a width of about 2 to 3 cm.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "What is the role of the seminiferous tubules in the male reproductive system?",
+    "options": [
+      {
+        "text": "Production of sperms",
+        "isCorrect": true
+      },
+      {
+        "text": "Transport of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of seminal plasma",
+        "isCorrect": false
+      },
+      {
+        "text": "Storage of sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The seminiferous tubules are involved in the production of sperms.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which cells provide nutrition to the male germ cells during spermatogenesis?",
+    "options": [
+      {
+        "text": "Leydig cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Sertoli cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Spermatogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Interstitial cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sertoli cells provide nutrition to the male germ cells (spermatogonia) during spermatogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which hormone is primarily responsible for the development of male secondary sexual characteristics?",
+    "options": [
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Testosterone",
+        "isCorrect": true
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Testosterone, produced by the Leydig cells, is primarily responsible for the development of male secondary sexual characteristics.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 24,
+    "questionText": "Where are Leydig cells located?",
+    "options": [
+      {
+        "text": "Inside seminiferous tubules",
+        "isCorrect": false
+      },
+      {
+        "text": "Outside seminiferous tubules in interstitial spaces",
+        "isCorrect": true
+      },
+      {
+        "text": "In the epididymis",
+        "isCorrect": false
+      },
+      {
+        "text": "In the prostate gland",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Leydig cells are located outside the seminiferous tubules in the interstitial spaces.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "What is the role of the epididymis in the male reproductive system?",
+    "options": [
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of seminal plasma",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport and storage of sperms",
+        "isCorrect": true
+      },
+      {
+        "text": "Providing nutrition to sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The epididymis is involved in the transport and storage of sperms.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "What is the function of the vas deferens?",
+    "options": [
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of sperms from the epididymis to the urethra",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of testosterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Providing nutrition to sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The vas deferens transports sperms from the epididymis to the urethra.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 27,
+    "questionText": "Which part of the male reproductive system is responsible for ejaculation?",
+    "options": [
+      {
+        "text": "Seminal vesicles",
+        "isCorrect": false
+      },
+      {
+        "text": "Prostate gland",
+        "isCorrect": false
+      },
+      {
+        "text": "Ejaculatory duct",
+        "isCorrect": true
+      },
+      {
+        "text": "Bulbourethral glands",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ejaculatory duct is responsible for ejaculation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 28,
+    "questionText": "What is the role of the bulbourethral glands in the male reproductive system?",
+    "options": [
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of seminal plasma",
+        "isCorrect": false
+      },
+      {
+        "text": "Lubrication of the penis",
+        "isCorrect": true
+      },
+      {
+        "text": "Transport of sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The secretions of the bulbourethral glands help in the lubrication of the penis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "What is the primary function of the male accessory ducts?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport and storage of sperms",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Lubrication of the penis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary function of the male accessory ducts is the transport and storage of sperms.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 30,
+    "questionText": "What is the role of the glans penis?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitation of insemination",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The glans penis, covered by a loose fold of skin called the foreskin, helps in the facilitation of insemination.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which structure carries sperms from the seminiferous tubules to the vasa efferentia?",
+    "options": [
+      {
+        "text": "Epididymis",
+        "isCorrect": false
+      },
+      {
+        "text": "Rete testis",
+        "isCorrect": true
+      },
+      {
+        "text": "Vas deferens",
+        "isCorrect": false
+      },
+      {
+        "text": "Seminal vesicles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The seminiferous tubules open into the vasa efferentia through the rete testis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 32,
+    "questionText": "What is the function of the seminal plasma?",
+    "options": [
+      {
+        "text": "Transport of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Lubrication of the penis",
+        "isCorrect": false
+      },
+      {
+        "text": "Provides nutrients to sperms",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The seminal plasma is rich in fructose, calcium, and certain enzymes, providing nutrients to the sperms.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 33,
+    "questionText": "Which cells in the testes are responsible for hormone secretion?",
+    "options": [
+      {
+        "text": "Sertoli cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Leydig cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Spermatogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Epididymis cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Leydig cells in the interstitial spaces outside the seminiferous tubules secrete testicular hormones called androgens.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 34,
+    "questionText": "What is the main function of the scrotum?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintaining the low temperature of the testes",
+        "isCorrect": true
+      },
+      {
+        "text": "Storage of sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The scrotum helps in maintaining the low temperature of the testes, necessary for spermatogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 35,
+    "questionText": "Which structure in the male reproductive system helps in the erection of the penis?",
+    "options": [
+      {
+        "text": "Seminal vesicles",
+        "isCorrect": false
+      },
+      {
+        "text": "Scrotum",
+        "isCorrect": false
+      },
+      {
+        "text": "Special tissue in the penis",
+        "isCorrect": true
+      },
+      {
+        "text": "Urethra",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The penis is made up of special tissue that helps in erection of the penis to facilitate insemination.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 36,
+    "questionText": "What is the significance of the temperature of the testes being 2-2.5 degrees Celsius lower than the normal body temperature?",
+    "options": [
+      {
+        "text": "It enhances hormone secretion",
+        "isCorrect": false
+      },
+      {
+        "text": "It is necessary for spermatogenesis",
+        "isCorrect": true
+      },
+      {
+        "text": "It aids in ejaculation",
+        "isCorrect": false
+      },
+      {
+        "text": "It facilitates penis erection",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The low temperature of the testes is necessary for spermatogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 37,
+    "questionText": "Which part of the male reproductive system secretes seminal plasma?",
+    "options": [
+      {
+        "text": "Testes",
+        "isCorrect": false
+      },
+      {
+        "text": "Seminal vesicles",
+        "isCorrect": true
+      },
+      {
+        "text": "Epididymis",
+        "isCorrect": false
+      },
+      {
+        "text": "Vas deferens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The seminal vesicles secrete seminal plasma, which is rich in fructose, calcium, and certain enzymes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 38,
+    "questionText": "What is the purpose of the foreskin in the male reproductive system?",
+    "options": [
+      {
+        "text": "To produce sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "To cover and protect the glans penis",
+        "isCorrect": true
+      },
+      {
+        "text": "To secrete seminal plasma",
+        "isCorrect": false
+      },
+      {
+        "text": "To transport sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The foreskin is a loose fold of skin that covers the glans penis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 39,
+    "questionText": "Which cells in the seminiferous tubules provide nutrition to the germ cells?",
+    "options": [
+      {
+        "text": "Leydig cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Sertoli cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Spermatogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Interstitial cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sertoli cells provide nutrition to the male germ cells (spermatogonia) during spermatogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 40,
+    "questionText": "What is the main role of the penis in the male reproductive system?",
+    "options": [
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitation of insemination",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The penis, made up of special tissue, helps in the erection to facilitate insemination.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 41,
+    "questionText": "What is the role of the accessory ducts in the male reproductive system?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport and storage of sperms",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Lubrication of the penis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The male accessory ducts store and transport the sperms from the testis to the outside through the urethra.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 42,
+    "questionText": "What is the primary function of the seminal vesicles?",
+    "options": [
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of seminal plasma rich in fructose, calcium, and enzymes",
+        "isCorrect": true
+      },
+      {
+        "text": "Transport of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Lubrication of the penis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The seminal vesicles secrete seminal plasma, which is rich in fructose, calcium, and certain enzymes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 43,
+    "questionText": "Which part of the male reproductive system is involved in ejaculation?",
+    "options": [
+      {
+        "text": "Seminal vesicles",
+        "isCorrect": false
+      },
+      {
+        "text": "Prostate gland",
+        "isCorrect": false
+      },
+      {
+        "text": "Ejaculatory duct",
+        "isCorrect": true
+      },
+      {
+        "text": "Bulbourethral glands",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ejaculatory duct is responsible for ejaculation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 44,
+    "questionText": "What is the primary function of the scrotum?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintaining the low temperature of the testes",
+        "isCorrect": true
+      },
+      {
+        "text": "Storage of sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The scrotum helps in maintaining the low temperature of the testes, necessary for spermatogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 51,
+    "questionText": "What is the main function of the male accessory ducts?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport and storage of sperms",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Lubrication of the penis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary function of the male accessory ducts is the transport and storage of sperms.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 52,
+    "questionText": "What is the primary function of the penis in the male reproductive system?",
+    "options": [
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitation of insemination",
+        "isCorrect": true
+      },
+      {
+        "text": "Transport of sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The penis facilitates insemination by helping in the erection.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 53,
+    "questionText": "Which glands contribute to the formation of seminal plasma?",
+    "options": [
+      {
+        "text": "Testes and epididymis",
+        "isCorrect": false
+      },
+      {
+        "text": "Seminal vesicles, prostate, and bulbourethral glands",
+        "isCorrect": true
+      },
+      {
+        "text": "Leydig cells and Sertoli cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Seminiferous tubules and vas deferens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The male accessory glands include paired seminal vesicles, a prostate, and paired bulbourethral glands, which contribute to the formation of seminal plasma.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 54,
+    "questionText": "What is the primary role of the bulbourethral glands in the male reproductive system?",
+    "options": [
+      {
+        "text": "Secretion of seminal plasma",
+        "isCorrect": false
+      },
+      {
+        "text": "Lubrication of the penis",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The secretions of the bulbourethral glands help in the lubrication of the penis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 55,
+    "questionText": "What is the significance of the seminiferous tubules in the male reproductive system?",
+    "options": [
+      {
+        "text": "Production of sperms",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Lubrication of the penis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The seminiferous tubules are the site of sperm production in the testes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 56,
+    "questionText": "Which cells in the testes are involved in the production of androgens?",
+    "options": [
+      {
+        "text": "Sertoli cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Leydig cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Spermatogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Epididymis cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Leydig cells in the interstitial spaces outside the seminiferous tubules produce androgens.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 57,
+    "questionText": "What is the function of the vas deferens in the male reproductive system?",
+    "options": [
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of sperms from the epididymis to the urethra",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of seminal plasma",
+        "isCorrect": false
+      },
+      {
+        "text": "Lubrication of the penis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The vas deferens transports sperms from the epididymis to the urethra.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 58,
+    "questionText": "What is the primary function of the male reproductive system?",
+    "options": [
+      {
+        "text": "Production of female gametes",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Production and transportation of sperms",
+        "isCorrect": true
+      },
+      {
+        "text": "Lubrication of the vagina",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary function of the male reproductive system is the production and transportation of sperms.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 67,
+    "questionText": "Which structure in the male reproductive system is responsible for the storage and transport of sperms?",
+    "options": [
+      {
+        "text": "Seminal vesicles",
+        "isCorrect": false
+      },
+      {
+        "text": "Epididymis",
+        "isCorrect": true
+      },
+      {
+        "text": "Vas deferens",
+        "isCorrect": false
+      },
+      {
+        "text": "Bulbourethral glands",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The epididymis is responsible for the storage and transport of sperms.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 73,
+    "questionText": "What is the role of Sertoli cells in the seminiferous tubules?",
+    "options": [
+      {
+        "text": "To secrete androgens",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide nutrition to germ cells",
+        "isCorrect": true
+      },
+      {
+        "text": "To transport sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "To produce seminal plasma",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sertoli cells provide nutrition to the male germ cells (spermatogonia) during spermatogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 74,
+    "questionText": "Which cells in the testes secrete testosterone?",
+    "options": [
+      {
+        "text": "Sertoli cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Leydig cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Spermatogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Epididymis cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Leydig cells in the interstitial spaces outside the seminiferous tubules secrete testosterone.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 75,
+    "questionText": "What is the role of the scrotum in the male reproductive system?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintaining the low temperature of the testes",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The scrotum helps in maintaining the low temperature of the testes, necessary for spermatogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 76,
+    "questionText": "Which structure in the male reproductive system is involved in the transport of sperms from the epididymis to the urethra?",
+    "options": [
+      {
+        "text": "Seminal vesicles",
+        "isCorrect": false
+      },
+      {
+        "text": "Vas deferens",
+        "isCorrect": true
+      },
+      {
+        "text": "Leydig cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Sertoli cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The vas deferens transports sperms from the epididymis to the urethra.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 77,
+    "questionText": "What is the primary function of the ejaculatory duct?",
+    "options": [
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Ejaculation of sperms",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of seminal plasma",
+        "isCorrect": false
+      },
+      {
+        "text": "Lubrication of the penis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ejaculatory duct is responsible for the ejaculation of sperms.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 78,
+    "questionText": "Which glands are responsible for the secretion of seminal plasma?",
+    "options": [
+      {
+        "text": "Seminal vesicles, prostate, and bulbourethral glands",
+        "isCorrect": true
+      },
+      {
+        "text": "Testes and epididymis",
+        "isCorrect": false
+      },
+      {
+        "text": "Leydig cells and Sertoli cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Seminiferous tubules and vas deferens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The male accessory glands include paired seminal vesicles, a prostate, and paired bulbourethral glands, which secrete seminal plasma.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 79,
+    "questionText": "What is the primary function of the penis in the male reproductive system?",
+    "options": [
+      {
+        "text": "Production of sperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitation of insemination",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of sperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The penis facilitates insemination by helping in the erection.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 80,
+    "questionText": "Which cells provide nutrition to the developing sperms in the seminiferous tubules?",
+    "options": [
+      {
+        "text": "Leydig cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Sertoli cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Spermatogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Epididymis cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sertoli cells provide nutrition to the developing sperms in the seminiferous tubules.",
+    "chapter": "Human Reproduction",
+    "topic": "2.1 The Male Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 1,
+    "questionText": "What are the primary female sex organs?",
+    "options": [
+      {
+        "text": "Ovaries",
+        "isCorrect": true
+      },
+      {
+        "text": "Fallopian tubes",
+        "isCorrect": false
+      },
+      {
+        "text": "Uterus",
+        "isCorrect": false
+      },
+      {
+        "text": "Vagina",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary female sex organs are the ovaries, which produce the female gamete (ovum) and several steroid hormones.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "What is the function of the fallopian tubes in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova from the ovaries to the uterus",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the placenta",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The fallopian tubes transport ova from the ovaries to the uterus.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "What is the role of the uterus in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Site of implantation and fetal development",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The uterus is the site of implantation and fetal development.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is the function of the cervix in the female reproductive system?",
+    "options": [
+      {
+        "text": "Connects the uterus to the vagina",
+        "isCorrect": true
+      },
+      {
+        "text": "Produces hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transports ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Site of fertilization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The cervix connects the uterus to the vagina.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "What is the function of the vagina in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Birth canal",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The vagina serves as the birth canal in the female reproductive system.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "What is the function of the external genitalia in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Protection of internal reproductive organs",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The external genitalia protect the internal reproductive organs.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "What is the role of the mammary glands in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Production of milk for feeding the newborn",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mammary glands produce milk for feeding the newborn.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "What is the function of the ovarian follicles in the female reproductive system?",
+    "options": [
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Site of ovum production",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the placenta",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ovarian follicles are the site of ovum production in the ovaries.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "What is the role of the endometrium in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Site of implantation and nourishment of the embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endometrium is the site of implantation and nourishment of the embryo.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which structure is responsible for the collection of the ovum after ovulation?",
+    "options": [
+      {
+        "text": "Fimbriae of the fallopian tube",
+        "isCorrect": true
+      },
+      {
+        "text": "Endometrium",
+        "isCorrect": false
+      },
+      {
+        "text": "Cervix",
+        "isCorrect": false
+      },
+      {
+        "text": "Vagina",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The fimbriae of the fallopian tube help in the collection of the ovum after ovulation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which part of the female reproductive system is also known as the womb?",
+    "options": [
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Fallopian tube",
+        "isCorrect": false
+      },
+      {
+        "text": "Uterus",
+        "isCorrect": true
+      },
+      {
+        "text": "Cervix",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The uterus is also known as the womb.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the function of the myometrium in the female reproductive system?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Contraction during delivery",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of milk",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The myometrium is the middle thick layer of smooth muscle in the uterus that exhibits strong contraction during delivery of the baby.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "What is the role of the hymen in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Partial covering of the vaginal opening",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The hymen is a membrane that often partially covers the opening of the vagina.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "What is the function of the fimbriae in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Collection of the ovum after ovulation",
+        "isCorrect": true
+      },
+      {
+        "text": "Transport of sperm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The fimbriae are finger-like projections at the end of the fallopian tubes that help in the collection of the ovum after ovulation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the function of the fallopian tubes in the female reproductive system?",
+    "options": [
+      {
+        "text": "Transport of ova from the ovaries to the uterus",
+        "isCorrect": true
+      },
+      {
+        "text": "Production of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the placenta",
+        "isCorrect": false
+      },
+      {
+        "text": "Protection of internal reproductive organs",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The fallopian tubes transport ova from the ovaries to the uterus.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "What is the role of the mons pubis in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Cushioning and protection of the pubic bone",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mons pubis is a cushion of fatty tissue that covers and protects the pubic bone.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 17,
+    "questionText": "What is the function of the labia majora in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Protection of the vaginal opening",
+        "isCorrect": true
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The labia majora are fleshy folds of tissue that protect the vaginal opening.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "What is the function of the labia minora in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Protection of the vaginal opening",
+        "isCorrect": true
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The labia minora are paired folds of tissue under the labia majora that protect the vaginal opening.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "What is the role of the clitoris in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Sexual arousal and sensation",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The clitoris is a tiny finger-like structure that plays a role in sexual arousal and sensation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 20,
+    "questionText": "What is the primary function of the ovaries?",
+    "options": [
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Production of the female gamete (ovum) and several steroid hormones",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the placenta",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ovaries produce the female gamete (ovum) and several steroid hormones.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "What are the layers of the uterine wall?",
+    "options": [
+      {
+        "text": "Perimetrium, myometrium, and endometrium",
+        "isCorrect": true
+      },
+      {
+        "text": "Epithelium, mesothelium, and endothelium",
+        "isCorrect": false
+      },
+      {
+        "text": "Cortex, medulla, and peritoneum",
+        "isCorrect": false
+      },
+      {
+        "text": "Serosa, muscularis, and mucosa",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The uterine wall has three layers: the external thin membranous perimetrium, middle thick layer of smooth muscle myometrium, and inner glandular layer endometrium.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "What is the function of the myometrium during childbirth?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Contraction to expel the fetus",
+        "isCorrect": true
+      },
+      {
+        "text": "Nourishment of the embryo",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the placenta",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The myometrium, the middle layer of the uterine wall, exhibits strong contractions during childbirth to expel the fetus.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 23,
+    "questionText": "What is the role of the endometrium in the female reproductive system?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Nourishment and implantation of the embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "Contraction during childbirth",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endometrium, the inner glandular layer of the uterine wall, is involved in the implantation and nourishment of the embryo.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "What is the primary function of the ovarian follicles?",
+    "options": [
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Production of the female gamete (ovum)",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the placenta",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ovarian follicles are the site of ovum production in the ovaries.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which structure in the female reproductive system is responsible for the production of milk?",
+    "options": [
+      {
+        "text": "Ovaries",
+        "isCorrect": false
+      },
+      {
+        "text": "Fallopian tubes",
+        "isCorrect": false
+      },
+      {
+        "text": "Mammary glands",
+        "isCorrect": true
+      },
+      {
+        "text": "Uterus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mammary glands produce milk for feeding the newborn.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 28,
+    "questionText": "What is the primary function of the vagina?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Birth canal",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The vagina serves as the birth canal in the female reproductive system.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 29,
+    "questionText": "What is the function of the labia majora?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Protection of the vaginal opening",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The labia majora are fleshy folds of tissue that protect the vaginal opening.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which part of the female reproductive system serves as the site for implantation of the fertilized egg?",
+    "options": [
+      {
+        "text": "Ovaries",
+        "isCorrect": false
+      },
+      {
+        "text": "Fallopian tubes",
+        "isCorrect": false
+      },
+      {
+        "text": "Uterus",
+        "isCorrect": true
+      },
+      {
+        "text": "Cervix",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The uterus serves as the site for implantation of the fertilized egg and subsequent development of the embryo.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 32,
+    "questionText": "What is the role of the corpus luteum in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of progesterone and estrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Protection of internal reproductive organs",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The corpus luteum secretes progesterone and estrogen to maintain the endometrium during early pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 33,
+    "questionText": "What is the main function of the Bartholin's glands in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Lubrication of the vagina",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Bartholin's glands are located near the vaginal opening and secrete mucus for lubrication.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 34,
+    "questionText": "What is the function of the granulosa cells in the ovarian follicles?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of estrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the placenta",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Granulosa cells in the ovarian follicles secrete estrogen, which is crucial for the regulation of the menstrual cycle.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "Which hormone is primarily responsible for the development of female secondary sexual characteristics?",
+    "options": [
+      {
+        "text": "Testosterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Estrogen is primarily responsible for the development of female secondary sexual characteristics such as breast development and wider hips.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 36,
+    "questionText": "What is the primary function of the fallopian tubes?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova from the ovaries to the uterus",
+        "isCorrect": true
+      },
+      {
+        "text": "Formation of the placenta",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The fallopian tubes transport ova from the ovaries to the uterus, where fertilization can occur.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 37,
+    "questionText": "Which structure produces progesterone to maintain the endometrium during early pregnancy?",
+    "options": [
+      {
+        "text": "Ovaries",
+        "isCorrect": false
+      },
+      {
+        "text": "Fallopian tubes",
+        "isCorrect": false
+      },
+      {
+        "text": "Corpus luteum",
+        "isCorrect": true
+      },
+      {
+        "text": "Cervix",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The corpus luteum produces progesterone to maintain the endometrium during early pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 38,
+    "questionText": "What is the primary function of the mammary glands?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Production of milk for feeding the newborn",
+        "isCorrect": true
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mammary glands produce milk for feeding the newborn.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 39,
+    "questionText": "What is the role of the oviducts in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova from the ovaries to the uterus",
+        "isCorrect": true
+      },
+      {
+        "text": "Formation of the placenta",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The oviducts (fallopian tubes) transport ova from the ovaries to the uterus.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 40,
+    "questionText": "What is the function of the endometrial lining of the uterus?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Nourishment and implantation of the embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "Contraction during childbirth",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endometrial lining of the uterus is involved in the nourishment and implantation of the embryo.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 41,
+    "questionText": "What is the primary function of the myometrium in the female reproductive system?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Contraction during childbirth",
+        "isCorrect": true
+      },
+      {
+        "text": "Nourishment of the embryo",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The myometrium is the middle thick layer of smooth muscle in the uterus that exhibits strong contractions during childbirth.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 42,
+    "questionText": "Which structure in the female reproductive system is also known as the birth canal?",
+    "options": [
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Fallopian tube",
+        "isCorrect": false
+      },
+      {
+        "text": "Uterus",
+        "isCorrect": false
+      },
+      {
+        "text": "Vagina",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The vagina is also known as the birth canal.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 44,
+    "questionText": "Which hormone is primarily responsible for maintaining pregnancy?",
+    "options": [
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": true
+      },
+      {
+        "text": "Testosterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Progesterone is primarily responsible for maintaining pregnancy by supporting the endometrium and preventing contractions.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 46,
+    "questionText": "What is the role of the labia minora in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Protection of the vaginal opening",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The labia minora are paired folds of tissue under the labia majora that protect the vaginal opening.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 47,
+    "questionText": "What is the primary function of the mammary glands in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Production of milk for feeding the newborn",
+        "isCorrect": true
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mammary glands produce milk for feeding the newborn.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 48,
+    "questionText": "What is the role of the granulosa cells in the ovarian follicles?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Secretion of estrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the placenta",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Granulosa cells in the ovarian follicles secrete estrogen, which is crucial for the regulation of the menstrual cycle.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 50,
+    "questionText": "What is the primary function of the endometrium in the female reproductive system?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Nourishment and implantation of the embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "Contraction during childbirth",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endometrium is the inner glandular layer of the uterine wall that is involved in the nourishment and implantation of the embryo.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 51,
+    "questionText": "What is the primary function of the cervix in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Connection between the uterus and the vagina",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The cervix acts as a connection between the uterus and the vagina, facilitating the passage of sperm into the uterus and menstrual blood out of the uterus.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 57,
+    "questionText": "Which structure in the female reproductive system is involved in the production of female gametes?",
+    "options": [
+      {
+        "text": "Ovaries",
+        "isCorrect": true
+      },
+      {
+        "text": "Fallopian tubes",
+        "isCorrect": false
+      },
+      {
+        "text": "Uterus",
+        "isCorrect": false
+      },
+      {
+        "text": "Vagina",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ovaries are involved in the production of female gametes (ova).",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 58,
+    "questionText": "What is the function of the clitoris in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Sexual arousal and sensation",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The clitoris is a tiny finger-like structure that plays a role in sexual arousal and sensation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 59,
+    "questionText": "What is the primary function of the endometrial lining of the uterus?",
+    "options": [
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Nourishment and implantation of the embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "Contraction during childbirth",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The endometrial lining of the uterus is involved in the nourishment and implantation of the embryo.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "HARD"
+  },
+  {
+    "qno": 60,
+    "questionText": "Which cells in the ovarian follicles secrete estrogen?",
+    "options": [
+      {
+        "text": "Theca cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Granulosa cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Sertoli cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Leydig cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Granulosa cells in the ovarian follicles secrete estrogen, which is crucial for the regulation of the menstrual cycle.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 61,
+    "questionText": "What is the primary function of the fimbriae in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Collection of the ovum after ovulation",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of sperm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The fimbriae are finger-like projections at the end of the fallopian tubes that help in the collection of the ovum after ovulation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "EASY"
+  },
+  {
+    "qno": 64,
+    "questionText": "What is the role of the Bartholin's glands in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Lubrication of the vagina",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Bartholin's glands are located near the vaginal opening and secrete mucus for lubrication.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 78,
+    "questionText": "What is the function of the hymen in the female reproductive system?",
+    "options": [
+      {
+        "text": "Production of ova",
+        "isCorrect": false
+      },
+      {
+        "text": "Partial covering of the vaginal opening",
+        "isCorrect": true
+      },
+      {
+        "text": "Secretion of hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport of ova",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The hymen is a membrane that often partially covers the opening of the vagina.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 80,
+    "questionText": "Which part of the female reproductive system is responsible for the secretion of milk during lactation?",
+    "options": [
+      {
+        "text": "Ovaries",
+        "isCorrect": false
+      },
+      {
+        "text": "Fallopian tubes",
+        "isCorrect": false
+      },
+      {
+        "text": "Mammary glands",
+        "isCorrect": true
+      },
+      {
+        "text": "Uterus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mammary glands are responsible for the production and secretion of milk during lactation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.2 The Female Reproductive System",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is the process of formation of male and female gametes called?",
+    "options": [
+      {
+        "text": "Fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "Gametogenesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Spermatogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Oogenesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gametogenesis is the process of formation of male and female gametes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Where does spermatogenesis occur in males?",
+    "options": [
+      {
+        "text": "Vas deferens",
+        "isCorrect": false
+      },
+      {
+        "text": "Epididymis",
+        "isCorrect": false
+      },
+      {
+        "text": "Seminiferous tubules",
+        "isCorrect": true
+      },
+      {
+        "text": "Prostate gland",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Spermatogenesis occurs in the seminiferous tubules of the testes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which hormone primarily regulates spermatogenesis?",
+    "options": [
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Testosterone",
+        "isCorrect": true
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Testosterone primarily regulates spermatogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is the final product of spermatogenesis?",
+    "options": [
+      {
+        "text": "Spermatogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary spermatocytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Spermatids",
+        "isCorrect": false
+      },
+      {
+        "text": "Spermatozoa",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The final product of spermatogenesis is spermatozoa (sperms).",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which cells undergo mitotic division to produce primary spermatocytes?",
+    "options": [
+      {
+        "text": "Spermatogonia",
+        "isCorrect": true
+      },
+      {
+        "text": "Spermatids",
+        "isCorrect": false
+      },
+      {
+        "text": "Spermatozoa",
+        "isCorrect": false
+      },
+      {
+        "text": "Secondary spermatocytes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Spermatogonia undergo mitotic division to produce primary spermatocytes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 6,
+    "questionText": "What is the process of formation of ova in females called?",
+    "options": [
+      {
+        "text": "Spermatogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Oogenesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Gametogenesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Fertilization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oogenesis is the process of formation of ova in females.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "Where does oogenesis occur in females?",
+    "options": [
+      {
+        "text": "Fallopian tubes",
+        "isCorrect": false
+      },
+      {
+        "text": "Uterus",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovaries",
+        "isCorrect": true
+      },
+      {
+        "text": "Vagina",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oogenesis occurs in the ovaries.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which hormone primarily regulates oogenesis?",
+    "options": [
+      {
+        "text": "Testosterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Estrogen primarily regulates oogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 9,
+    "questionText": "What is the final product of oogenesis?",
+    "options": [
+      {
+        "text": "Oogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary oocytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Secondary oocytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovum",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The final product of oogenesis is the ovum (egg).",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which cells undergo meiotic division to produce secondary oocytes?",
+    "options": [
+      {
+        "text": "Oogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary oocytes",
+        "isCorrect": true
+      },
+      {
+        "text": "Secondary oocytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Primary oocytes undergo meiotic division to produce secondary oocytes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which cells are involved in the initial stages of spermatogenesis?",
+    "options": [
+      {
+        "text": "Spermatogonia",
+        "isCorrect": true
+      },
+      {
+        "text": "Primary spermatocytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Spermatids",
+        "isCorrect": false
+      },
+      {
+        "text": "Spermatozoa",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Spermatogonia are the initial cells involved in spermatogenesis, undergoing mitotic divisions to form primary spermatocytes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "During which phase of the menstrual cycle does oogenesis primarily occur?",
+    "options": [
+      {
+        "text": "Follicular phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Ovulation phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteal phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Menstrual phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oogenesis primarily occurs during the follicular phase of the menstrual cycle.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which structure provides nourishment to developing sperms during spermatogenesis?",
+    "options": [
+      {
+        "text": "Leydig cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Sertoli cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Spermatogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Interstitial cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sertoli cells provide nourishment to developing sperms during spermatogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which hormone stimulates the Leydig cells to produce testosterone?",
+    "options": [
+      {
+        "text": "Follicle-stimulating hormone (FSH)",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone (LH)",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Luteinizing hormone (LH) stimulates the Leydig cells to produce testosterone.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the ploidy level of primary spermatocytes?",
+    "options": [
+      {
+        "text": "Haploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Diploid",
+        "isCorrect": true
+      },
+      {
+        "text": "Tetraploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Triploid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Primary spermatocytes are diploid cells that undergo meiosis to produce haploid spermatids.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "During oogenesis, which cells are arrested in prophase I of meiosis until puberty?",
+    "options": [
+      {
+        "text": "Oogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary oocytes",
+        "isCorrect": true
+      },
+      {
+        "text": "Secondary oocytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "During oogenesis, primary oocytes are arrested in prophase I of meiosis until puberty.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 17,
+    "questionText": "What is the role of the acrosome in spermatozoa?",
+    "options": [
+      {
+        "text": "Provides energy for sperm motility",
+        "isCorrect": false
+      },
+      {
+        "text": "Contains enzymes to penetrate the egg",
+        "isCorrect": true
+      },
+      {
+        "text": "Stores genetic material",
+        "isCorrect": false
+      },
+      {
+        "text": "Protects the sperm nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acrosome contains enzymes that help the sperm penetrate the egg during fertilization.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which phase of meiosis is completed just before ovulation in oogenesis?",
+    "options": [
+      {
+        "text": "Prophase I",
+        "isCorrect": false
+      },
+      {
+        "text": "Metaphase II",
+        "isCorrect": false
+      },
+      {
+        "text": "Anaphase I",
+        "isCorrect": false
+      },
+      {
+        "text": "Metaphase I",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Metaphase I of meiosis is completed just before ovulation in oogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which cells in the testes undergo meiosis to produce spermatids?",
+    "options": [
+      {
+        "text": "Spermatogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary spermatocytes",
+        "isCorrect": true
+      },
+      {
+        "text": "Secondary spermatocytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Sertoli cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Primary spermatocytes undergo meiosis to produce spermatids.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which stage of oogenesis is characterized by the formation of a mature ovum?",
+    "options": [
+      {
+        "text": "Oogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary oocytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Secondary oocytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovum",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The final stage of oogenesis is characterized by the formation of a mature ovum.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which hormone is responsible for the release of the secondary oocyte during ovulation?",
+    "options": [
+      {
+        "text": "Follicle-stimulating hormone (FSH)",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone (LH)",
+        "isCorrect": true
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Testosterone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Luteinizing hormone (LH) triggers ovulation, leading to the release of the secondary oocyte.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 22,
+    "questionText": "What is the ploidy level of spermatids formed after meiosis II?",
+    "options": [
+      {
+        "text": "Haploid",
+        "isCorrect": true
+      },
+      {
+        "text": "Diploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Tetraploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Triploid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Spermatids formed after meiosis II are haploid, containing one set of chromosomes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which cells in the ovary produce the primary oocytes?",
+    "options": [
+      {
+        "text": "Oogonia",
+        "isCorrect": true
+      },
+      {
+        "text": "Granulosa cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Theca cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteal cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oogonia in the ovary undergo mitotic division to produce primary oocytes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 24,
+    "questionText": "What is the role of the zona pellucida in the egg?",
+    "options": [
+      {
+        "text": "Provides energy for the egg",
+        "isCorrect": false
+      },
+      {
+        "text": "Protects the egg and mediates sperm binding",
+        "isCorrect": true
+      },
+      {
+        "text": "Stores genetic material",
+        "isCorrect": false
+      },
+      {
+        "text": "Assists in egg maturation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The zona pellucida is a glycoprotein layer surrounding the plasma membrane of the egg, providing protection and mediating sperm binding during fertilization.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "During spermatogenesis, which cells undergo meiosis I to form secondary spermatocytes?",
+    "options": [
+      {
+        "text": "Spermatogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary spermatocytes",
+        "isCorrect": true
+      },
+      {
+        "text": "Spermatids",
+        "isCorrect": false
+      },
+      {
+        "text": "Spermatozoa",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Primary spermatocytes undergo meiosis I to form secondary spermatocytes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which stage of oogenesis is arrested at birth in females?",
+    "options": [
+      {
+        "text": "Oogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary oocytes",
+        "isCorrect": true
+      },
+      {
+        "text": "Secondary oocytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Primary oocytes are arrested in prophase I of meiosis at birth in females.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "Which structure contains enzymes that help sperm penetrate the egg during fertilization?",
+    "options": [
+      {
+        "text": "Flagellum",
+        "isCorrect": false
+      },
+      {
+        "text": "Acrosome",
+        "isCorrect": true
+      },
+      {
+        "text": "Midpiece",
+        "isCorrect": false
+      },
+      {
+        "text": "Nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acrosome contains enzymes that help sperm penetrate the egg during fertilization.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which phase of meiosis is completed just before fertilization in oogenesis?",
+    "options": [
+      {
+        "text": "Prophase I",
+        "isCorrect": false
+      },
+      {
+        "text": "Metaphase II",
+        "isCorrect": true
+      },
+      {
+        "text": "Anaphase I",
+        "isCorrect": false
+      },
+      {
+        "text": "Telophase II",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Metaphase II of meiosis is completed just before fertilization in oogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 29,
+    "questionText": "What is the ploidy level of the primary oocytes?",
+    "options": [
+      {
+        "text": "Haploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Diploid",
+        "isCorrect": true
+      },
+      {
+        "text": "Tetraploid",
+        "isCorrect": false
+      },
+      {
+        "text": "Triploid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Primary oocytes are diploid cells that undergo meiosis to form haploid secondary oocytes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 30,
+    "questionText": "Which hormone stimulates the release of the primary oocyte during puberty?",
+    "options": [
+      {
+        "text": "Follicle-stimulating hormone (FSH)",
+        "isCorrect": true
+      },
+      {
+        "text": "Luteinizing hormone (LH)",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Follicle-stimulating hormone (FSH) stimulates the release of the primary oocyte during puberty.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which stage of meiosis is arrested at metaphase II in oogenesis until fertilization?",
+    "options": [
+      {
+        "text": "Oogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary oocytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Secondary oocytes",
+        "isCorrect": true
+      },
+      {
+        "text": "Ovum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Secondary oocytes are arrested at metaphase II of meiosis until fertilization occurs.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 32,
+    "questionText": "Which cells in the seminiferous tubules provide support and nutrition to the developing sperms?",
+    "options": [
+      {
+        "text": "Leydig cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Spermatogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Sertoli cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Spermatids",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sertoli cells in the seminiferous tubules provide support and nutrition to the developing sperms.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 34,
+    "questionText": "What is the function of the acrosome in spermatozoa?",
+    "options": [
+      {
+        "text": "Stores genetic material",
+        "isCorrect": false
+      },
+      {
+        "text": "Provides energy for sperm motility",
+        "isCorrect": false
+      },
+      {
+        "text": "Contains enzymes to penetrate the egg",
+        "isCorrect": true
+      },
+      {
+        "text": "Protects the sperm nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acrosome contains enzymes that help the sperm penetrate the egg during fertilization.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "Which cells undergo mitotic division to produce primary oocytes?",
+    "options": [
+      {
+        "text": "Oogonia",
+        "isCorrect": true
+      },
+      {
+        "text": "Granulosa cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Theca cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteal cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oogonia undergo mitotic division to produce primary oocytes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 38,
+    "questionText": "Which cells undergo meiosis I to form secondary spermatocytes?",
+    "options": [
+      {
+        "text": "Spermatogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary spermatocytes",
+        "isCorrect": true
+      },
+      {
+        "text": "Spermatids",
+        "isCorrect": false
+      },
+      {
+        "text": "Spermatozoa",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Primary spermatocytes undergo meiosis I to form secondary spermatocytes.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 41,
+    "questionText": "During which phase of meiosis is the primary oocyte arrested until ovulation?",
+    "options": [
+      {
+        "text": "Prophase I",
+        "isCorrect": true
+      },
+      {
+        "text": "Metaphase I",
+        "isCorrect": false
+      },
+      {
+        "text": "Anaphase I",
+        "isCorrect": false
+      },
+      {
+        "text": "Telophase I",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary oocyte is arrested in prophase I of meiosis until ovulation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 42,
+    "questionText": "Which hormone is primarily responsible for the regulation of spermatogenesis?",
+    "options": [
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Testosterone",
+        "isCorrect": true
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Testosterone is the hormone primarily responsible for the regulation of spermatogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 43,
+    "questionText": "Which cells provide nutrition to developing sperms during spermatogenesis?",
+    "options": [
+      {
+        "text": "Leydig cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Sertoli cells",
+        "isCorrect": true
+      },
+      {
+        "text": "Spermatogonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Interstitial cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sertoli cells provide nutrition to developing sperms during spermatogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 44,
+    "questionText": "What is the role of the acrosome in spermatozoa?",
+    "options": [
+      {
+        "text": "Stores genetic material",
+        "isCorrect": false
+      },
+      {
+        "text": "Contains enzymes to penetrate the egg",
+        "isCorrect": true
+      },
+      {
+        "text": "Provides energy for sperm motility",
+        "isCorrect": false
+      },
+      {
+        "text": "Protects the sperm nucleus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acrosome contains enzymes that help the sperm penetrate the egg during fertilization.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 48,
+    "questionText": "Which hormone stimulates the release of the secondary oocyte during ovulation?",
+    "options": [
+      {
+        "text": "Follicle-stimulating hormone (FSH)",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone (LH)",
+        "isCorrect": true
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Testosterone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Luteinizing hormone (LH) triggers ovulation, leading to the release of the secondary oocyte.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 69,
+    "questionText": "Which hormone is primarily responsible for the regulation of oogenesis?",
+    "options": [
+      {
+        "text": "Testosterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Estrogen is the hormone primarily responsible for the regulation of oogenesis.",
+    "chapter": "Human Reproduction",
+    "topic": "2.3 Gametogenesis",
+    "level": "HARD"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is the average length of the menstrual cycle in human females?",
+    "options": [
+      {
+        "text": "21 days",
+        "isCorrect": false
+      },
+      {
+        "text": "28 days",
+        "isCorrect": true
+      },
+      {
+        "text": "35 days",
+        "isCorrect": false
+      },
+      {
+        "text": "40 days",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average length of the menstrual cycle in human females is 28 days.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which hormone is responsible for the proliferation of the endometrial lining during the follicular phase of the menstrual cycle?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": false
+      },
+      {
+        "text": "Follicle-stimulating hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Estrogen is responsible for the proliferation of the endometrial lining during the follicular phase of the menstrual cycle.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "What triggers the onset of menstruation if fertilization does not occur?",
+    "options": [
+      {
+        "text": "Rise in progesterone levels",
+        "isCorrect": false
+      },
+      {
+        "text": "Fall in estrogen and progesterone levels",
+        "isCorrect": true
+      },
+      {
+        "text": "Surge in luteinizing hormone",
+        "isCorrect": false
+      },
+      {
+        "text": "Increase in follicle-stimulating hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The fall in estrogen and progesterone levels triggers the onset of menstruation if fertilization does not occur.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "HARD"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which phase of the menstrual cycle is characterized by the shedding of the endometrial lining?",
+    "options": [
+      {
+        "text": "Follicular phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovulation phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteal phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Menstrual phase",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The menstrual phase is characterized by the shedding of the endometrial lining.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which hormone surge is responsible for triggering ovulation?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": true
+      },
+      {
+        "text": "Follicle-stimulating hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The surge in luteinizing hormone (LH) is responsible for triggering ovulation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "During which phase of the menstrual cycle does the endometrium prepare for potential implantation?",
+    "options": [
+      {
+        "text": "Follicular phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovulation phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteal phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Menstrual phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "During the luteal phase, the endometrium prepares for potential implantation by becoming thicker and more vascular.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "HARD"
+  },
+  {
+    "qno": 7,
+    "questionText": "What marks the first day of the menstrual cycle?",
+    "options": [
+      {
+        "text": "First day of ovulation",
+        "isCorrect": false
+      },
+      {
+        "text": "First day of menstruation",
+        "isCorrect": true
+      },
+      {
+        "text": "First day of the luteal phase",
+        "isCorrect": false
+      },
+      {
+        "text": "First day of implantation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The first day of menstruation marks the first day of the menstrual cycle.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which hormone is primarily responsible for maintaining the endometrium during the luteal phase?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": false
+      },
+      {
+        "text": "Follicle-stimulating hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Progesterone is primarily responsible for maintaining the endometrium during the luteal phase.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "What happens to the corpus luteum if fertilization does not occur?",
+    "options": [
+      {
+        "text": "It remains functional",
+        "isCorrect": false
+      },
+      {
+        "text": "It degenerates",
+        "isCorrect": true
+      },
+      {
+        "text": "It secretes more hormones",
+        "isCorrect": false
+      },
+      {
+        "text": "It transforms into the corpus albicans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If fertilization does not occur, the corpus luteum degenerates.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "HARD"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which phase of the menstrual cycle involves the growth and maturation of ovarian follicles?",
+    "options": [
+      {
+        "text": "Follicular phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Ovulation phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteal phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Menstrual phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The follicular phase involves the growth and maturation of ovarian follicles under the influence of follicle-stimulating hormone (FSH).",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which hormone is primarily responsible for the proliferation of the endometrium during the menstrual cycle?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": false
+      },
+      {
+        "text": "Follicle-stimulating hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Estrogen is primarily responsible for the proliferation of the endometrium during the menstrual cycle.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the main function of the corpus luteum during the menstrual cycle?",
+    "options": [
+      {
+        "text": "To release the egg",
+        "isCorrect": false
+      },
+      {
+        "text": "To secrete progesterone",
+        "isCorrect": true
+      },
+      {
+        "text": "To trigger ovulation",
+        "isCorrect": false
+      },
+      {
+        "text": "To stimulate follicle development",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main function of the corpus luteum is to secrete progesterone, which helps maintain the endometrium for potential implantation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which phase of the menstrual cycle is characterized by the formation of the corpus luteum?",
+    "options": [
+      {
+        "text": "Follicular phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovulation phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteal phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Menstrual phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The luteal phase is characterized by the formation of the corpus luteum from the ruptured follicle after ovulation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "What marks the beginning of the follicular phase of the menstrual cycle?",
+    "options": [
+      {
+        "text": "First day of menstruation",
+        "isCorrect": true
+      },
+      {
+        "text": "Ovulation",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the corpus luteum",
+        "isCorrect": false
+      },
+      {
+        "text": "End of menstruation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The first day of menstruation marks the beginning of the follicular phase of the menstrual cycle.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "EASY"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which hormone is at its peak during ovulation?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": true
+      },
+      {
+        "text": "Follicle-stimulating hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Luteinizing hormone (LH) reaches its peak during ovulation, triggering the release of the egg.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "What is the primary function of progesterone during the menstrual cycle?",
+    "options": [
+      {
+        "text": "To stimulate follicle development",
+        "isCorrect": false
+      },
+      {
+        "text": "To maintain the endometrium",
+        "isCorrect": true
+      },
+      {
+        "text": "To trigger ovulation",
+        "isCorrect": false
+      },
+      {
+        "text": "To proliferate the endometrium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Progesterone's primary function during the menstrual cycle is to maintain the endometrium for potential implantation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "HARD"
+  },
+  {
+    "qno": 18,
+    "questionText": "What causes the degeneration of the corpus luteum if fertilization does not occur?",
+    "options": [
+      {
+        "text": "Increase in estrogen levels",
+        "isCorrect": false
+      },
+      {
+        "text": "Decrease in progesterone levels",
+        "isCorrect": true
+      },
+      {
+        "text": "Surge in luteinizing hormone",
+        "isCorrect": false
+      },
+      {
+        "text": "Rise in follicle-stimulating hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The decrease in progesterone levels causes the degeneration of the corpus luteum if fertilization does not occur.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "During which phase of the menstrual cycle does the endometrium become thicker and more vascular?",
+    "options": [
+      {
+        "text": "Follicular phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovulation phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteal phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Menstrual phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "During the luteal phase, the endometrium becomes thicker and more vascular to prepare for potential implantation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "What marks the beginning of the menstrual phase of the menstrual cycle?",
+    "options": [
+      {
+        "text": "End of menstruation",
+        "isCorrect": false
+      },
+      {
+        "text": "First day of menstruation",
+        "isCorrect": true
+      },
+      {
+        "text": "Ovulation",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the corpus luteum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The first day of menstruation marks the beginning of the menstrual phase of the menstrual cycle.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which hormone is responsible for the thickening of the endometrium during the luteal phase of the menstrual cycle?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": false
+      },
+      {
+        "text": "Follicle-stimulating hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Progesterone is responsible for the thickening of the endometrium during the luteal phase of the menstrual cycle.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "HARD"
+  },
+  {
+    "qno": 22,
+    "questionText": "What happens to the levels of estrogen and progesterone if fertilization occurs?",
+    "options": [
+      {
+        "text": "Both decrease",
+        "isCorrect": false
+      },
+      {
+        "text": "Both increase",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen decreases and progesterone increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Estrogen increases and progesterone decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If fertilization occurs, the levels of both estrogen and progesterone increase to support pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which phase of the menstrual cycle is characterized by the breakdown and shedding of the endometrial lining?",
+    "options": [
+      {
+        "text": "Follicular phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovulation phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteal phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Menstrual phase",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The menstrual phase is characterized by the breakdown and shedding of the endometrial lining.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "EASY"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which hormone is primarily responsible for the maintenance of the endometrium during the luteal phase?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": false
+      },
+      {
+        "text": "Follicle-stimulating hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Progesterone is primarily responsible for the maintenance of the endometrium during the luteal phase.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which hormone triggers ovulation in the menstrual cycle?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": true
+      },
+      {
+        "text": "Follicle-stimulating hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Luteinizing hormone (LH) triggers ovulation in the menstrual cycle.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "HARD"
+  },
+  {
+    "qno": 27,
+    "questionText": "During which phase of the menstrual cycle is the endometrium prepared for potential implantation of a fertilized egg?",
+    "options": [
+      {
+        "text": "Follicular phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovulation phase",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteal phase",
+        "isCorrect": true
+      },
+      {
+        "text": "Menstrual phase",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "During the luteal phase, the endometrium is prepared for potential implantation of a fertilized egg.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 71,
+    "questionText": "Which hormone is primarily responsible for the thickening of the endometrium during the luteal phase of the menstrual cycle?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone",
+        "isCorrect": false
+      },
+      {
+        "text": "Follicle-stimulating hormone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Progesterone is responsible for the thickening of the endometrium during the luteal phase of the menstrual cycle.",
+    "chapter": "Human Reproduction",
+    "topic": "2.4 Menstrual Cycle",
+    "level": "HARD"
+  },
+  {
+    "qno": 1,
+    "questionText": "Where does fertilization typically occur in the female reproductive system?",
+    "options": [
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Fallopian tube",
+        "isCorrect": true
+      },
+      {
+        "text": "Uterus",
+        "isCorrect": false
+      },
+      {
+        "text": "Cervix",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fertilization typically occurs in the fallopian tube, also known as the oviduct.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "What is the acrosome reaction in sperm?",
+    "options": [
+      {
+        "text": "Fusion of sperm and egg",
+        "isCorrect": false
+      },
+      {
+        "text": "Release of enzymes to penetrate the egg",
+        "isCorrect": true
+      },
+      {
+        "text": "Movement of sperm towards the egg",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the zygote",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acrosome reaction involves the release of enzymes from the acrosome of the sperm to penetrate the egg.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which stage of the fertilized egg implants into the uterine wall?",
+    "options": [
+      {
+        "text": "Morula",
+        "isCorrect": false
+      },
+      {
+        "text": "Blastocyst",
+        "isCorrect": true
+      },
+      {
+        "text": "Zygote",
+        "isCorrect": false
+      },
+      {
+        "text": "Gastrula",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The blastocyst stage of the fertilized egg implants into the uterine wall.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "HARD"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is the role of human chorionic gonadotropin (hCG) in early pregnancy?",
+    "options": [
+      {
+        "text": "Stimulates the growth of ovarian follicles",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintains the corpus luteum",
+        "isCorrect": true
+      },
+      {
+        "text": "Triggers ovulation",
+        "isCorrect": false
+      },
+      {
+        "text": "Promotes the maturation of the sperm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Human chorionic gonadotropin (hCG) maintains the corpus luteum, which is crucial for the production of progesterone during early pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which part of the blastocyst forms the embryo?",
+    "options": [
+      {
+        "text": "Trophoblast",
+        "isCorrect": false
+      },
+      {
+        "text": "Inner cell mass",
+        "isCorrect": true
+      },
+      {
+        "text": "Blastocoel",
+        "isCorrect": false
+      },
+      {
+        "text": "Zona pellucida",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The inner cell mass of the blastocyst forms the embryo.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "HARD"
+  },
+  {
+    "qno": 6,
+    "questionText": "What is capacitation in sperm?",
+    "options": [
+      {
+        "text": "Formation of the acrosome",
+        "isCorrect": false
+      },
+      {
+        "text": "Activation of sperm motility",
+        "isCorrect": true
+      },
+      {
+        "text": "Fusion with the egg membrane",
+        "isCorrect": false
+      },
+      {
+        "text": "Penetration of the egg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Capacitation is the physiological changes sperm undergo to become capable of penetrating and fertilizing the egg.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "What is the significance of the zona pellucida during fertilization?",
+    "options": [
+      {
+        "text": "It nourishes the egg",
+        "isCorrect": false
+      },
+      {
+        "text": "It facilitates sperm binding and prevents polyspermy",
+        "isCorrect": true
+      },
+      {
+        "text": "It triggers the acrosome reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "It forms the blastocyst",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The zona pellucida facilitates sperm binding and prevents polyspermy by hardening after the entry of the first sperm.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which hormone is detected by pregnancy tests?",
+    "options": [
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Human chorionic gonadotropin (hCG)",
+        "isCorrect": true
+      },
+      {
+        "text": "Luteinizing hormone (LH)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pregnancy tests detect the presence of human chorionic gonadotropin (hCG) in the urine or blood.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which structure secretes hCG during early pregnancy?",
+    "options": [
+      {
+        "text": "Ovary",
+        "isCorrect": false
+      },
+      {
+        "text": "Corpus luteum",
+        "isCorrect": false
+      },
+      {
+        "text": "Placenta",
+        "isCorrect": true
+      },
+      {
+        "text": "Endometrium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The placenta secretes human chorionic gonadotropin (hCG) during early pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "What is the role of the corpus luteum in early pregnancy?",
+    "options": [
+      {
+        "text": "To release the egg",
+        "isCorrect": false
+      },
+      {
+        "text": "To secrete progesterone",
+        "isCorrect": true
+      },
+      {
+        "text": "To trigger ovulation",
+        "isCorrect": false
+      },
+      {
+        "text": "To nourish the developing embryo",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The corpus luteum secretes progesterone, which is essential for maintaining the endometrium and supporting early pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "HARD"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which part of the blastocyst attaches to the uterine wall during implantation?",
+    "options": [
+      {
+        "text": "Trophoblast",
+        "isCorrect": true
+      },
+      {
+        "text": "Inner cell mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Blastocoel",
+        "isCorrect": false
+      },
+      {
+        "text": "Zona pellucida",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The trophoblast part of the blastocyst attaches to the uterine wall during implantation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the function of the zona pellucida after fertilization?",
+    "options": [
+      {
+        "text": "To provide nutrients to the embryo",
+        "isCorrect": false
+      },
+      {
+        "text": "To prevent polyspermy",
+        "isCorrect": true
+      },
+      {
+        "text": "To facilitate sperm entry",
+        "isCorrect": false
+      },
+      {
+        "text": "To form the placenta",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "After fertilization, the zona pellucida prevents polyspermy by hardening and blocking additional sperm from entering the egg.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which hormone is essential for the maintenance of the corpus luteum during early pregnancy?",
+    "options": [
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Human chorionic gonadotropin (hCG)",
+        "isCorrect": true
+      },
+      {
+        "text": "Luteinizing hormone (LH)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Human chorionic gonadotropin (hCG) is essential for the maintenance of the corpus luteum during early pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "What occurs during the acrosome reaction?",
+    "options": [
+      {
+        "text": "Sperm binds to the egg membrane",
+        "isCorrect": false
+      },
+      {
+        "text": "Release of enzymes to penetrate the egg",
+        "isCorrect": true
+      },
+      {
+        "text": "Fusion of sperm and egg nuclei",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of the zygote",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acrosome reaction involves the release of enzymes from the sperm's acrosome to penetrate the egg.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "HARD"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the main function of progesterone during early pregnancy?",
+    "options": [
+      {
+        "text": "To stimulate follicle development",
+        "isCorrect": false
+      },
+      {
+        "text": "To maintain the endometrium",
+        "isCorrect": true
+      },
+      {
+        "text": "To trigger ovulation",
+        "isCorrect": false
+      },
+      {
+        "text": "To promote sperm maturation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Progesterone maintains the endometrium, providing a suitable environment for the developing embryo during early pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which structure becomes the placenta during pregnancy?",
+    "options": [
+      {
+        "text": "Inner cell mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Trophoblast",
+        "isCorrect": true
+      },
+      {
+        "text": "Blastocoel",
+        "isCorrect": false
+      },
+      {
+        "text": "Zona pellucida",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The trophoblast cells of the blastocyst develop into the placenta during pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "HARD"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which stage of development does the fertilized egg reach before implantation?",
+    "options": [
+      {
+        "text": "Morula",
+        "isCorrect": true
+      },
+      {
+        "text": "Zygote",
+        "isCorrect": false
+      },
+      {
+        "text": "Gastrula",
+        "isCorrect": false
+      },
+      {
+        "text": "Blastocoel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The fertilized egg reaches the morula stage before forming a blastocyst that implants into the uterine wall.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "What is the function of the trophoblast during implantation?",
+    "options": [
+      {
+        "text": "To nourish the embryo",
+        "isCorrect": false
+      },
+      {
+        "text": "To form the placenta",
+        "isCorrect": true
+      },
+      {
+        "text": "To release enzymes for implantation",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect the embryo from infection",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The trophoblast forms the outer layer of the blastocyst and eventually develops into the placenta.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which cells of the blastocyst are involved in the formation of the embryo?",
+    "options": [
+      {
+        "text": "Trophoblast cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Inner cell mass",
+        "isCorrect": true
+      },
+      {
+        "text": "Blastocoel cells",
+        "isCorrect": false
+      },
+      {
+        "text": "Zona pellucida cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The inner cell mass of the blastocyst differentiates to form the embryo.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "What marks the beginning of the embryonic period in human development?",
+    "options": [
+      {
+        "text": "Fertilization",
+        "isCorrect": false
+      },
+      {
+        "text": "Implantation",
+        "isCorrect": true
+      },
+      {
+        "text": "Gastrulation",
+        "isCorrect": false
+      },
+      {
+        "text": "Blastulation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The beginning of the embryonic period is marked by the implantation of the blastocyst into the uterine wall.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which hormone is responsible for the maintenance of the corpus luteum during early pregnancy?",
+    "options": [
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Human chorionic gonadotropin (hCG)",
+        "isCorrect": true
+      },
+      {
+        "text": "Luteinizing hormone (LH)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Human chorionic gonadotropin (hCG) is responsible for maintaining the corpus luteum during early pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which structure of the blastocyst is involved in nutrient exchange between the mother and the developing embryo?",
+    "options": [
+      {
+        "text": "Trophoblast",
+        "isCorrect": true
+      },
+      {
+        "text": "Inner cell mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Blastocoel",
+        "isCorrect": false
+      },
+      {
+        "text": "Zona pellucida",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The trophoblast is involved in nutrient exchange between the mother and the developing embryo.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "HARD"
+  },
+  {
+    "qno": 23,
+    "questionText": "What is the function of the zona pellucida during fertilization?",
+    "options": [
+      {
+        "text": "To provide nutrients to the embryo",
+        "isCorrect": false
+      },
+      {
+        "text": "To prevent polyspermy",
+        "isCorrect": true
+      },
+      {
+        "text": "To facilitate sperm entry",
+        "isCorrect": false
+      },
+      {
+        "text": "To form the placenta",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The zona pellucida prevents polyspermy by hardening and blocking additional sperm from entering the egg after the first sperm has penetrated.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "HARD"
+  },
+  {
+    "qno": 43,
+    "questionText": "Which structure of the blastocyst attaches to the uterine wall during implantation?",
+    "options": [
+      {
+        "text": "Trophoblast",
+        "isCorrect": true
+      },
+      {
+        "text": "Inner cell mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Blastocoel",
+        "isCorrect": false
+      },
+      {
+        "text": "Zona pellucida",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The trophoblast part of the blastocyst attaches to the uterine wall during implantation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 61,
+    "questionText": "Which hormone is primarily responsible for maintaining the corpus luteum during early pregnancy?",
+    "options": [
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Human chorionic gonadotropin (hCG)",
+        "isCorrect": true
+      },
+      {
+        "text": "Luteinizing hormone (LH)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Human chorionic gonadotropin (hCG) is primarily responsible for maintaining the corpus luteum during early pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 63,
+    "questionText": "Which part of the blastocyst forms the placenta?",
+    "options": [
+      {
+        "text": "Trophoblast",
+        "isCorrect": true
+      },
+      {
+        "text": "Inner cell mass",
+        "isCorrect": false
+      },
+      {
+        "text": "Blastocoel",
+        "isCorrect": false
+      },
+      {
+        "text": "Zona pellucida",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The trophoblast cells of the blastocyst develop into the placenta during pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.5 Fertilisation and Implantation",
+    "level": "HARD"
+  },
+  {
+    "qno": 1,
+    "questionText": "Which hormone is primarily responsible for maintaining pregnancy?",
+    "options": [
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      },
+      {
+        "text": "Luteinizing hormone (LH)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Progesterone is primarily responsible for maintaining the endometrium and pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 2,
+    "questionText": "At which stage of development is the embryo referred to as a fetus?",
+    "options": [
+      {
+        "text": "Morula stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Blastocyst stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Gastrula stage",
+        "isCorrect": false
+      },
+      {
+        "text": "After 8 weeks",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The embryo is referred to as a fetus after 8 weeks of development.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "HARD"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which organ is primarily responsible for nutrient and gas exchange between the mother and the fetus?",
+    "options": [
+      {
+        "text": "Uterus",
+        "isCorrect": false
+      },
+      {
+        "text": "Amnion",
+        "isCorrect": false
+      },
+      {
+        "text": "Placenta",
+        "isCorrect": true
+      },
+      {
+        "text": "Yolk sac",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The placenta is the organ responsible for nutrient and gas exchange between the mother and the fetus.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is the role of human chorionic gonadotropin (hCG) during pregnancy?",
+    "options": [
+      {
+        "text": "Stimulates follicle development",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintains the corpus luteum",
+        "isCorrect": true
+      },
+      {
+        "text": "Induces labor",
+        "isCorrect": false
+      },
+      {
+        "text": "Promotes fetal growth",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Human chorionic gonadotropin (hCG) maintains the corpus luteum, which produces progesterone to sustain pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which structure forms the amniotic sac that surrounds and protects the developing fetus?",
+    "options": [
+      {
+        "text": "Chorion",
+        "isCorrect": false
+      },
+      {
+        "text": "Amnion",
+        "isCorrect": true
+      },
+      {
+        "text": "Yolk sac",
+        "isCorrect": false
+      },
+      {
+        "text": "Allantois",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The amnion forms the amniotic sac that surrounds and protects the developing fetus.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "HARD"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which hormone increases significantly during the third trimester and helps prepare the mother's body for labor?",
+    "options": [
+      {
+        "text": "Estrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      },
+      {
+        "text": "Human chorionic gonadotropin (hCG)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Estrogen levels increase significantly during the third trimester and help prepare the mother's body for labor.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "What is the primary function of the umbilical cord?",
+    "options": [
+      {
+        "text": "To protect the fetus from mechanical shocks",
+        "isCorrect": false
+      },
+      {
+        "text": "To transport nutrients and oxygen to the fetus and remove waste products",
+        "isCorrect": true
+      },
+      {
+        "text": "To provide a barrier against infections",
+        "isCorrect": false
+      },
+      {
+        "text": "To maintain fetal body temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary function of the umbilical cord is to transport nutrients and oxygen to the fetus and remove waste products.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "HARD"
+  },
+  {
+    "qno": 8,
+    "questionText": "What is the function of the amniotic fluid?",
+    "options": [
+      {
+        "text": "To nourish the fetus",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect the fetus from mechanical shocks",
+        "isCorrect": true
+      },
+      {
+        "text": "To exchange gases between mother and fetus",
+        "isCorrect": false
+      },
+      {
+        "text": "To produce hormones necessary for pregnancy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Amniotic fluid protects the fetus from mechanical shocks and provides a stable environment.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which stage of pregnancy is characterized by the formation of major organs and organ systems?",
+    "options": [
+      {
+        "text": "First trimester",
+        "isCorrect": true
+      },
+      {
+        "text": "Second trimester",
+        "isCorrect": false
+      },
+      {
+        "text": "Third trimester",
+        "isCorrect": false
+      },
+      {
+        "text": "Fourth trimester",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The first trimester is characterized by the formation of major organs and organ systems.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "HARD"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which hormone is responsible for the development of mammary glands during pregnancy?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolactin is responsible for the development of mammary glands during pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which structure forms the outermost layer of the embryo and contributes to the formation of the placenta?",
+    "options": [
+      {
+        "text": "Amnion",
+        "isCorrect": false
+      },
+      {
+        "text": "Chorion",
+        "isCorrect": true
+      },
+      {
+        "text": "Yolk sac",
+        "isCorrect": false
+      },
+      {
+        "text": "Allantois",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The chorion forms the outermost layer of the embryo and contributes to the formation of the placenta.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "HARD"
+  },
+  {
+    "qno": 12,
+    "questionText": "Which hormone is primarily responsible for the relaxation of pelvic ligaments and the cervix during pregnancy?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Relaxin",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Relaxin is responsible for the relaxation of pelvic ligaments and the cervix during pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "What is the role of the yolk sac during early embryonic development?",
+    "options": [
+      {
+        "text": "To nourish the embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "To form the placenta",
+        "isCorrect": false
+      },
+      {
+        "text": "To produce amniotic fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "To support organ formation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The yolk sac provides initial nourishment to the embryo during early development.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "HARD"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which hormone stimulates uterine contractions during labor?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": true
+      },
+      {
+        "text": "Relaxin",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxytocin stimulates uterine contractions during labor.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which trimester of pregnancy is characterized by rapid fetal growth and maturation of organ systems?",
+    "options": [
+      {
+        "text": "First trimester",
+        "isCorrect": false
+      },
+      {
+        "text": "Second trimester",
+        "isCorrect": true
+      },
+      {
+        "text": "Third trimester",
+        "isCorrect": false
+      },
+      {
+        "text": "Fourth trimester",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The second trimester is characterized by rapid fetal growth and maturation of organ systems.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "HARD"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which hormone is involved in the development of milk-producing glands in the breasts during pregnancy?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolactin is involved in the development of milk-producing glands in the breasts during pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "What is the primary function of the placenta during pregnancy?",
+    "options": [
+      {
+        "text": "To produce amniotic fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "To transport oxygen and nutrients to the fetus",
+        "isCorrect": true
+      },
+      {
+        "text": "To produce hormones for fetal development",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect the fetus from infections",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary function of the placenta is to transport oxygen and nutrients to the fetus and remove waste products.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "HARD"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which hormone is responsible for the development of the endometrium and maintenance of pregnancy?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Progesterone is responsible for the development of the endometrium and maintenance of pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which structure protects the fetus from mechanical shocks and provides a stable environment?",
+    "options": [
+      {
+        "text": "Amnion",
+        "isCorrect": true
+      },
+      {
+        "text": "Chorion",
+        "isCorrect": false
+      },
+      {
+        "text": "Yolk sac",
+        "isCorrect": false
+      },
+      {
+        "text": "Allantois",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The amnion protects the fetus from mechanical shocks and provides a stable environment.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which hormone prepares the mammary glands for lactation during pregnancy?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolactin prepares the mammary glands for lactation during pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which structure forms the protective fluid-filled sac around the fetus?",
+    "options": [
+      {
+        "text": "Amnion",
+        "isCorrect": true
+      },
+      {
+        "text": "Chorion",
+        "isCorrect": false
+      },
+      {
+        "text": "Yolk sac",
+        "isCorrect": false
+      },
+      {
+        "text": "Allantois",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The amnion forms the protective fluid-filled sac around the fetus.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which hormone is primarily responsible for initiating labor?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": true
+      },
+      {
+        "text": "Relaxin",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxytocin is primarily responsible for initiating labor by stimulating uterine contractions.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "HARD"
+  },
+  {
+    "qno": 23,
+    "questionText": "During which trimester does the fetus undergo rapid growth and significant weight gain?",
+    "options": [
+      {
+        "text": "First trimester",
+        "isCorrect": false
+      },
+      {
+        "text": "Second trimester",
+        "isCorrect": false
+      },
+      {
+        "text": "Third trimester",
+        "isCorrect": true
+      },
+      {
+        "text": "Fourth trimester",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The third trimester is characterized by rapid growth and significant weight gain of the fetus.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 24,
+    "questionText": "What is the primary function of the umbilical cord during pregnancy?",
+    "options": [
+      {
+        "text": "To transport nutrients and oxygen to the fetus",
+        "isCorrect": true
+      },
+      {
+        "text": "To protect the fetus from infections",
+        "isCorrect": false
+      },
+      {
+        "text": "To produce amniotic fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "To maintain fetal body temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary function of the umbilical cord is to transport nutrients and oxygen to the fetus and remove waste products.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "HARD"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which hormone is responsible for the development of milk-producing glands in the breasts during pregnancy?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolactin is responsible for the development of milk-producing glands in the breasts during pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 31,
+    "questionText": "During which trimester are the major organs and structures of the fetus fully formed?",
+    "options": [
+      {
+        "text": "First trimester",
+        "isCorrect": true
+      },
+      {
+        "text": "Second trimester",
+        "isCorrect": false
+      },
+      {
+        "text": "Third trimester",
+        "isCorrect": false
+      },
+      {
+        "text": "Fourth trimester",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "During the first trimester, the major organs and structures of the fetus are fully formed.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 32,
+    "questionText": "Which hormone is responsible for preparing the endometrium for implantation?",
+    "options": [
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      },
+      {
+        "text": "Relaxin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Progesterone is responsible for preparing the endometrium for implantation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 33,
+    "questionText": "What is the function of the yolk sac in early pregnancy?",
+    "options": [
+      {
+        "text": "To nourish the embryo",
+        "isCorrect": true
+      },
+      {
+        "text": "To form the placenta",
+        "isCorrect": false
+      },
+      {
+        "text": "To produce amniotic fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide oxygen to the embryo",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The yolk sac provides initial nourishment to the embryo during early development.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "HARD"
+  },
+  {
+    "qno": 34,
+    "questionText": "Which hormone is primarily responsible for maintaining pregnancy by keeping the endometrium intact?",
+    "options": [
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Progesterone",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      },
+      {
+        "text": "Relaxin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Progesterone is primarily responsible for maintaining pregnancy by keeping the endometrium intact.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "Which structure is responsible for gas exchange between the mother and the fetus?",
+    "options": [
+      {
+        "text": "Placenta",
+        "isCorrect": true
+      },
+      {
+        "text": "Amnion",
+        "isCorrect": false
+      },
+      {
+        "text": "Chorion",
+        "isCorrect": false
+      },
+      {
+        "text": "Yolk sac",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The placenta is responsible for gas exchange between the mother and the fetus.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "HARD"
+  },
+  {
+    "qno": 36,
+    "questionText": "Which hormone plays a key role in the development of mammary glands for lactation?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolactin plays a key role in the development of mammary glands for lactation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 37,
+    "questionText": "Which trimester is characterized by the formation of the placenta?",
+    "options": [
+      {
+        "text": "First trimester",
+        "isCorrect": true
+      },
+      {
+        "text": "Second trimester",
+        "isCorrect": false
+      },
+      {
+        "text": "Third trimester",
+        "isCorrect": false
+      },
+      {
+        "text": "Fourth trimester",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The placenta is formed during the first trimester.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "HARD"
+  },
+  {
+    "qno": 38,
+    "questionText": "What is the primary role of oxytocin during childbirth?",
+    "options": [
+      {
+        "text": "To initiate lactation",
+        "isCorrect": false
+      },
+      {
+        "text": "To relax the pelvic ligaments",
+        "isCorrect": false
+      },
+      {
+        "text": "To stimulate uterine contractions",
+        "isCorrect": true
+      },
+      {
+        "text": "To maintain the endometrium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxytocin's primary role during childbirth is to stimulate uterine contractions.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 39,
+    "questionText": "Which hormone is responsible for the relaxation of pelvic ligaments during pregnancy?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Relaxin",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Relaxin is responsible for the relaxation of pelvic ligaments during pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 44,
+    "questionText": "Which hormone is responsible for the relaxation of pelvic ligaments and the cervix during pregnancy?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Relaxin",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Relaxin is responsible for the relaxation of pelvic ligaments and the cervix during pregnancy.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 61,
+    "questionText": "What is the primary function of the amniotic fluid?",
+    "options": [
+      {
+        "text": "To nourish the fetus",
+        "isCorrect": false
+      },
+      {
+        "text": "To protect the fetus from mechanical shocks",
+        "isCorrect": true
+      },
+      {
+        "text": "To exchange gases between mother and fetus",
+        "isCorrect": false
+      },
+      {
+        "text": "To produce hormones necessary for pregnancy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Amniotic fluid protects the fetus from mechanical shocks and provides a stable environment.",
+    "chapter": "Human Reproduction",
+    "topic": "2.6 Pregnancy and Embryonic Development",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 1,
+    "questionText": "Which hormone is primarily responsible for stimulating uterine contractions during labor?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": true
+      },
+      {
+        "text": "Relaxin",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxytocin is primarily responsible for stimulating uterine contractions during labor.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which stage of labor is characterized by the delivery of the placenta?",
+    "options": [
+      {
+        "text": "First stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Second stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Third stage",
+        "isCorrect": true
+      },
+      {
+        "text": "Fourth stage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The third stage of labor is characterized by the delivery of the placenta.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "HARD"
+  },
+  {
+    "qno": 3,
+    "questionText": "What is the role of prolactin in lactation?",
+    "options": [
+      {
+        "text": "Stimulates milk ejection",
+        "isCorrect": false
+      },
+      {
+        "text": "Stimulates milk production",
+        "isCorrect": true
+      },
+      {
+        "text": "Inhibits milk production",
+        "isCorrect": false
+      },
+      {
+        "text": "Inhibits milk ejection",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolactin stimulates milk production in the mammary glands.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which hormone is responsible for the milk ejection reflex during breastfeeding?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": true
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": false
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxytocin is responsible for the milk ejection reflex during breastfeeding.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which stage of labor involves the dilation of the cervix?",
+    "options": [
+      {
+        "text": "First stage",
+        "isCorrect": true
+      },
+      {
+        "text": "Second stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Third stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Fourth stage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The first stage of labor involves the dilation of the cervix.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "HARD"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which hormone plays a key role in the synthesis of milk proteins during lactation?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolactin plays a key role in the synthesis of milk proteins during lactation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "What triggers the release of oxytocin during breastfeeding?",
+    "options": [
+      {
+        "text": "Suckling by the infant",
+        "isCorrect": true
+      },
+      {
+        "text": "Hormonal changes after childbirth",
+        "isCorrect": false
+      },
+      {
+        "text": "Decrease in prolactin levels",
+        "isCorrect": false
+      },
+      {
+        "text": "Contraction of uterine muscles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Suckling by the infant triggers the release of oxytocin during breastfeeding.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "HARD"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which hormone helps in the contraction of the uterus after childbirth?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": true
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": false
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxytocin helps in the contraction of the uterus after childbirth.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "What is the main function of colostrum produced in the initial days of breastfeeding?",
+    "options": [
+      {
+        "text": "To provide essential nutrients",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide antibodies and immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "To stimulate milk production",
+        "isCorrect": false
+      },
+      {
+        "text": "To promote uterine contractions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Colostrum provides antibodies and immunity to the newborn in the initial days of breastfeeding.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "HARD"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which hormone is primarily involved in the initiation of lactation after childbirth?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolactin is primarily involved in the initiation of lactation after childbirth.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which stage of labor involves the delivery of the baby?",
+    "options": [
+      {
+        "text": "First stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Second stage",
+        "isCorrect": true
+      },
+      {
+        "text": "Third stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Fourth stage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The second stage of labor involves the delivery of the baby.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "HARD"
+  },
+  {
+    "qno": 41,
+    "questionText": "Which hormone is primarily involved in the synthesis of milk proteins during lactation?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolactin is primarily involved in the synthesis of milk proteins during lactation.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 46,
+    "questionText": "Which hormone triggers uterine contractions during labor?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": true
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": false
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxytocin triggers uterine contractions during labor.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 49,
+    "questionText": "What is the primary function of colostrum?",
+    "options": [
+      {
+        "text": "To provide essential nutrients",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide antibodies and immunity",
+        "isCorrect": true
+      },
+      {
+        "text": "To stimulate milk production",
+        "isCorrect": false
+      },
+      {
+        "text": "To promote uterine contractions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Colostrum provides antibodies and immunity to the newborn in the initial days of breastfeeding.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "HARD"
+  },
+  {
+    "qno": 51,
+    "questionText": "Which hormone is responsible for stimulating uterine contractions during labor?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": true
+      },
+      {
+        "text": "Relaxin",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxytocin is responsible for stimulating uterine contractions during labor.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 52,
+    "questionText": "Which stage of labor involves the delivery of the placenta?",
+    "options": [
+      {
+        "text": "First stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Second stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Third stage",
+        "isCorrect": true
+      },
+      {
+        "text": "Fourth stage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The third stage of labor involves the delivery of the placenta.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "HARD"
+  },
+  {
+    "qno": 53,
+    "questionText": "What is the primary function of the hormone relaxin during childbirth?",
+    "options": [
+      {
+        "text": "To stimulate uterine contractions",
+        "isCorrect": false
+      },
+      {
+        "text": "To relax pelvic ligaments",
+        "isCorrect": true
+      },
+      {
+        "text": "To initiate lactation",
+        "isCorrect": false
+      },
+      {
+        "text": "To promote milk ejection",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Relaxin relaxes pelvic ligaments and the cervix during childbirth to facilitate the passage of the baby.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "HARD"
+  },
+  {
+    "qno": 60,
+    "questionText": "Which hormone is responsible for stimulating milk production in the mammary glands?",
+    "options": [
+      {
+        "text": "Progesterone",
+        "isCorrect": false
+      },
+      {
+        "text": "Prolactin",
+        "isCorrect": true
+      },
+      {
+        "text": "Estrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxytocin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolactin is responsible for stimulating milk production in the mammary glands.",
+    "chapter": "Human Reproduction",
+    "topic": "2.7 Parturition and Lactation",
+    "level": "MEDIUM"
+  }
+]

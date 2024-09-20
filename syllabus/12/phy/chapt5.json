@@ -1,0 +1,19 @@
+[
+  {
+    "chapter": "Magnetism and Matter",
+    "topics": [
+      "5.1 Introduction",
+      "5.2 The Bar Magnet",
+      "5.3 Magnetism and Gauss’s Law",
+      "5.4 Magnetisation and Magnetic Intensity",
+      "5.5 Magnetic Properties of Materials"
+    ]
+  },
+  {
+    "chapter": "Thermodynamics",
+    "topics": [
+      "5.6 Spontaneity",
+      "5.7 Gibbs Energy Change and Equilibrium"
+    ]
+  }
+]

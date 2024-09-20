@@ -1,0 +1,5696 @@
+[
+  {
+    "qno": 1,
+    "questionText": "At equilibrium, the rate of evaporation is equal to the rate of condensation. Which of the following statements is true about this state?",
+    "options": [
+      {
+        "text": "The number of molecules leaving the liquid equals the number returning to liquid.",
+        "isCorrect": true
+      },
+      {
+        "text": "There is no molecular movement between the liquid and vapor phases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The vapor pressure of the liquid keeps increasing.",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature of the liquid decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, the dynamic nature of the process means that the number of molecules leaving the liquid equals the number returning to it.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which of the following represents the equilibrium between ice and water at 273K?",
+    "options": [
+      {
+        "text": "$\\text{H}_2\\text{O (s)} \\rightleftharpoons \\text{H}_2\\text{O (l)}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{H}_2\\text{O (s)} \\rightarrow \\text{H}_2\\text{O (l)}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{H}_2\\text{O (l)} \\rightarrow \\text{H}_2\\text{O (s)}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{H}_2\\text{O (l)} \\rightleftharpoons \\text{H}_2\\text{O (g)}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium between ice and water at 273K is represented by the equation where both solid and liquid phases are in equilibrium.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "What happens to the vapor pressure of water as the temperature increases?",
+    "options": [
+      {
+        "text": "It increases.",
+        "isCorrect": true
+      },
+      {
+        "text": "It decreases.",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant.",
+        "isCorrect": false
+      },
+      {
+        "text": "It first increases then decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As temperature increases, more molecules have sufficient energy to escape the liquid phase, increasing the vapor pressure.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "In a closed system at equilibrium, which of the following is true for the system's macroscopic properties?",
+    "options": [
+      {
+        "text": "They remain constant.",
+        "isCorrect": true
+      },
+      {
+        "text": "They change continuously.",
+        "isCorrect": false
+      },
+      {
+        "text": "They increase.",
+        "isCorrect": false
+      },
+      {
+        "text": "They decrease.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium in a closed system, macroscopic properties such as pressure, concentration, and temperature remain constant.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which of the following processes is not an example of physical equilibrium?",
+    "options": [
+      {
+        "text": "The dissolution of sugar in water.",
+        "isCorrect": false
+      },
+      {
+        "text": "The sublimation of iodine.",
+        "isCorrect": false
+      },
+      {
+        "text": "The boiling of water in an open container.",
+        "isCorrect": true
+      },
+      {
+        "text": "The freezing of water.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Boiling water in an open container is not a physical equilibrium because it is not a closed system; the other processes are examples of physical equilibrium.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "At equilibrium, which statement is true about the rates of the forward and reverse reactions?",
+    "options": [
+      {
+        "text": "They are equal.",
+        "isCorrect": true
+      },
+      {
+        "text": "The forward rate is greater.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reverse rate is greater.",
+        "isCorrect": false
+      },
+      {
+        "text": "Both rates are zero.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, the rates of the forward and reverse reactions are equal, resulting in no net change in the concentrations of reactants and products.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "What happens to a system at equilibrium if the pressure is increased by decreasing the volume?",
+    "options": [
+      {
+        "text": "The equilibrium shifts towards the side with fewer moles of gas.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts towards the side with more moles of gas.",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no effect on the equilibrium.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction stops.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Le Chatelier's principle, increasing the pressure by decreasing the volume shifts the equilibrium towards the side with fewer moles of gas.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which of the following represents a dynamic equilibrium?",
+    "options": [
+      {
+        "text": "$\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{H}_2(g) + \\text{O}_2(g) \\rightarrow 2\\text{H}_2\\text{O}(g)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{C}_6\\text{H}_{12}\\text{O}_6 \\rightarrow 2\\text{C}_2\\text{H}_5\\text{OH} + 2\\text{CO}_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{AgNO}_3 \\rightarrow \\text{Ag}^+ + \\text{NO}_3^-$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dynamic equilibrium involves reversible reactions where the rate of the forward reaction equals the rate of the reverse reaction, such as in the synthesis of ammonia.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which of the following conditions must be met for a system to reach equilibrium?",
+    "options": [
+      {
+        "text": "The system must be closed.",
+        "isCorrect": true
+      },
+      {
+        "text": "The system must be open.",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature must be decreasing.",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure must be increasing.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a system to reach equilibrium, it must be closed so that no matter can enter or leave the system.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "What happens to the position of equilibrium if the temperature is increased in an exothermic reaction?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an exothermic reaction, increasing the temperature shifts the equilibrium to the left to absorb the added heat.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "In a liquid-vapour equilibrium, what happens if the external pressure is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the liquid phase.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the vapour phase.",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no effect on the equilibrium.",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the external pressure on a liquid-vapour equilibrium shifts the equilibrium towards the liquid phase to counteract the change.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "In the solid-liquid equilibrium of water at 0°C, what is the effect of adding salt to the ice-water mixture?",
+    "options": [
+      {
+        "text": "The melting point of ice decreases.",
+        "isCorrect": true
+      },
+      {
+        "text": "The melting point of ice increases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The melting point of ice remains the same.",
+        "isCorrect": false
+      },
+      {
+        "text": "The freezing point of water increases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding salt to the ice-water mixture decreases the melting point of ice, causing more ice to melt at a lower temperature.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "In the equilibrium between a solid and its saturated solution, which of the following statements is true?",
+    "options": [
+      {
+        "text": "The rate of dissolution is equal to the rate of crystallization.",
+        "isCorrect": true
+      },
+      {
+        "text": "The rate of dissolution is greater than the rate of crystallization.",
+        "isCorrect": false
+      },
+      {
+        "text": "The rate of crystallization is greater than the rate of dissolution.",
+        "isCorrect": false
+      },
+      {
+        "text": "No dissolution occurs.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium between a solid and its saturated solution, the rate of dissolution of the solid is equal to the rate of crystallization from the solution.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which of the following conditions favors the formation of more gas in a solid-gas equilibrium?",
+    "options": [
+      {
+        "text": "Decreasing pressure.",
+        "isCorrect": true
+      },
+      {
+        "text": "Increasing pressure.",
+        "isCorrect": false
+      },
+      {
+        "text": "Decreasing temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "Increasing concentration of the solid.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a solid-gas equilibrium, decreasing the pressure favors the formation of more gas, shifting the equilibrium towards the gas phase.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the effect of adding an inert gas at constant volume to a gaseous equilibrium system?",
+    "options": [
+      {
+        "text": "No effect on the position of equilibrium.",
+        "isCorrect": true
+      },
+      {
+        "text": "Shifts the equilibrium to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "Shifts the equilibrium to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "Increases the reaction rate.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding an inert gas at constant volume does not affect the position of equilibrium because it does not change the partial pressures of the reacting gases.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 16,
+    "questionText": "Which of the following best describes the equilibrium vapor pressure of a liquid?",
+    "options": [
+      {
+        "text": "The pressure exerted by the vapor when it is in dynamic equilibrium with its liquid at a given temperature.",
+        "isCorrect": true
+      },
+      {
+        "text": "The pressure exerted by the vapor when no liquid is present.",
+        "isCorrect": false
+      },
+      {
+        "text": "The maximum pressure a vapor can exert at any temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure exerted by the vapor at the boiling point of the liquid.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium vapor pressure of a liquid is the pressure exerted by the vapor when it is in dynamic equilibrium with its liquid phase at a given temperature.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "What is the effect of decreasing the temperature on the solubility of a gas in a liquid at equilibrium?",
+    "options": [
+      {
+        "text": "Increases the solubility of the gas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreases the solubility of the gas.",
+        "isCorrect": false
+      },
+      {
+        "text": "No effect on the solubility.",
+        "isCorrect": false
+      },
+      {
+        "text": "The gas will escape the solution.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the temperature increases the solubility of a gas in a liquid because gases are more soluble at lower temperatures.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "In the equilibrium $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$, what happens when CO2 is removed from the system?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no effect on the equilibrium.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction stops.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Removing CO2 from the system shifts the equilibrium to the right to produce more CO2, according to Le Chatelier's principle.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "What is the effect of increasing the concentration of a reactant on the position of equilibrium?",
+    "options": [
+      {
+        "text": "The equilibrium shifts towards the products.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts towards the reactants.",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no effect on the equilibrium.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of a reactant shifts the equilibrium towards the products, according to Le Chatelier's principle.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 20,
+    "questionText": "In the equilibrium $\\text{H}_2\\text{O}(l) \\rightleftharpoons \\text{H}_2\\text{O}(g)$, what happens to the equilibrium vapor pressure if the volume of the container is increased?",
+    "options": [
+      {
+        "text": "The equilibrium vapor pressure remains the same.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium vapor pressure decreases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium vapor pressure increases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The liquid evaporates completely.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the volume of the container does not affect the equilibrium vapor pressure because it is a function of temperature and not volume.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "In a closed container with liquid and vapor phases in equilibrium, what happens if the system is heated while maintaining constant volume?",
+    "options": [
+      {
+        "text": "The vapor pressure increases.",
+        "isCorrect": true
+      },
+      {
+        "text": "The vapor pressure decreases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The vapor pressure remains constant.",
+        "isCorrect": false
+      },
+      {
+        "text": "The liquid completely evaporates.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Heating the system increases the kinetic energy of the molecules, causing more molecules to enter the vapor phase, thus increasing the vapor pressure.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 22,
+    "questionText": "For the equilibrium $\\text{I}_2(s) \\rightleftharpoons \\text{I}_2(g)$, which of the following factors will increase the amount of $\\text{I}_2(g)$?",
+    "options": [
+      {
+        "text": "Increasing the temperature.",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreasing the temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "Decreasing the volume of the container.",
+        "isCorrect": false
+      },
+      {
+        "text": "Adding more solid iodine.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the temperature provides more energy for the solid iodine molecules to sublime into the gaseous phase, thus increasing the amount of $\\text{I}_2(g)$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 23,
+    "questionText": "In the solid-liquid equilibrium of $\\text{NH}_4\\text{Cl}(s) \\rightleftharpoons \\text{NH}_4^+ + \\text{Cl}^-$, how does the addition of $\\text{HCl}$ affect the equilibrium?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no effect on the equilibrium.",
+        "isCorrect": false
+      },
+      {
+        "text": "The concentration of $\\text{NH}_4^+$ increases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding $\\text{HCl}$ increases the concentration of $\\text{Cl}^-$ ions, which shifts the equilibrium to the left, decreasing the solubility of $\\text{NH}_4\\text{Cl}$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 24,
+    "questionText": "What is the effect of adding a common ion to a saturated solution at equilibrium?",
+    "options": [
+      {
+        "text": "The solubility of the salt decreases.",
+        "isCorrect": true
+      },
+      {
+        "text": "The solubility of the salt increases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solubility of the salt remains the same.",
+        "isCorrect": false
+      },
+      {
+        "text": "The salt precipitates completely.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding a common ion decreases the solubility of the salt due to the common ion effect, which shifts the equilibrium towards the undissolved salt.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 25,
+    "questionText": "In the dissolution equilibrium of $\\text{Ca(OH)}_2$, what happens if $\\text{NaOH}$ is added to the solution?",
+    "options": [
+      {
+        "text": "The solubility of $\\text{Ca(OH)}_2$ decreases.",
+        "isCorrect": true
+      },
+      {
+        "text": "The solubility of $\\text{Ca(OH)}_2$ increases.",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no effect on the solubility.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solution becomes acidic.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding $\\text{NaOH}$ increases the concentration of $\\text{OH}^-$ ions, which decreases the solubility of $\\text{Ca(OH)}_2$ due to the common ion effect.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "In the equilibrium $\\text{N}_2\\text{O}_4(g) \\rightleftharpoons 2\\text{NO}_2(g)$, what is the effect of increasing the pressure by decreasing the volume?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the pressure shifts the equilibrium towards the side with fewer moles of gas, which is the left side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "What is the effect of adding a non-volatile solute to a liquid at equilibrium with its vapor?",
+    "options": [
+      {
+        "text": "The vapor pressure decreases.",
+        "isCorrect": true
+      },
+      {
+        "text": "The vapor pressure increases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The vapor pressure remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The liquid evaporates completely.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding a non-volatile solute decreases the vapor pressure of the liquid due to the lowering of the solvent's escaping tendency.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 28,
+    "questionText": "For the equilibrium $\\text{H}_2\\text{O}(l) \\rightleftharpoons \\text{H}_2\\text{O}(g)$, what happens to the equilibrium vapor pressure if a volatile solute is added?",
+    "options": [
+      {
+        "text": "The vapor pressure increases.",
+        "isCorrect": true
+      },
+      {
+        "text": "The vapor pressure decreases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The vapor pressure remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The liquid evaporates completely.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding a volatile solute can increase the total vapor pressure because the solute contributes to the vapor pressure in addition to the solvent.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 29,
+    "questionText": "In the equilibrium $\\text{H}_2\\text{O}(l) \\rightleftharpoons \\text{H}_2\\text{O}(g)$, what happens if the external pressure is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The liquid evaporates completely.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the external pressure reduces the boiling point of the liquid, causing more liquid to evaporate and shifting the equilibrium to the right.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 30,
+    "questionText": "In the equilibrium $\\text{NH}_4\\text{Cl}(s) \\rightleftharpoons \\text{NH}_4^+(aq) + \\text{Cl}^-(aq)$, how does the addition of $\\text{NaCl}$ affect the equilibrium?",
+    "options": [
+      {
+        "text": "The solubility of $\\text{NH}_4\\text{Cl}$ decreases.",
+        "isCorrect": true
+      },
+      {
+        "text": "The solubility of $\\text{NH}_4\\text{Cl}$ increases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solubility of $\\text{NH}_4\\text{Cl}$ remains the same.",
+        "isCorrect": false
+      },
+      {
+        "text": "The concentration of $\\text{NH}_4^+$ increases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding $\\text{NaCl}$ increases the concentration of $\\text{Cl}^-$ ions, which decreases the solubility of $\\text{NH}_4\\text{Cl}$ due to the common ion effect.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 31,
+    "questionText": "For the equilibrium $\\text{H}_2\\text{O}(l) \\rightleftharpoons \\text{H}_2\\text{O}(g)$, how does the presence of a non-volatile solute affect the boiling point of the liquid?",
+    "options": [
+      {
+        "text": "The boiling point increases.",
+        "isCorrect": true
+      },
+      {
+        "text": "The boiling point decreases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The boiling point remains the same.",
+        "isCorrect": false
+      },
+      {
+        "text": "The liquid does not boil.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The presence of a non-volatile solute elevates the boiling point of the liquid by lowering its vapor pressure.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 32,
+    "questionText": "Which of the following statements is true for the equilibrium $\\text{CO}_2(g) \\rightleftharpoons \\text{CO}_2(aq)$ in a carbonated beverage?",
+    "options": [
+      {
+        "text": "The solubility of $\\text{CO}_2$ decreases as temperature increases.",
+        "isCorrect": true
+      },
+      {
+        "text": "The solubility of $\\text{CO}_2$ increases as temperature increases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solubility of $\\text{CO}_2$ remains unchanged with temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "The concentration of $\\text{CO}_2$ increases in the vapor phase.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As temperature increases, the solubility of $\\text{CO}_2$ in the beverage decreases, causing more $\\text{CO}_2$ to escape into the vapor phase.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 33,
+    "questionText": "In the equilibrium $\\text{H}_2\\text{O}(l) \\rightleftharpoons \\text{H}_2\\text{O}(g)$, what is the effect of decreasing the temperature at constant pressure?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The liquid evaporates completely.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the temperature at constant pressure shifts the equilibrium to the left as the vapor condenses to maintain equilibrium.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 34,
+    "questionText": "In the equilibrium $\\text{C}_6\\text{H}_5\\text{COOH}(s) \\rightleftharpoons \\text{C}_6\\text{H}_5\\text{COOH}(aq)$, what is the effect of adding $\\text{NaOH}$ to the solution?",
+    "options": [
+      {
+        "text": "The solubility of $\\text{C}_6\\text{H}_5\\text{COOH}$ increases.",
+        "isCorrect": true
+      },
+      {
+        "text": "The solubility of $\\text{C}_6\\text{H}_5\\text{COOH}$ decreases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solubility of $\\text{C}_6\\text{H}_5\\text{COOH}$ remains the same.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solution becomes acidic.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding $\\text{NaOH}$ neutralizes $\\text{C}_6\\text{H}_5\\text{COOH}$, forming $\\text{C}_6\\text{H}_5\\text{COONa}$ and water, thus increasing the solubility of $\\text{C}_6\\text{H}_5\\text{COOH}$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 35,
+    "questionText": "In the equilibrium $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, what happens if $\\text{H}_2$ is added to the system at constant volume?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding $\\text{H}_2$ increases the concentration of a reactant, shifting the equilibrium towards the production of $\\text{NH}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 36,
+    "questionText": "Which of the following best describes the effect of a catalyst on a system at equilibrium?",
+    "options": [
+      {
+        "text": "It increases the rate of both the forward and reverse reactions equally.",
+        "isCorrect": true
+      },
+      {
+        "text": "It shifts the equilibrium to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "It shifts the equilibrium to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases the rate of the forward reaction.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A catalyst increases the rates of both the forward and reverse reactions equally, thus speeding up the attainment of equilibrium without shifting its position.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 37,
+    "questionText": "In the equilibrium $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$, how does the system respond to an increase in temperature?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the temperature provides more energy for the decomposition of $\\text{CaCO}_3$, shifting the equilibrium to the right.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 38,
+    "questionText": "In a solution at equilibrium, how does the solubility of a gas change with pressure?",
+    "options": [
+      {
+        "text": "The solubility of the gas increases with pressure.",
+        "isCorrect": true
+      },
+      {
+        "text": "The solubility of the gas decreases with pressure.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solubility of the gas remains unchanged with pressure.",
+        "isCorrect": false
+      },
+      {
+        "text": "The gas escapes the solution.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Henry's law, the solubility of a gas in a liquid is directly proportional to the pressure of the gas above the liquid.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 39,
+    "questionText": "For the equilibrium $\\text{H}_2\\text{O}(l) \\rightleftharpoons \\text{H}_2\\text{O}(g)$, how does increasing the volume of the container affect the equilibrium position?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The liquid evaporates completely.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the volume of the container reduces the pressure, which shifts the equilibrium towards the formation of more vapor.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 40,
+    "questionText": "Which of the following is true for a system at dynamic equilibrium?",
+    "options": [
+      {
+        "text": "The rates of the forward and reverse reactions are equal.",
+        "isCorrect": true
+      },
+      {
+        "text": "The concentration of reactants is equal to the concentration of products.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has stopped completely.",
+        "isCorrect": false
+      },
+      {
+        "text": "No reactions are occurring.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At dynamic equilibrium, the rates of the forward and reverse reactions are equal, resulting in no net change in the concentrations of reactants and products.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 41,
+    "questionText": "In the equilibrium $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, how does the addition of a catalyst affect the equilibrium position?",
+    "options": [
+      {
+        "text": "It does not affect the equilibrium position.",
+        "isCorrect": true
+      },
+      {
+        "text": "It shifts the equilibrium to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "It shifts the equilibrium to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases the rate of the forward reaction.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A catalyst increases the rate of both the forward and reverse reactions equally, thus speeding up the attainment of equilibrium without affecting its position.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 42,
+    "questionText": "What is the effect of increasing the concentration of a product on the equilibrium position?",
+    "options": [
+      {
+        "text": "The equilibrium shifts towards the reactants.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts towards the products.",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no effect on the equilibrium.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of a product shifts the equilibrium towards the reactants, according to Le Chatelier's principle.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 43,
+    "questionText": "In the equilibrium $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what is the effect of decreasing the volume of the container?",
+    "options": [
+      {
+        "text": "The equilibrium position remains unchanged.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction stops.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the volume of the container does not affect the equilibrium position in this case because the number of moles of gas on both sides of the equation is the same.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 44,
+    "questionText": "In the equilibrium $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what happens if the temperature is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the temperature of an exothermic reaction shifts the equilibrium to the left, favoring the endothermic reverse reaction.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 45,
+    "questionText": "Which of the following factors does not affect the position of equilibrium in a chemical reaction?",
+    "options": [
+      {
+        "text": "The presence of a catalyst.",
+        "isCorrect": true
+      },
+      {
+        "text": "The concentration of reactants.",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A catalyst speeds up the rate of both the forward and reverse reactions equally, thus speeding up the attainment of equilibrium without affecting its position.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 46,
+    "questionText": "In the equilibrium $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, what is the effect of increasing the concentration of $\\text{H}_2$?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{H}_2$ shifts the equilibrium towards the production of $\\text{NH}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 48,
+    "questionText": "For the equilibrium $\\text{N}_2\\text{O}_4(g) \\rightleftharpoons 2\\text{NO}_2(g)$, what happens when the temperature is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the temperature shifts the equilibrium towards the exothermic reaction, which is the formation of $\\text{N}_2\\text{O}_4$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 49,
+    "questionText": "In the equilibrium $\\text{PCl}_5(g) \\rightleftharpoons \\text{PCl}_3(g) + \\text{Cl}_2(g)$, how does the system respond to an increase in pressure?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the pressure shifts the equilibrium towards the side with fewer moles of gas, which is the left side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 51,
+    "questionText": "In the equilibrium $\\text{CO}_2(g) \\rightleftharpoons \\text{CO}_2(aq)$, how does increasing the pressure affect the equilibrium position?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The gas escapes the solution.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Henry's law, increasing the pressure of $\\text{CO}_2$ gas increases its solubility in water, shifting the equilibrium to the right.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 52,
+    "questionText": "In the equilibrium $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$, what happens if the volume of the container is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction stops.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the volume of the container decreases the pressure, shifting the equilibrium to the right to produce more $\\text{CO}_2$ gas.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 54,
+    "questionText": "For the equilibrium $\\text{C}_6\\text{H}_5\\text{COOH}(s) \\rightleftharpoons \\text{C}_6\\text{H}_5\\text{COOH}(aq)$, how does the addition of $\\text{NaOH}$ to the solution affect the equilibrium?",
+    "options": [
+      {
+        "text": "The solubility of $\\text{C}_6\\text{H}_5\\text{COOH}$ increases.",
+        "isCorrect": true
+      },
+      {
+        "text": "The solubility of $\\text{C}_6\\text{H}_5\\text{COOH}$ decreases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solubility of $\\text{C}_6\\text{H}_5\\text{COOH}$ remains the same.",
+        "isCorrect": false
+      },
+      {
+        "text": "The solution becomes acidic.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding $\\text{NaOH}$ neutralizes $\\text{C}_6\\text{H}_5\\text{COOH}$, forming $\\text{C}_6\\text{H}_5\\text{COONa}$ and water, thus increasing the solubility of $\\text{C}_6\\text{H}_5\\text{COOH}$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 55,
+    "questionText": "In the equilibrium $\\text{2NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)$, what is the effect of increasing the volume of the container?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the volume of the container decreases the pressure, shifting the equilibrium towards the side with more moles of gas, which is the left side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 56,
+    "questionText": "For the equilibrium $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, how does the addition of a catalyst affect the equilibrium position?",
+    "options": [
+      {
+        "text": "It does not affect the equilibrium position.",
+        "isCorrect": true
+      },
+      {
+        "text": "It shifts the equilibrium to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "It shifts the equilibrium to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases the rate of the forward reaction.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A catalyst increases the rate of both the forward and reverse reactions equally, thus speeding up the attainment of equilibrium without affecting its position.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 57,
+    "questionText": "In the equilibrium $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$, what happens if the concentration of $\\text{CO}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{CO}_2$ shifts the equilibrium to the right to produce more $\\text{CO}_2$, according to Le Chatelier's principle.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 59,
+    "questionText": "For the equilibrium $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$, what happens if the volume of the container is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction stops.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the volume of the container decreases the pressure, shifting the equilibrium to the right to produce more $\\text{CO}_2$ gas.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 60,
+    "questionText": "In the equilibrium $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, how does the system respond to a decrease in volume?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the volume of the container increases the pressure, shifting the equilibrium towards the side with fewer moles of gas, which is the right side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 61,
+    "questionText": "Which of the following best describes dynamic equilibrium in a chemical reaction?",
+    "options": [
+      {
+        "text": "The rates of the forward and reverse reactions are equal.",
+        "isCorrect": true
+      },
+      {
+        "text": "The concentrations of reactants and products are equal.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has stopped.",
+        "isCorrect": false
+      },
+      {
+        "text": "No products are formed.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dynamic equilibrium occurs when the rates of the forward and reverse reactions are equal, resulting in no net change in concentrations.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 62,
+    "questionText": "In the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, what will happen if the concentration of $\\text{N}_2$ is increased?",
+    "options": [
+      {
+        "text": "The rate of the forward reaction increases.",
+        "isCorrect": true
+      },
+      {
+        "text": "The rate of the reverse reaction increases.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium position shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "No change occurs.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{N}_2$ shifts the equilibrium to the right, increasing the rate of the forward reaction to form more $\\text{NH}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 63,
+    "questionText": "In a dynamic equilibrium involving gases, what is the effect of decreasing the volume of the reaction container?",
+    "options": [
+      {
+        "text": "The equilibrium shifts towards the side with fewer moles of gas.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts towards the side with more moles of gas.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium position remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Le Chatelier's principle, decreasing the volume increases the pressure, shifting the equilibrium towards the side with fewer moles of gas.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 64,
+    "questionText": "Which of the following is not true about a system in dynamic equilibrium?",
+    "options": [
+      {
+        "text": "The concentrations of reactants and products are constant.",
+        "isCorrect": false
+      },
+      {
+        "text": "The forward and reverse reaction rates are equal.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has ceased completely.",
+        "isCorrect": true
+      },
+      {
+        "text": "There is no net change in the amount of reactants and products.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In dynamic equilibrium, the reaction continues to occur, but the rates of the forward and reverse reactions are equal, resulting in no net change.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 65,
+    "questionText": "For the equilibrium $\\text{A} + \\text{B} \\rightleftharpoons \\text{C} + \\text{D}$, what is the effect of adding more of substance A?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding more of substance A shifts the equilibrium to the right to form more products C and D, according to Le Chatelier's principle.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 66,
+    "questionText": "In the reaction $\\text{2NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)$, what happens when the temperature is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains the same.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the temperature favors the endothermic reaction, shifting the equilibrium to the left to absorb the added heat.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 67,
+    "questionText": "In the equilibrium $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what will be the effect of increasing the pressure?",
+    "options": [
+      {
+        "text": "No effect on the position of equilibrium.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For reactions with equal moles of gases on both sides, changing the pressure has no effect on the position of equilibrium.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 68,
+    "questionText": "What happens to the position of equilibrium in an exothermic reaction when the temperature is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the temperature in an exothermic reaction shifts the equilibrium to the right, favoring the formation of products.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 69,
+    "questionText": "In the reaction $\\text{CO}(g) + \\text{H}_2\\text{O}(g) \\rightleftharpoons \\text{CO}_2(g) + \\text{H}_2(g)$, what happens if the concentration of $\\text{H}_2\\text{O}$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{H}_2\\text{O}$ shifts the equilibrium to the left to produce more $\\text{H}_2\\text{O}$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 70,
+    "questionText": "For the equilibrium $\\text{PCl}_5(g) \\rightleftharpoons \\text{PCl}_3(g) + \\text{Cl}_2(g)$, what happens if the temperature is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the temperature favors the endothermic forward reaction, shifting the equilibrium to the right.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 71,
+    "questionText": "In the equilibrium $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, what happens if the concentration of $\\text{NH}_3$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{NH}_3$ shifts the equilibrium to the left to decrease the amount of $\\text{NH}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 72,
+    "questionText": "In the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what happens if the system is compressed?",
+    "options": [
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Compressing the system does not affect the equilibrium position because the number of moles of gas on both sides of the reaction is equal.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 73,
+    "questionText": "For the reaction $\\text{C}_2\\text{H}_4(g) + \\text{H}_2(g) \\rightleftharpoons \\text{C}_2\\text{H}_6(g)$, what happens if the volume of the container is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the volume increases the pressure, which shifts the equilibrium towards the side with fewer moles of gas, which is the right side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 74,
+    "questionText": "In the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, how does the addition of a catalyst affect the equilibrium?",
+    "options": [
+      {
+        "text": "The equilibrium position remains unchanged.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A catalyst increases the rate of both the forward and reverse reactions equally, thus speeding up the attainment of equilibrium without affecting its position.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 75,
+    "questionText": "In the equilibrium $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what happens if the pressure is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the pressure shifts the equilibrium towards the side with more moles of gas, which is the left side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 76,
+    "questionText": "For the reaction $\\text{CO}(g) + \\text{H}_2\\text{O}(g) \\rightleftharpoons \\text{CO}_2(g) + \\text{H}_2(g)$, what happens if the concentration of $\\text{CO}_2$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{CO}_2$ shifts the equilibrium to the left to produce more $\\text{CO}$ and $\\text{H}_2\\text{O}$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 77,
+    "questionText": "In the equilibrium $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, what happens if the system is cooled?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cooling the system favors the exothermic forward reaction, shifting the equilibrium to the right to produce more $\\text{NH}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 78,
+    "questionText": "For the equilibrium $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what happens if the concentration of $\\text{H}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{H}_2$ shifts the equilibrium to the left to produce more $\\text{H}_2$ and $\\text{I}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 79,
+    "questionText": "In the equilibrium $\\text{N}_2\\text{O}_4(g) \\rightleftharpoons 2\\text{NO}_2(g)$, what happens if the concentration of $\\text{NO}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{NO}_2$ shifts the equilibrium to the right to produce more $\\text{NO}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 80,
+    "questionText": "What is the effect of adding a non-reactive gas to a system at equilibrium at constant volume?",
+    "options": [
+      {
+        "text": "No effect on the position of equilibrium.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding a non-reactive gas at constant volume does not affect the position of equilibrium because it does not change the partial pressures of the reacting gases.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 81,
+    "questionText": "In the equilibrium $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what happens if the concentration of $\\text{O}_2$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{O}_2$ shifts the equilibrium to the right to produce more $\\text{SO}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 82,
+    "questionText": "For the reaction $\\text{2NO}(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2NO}_2(g)$, what happens if the system is cooled?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cooling the system favors the exothermic forward reaction, shifting the equilibrium to the right to produce more $\\text{NO}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 83,
+    "questionText": "In the equilibrium $\\text{PCl}_5(g) \\rightleftharpoons \\text{PCl}_3(g) + \\text{Cl}_2(g)$, what happens if the concentration of $\\text{PCl}_3$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{PCl}_3$ shifts the equilibrium to the left to produce more $\\text{PCl}_5$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 84,
+    "questionText": "For the reaction $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what happens if the temperature is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the temperature favors the endothermic reverse reaction, shifting the equilibrium to the left to produce more reactants.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 85,
+    "questionText": "In the equilibrium $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what happens if the concentration of $\\text{HI}$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{HI}$ shifts the equilibrium to the right to produce more $\\text{HI}$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 86,
+    "questionText": "For the reaction $\\text{CO}(g) + \\text{H}_2\\text{O}(g) \\rightleftharpoons \\text{CO}_2(g) + \\text{H}_2(g)$, what happens if the concentration of $\\text{CO}$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{CO}$ shifts the equilibrium to the right to produce more $\\text{CO}_2$ and $\\text{H}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 87,
+    "questionText": "In the equilibrium $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what happens if the volume of the container is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the volume of the container decreases the pressure, shifting the equilibrium towards the side with more moles of gas, which is the left side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 88,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, what happens if the concentration of $\\text{H}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{H}_2$ shifts the equilibrium to the left to produce more $\\text{H}_2$ and $\\text{N}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 89,
+    "questionText": "In the equilibrium $\\text{PCl}_5(g) \\rightleftharpoons \\text{PCl}_3(g) + \\text{Cl}_2(g)$, what happens if the concentration of $\\text{Cl}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{Cl}_2$ shifts the equilibrium to the left to produce more $\\text{PCl}_5$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 90,
+    "questionText": "For the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what happens if the temperature is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the temperature favors the endothermic reverse reaction, shifting the equilibrium to the left to produce more reactants.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 91,
+    "questionText": "In the equilibrium $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what happens if the pressure is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the pressure shifts the equilibrium towards the side with fewer moles of gas, which is the right side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 92,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, what happens if the concentration of $\\text{N}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{N}_2$ shifts the equilibrium to the left to produce more $\\text{N}_2$ and $\\text{H}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 93,
+    "questionText": "In the equilibrium $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what happens if the volume of the container is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the volume of the container increases the pressure, shifting the equilibrium towards the side with fewer moles of gas, which is the right side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 94,
+    "questionText": "For the reaction $\\text{2NO}(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2NO}_2(g)$, what happens if the concentration of $\\text{NO}$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{NO}$ shifts the equilibrium to the left to produce more $\\text{NO}$ and $\\text{O}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 95,
+    "questionText": "In the equilibrium $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what happens if the system is heated?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Heating the system favors the endothermic reverse reaction, shifting the equilibrium to the left to produce more reactants.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 96,
+    "questionText": "For the reaction $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what happens if the concentration of $\\text{SO}_2$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{SO}_2$ shifts the equilibrium to the right to produce more $\\text{SO}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 97,
+    "questionText": "In the equilibrium $\\text{2NO}(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2NO}_2(g)$, what happens if the system is cooled?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cooling the system favors the exothermic forward reaction, shifting the equilibrium to the right to produce more $\\text{NO}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 98,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, what happens if the concentration of $\\text{NH}_3$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{NH}_3$ shifts the equilibrium to the right to produce more $\\text{NH}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 100,
+    "questionText": "For the reaction $\\text{CO}(g) + \\text{H}_2\\text{O}(g) \\rightleftharpoons \\text{CO}_2(g) + \\text{H}_2(g)$, what happens if the temperature is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the temperature favors the exothermic forward reaction, shifting the equilibrium to the right to produce more $\\text{CO}_2$ and $\\text{H}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 101,
+    "questionText": "In the equilibrium $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, what happens if the pressure is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the pressure shifts the equilibrium towards the side with more moles of gas, which is the left side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 102,
+    "questionText": "For the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what happens if the concentration of $\\text{I}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{I}_2$ shifts the equilibrium to the left to produce more $\\text{H}_2$ and $\\text{I}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 103,
+    "questionText": "In the equilibrium $\\text{2NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)$, what happens if the temperature is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the temperature favors the exothermic forward reaction, shifting the equilibrium to the right to produce more $\\text{N}_2\\text{O}_4$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 104,
+    "questionText": "For the reaction $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what happens if the concentration of $\\text{SO}_3$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{SO}_3$ shifts the equilibrium to the left to produce more $\\text{SO}_2$ and $\\text{O}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 105,
+    "questionText": "In the equilibrium $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what happens if the concentration of $\\text{HI}$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{HI}$ shifts the equilibrium to the left to produce more $\\text{H}_2$ and $\\text{I}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 106,
+    "questionText": "For the reaction $\\text{CO}(g) + \\text{H}_2\\text{O}(g) \\rightleftharpoons \\text{CO}_2(g) + \\text{H}_2(g)$, what happens if the concentration of $\\text{H}_2\\text{O}$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{H}_2\\text{O}$ shifts the equilibrium to the right to produce more $\\text{CO}_2$ and $\\text{H}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 107,
+    "questionText": "In the equilibrium $\\text{2NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)$, what happens if the pressure is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the pressure shifts the equilibrium towards the side with fewer moles of gas, which is the right side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 108,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, what happens if the concentration of $\\text{H}_2$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{H}_2$ shifts the equilibrium to the right to produce more $\\text{NH}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 109,
+    "questionText": "In the equilibrium $\\text{PCl}_5(g) \\rightleftharpoons \\text{PCl}_3(g) + \\text{Cl}_2(g)$, what happens if the volume of the container is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the volume of the container decreases the pressure, shifting the equilibrium towards the side with more moles of gas, which is the right side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 110,
+    "questionText": "For the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what happens if the concentration of $\\text{H}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{H}_2$ shifts the equilibrium to the left to produce more $\\text{H}_2$ and $\\text{I}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 111,
+    "questionText": "In the equilibrium $\\text{2NO}(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2NO}_2(g)$, what happens if the concentration of $\\text{O}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{O}_2$ shifts the equilibrium to the left to produce more $\\text{NO}$ and $\\text{O}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 112,
+    "questionText": "For the reaction $\\text{CO}(g) + \\text{H}_2\\text{O}(g) \\rightleftharpoons \\text{CO}_2(g) + \\text{H}_2(g)$, what happens if the concentration of $\\text{CO}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{CO}_2$ shifts the equilibrium to the right to produce more $\\text{CO}_2$ and $\\text{H}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 113,
+    "questionText": "In the equilibrium $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what happens if the concentration of $\\text{SO}_3$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{SO}_3$ shifts the equilibrium to the right to produce more $\\text{SO}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 114,
+    "questionText": "For the reaction $\\text{2NO}(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2NO}_2(g)$, what happens if the concentration of $\\text{NO}$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{NO}$ shifts the equilibrium to the right to produce more $\\text{NO}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 115,
+    "questionText": "In the equilibrium $\\text{2NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)$, what happens if the concentration of $\\text{N}_2\\text{O}_4$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{N}_2\\text{O}_4$ shifts the equilibrium to the right to produce more $\\text{NO}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 116,
+    "questionText": "For the reaction $\\text{CO}(g) + \\text{H}_2\\text{O}(g) \\rightleftharpoons \\text{CO}_2(g) + \\text{H}_2(g)$, what happens if the concentration of $\\text{H}_2\\text{O}$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{H}_2\\text{O}$ shifts the equilibrium to the left to produce more $\\text{CO}$ and $\\text{H}_2\\text{O}$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 117,
+    "questionText": "In the equilibrium $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what happens if the concentration of $\\text{SO}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{SO}_2$ shifts the equilibrium to the left to produce more $\\text{SO}_2$ and $\\text{O}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 118,
+    "questionText": "For the reaction $\\text{2NO}(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2NO}_2(g)$, what happens if the temperature is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the temperature favors the exothermic forward reaction, shifting the equilibrium to the right to produce more $\\text{NO}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 119,
+    "questionText": "In the equilibrium $\\text{2NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)$, what happens if the concentration of $\\text{NO}_2$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{NO}_2$ shifts the equilibrium to the right to produce more $\\text{N}_2\\text{O}_4$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 120,
+    "questionText": "For the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what happens if the concentration of $\\text{HI}$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{HI}$ shifts the equilibrium to the right to produce more $\\text{HI}$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 121,
+    "questionText": "Which of the following expressions represents the equilibrium constant ($K_c$) for the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$?",
+    "options": [
+      {
+        "text": "$K_c = \\frac{[\\text{NH}_3]^2}{[\\text{N}_2][\\text{H}_2]^3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{N}_2][\\text{H}_2]^3}{[\\text{NH}_3]^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{NH}_3]}{[\\text{N}_2][\\text{H}_2]}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{N}_2][\\text{H}_2]}{[\\text{NH}_3]}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant expression is derived from the balanced chemical equation, with the products in the numerator and reactants in the denominator, each raised to the power of their respective coefficients.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "EASY"
+  },
+  {
+    "qno": 122,
+    "questionText": "For the reaction $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what is the equilibrium constant expression $K_c$?",
+    "options": [
+      {
+        "text": "$K_c = \\frac{[\\text{SO}_3]^2}{[\\text{SO}_2]^2[\\text{O}_2]}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{SO}_2]^2[\\text{O}_2]}{[\\text{SO}_3]^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{SO}_3]}{[\\text{SO}_2][\\text{O}_2]}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{SO}_2][\\text{O}_2]}{[\\text{SO}_3]}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant expression is $K_c = \\frac{[\\text{SO}_3]^2}{[\\text{SO}_2]^2[\\text{O}_2]}$ based on the balanced chemical equation.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "EASY"
+  },
+  {
+    "qno": 123,
+    "questionText": "In the reaction $\\text{N}_2O_4(g) \\rightleftharpoons 2\\text{NO}_2(g)$, what is the relationship between $K_c$ and the concentrations of $\\text{NO}_2$ and $\\text{N}_2O_4$ at equilibrium?",
+    "options": [
+      {
+        "text": "$K_c = \\frac{[\\text{NO}_2]^2}{[\\text{N}_2O_4]}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{N}_2O_4]}{[\\text{NO}_2]^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{NO}_2]}{[\\text{N}_2O_4]^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{N}_2O_4]^2}{[\\text{NO}_2]}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant expression is $K_c = \\frac{[\\text{NO}_2]^2}{[\\text{N}_2O_4]}$ based on the balanced chemical equation.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "EASY"
+  },
+  {
+    "qno": 124,
+    "questionText": "For the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what is the equilibrium constant expression $K_c$?",
+    "options": [
+      {
+        "text": "$K_c = \\frac{[\\text{HI}]^2}{[\\text{H}_2][\\text{I}_2]}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{H}_2][\\text{I}_2]}{[\\text{HI}]^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{HI}]}{[\\text{H}_2][\\text{I}_2]}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{H}_2][\\text{I}_2]}{[\\text{HI}]}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant expression is $K_c = \\frac{[\\text{HI}]^2}{[\\text{H}_2][\\text{I}_2]}$ based on the balanced chemical equation.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "EASY"
+  },
+  {
+    "qno": 125,
+    "questionText": "If $K_c$ for the reaction $\\text{A} + \\text{B} \\rightleftharpoons \\text{C} + \\text{D}$ is 4, what is $K_c$ for the reverse reaction $\\text{C} + \\text{D} \\rightleftharpoons \\text{A} + \\text{B}$?",
+    "options": [
+      {
+        "text": "0.25",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for the reverse reaction is the reciprocal of the equilibrium constant for the forward reaction, $K_c' = \\frac{1}{K_c} = 0.25$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 126,
+    "questionText": "For the reaction $2\\text{SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons 2\\text{SO}_3(g)$, if $K_c$ is 100 at 500 K, what is the value of $K_c$ for the reaction $\\text{SO}_3(g) \\rightleftharpoons \\text{SO}_2(g) + \\frac{1}{2}\\text{O}_2(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "0.1",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for the reverse reaction is the reciprocal of the equilibrium constant for the forward reaction, $K_c' = \\frac{1}{100} = 0.01$. Since the reverse reaction coefficient for $\\text{O}_2$ is halved, $K_c'' = \\sqrt{0.01} = 0.1$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 127,
+    "questionText": "For the equilibrium $\\text{N}_2O_4(g) \\rightleftharpoons 2\\text{NO}_2(g)$, if $K_c$ is 0.1 at a certain temperature, what is the value of $K_c$ for the reaction $\\text{NO}_2(g) \\rightleftharpoons \\frac{1}{2}\\text{N}_2O_4(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.01",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for the reverse reaction is the reciprocal of the equilibrium constant for the forward reaction, $K_c' = \\frac{1}{0.1} = 10$. Since the reverse reaction coefficient for $\\text{NO}_2$ is halved, $K_c'' = \\sqrt{10} = 10$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 128,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, if $K_c$ is known, what is the expression for $K_p$ in terms of $K_c$ and the gas constant $R$ and temperature $T$?",
+    "options": [
+      {
+        "text": "$K_p = K_c(RT)^{-2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_p = K_c(RT)^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = K_c(RT)^{-1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = K_c(RT)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, $\\Delta n = (2) - (1 + 3) = -2$. Thus, $K_p = K_c(RT)^{-2}$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 129,
+    "questionText": "In the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, if $K_c = 50$ at 500 K, what is the equilibrium constant $K_c$ for the reaction $2\\text{HI(g)} \\rightleftharpoons \\text{H}_2(g) + \\text{I}_2(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "0.02",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "0.04",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for the reverse reaction is the reciprocal of the equilibrium constant for the forward reaction, $K_c' = \\frac{1}{50} = 0.02$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 130,
+    "questionText": "Which of the following factors does not affect the value of the equilibrium constant $K_c$?",
+    "options": [
+      {
+        "text": "The concentration of reactants.",
+        "isCorrect": true
+      },
+      {
+        "text": "The temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "The nature of the reactants and products.",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant $K_c$ is only affected by changes in temperature. Changes in concentrations or pressures do not affect the value of $K_c$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "EASY"
+  },
+  {
+    "qno": 131,
+    "questionText": "In the reaction $\\text{CO}(g) + \\text{H}_2\\text{O}(g) \\rightleftharpoons \\text{CO}_2(g) + \\text{H}_2(g)$, if $K_c$ is 5 at 300 K, what is the equilibrium constant for the reaction $\\text{CO}_2(g) + \\text{H}_2(g) \\rightleftharpoons \\text{CO}(g) + \\text{H}_2\\text{O}(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "0.2",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for the reverse reaction is the reciprocal of the equilibrium constant for the forward reaction, $K_c' = \\frac{1}{5} = 0.2$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 132,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, if $K_p$ is known, what is the expression for $K_c$ in terms of $K_p$, the gas constant $R$, and temperature $T$?",
+    "options": [
+      {
+        "text": "$K_c = K_p(RT)^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_c = K_p(RT)^{-2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = K_p(RT)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = K_p(RT)^{-1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, $\\Delta n = -2$. Thus, $K_c = K_p(RT)^2$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 133,
+    "questionText": "For the reaction $2\\text{NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)$, if $K_p$ is 0.01 at 300 K, what is the value of $K_c$ for the reaction at the same temperature, given $R = 0.0821$ L·atm·K$^{-1}$·mol$^{-1}$?",
+    "options": [
+      {
+        "text": "0.24",
+        "isCorrect": true
+      },
+      {
+        "text": "0.01",
+        "isCorrect": false
+      },
+      {
+        "text": "0.82",
+        "isCorrect": false
+      },
+      {
+        "text": "1.00",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For the reaction $2\\text{NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)$, $\\Delta n = -1$. Thus, $K_c = K_p(RT)^{-1} = 0.01 (0.0821 \\times 300)^{-1} \\approx 0.24$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 134,
+    "questionText": "Which of the following is the correct relationship between $K_c$ and $K_p$ for the reaction $\\text{A}(g) + \\text{B}(g) \\rightleftharpoons \\text{C}(g) + \\text{D}(g)$?",
+    "options": [
+      {
+        "text": "$K_p = K_c(RT)^0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_p = K_c(RT)^1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = K_c(RT)^{-1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = K_c(RT)^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For the reaction $\\text{A}(g) + \\text{B}(g) \\rightleftharpoons \\text{C}(g) + \\text{D}(g)$, $\\Delta n = 0$. Thus, $K_p = K_c(RT)^0 = K_c$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 135,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, what is the equilibrium constant expression $K_p$ in terms of partial pressures?",
+    "options": [
+      {
+        "text": "$K_p = \\frac{P_{\\text{NH}_3}^2}{P_{\\text{N}_2} P_{\\text{H}_2}^3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_p = \\frac{P_{\\text{N}_2} P_{\\text{H}_2}^3}{P_{\\text{NH}_3}^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = \\frac{P_{\\text{NH}_3}}{P_{\\text{N}_2} P_{\\text{H}_2}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = \\frac{P_{\\text{N}_2} P_{\\text{H}_2}}{P_{\\text{NH}_3}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant expression in terms of partial pressures is $K_p = \\frac{P_{\\text{NH}_3}^2}{P_{\\text{N}_2} P_{\\text{H}_2}^3}$ based on the balanced chemical equation.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 136,
+    "questionText": "If $K_c$ for the reaction $\\text{A} + \\text{B} \\rightleftharpoons \\text{C} + \\text{D}$ is 2, what is $K_c$ for the reaction $2\\text{A} + 2\\text{B} \\rightleftharpoons 2\\text{C} + 2\\text{D}$?",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for a reaction that is multiplied by a factor is the equilibrium constant raised to that power. In this case, $K_c' = (K_c)^2 = 2^2 = 4$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 137,
+    "questionText": "In the reaction $\\text{CO}(g) + \\text{Cl}_2(g) \\rightleftharpoons \\text{COCl}_2(g)$, if $K_c$ is 10 at 300 K, what is the value of $K_c$ for the reaction $\\text{2CO}(g) + \\text{2Cl}_2(g) \\rightleftharpoons \\text{2COCl}_2(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "100",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for a reaction that is multiplied by a factor is the equilibrium constant raised to that power. In this case, $K_c' = (K_c)^2 = 10^2 = 100$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 138,
+    "questionText": "Which of the following is the correct expression for the equilibrium constant $K_c$ for the reaction $\\text{A}_2(g) + \\text{B}_2(g) \\rightleftharpoons 2\\text{AB}(g)$?",
+    "options": [
+      {
+        "text": "$K_c = \\frac{[\\text{AB}]^2}{[\\text{A}_2][\\text{B}_2]}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{A}_2][\\text{B}_2]}{[\\text{AB}]^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{A}_2][\\text{B}_2]}{[\\text{AB}]}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{AB}]}{[\\text{A}_2][\\text{B}_2]}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant expression for the reaction $\\text{A}_2(g) + \\text{B}_2(g) \\rightleftharpoons 2\\text{AB}(g)$ is $K_c = \\frac{[\\text{AB}]^2}{[\\text{A}_2][\\text{B}_2]}$ based on the balanced chemical equation.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 139,
+    "questionText": "For the reaction $\\text{A}(g) \\rightleftharpoons 2\\text{B}(g)$, if $K_c = 4$ at 500 K, what is $K_p$ at the same temperature, given $R = 0.0821$ L·atm·K$^{-1}$·mol$^{-1}$?",
+    "options": [
+      {
+        "text": "8.02",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For the reaction $\\text{A}(g) \\rightleftharpoons 2\\text{B}(g)$, $\\Delta n = 1$. Thus, $K_p = K_c(RT)^1 = 4 \\times (0.0821 \\times 500) = 8.02$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 140,
+    "questionText": "If $K_c$ for the reaction $\\text{A} + \\text{B} \\rightleftharpoons \\text{C}$ is 0.5, what is $K_c$ for the reaction $2\\text{A} + 2\\text{B} \\rightleftharpoons 2\\text{C}$?",
+    "options": [
+      {
+        "text": "0.25",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "0.125",
+        "isCorrect": true
+      },
+      {
+        "text": "0.75",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for a reaction that is multiplied by a factor is the equilibrium constant raised to that power. In this case, $K_c' = (K_c)^2 = 0.5^2 = 0.25$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 141,
+    "questionText": "Which of the following is the correct expression for the equilibrium constant $K_c$ for the reaction $\\text{2A}(g) \\rightleftharpoons \\text{B}(g) + \\text{C}(g)$?",
+    "options": [
+      {
+        "text": "$K_c = \\frac{[\\text{B}][\\text{C}]}{[\\text{A}]^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{A}]^2}{[\\text{B}][\\text{C}]}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{A}]}{[\\text{B}][\\text{C}]}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_c = \\frac{[\\text{B}][\\text{C}]}{[\\text{A}]}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant expression for the reaction $\\text{2A}(g) \\rightleftharpoons \\text{B}(g) + \\text{C}(g)$ is $K_c = \\frac{[\\text{B}][\\text{C}]}{[\\text{A}]^2}$ based on the balanced chemical equation.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 142,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, if $K_c = 50$ at 300 K, what is the value of $K_c$ for the reaction $\\frac{1}{2}\\text{N}_2(g) + \\frac{3}{2}\\text{H}_2(g) \\rightleftharpoons \\text{NH}_3(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "7.07",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "70.7",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for a reaction that is divided by a factor is the equilibrium constant raised to that reciprocal power. In this case, $K_c' = (K_c)^{1/2} = 50^{1/2} \\approx 7.07$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 143,
+    "questionText": "For the reaction $2\\text{HI(g)} \\rightleftharpoons \\text{H}_2(g) + \\text{I}_2(g)$, if $K_c$ is 0.1 at 400 K, what is the equilibrium constant for the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$ at the same temperature?",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.01",
+        "isCorrect": false
+      },
+      {
+        "text": "1.0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for the reverse reaction is the reciprocal of the equilibrium constant for the forward reaction, $K_c' = \\frac{1}{0.1} = 10$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 144,
+    "questionText": "Which of the following is the correct expression for the equilibrium constant $K_p$ for the reaction $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$?",
+    "options": [
+      {
+        "text": "$K_p = \\frac{P_{\\text{SO}_3}^2}{P_{\\text{SO}_2}^2 P_{\\text{O}_2}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_p = \\frac{P_{\\text{SO}_2}^2 P_{\\text{O}_2}}{P_{\\text{SO}_3}^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = \\frac{P_{\\text{SO}_3}}{P_{\\text{SO}_2} P_{\\text{O}_2}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = \\frac{P_{\\text{SO}_2} P_{\\text{O}_2}}{P_{\\text{SO}_3}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant expression in terms of partial pressures is $K_p = \\frac{P_{\\text{SO}_3}^2}{P_{\\text{SO}_2}^2 P_{\\text{O}_2}}$ based on the balanced chemical equation.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 145,
+    "questionText": "If $K_p$ for the reaction $\\text{A}(g) + \\text{B}(g) \\rightleftharpoons \\text{C}(g) + \\text{D}(g)$ is 1, what is $K_p$ for the reaction $2\\text{A}(g) + 2\\text{B}(g) \\rightleftharpoons 2\\text{C}(g) + 2\\text{D}(g)$?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for a reaction that is multiplied by a factor is the equilibrium constant raised to that power. In this case, $K_p' = (K_p)^2 = 1^2 = 1$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "EASY"
+  },
+  {
+    "qno": 146,
+    "questionText": "Which of the following is the correct relationship between $K_p$ and $K_c$ for the reaction $\\text{A}(g) \\rightleftharpoons \\text{B}(g)$?",
+    "options": [
+      {
+        "text": "$K_p = K_c(RT)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_p = K_c(RT)^{-1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = K_c(RT)^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = K_c(RT)^{-2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For the reaction $\\text{A}(g) \\rightleftharpoons \\text{B}(g)$, $\\Delta n = 1$. Thus, $K_p = K_c(RT)^1 = K_c(RT)$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 147,
+    "questionText": "In the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, if $K_c = 100$ at 500 K, what is the value of $K_c$ for the reaction $\\text{NH}_3(g) \\rightleftharpoons \\frac{1}{2}\\text{N}_2(g) + \\frac{3}{2}\\text{H}_2(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "0.1",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for the reverse reaction is the reciprocal of the equilibrium constant for the forward reaction, $K_c' = \\frac{1}{100} = 0.01$. Since the reverse reaction coefficient for $\\text{NH}_3$ is halved, $K_c'' = \\sqrt{0.01} = 0.1$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 148,
+    "questionText": "Which of the following factors affects the value of the equilibrium constant $K_c$?",
+    "options": [
+      {
+        "text": "Temperature.",
+        "isCorrect": true
+      },
+      {
+        "text": "Concentration of reactants.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure.",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant $K_c$ is only affected by changes in temperature. Changes in concentrations, pressures, or volumes do not affect the value of $K_c$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "EASY"
+  },
+  {
+    "qno": 149,
+    "questionText": "For the reaction $\\text{2A}(g) \\rightleftharpoons \\text{B}(g) + \\text{C}(g)$, if $K_p$ is 0.5 at 400 K, what is the value of $K_p$ for the reaction $\\text{B}(g) + \\text{C}(g) \\rightleftharpoons \\text{2A}(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for the reverse reaction is the reciprocal of the equilibrium constant for the forward reaction, $K_p' = \\frac{1}{0.5} = 2$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 150,
+    "questionText": "Which of the following is the correct expression for the equilibrium constant $K_p$ for the reaction $\\text{A}(g) + \\text{B}(g) \\rightleftharpoons \\text{C}(g) + \\text{D}(g)$?",
+    "options": [
+      {
+        "text": "$K_p = \\frac{P_{\\text{C}} P_{\\text{D}}}{P_{\\text{A}} P_{\\text{B}}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_p = \\frac{P_{\\text{A}} P_{\\text{B}}}{P_{\\text{C}} P_{\\text{D}}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = \\frac{P_{\\text{C}}}{P_{\\text{A}} P_{\\text{B}}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = \\frac{P_{\\text{A}} P_{\\text{B}}}{P_{\\text{D}}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant expression in terms of partial pressures is $K_p = \\frac{P_{\\text{C}} P_{\\text{D}}}{P_{\\text{A}} P_{\\text{B}}}$ based on the balanced chemical equation.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 151,
+    "questionText": "In the reaction $\\text{CO}(g) + \\text{Cl}_2(g) \\rightleftharpoons \\text{COCl}_2(g)$, if $K_p$ is 10 at 300 K, what is the value of $K_p$ for the reaction $2\\text{CO}(g) + 2\\text{Cl}_2(g) \\rightleftharpoons 2\\text{COCl}_2(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "100",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for a reaction that is multiplied by a factor is the equilibrium constant raised to that power. In this case, $K_p' = (K_p)^2 = 10^2 = 100$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 153,
+    "questionText": "For the reaction $\\text{A}(g) + \\text{B}(g) \\rightleftharpoons \\text{C}(g) + \\text{D}(g)$, if $K_c$ is 5 at 300 K, what is the equilibrium constant $K_c$ for the reaction $\\text{2A}(g) + \\text{2B}(g) \\rightleftharpoons \\text{2C}(g) + \\text{2D}(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "25",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for a reaction that is multiplied by a factor is the equilibrium constant raised to that power. In this case, $K_c' = (K_c)^2 = 5^2 = 25$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 155,
+    "questionText": "For the reaction $\\text{N}_2O_4(g) \\rightleftharpoons 2\\text{NO}_2(g)$, if $K_c$ is 0.1 at a certain temperature, what is the value of $K_c$ for the reaction $\\text{NO}_2(g) \\rightleftharpoons \\frac{1}{2}\\text{N}_2O_4(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.01",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for the reverse reaction is the reciprocal of the equilibrium constant for the forward reaction, $K_c' = \\frac{1}{0.1} = 10$. Since the reverse reaction coefficient for $\\text{NO}_2$ is halved, $K_c'' = \\sqrt{10} = 10$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 156,
+    "questionText": "For the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, if $K_c$ is 50 at 500 K, what is the equilibrium constant $K_c$ for the reaction $2\\text{HI(g)} \\rightleftharpoons \\text{H}_2(g) + \\text{I}_2(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "0.02",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "0.04",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for the reverse reaction is the reciprocal of the equilibrium constant for the forward reaction, $K_c' = \\frac{1}{50} = 0.02$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 161,
+    "questionText": "For the reaction $\\text{A}_2(g) + \\text{B}_2(g) \\rightleftharpoons 2\\text{AB}(g)$, if $K_c$ is 25 at 500 K, what is the value of $K_c$ for the reaction $\\text{AB}(g) \\rightleftharpoons \\frac{1}{2}\\text{A}_2(g) + \\frac{1}{2}\\text{B}_2(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "0.2",
+        "isCorrect": true
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "0.04",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for the reverse reaction is the reciprocal of the equilibrium constant for the forward reaction, $K_c' = \\frac{1}{25} = 0.04$. Since the reverse reaction coefficient for $\\text{AB}$ is halved, $K_c'' = \\sqrt{0.04} = 0.2$.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 181,
+    "questionText": "Which of the following reactions represents a homogeneous equilibrium?",
+    "options": [
+      {
+        "text": "$\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{H}_2O(l) \\rightleftharpoons \\text{H}_2O(g)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{PbCl}_2(s) \\rightleftharpoons \\text{Pb}^{2+}(aq) + 2\\text{Cl}^-(aq)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A homogeneous equilibrium occurs when all reactants and products are in the same phase. Here, all substances are gases.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "EASY"
+  },
+  {
+    "qno": 182,
+    "questionText": "In the equilibrium $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, what happens if the concentration of $\\text{H}_2$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{H}_2$ shifts the equilibrium to the right to form more $\\text{NH}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 183,
+    "questionText": "For the equilibrium $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what happens if the pressure is decreased?",
+    "options": [
+      {
+        "text": "No effect on the position of equilibrium.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For reactions with equal moles of gases on both sides, changing the pressure has no effect on the position of equilibrium.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 184,
+    "questionText": "In the reaction $\\text{2NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)$, what happens if the volume of the container is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the volume increases the pressure, which shifts the equilibrium towards the side with fewer moles of gas, which is the right side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 185,
+    "questionText": "Which of the following best describes a homogeneous equilibrium?",
+    "options": [
+      {
+        "text": "All reactants and products are in the same phase.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reactants and products are in different phases.",
+        "isCorrect": false
+      },
+      {
+        "text": "Only solids are involved in the equilibrium.",
+        "isCorrect": false
+      },
+      {
+        "text": "Only liquids are involved in the equilibrium.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A homogeneous equilibrium occurs when all reactants and products are in the same phase, whether gas, liquid, or aqueous.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "EASY"
+  },
+  {
+    "qno": 186,
+    "questionText": "For the reaction $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what is the effect of increasing the temperature?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the temperature favors the endothermic reaction, shifting the equilibrium to the left to absorb the added heat.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 188,
+    "questionText": "For the equilibrium $\\text{N}_2O_4(g) \\rightleftharpoons 2\\text{NO}_2(g)$, what happens if the temperature is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium remains the same.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the temperature favors the exothermic reaction, shifting the equilibrium to the left to produce more $\\text{N}_2O_4$.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 189,
+    "questionText": "In the reaction $\\text{2SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons \\text{2SO}_3(g)$, what is the effect of decreasing the pressure?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the pressure shifts the equilibrium towards the side with more moles of gas, which is the left side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 190,
+    "questionText": "For the equilibrium $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, what happens if the concentration of $\\text{NH}_3$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{NH}_3$ shifts the equilibrium to the right to produce more $\\text{NH}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 191,
+    "questionText": "In the equilibrium $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what happens if the concentration of $\\text{H}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{H}_2$ shifts the equilibrium to the left to produce more $\\text{H}_2$ and $\\text{I}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 192,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, if $K_c = 50$ at 300 K, what is the equilibrium constant $K_c$ for the reaction $2\\text{NH}_3(g) \\rightleftharpoons \\text{N}_2(g) + 3\\text{H}_2(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "0.02",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "0.04",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for the reverse reaction is the reciprocal of the equilibrium constant for the forward reaction, $K_c' = \\frac{1}{50} = 0.02$.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 193,
+    "questionText": "For the equilibrium $\\text{N}_2O_4(g) \\rightleftharpoons 2\\text{NO}_2(g)$, if $K_c$ is 0.1 at a certain temperature, what is the value of $K_c$ for the reaction $2\\text{NO}_2(g) \\rightleftharpoons \\text{N}_2O_4(g)$ at the same temperature?",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.01",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant for the reverse reaction is the reciprocal of the equilibrium constant for the forward reaction, $K_c' = \\frac{1}{0.1} = 10$.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 194,
+    "questionText": "Which of the following is the correct relationship between $K_c$ and $K_p$ for the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$?",
+    "options": [
+      {
+        "text": "$K_p = K_c(RT)^{-2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K_p = K_c(RT)^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = K_c(RT)^{-1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K_p = K_c(RT)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, $\\Delta n = (2) - (1 + 3) = -2$. Thus, $K_p = K_c(RT)^{-2}$.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 203,
+    "questionText": "In the equilibrium $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI(g)}$, what happens if the temperature is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the temperature favors the endothermic reverse reaction, shifting the equilibrium to the left to produce more reactants.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 205,
+    "questionText": "In the reaction $\\text{2NO}_2(g) \\rightleftharpoons \\text{N}_2\\text{O}_4(g)$, what happens if the temperature is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the temperature favors the exothermic forward reaction, shifting the equilibrium to the right to produce more $\\text{N}_2\\text{O}_4$.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 241,
+    "questionText": "Which of the following reactions represents a heterogeneous equilibrium?",
+    "options": [
+      {
+        "text": "$\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI}(g)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{C}(s) + \\text{O}_2(g) \\rightleftharpoons \\text{CO}_2(g)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A heterogeneous equilibrium involves reactants and products in different phases. Here, $\\text{CaCO}_3$ and $\\text{CaO}$ are solids, while $\\text{CO}_2$ is a gas.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "EASY"
+  },
+  {
+    "qno": 242,
+    "questionText": "In the equilibrium $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$, what happens if the concentration of $\\text{CO}_2$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{CO}_2$ shifts the equilibrium to the left to form more $\\text{CaCO}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 243,
+    "questionText": "For the equilibrium $\\text{H}_2O(l) \\rightleftharpoons \\text{H}_2O(g)$, what happens if the pressure is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the pressure shifts the equilibrium towards the side with more gas molecules, which is the right side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 244,
+    "questionText": "In the reaction $\\text{C}(s) + \\text{O}_2(g) \\rightleftharpoons \\text{CO}_2(g)$, what happens if the volume of the container is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a heterogeneous equilibrium involving solids, changing the volume of the container has no effect on the position of equilibrium.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 245,
+    "questionText": "Which of the following best describes a heterogeneous equilibrium?",
+    "options": [
+      {
+        "text": "Reactants and products are in different phases.",
+        "isCorrect": true
+      },
+      {
+        "text": "All reactants and products are in the same phase.",
+        "isCorrect": false
+      },
+      {
+        "text": "Only gases are involved in the equilibrium.",
+        "isCorrect": false
+      },
+      {
+        "text": "Only liquids are involved in the equilibrium.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A heterogeneous equilibrium involves reactants and products in different phases, such as solid, liquid, and gas.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "EASY"
+  },
+  {
+    "qno": 246,
+    "questionText": "For the reaction $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$, what is the effect of increasing the temperature?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the temperature favors the endothermic reaction, shifting the equilibrium to the right to produce more $\\text{CO}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 247,
+    "questionText": "In the equilibrium $\\text{H}_2O(l) \\rightleftharpoons \\text{H}_2O(g)$, what happens if the temperature is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the temperature favors the exothermic reaction, shifting the equilibrium to the left to produce more $\\text{H}_2O(l)$.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 248,
+    "questionText": "For the equilibrium $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$, what happens if the pressure is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the pressure shifts the equilibrium towards the side with fewer gas molecules, which is the left side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 249,
+    "questionText": "In the reaction $\\text{C}(s) + \\text{O}_2(g) \\rightleftharpoons \\text{CO}_2(g)$, what happens if the concentration of $\\text{O}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{O}_2$ shifts the equilibrium to the left to produce more $\\text{O}_2$ and $\\text{C}$.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 250,
+    "questionText": "For the equilibrium $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$, what happens if the concentration of $\\text{CaCO}_3$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a heterogeneous equilibrium, the concentrations of pure solids and liquids do not affect the position of the equilibrium.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "EASY"
+  },
+  {
+    "qno": 251,
+    "questionText": "Which of the following is true for a heterogeneous equilibrium?",
+    "options": [
+      {
+        "text": "The concentrations of pure solids and liquids do not appear in the equilibrium constant expression.",
+        "isCorrect": true
+      },
+      {
+        "text": "The concentrations of all species appear in the equilibrium constant expression.",
+        "isCorrect": false
+      },
+      {
+        "text": "Only the concentrations of gases appear in the equilibrium constant expression.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium constant expression is independent of temperature.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a heterogeneous equilibrium, the concentrations of pure solids and liquids do not appear in the equilibrium constant expression, only the concentrations of gases and aqueous species do.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "EASY"
+  },
+  {
+    "qno": 252,
+    "questionText": "For the reaction $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$, what is the effect of decreasing the temperature?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the temperature favors the exothermic reaction, shifting the equilibrium to the left to produce more $\\text{CaCO}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 253,
+    "questionText": "In the equilibrium $\\text{H}_2O(l) \\rightleftharpoons \\text{H}_2O(g)$, what happens if the concentration of $\\text{H}_2O(g)$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{H}_2O(g)$ shifts the equilibrium to the left to produce more $\\text{H}_2O(l)$.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 254,
+    "questionText": "For the reaction $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$, what is the effect of increasing the concentration of $\\text{CaO}$?",
+    "options": [
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a heterogeneous equilibrium, the concentrations of pure solids and liquids do not affect the position of the equilibrium.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "EASY"
+  },
+  {
+    "qno": 255,
+    "questionText": "In the reaction $\\text{C}(s) + \\text{O}_2(g) \\rightleftharpoons \\text{CO}_2(g)$, what happens if the concentration of $\\text{CO}_2$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{CO}_2$ shifts the equilibrium to the left to produce more $\\text{C}$ and $\\text{O}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 256,
+    "questionText": "For the equilibrium $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$, what happens if the concentration of $\\text{CO}_2$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the concentration of $\\text{CO}_2$ shifts the equilibrium to the right to produce more $\\text{CaO}$ and $\\text{CO}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 257,
+    "questionText": "In the equilibrium $\\text{H}_2O(l) \\rightleftharpoons \\text{H}_2O(g)$, what happens if the concentration of $\\text{H}_2O(l)$ is decreased?",
+    "options": [
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a heterogeneous equilibrium, the concentrations of pure solids and liquids do not affect the position of the equilibrium.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "EASY"
+  },
+  {
+    "qno": 258,
+    "questionText": "Which of the following reactions is a heterogeneous equilibrium?",
+    "options": [
+      {
+        "text": "$\\text{PbCl}_2(s) \\rightleftharpoons \\text{Pb}^{2+}(aq) + 2\\text{Cl}^-(aq)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI}(g)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{C}(s) + \\text{O}_2(g) \\rightleftharpoons \\text{CO}_2(g)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A heterogeneous equilibrium involves reactants and products in different phases. Here, $\\text{PbCl}_2$ is a solid, while $\\text{Pb}^{2+}$ and $\\text{Cl}^-$ are aqueous.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "EASY"
+  },
+  {
+    "qno": 259,
+    "questionText": "For the reaction $\\text{C}(s) + \\text{O}_2(g) \\rightleftharpoons \\text{CO}_2(g)$, what is the effect of decreasing the temperature?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the temperature favors the exothermic reaction, shifting the equilibrium to the right to produce more $\\text{CO}_2$.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 260,
+    "questionText": "In the equilibrium $\\text{H}_2O(l) \\rightleftharpoons \\text{H}_2O(g)$, what happens if the pressure is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the pressure shifts the equilibrium towards the side with fewer gas molecules, which is the left side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 261,
+    "questionText": "For the equilibrium $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$, what happens if the concentration of $\\text{CO}_2$ is increased?",
+    "options": [
+      {
+        "text": "The equilibrium shifts to the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium shifts to the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium remains unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate decreases.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the concentration of $\\text{CO}_2$ shifts the equilibrium to the left to form more $\\text{CaCO}_3$.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 281,
+    "questionText": "For the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI}(g)$, if the initial concentrations of $\\text{H}_2$ and $\\text{I}_2$ are both 0.5 M and the equilibrium concentration of $\\text{HI}$ is 0.6 M, what is the equilibrium constant $K_c$?",
+    "options": [
+      {
+        "text": "9",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, the concentration of $\\text{HI}$ is 0.6 M. The changes in concentration for $\\text{H}_2$ and $\\text{I}_2$ are each 0.3 M, so $K_c = \\frac{[\\text{HI}]^2}{[\\text{H}_2][\\text{I}_2]} = \\frac{0.6^2}{0.2 \\cdot 0.2} = 9$.",
+    "chapter": "Equilibrium",
+    "topic": "Applications of Equilibrium Constants",
+    "level": "HARD"
+  },
+  {
+    "qno": 282,
+    "questionText": "In the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, if the equilibrium concentrations are $[\\text{N}_2] = 0.2$ M, $[\\text{H}_2] = 0.6$ M, and $[\\text{NH}_3] = 0.4$ M, what is the equilibrium constant $K_c$?",
+    "options": [
+      {
+        "text": "0.2",
+        "isCorrect": true
+      },
+      {
+        "text": "1.0",
+        "isCorrect": false
+      },
+      {
+        "text": "0.4",
+        "isCorrect": false
+      },
+      {
+        "text": "2.0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the equilibrium concentrations, $K_c = \\frac{[\\text{NH}_3]^2}{[\\text{N}_2][\\text{H}_2]^3} = \\frac{0.4^2}{0.2 \\cdot 0.6^3} = 0.2$.",
+    "chapter": "Equilibrium",
+    "topic": "Applications of Equilibrium Constants",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 283,
+    "questionText": "For the equilibrium $\\text{CO}(g) + 2\\text{H}_2(g) \\rightleftharpoons \\text{CH}_3\\text{OH}(g)$, if the equilibrium concentrations are $[\\text{CO}] = 0.5$ M, $[\\text{H}_2] = 1.0$ M, and $[\\text{CH}_3\\text{OH}] = 0.1$ M, what is the equilibrium constant $K_c$?",
+    "options": [
+      {
+        "text": "0.02",
+        "isCorrect": true
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "1.0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the equilibrium concentrations, $K_c = \\frac{[\\text{CH}_3\\text{OH}]}{[\\text{CO}][\\text{H}_2]^2} = \\frac{0.1}{0.5 \\cdot 1.0^2} = 0.02$.",
+    "chapter": "Equilibrium",
+    "topic": "Applications of Equilibrium Constants",
+    "level": "HARD"
+  },
+  {
+    "qno": 284,
+    "questionText": "Which of the following statements is true for a reaction at equilibrium?",
+    "options": [
+      {
+        "text": "The concentrations of reactants and products remain constant.",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction has stopped completely.",
+        "isCorrect": false
+      },
+      {
+        "text": "The forward reaction rate is zero.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reverse reaction rate is zero.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, the forward and reverse reaction rates are equal, so the concentrations of reactants and products remain constant.",
+    "chapter": "Equilibrium",
+    "topic": "Applications of Equilibrium Constants",
+    "level": "EASY"
+  },
+  {
+    "qno": 285,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, if the initial concentrations are $[\\text{N}_2] = 1.0$ M and $[\\text{H}_2] = 3.0$ M, and the equilibrium concentration of $\\text{NH}_3$ is 2.0 M, what is the equilibrium constant $K_c$?",
+    "options": [
+      {
+        "text": "4.0",
+        "isCorrect": true
+      },
+      {
+        "text": "2.0",
+        "isCorrect": false
+      },
+      {
+        "text": "1.0",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the changes in concentration and the balanced equation, $K_c = \\frac{[\\text{NH}_3]^2}{[\\text{N}_2][\\text{H}_2]^3} = \\frac{2.0^2}{1.0 \\cdot 3.0^3} = 4.0$.",
+    "chapter": "Equilibrium",
+    "topic": "Applications of Equilibrium Constants",
+    "level": "HARD"
+  },
+  {
+    "qno": 286,
+    "questionText": "In the reaction $\\text{CO}(g) + 2\\text{H}_2(g) \\rightleftharpoons \\text{CH}_3\\text{OH}(g)$, if the initial concentrations are $[\\text{CO}] = 1.0$ M, $[\\text{H}_2] = 2.0$ M, and $[\\text{CH}_3\\text{OH}] = 0$ M, and at equilibrium, $[\\text{CH}_3\\text{OH}] = 1.0$ M, what is the equilibrium constant $K_c$?",
+    "options": [
+      {
+        "text": "0.5",
+        "isCorrect": true
+      },
+      {
+        "text": "1.0",
+        "isCorrect": false
+      },
+      {
+        "text": "2.0",
+        "isCorrect": false
+      },
+      {
+        "text": "4.0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the changes in concentration and the balanced equation, $K_c = \\frac{[\\text{CH}_3\\text{OH}]}{[\\text{CO}][\\text{H}_2]^2} = \\frac{1.0}{(1.0 - 1.0)(2.0 - 2.0)^2} = 0.5$.",
+    "chapter": "Equilibrium",
+    "topic": "Applications of Equilibrium Constants",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 287,
+    "questionText": "For the equilibrium $\\text{PCl}_5(g) \\rightleftharpoons \\text{PCl}_3(g) + \\text{Cl}_2(g)$, if the initial concentration of $\\text{PCl}_5$ is 1.0 M and the equilibrium concentration of $\\text{PCl}_5$ is 0.5 M, what is the equilibrium constant $K_c$?",
+    "options": [
+      {
+        "text": "1.0",
+        "isCorrect": true
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "2.0",
+        "isCorrect": false
+      },
+      {
+        "text": "0.25",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, $[\\text{PCl}_5] = 0.5$ M and $[\\text{PCl}_3] = [\\text{Cl}_2] = 0.5$ M, so $K_c = \\frac{[\\text{PCl}_3][\\text{Cl}_2]}{[\\text{PCl}_5]} = \\frac{0.5 \\cdot 0.5}{0.5} = 1.0$.",
+    "chapter": "Equilibrium",
+    "topic": "Applications of Equilibrium Constants",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 288,
+    "questionText": "In the reaction $\\text{SO}_2(g) + \\frac{1}{2}\\text{O}_2(g) \\rightleftharpoons \\text{SO}_3(g)$, if the equilibrium concentrations are $[\\text{SO}_2] = 0.2$ M, $[\\text{O}_2] = 0.1$ M, and $[\\text{SO}_3] = 0.4$ M, what is the equilibrium constant $K_c$?",
+    "options": [
+      {
+        "text": "20",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the equilibrium concentrations, $K_c = \\frac{[\\text{SO}_3]}{[\\text{SO}_2][\\text{O}_2]^{1/2}} = \\frac{0.4}{0.2 \\cdot 0.1^{1/2}} = 20$.",
+    "chapter": "Equilibrium",
+    "topic": "Applications of Equilibrium Constants",
+    "level": "HARD"
+  },
+  {
+    "qno": 289,
+    "questionText": "For the equilibrium $\\text{H}_2(g) + \\text{Br}_2(g) \\rightleftharpoons 2\\text{HBr}(g)$, if the initial concentrations of $\\text{H}_2$ and $\\text{Br}_2$ are both 0.5 M and the equilibrium concentration of $\\text{HBr}$ is 0.6 M, what is the equilibrium constant $K_c$?",
+    "options": [
+      {
+        "text": "36",
+        "isCorrect": true
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, the concentration of $\\text{HBr}$ is 0.6 M. The changes in concentration for $\\text{H}_2$ and $\\text{Br}_2$ are each 0.3 M, so $K_c = \\frac{[\\text{HBr}]^2}{[\\text{H}_2][\\text{Br}_2]} = \\frac{0.6^2}{0.2 \\cdot 0.2} = 36$.",
+    "chapter": "Equilibrium",
+    "topic": "Applications of Equilibrium Constants",
+    "level": "HARD"
+  },
+  {
+    "qno": 306,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, if the equilibrium concentrations are $[\\text{N}_2] = 0.5$ M, $[\\text{H}_2] = 1.5$ M, and $[\\text{NH}_3] = 1.0$ M, what is the equilibrium constant $K_c$?",
+    "options": [
+      {
+        "text": "0.5",
+        "isCorrect": true
+      },
+      {
+        "text": "1.0",
+        "isCorrect": false
+      },
+      {
+        "text": "2.0",
+        "isCorrect": false
+      },
+      {
+        "text": "4.0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the equilibrium concentrations, $K_c = \\frac{[\\text{NH}_3]^2}{[\\text{N}_2][\\text{H}_2]^3} = \\frac{1.0^2}{0.5 \\cdot 1.5^3} = 0.5$.",
+    "chapter": "Equilibrium",
+    "topic": "Applications of Equilibrium Constants",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 307,
+    "questionText": "In the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI}(g)$, if the initial concentrations of $\\text{H}_2$ and $\\text{I}_2$ are both 0.5 M and the equilibrium concentration of $\\text{HI}$ is 0.6 M, what is the equilibrium constant $K_c$?",
+    "options": [
+      {
+        "text": "9",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, the concentration of $\\text{HI}$ is 0.6 M. The changes in concentration for $\\text{H}_2$ and $\\text{I}_2$ are each 0.3 M, so $K_c = \\frac{[\\text{HI}]^2}{[\\text{H}_2][\\text{I}_2]} = \\frac{0.6^2}{0.2 \\cdot 0.2} = 9$.",
+    "chapter": "Equilibrium",
+    "topic": "Applications of Equilibrium Constants",
+    "level": "HARD"
+  },
+  {
+    "qno": 331,
+    "questionText": "Calculate the molar solubility of $\\text{CaF}_2$ in water if the solubility product constant $K_{sp}$ is $3.9 \\times 10^{-11}$.",
+    "options": [
+      {
+        "text": "$2.1 \\times 10^{-4}$ M",
+        "isCorrect": true
+      },
+      {
+        "text": "$1.3 \\times 10^{-3}$ M",
+        "isCorrect": false
+      },
+      {
+        "text": "$5.7 \\times 10^{-6}$ M",
+        "isCorrect": false
+      },
+      {
+        "text": "$7.8 \\times 10^{-5}$ M",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Let the molar solubility of $\\text{CaF}_2$ be $s$. Then $K_{sp} = [\\text{Ca}^{2+}][\\text{F}^-]^2 = s \\times (2s)^2 = 4s^3$. Solving $4s^3 = 3.9 \\times 10^{-11}$ gives $s = 2.1 \\times 10^{-4}$ M.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 332,
+    "questionText": "The solubility product constant ($K_{sp}$) of $\\text{AgCl}$ at 25°C is $1.77 \\times 10^{-10}$. Calculate its solubility in mol/L.",
+    "options": [
+      {
+        "text": "$1.33 \\times 10^{-5}$ M",
+        "isCorrect": true
+      },
+      {
+        "text": "$2.15 \\times 10^{-6}$ M",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.24 \\times 10^{-4}$ M",
+        "isCorrect": false
+      },
+      {
+        "text": "$5.18 \\times 10^{-8}$ M",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For $\\text{AgCl}$, $K_{sp} = [\\text{Ag}^+][\\text{Cl}^-] = s^2$. Solving $s^2 = 1.77 \\times 10^{-10}$ gives $s = 1.33 \\times 10^{-5}$ M.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Physical Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 333,
+    "questionText": "For the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI}(g)$, the initial concentrations are $[\\text{H}_2] = 0.2$ M, $[\\text{I}_2] = 0.2$ M, and $[\\text{HI}] = 0$ M. At equilibrium, $[\\text{HI}] = 0.28$ M. Calculate the equilibrium constant $K_c$.",
+    "options": [
+      {
+        "text": "50",
+        "isCorrect": true
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, $[\\text{H}_2] = [\\text{I}_2] = 0.2 - 0.14 = 0.06$ M. Thus, $K_c = \\frac{[\\text{HI}]^2}{[\\text{H}_2][\\text{I}_2]} = \\frac{0.28^2}{0.06 \\cdot 0.06} = 50$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 334,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, if the initial concentrations are $[\\text{N}_2] = 1.0$ M and $[\\text{H}_2] = 3.0$ M, and the equilibrium concentration of $\\text{NH}_3$ is 0.6 M, calculate the equilibrium constant $K_c$.",
+    "options": [
+      {
+        "text": "0.15",
+        "isCorrect": true
+      },
+      {
+        "text": "0.30",
+        "isCorrect": false
+      },
+      {
+        "text": "0.60",
+        "isCorrect": false
+      },
+      {
+        "text": "1.20",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, $[\\text{N}_2] = 1 - 0.3 = 0.7$ M and $[\\text{H}_2] = 3 - 0.9 = 2.1$ M. Thus, $K_c = \\frac{[\\text{NH}_3]^2}{[\\text{N}_2][\\text{H}_2]^3} = \\frac{0.6^2}{0.7 \\cdot 2.1^3} = 0.15$.",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 335,
+    "questionText": "For the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI}(g)$, if $K_c = 50$ at 500 K, calculate the concentration of $\\text{HI}$ at equilibrium if initial concentrations of $\\text{H}_2$ and $\\text{I}_2$ are both 0.1 M.",
+    "options": [
+      {
+        "text": "0.14 M",
+        "isCorrect": true
+      },
+      {
+        "text": "0.10 M",
+        "isCorrect": false
+      },
+      {
+        "text": "0.20 M",
+        "isCorrect": false
+      },
+      {
+        "text": "0.05 M",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, $K_c = \\frac{[\\text{HI}]^2}{[\\text{H}_2][\\text{I}_2]} = 50$. Let $x$ be the concentration of $\\text{HI}$ at equilibrium. Then $K_c = \\frac{x^2}{(0.1-x)(0.1-x)}$. Solving $50 = \\frac{x^2}{(0.1-x)^2}$ gives $x = 0.14$ M.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 336,
+    "questionText": "For the reaction $\\text{PCl}_5(g) \\rightleftharpoons \\text{PCl}_3(g) + \\text{Cl}_2(g)$, if $K_c = 1.8$ at 600 K, calculate the concentration of $\\text{PCl}_5$ at equilibrium if initial concentrations of $\\text{PCl}_5$ is 0.5 M.",
+    "options": [
+      {
+        "text": "0.28 M",
+        "isCorrect": true
+      },
+      {
+        "text": "0.22 M",
+        "isCorrect": false
+      },
+      {
+        "text": "0.35 M",
+        "isCorrect": false
+      },
+      {
+        "text": "0.40 M",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, $K_c = \\frac{[\\text{PCl}_3][\\text{Cl}_2]}{[\\text{PCl}_5]} = 1.8$. Let $x$ be the concentration of $\\text{PCl}_3$ and $\\text{Cl}_2$ at equilibrium. Then $K_c = \\frac{x^2}{0.5-x}$. Solving $1.8 = \\frac{x^2}{0.5-x}$ gives $x = 0.22$ M and $[\\text{PCl}_5] = 0.5 - 0.22 = 0.28$ M.",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "level": "HARD"
+  },
+  {
+    "qno": 337,
+    "questionText": "For the reaction $\\text{N}_2O_4(g) \\rightleftharpoons 2\\text{NO}_2(g)$, the equilibrium constant $K_c$ is 0.21 at 100°C. Calculate the equilibrium concentration of $\\text{NO}_2$ if initial concentration of $\\text{N}_2O_4$ is 1.0 M.",
+    "options": [
+      {
+        "text": "0.46 M",
+        "isCorrect": true
+      },
+      {
+        "text": "0.32 M",
+        "isCorrect": false
+      },
+      {
+        "text": "0.21 M",
+        "isCorrect": false
+      },
+      {
+        "text": "0.14 M",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, $K_c = \\frac{[\\text{NO}_2]^2}{[\\text{N}_2O_4]} = 0.21$. Let $x$ be the concentration of $\\text{NO}_2$ at equilibrium. Then $K_c = \\frac{x^2}{1.0-x}$. Solving $0.21 = \\frac{x^2}{1.0-x}$ gives $x = 0.46$ M.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 338,
+    "questionText": "For the reaction $\\text{H}_2(g) + \\text{Br}_2(g) \\rightleftharpoons 2\\text{HBr}(g)$, the equilibrium constant $K_c$ is 50 at 500 K. Calculate the equilibrium concentration of $\\text{HBr}$ if initial concentrations of $\\text{H}_2$ and $\\text{Br}_2$ are both 0.2 M.",
+    "options": [
+      {
+        "text": "0.14 M",
+        "isCorrect": true
+      },
+      {
+        "text": "0.10 M",
+        "isCorrect": false
+      },
+      {
+        "text": "0.20 M",
+        "isCorrect": false
+      },
+      {
+        "text": "0.05 M",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, $K_c = \\frac{[\\text{HBr}]^2}{[\\text{H}_2][\\text{Br}_2]} = 50$. Let $x$ be the concentration of $\\text{HBr}$ at equilibrium. Then $K_c = \\frac{x^2}{(0.2-x)(0.2-x)}$. Solving $50 = \\frac{x^2}{(0.2-x)^2}$ gives $x = 0.14$ M.",
+    "chapter": "Equilibrium",
+    "topic": "Homogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 339,
+    "questionText": "The solubility product constant ($K_{sp}$) of $\\text{PbCl}_2$ at 25°C is $1.6 \\times 10^{-5}$. Calculate its solubility in mol/L.",
+    "options": [
+      {
+        "text": "$1.6 \\times 10^{-2}$ M",
+        "isCorrect": true
+      },
+      {
+        "text": "$1.0 \\times 10^{-3}$ M",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.5 \\times 10^{-2}$ M",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.2 \\times 10^{-3}$ M",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For $\\text{PbCl}_2$, $K_{sp} = [\\text{Pb}^{2+}][\\text{Cl}^-]^2 = s \\times (2s)^2 = 4s^3$. Solving $4s^3 = 1.6 \\times 10^{-5}$ gives $s = 1.6 \\times 10^{-2}$ M.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "HARD"
+  },
+  {
+    "qno": 340,
+    "questionText": "The solubility product constant ($K_{sp}$) of $\\text{BaSO}_4$ at 25°C is $1.1 \\times 10^{-10}$. Calculate its solubility in mol/L.",
+    "options": [
+      {
+        "text": "$1.05 \\times 10^{-5}$ M",
+        "isCorrect": true
+      },
+      {
+        "text": "$2.15 \\times 10^{-6}$ M",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.24 \\times 10^{-4}$ M",
+        "isCorrect": false
+      },
+      {
+        "text": "$5.18 \\times 10^{-8}$ M",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For $\\text{BaSO}_4$, $K_{sp} = [\\text{Ba}^{2+}][\\text{SO}_4^{2-}] = s^2$. Solving $s^2 = 1.1 \\times 10^{-10}$ gives $s = 1.05 \\times 10^{-5}$ M.",
+    "chapter": "Equilibrium",
+    "topic": "Heterogeneous Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 343,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, if the equilibrium constant $K_c$ is 0.5 at 500 K and $Q = 0.3$, determine the direction in which the reaction will proceed.",
+    "options": [
+      {
+        "text": "The reaction will proceed in the forward direction.",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction will proceed in the reverse direction.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction will stop.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Since $Q < K_c$, the reaction will proceed in the forward direction to reach equilibrium.",
+    "chapter": "Equilibrium",
+    "topic": "Relationship between Equilibrium Constant $K$, Reaction Quotient $Q$, and Gibbs Energy $G$",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 344,
+    "questionText": "For the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI}(g)$, if the equilibrium constant $K_c$ is 50 at 500 K and $Q = 100$, determine the direction in which the reaction will proceed.",
+    "options": [
+      {
+        "text": "The reaction will proceed in the reverse direction.",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction will proceed in the forward direction.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction will stop.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Since $Q > K_c$, the reaction will proceed in the reverse direction to reach equilibrium.",
+    "chapter": "Equilibrium",
+    "topic": "Relationship between Equilibrium Constant $K$, Reaction Quotient $Q$, and Gibbs Energy $G$",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 345,
+    "questionText": "For the reaction $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightleftharpoons 2\\text{NH}_3(g)$, how will an increase in pressure affect the equilibrium position?",
+    "options": [
+      {
+        "text": "The equilibrium will shift to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium will shift to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium will remain unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate will decrease.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An increase in pressure will shift the equilibrium towards the side with fewer moles of gas, which is the right side in this case.",
+    "chapter": "Equilibrium",
+    "topic": "Factors Affecting Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 346,
+    "questionText": "For the reaction $\\text{H}_2(g) + \\text{I}_2(g) \\rightleftharpoons 2\\text{HI}(g)$, how will a decrease in temperature affect the equilibrium position if the reaction is exothermic?",
+    "options": [
+      {
+        "text": "The equilibrium will shift to the right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium will shift to the left.",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium will remain unchanged.",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction rate will decrease.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A decrease in temperature will favor the exothermic reaction, shifting the equilibrium to the right.",
+    "chapter": "Equilibrium",
+    "topic": "Factors Affecting Equilibria",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 347,
+    "questionText": "Calculate the pH of a 0.1 M solution of $\\text{HCl}$.",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a strong acid like $\\text{HCl}$, $[\\text{H}^+] = 0.1$ M. Thus, $\\text{pH} = -\\log(0.1) = 1$.",
+    "chapter": "Equilibrium",
+    "topic": "Ionic Equilibrium in Solution",
+    "level": "EASY"
+  },
+  {
+    "qno": 348,
+    "questionText": "Calculate the pH of a 0.01 M solution of $\\text{NaOH}$.",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a strong base like $\\text{NaOH}$, $[\\text{OH}^-] = 0.01$ M. Thus, $\\text{pOH} = -\\log(0.01) = 2$. Hence, $\\text{pH} = 14 - \\text{pOH} = 12$.",
+    "chapter": "Equilibrium",
+    "topic": "Ionic Equilibrium in Solution",
+    "level": "EASY"
+  },
+  {
+    "qno": 349,
+    "questionText": "Calculate the pH of a 0.1 M solution of acetic acid ($K_a = 1.8 \\times 10^{-5}$).",
+    "options": [
+      {
+        "text": "2.87",
+        "isCorrect": true
+      },
+      {
+        "text": "3.45",
+        "isCorrect": false
+      },
+      {
+        "text": "2.15",
+        "isCorrect": false
+      },
+      {
+        "text": "4.78",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For acetic acid, $K_a = \\frac{[\\text{H}^+][\\text{A}^-]}{[\\text{HA}]}$. Let $x$ be the concentration of $\\text{H}^+$ at equilibrium. Then $K_a = \\frac{x^2}{0.1-x}$. Solving $1.8 \\times 10^{-5} = \\frac{x^2}{0.1-x}$ gives $x = 1.34 \\times 10^{-3}$ M. Thus, $\\text{pH} = -\\log(1.34 \\times 10^{-3}) = 2.87$.",
+    "chapter": "Equilibrium",
+    "topic": "Acids, Bases and Salts",
+    "level": "HARD"
+  },
+  {
+    "qno": 350,
+    "questionText": "Calculate the pH of a 0.05 M solution of ammonia ($K_b = 1.8 \\times 10^{-5}$).",
+    "options": [
+      {
+        "text": "11.25",
+        "isCorrect": true
+      },
+      {
+        "text": "10.75",
+        "isCorrect": false
+      },
+      {
+        "text": "9.45",
+        "isCorrect": false
+      },
+      {
+        "text": "12.15",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For ammonia, $K_b = \\frac{[\\text{NH}_4^+][\\text{OH}^-]}{[\\text{NH}_3]}$. Let $x$ be the concentration of $\\text{OH}^-$ at equilibrium. Then $K_b = \\frac{x^2}{0.05-x}$. Solving $1.8 \\times 10^{-5} = \\frac{x^2}{0.05-x}$ gives $x = 1.34 \\times 10^{-3}$ M. Thus, $\\text{pOH} = -\\log(1.34 \\times 10^{-3}) = 2.87$ and $\\text{pH} = 14 - \\text{pOH} = 11.13$.",
+    "chapter": "Equilibrium",
+    "topic": "Acids, Bases and Salts",
+    "level": "HARD"
+  },
+  {
+    "qno": 351,
+    "questionText": "Calculate the degree of ionization of a 0.1 M acetic acid solution ($K_a = 1.8 \\times 10^{-5}$).",
+    "options": [
+      {
+        "text": "0.0134",
+        "isCorrect": true
+      },
+      {
+        "text": "0.0145",
+        "isCorrect": false
+      },
+      {
+        "text": "0.0156",
+        "isCorrect": false
+      },
+      {
+        "text": "0.0167",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For acetic acid, $K_a = \\frac{[\\text{H}^+][\\text{A}^-]}{[\\text{HA}]}$. Let $\\alpha$ be the degree of ionization. Then $K_a = \\frac{(0.1\\alpha)^2}{0.1-0.1\\alpha}$. Solving $1.8 \\times 10^{-5} = \\frac{0.01\\alpha^2}{1-\\alpha}$ and approximating $1-\\alpha \\approx 1$ gives $\\alpha = 0.0134$.",
+    "chapter": "Equilibrium",
+    "topic": "Ionization of Acids and Bases",
+    "level": "HARD"
+  },
+  {
+    "qno": 352,
+    "questionText": "Calculate the degree of ionization of a 0.05 M ammonia solution ($K_b = 1.8 \\times 10^{-5}$).",
+    "options": [
+      {
+        "text": "0.019",
+        "isCorrect": true
+      },
+      {
+        "text": "0.018",
+        "isCorrect": false
+      },
+      {
+        "text": "0.017",
+        "isCorrect": false
+      },
+      {
+        "text": "0.016",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For ammonia, $K_b = \\frac{[\\text{NH}_4^+][\\text{OH}^-]}{[\\text{NH}_3]}$. Let $\\alpha$ be the degree of ionization. Then $K_b = \\frac{(0.05\\alpha)^2}{0.05-0.05\\alpha}$. Solving $1.8 \\times 10^{-5} = \\frac{0.0025\\alpha^2}{1-\\alpha}$ and approximating $1-\\alpha \\approx 1$ gives $\\alpha = 0.019$.",
+    "chapter": "Equilibrium",
+    "topic": "Ionization of Acids and Bases",
+    "level": "HARD"
+  },
+  {
+    "qno": 353,
+    "questionText": "Calculate the pH of a buffer solution containing 0.1 M acetic acid and 0.1 M sodium acetate ($K_a = 1.8 \\times 10^{-5}$).",
+    "options": [
+      {
+        "text": "4.74",
+        "isCorrect": true
+      },
+      {
+        "text": "4.00",
+        "isCorrect": false
+      },
+      {
+        "text": "4.32",
+        "isCorrect": false
+      },
+      {
+        "text": "4.60",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a buffer solution, $\\text{pH} = pK_a + \\log\\frac{[\\text{salt}]}{[\\text{acid}]} = -\\log(1.8 \\times 10^{-5}) + \\log\\frac{0.1}{0.1} = 4.74$.",
+    "chapter": "Equilibrium",
+    "topic": "Buffer Solutions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 354,
+    "questionText": "Calculate the pH of a buffer solution containing 0.1 M ammonia and 0.1 M ammonium chloride ($K_b = 1.8 \\times 10^{-5}$).",
+    "options": [
+      {
+        "text": "9.26",
+        "isCorrect": true
+      },
+      {
+        "text": "9.00",
+        "isCorrect": false
+      },
+      {
+        "text": "9.32",
+        "isCorrect": false
+      },
+      {
+        "text": "9.60",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a buffer solution, $\\text{pOH} = pK_b + \\log\\frac{[\\text{salt}]}{[\\text{base}]} = -\\log(1.8 \\times 10^{-5}) + \\log\\frac{0.1}{0.1} = 4.74$. Hence, $\\text{pH} = 14 - \\text{pOH} = 9.26$.",
+    "chapter": "Equilibrium",
+    "topic": "Buffer Solutions",
+    "level": "MEDIUM"
+  }
+]

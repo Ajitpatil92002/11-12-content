@@ -1,0 +1,6164 @@
+[
+  {
+    "qno": 1,
+    "questionText": "Which of the following is an example of an oxidation reaction according to the classical definition?",
+    "options": [
+      {
+        "text": "$2 \\text{Mg} (s) + \\text{O}_2 (g) \\rightarrow 2 \\text{MgO} (s)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{H}_2\\text{S} (g) + \\text{Cl}_2 (g) \\rightarrow 2 \\text{HCl} (g) + \\text{S} (s)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\text{Na} (s) + \\text{Cl}_2 (g) \\rightarrow 2 \\text{NaCl} (s)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 \\text{Fe}_3\\text{O}_4 (s) + 8 \\text{Al} (s) \\rightarrow 9 \\text{Fe} (s) + 4 \\text{Al}_2\\text{O}_3 (s)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxidation is defined as the addition of oxygen to a substance. The reaction $2 \\text{Mg} + \\text{O}_2 \\rightarrow 2 \\text{MgO}$ fits this definition.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "In the reaction $\\text{CH}_4 (g) + 2 \\text{O}_2 (g) \\rightarrow \\text{CO}_2 (g) + 2 \\text{H}_2\\text{O} (l)$, which element is oxidized?",
+    "options": [
+      {
+        "text": "Carbon",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, carbon in methane (CH$_4$) is oxidized as it gains oxygen to form carbon dioxide (CO$_2$).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which of the following is not a redox reaction?",
+    "options": [
+      {
+        "text": "$2 \\text{H}_2\\text{O} (l) \\rightarrow 2 \\text{H}_2 (g) + \\text{O}_2 (g)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{CaCO}_3 (s) \\rightarrow \\text{CaO} (s) + \\text{CO}_2 (g)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2 \\text{Na} (s) + \\text{Cl}_2 (g) \\rightarrow 2 \\text{NaCl} (s)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{Zn} (s) + \\text{Cu}^{2+} (aq) \\rightarrow \\text{Zn}^{2+} (aq) + \\text{Cu} (s)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The decomposition of calcium carbonate ($\\text{CaCO}_3$) into calcium oxide ($\\text{CaO}$) and carbon dioxide ($\\text{CO}_2$) is not a redox reaction as there is no change in oxidation states.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "Identify the species reduced in the reaction $\\text{H}_2\\text{S} (g) + \\text{Cl}_2 (g) \\rightarrow 2 \\text{HCl} (g) + \\text{S} (s)$.",
+    "options": [
+      {
+        "text": "Hydrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfur",
+        "isCorrect": false
+      },
+      {
+        "text": "Chlorine",
+        "isCorrect": true
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, chlorine is reduced because it gains hydrogen to form hydrochloric acid (HCl).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which of the following reactions involves the removal of hydrogen?",
+    "options": [
+      {
+        "text": "$\\text{CH}_4 (g) + 2 \\text{O}_2 (g) \\rightarrow \\text{CO}_2 (g) + 2 \\text{H}_2\\text{O} (l)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2 \\text{H}_2\\text{S} (g) + \\text{O}_2 (g) \\rightarrow 2 \\text{S} (s) + 2 \\text{H}_2\\text{O} (l)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{Mg} (s) + \\text{F}_2 (g) \\rightarrow \\text{MgF}_2 (s)$",
+        "isCorrect": false
+      },
+      {
+        "text": "Both A and B",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Both reactions A and B involve the removal of hydrogen. In reaction A, methane loses hydrogen to form carbon dioxide and water. In reaction B, hydrogen sulfide loses hydrogen to form sulfur and water.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which of the following reactions represents the oxidation of sulfur?",
+    "options": [
+      {
+        "text": "$\\text{S} (s) + \\text{O}_2 (g) \\rightarrow \\text{SO}_2 (g)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{Mg} (s) + \\text{Cl}_2 (g) \\rightarrow \\text{MgCl}_2 (s)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\text{H}_2\\text{S} (g) + \\text{O}_2 (g) \\rightarrow 2 \\text{S} (s) + 2 \\text{H}_2\\text{O} (l)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{CH}_4 (g) + 2 \\text{O}_2 (g) \\rightarrow \\text{CO}_2 (g) + 2 \\text{H}_2\\text{O} (l)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxidation is defined as the addition of oxygen to a substance. The reaction $\\text{S} + \\text{O}_2 \\rightarrow \\text{SO}_2$ fits this definition.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "In the reaction $2 \\text{H}_2\\text{S} (g) + \\text{O}_2 (g) \\rightarrow 2 \\text{S} (s) + 2 \\text{H}_2\\text{O} (l)$, what is the reducing agent?",
+    "options": [
+      {
+        "text": "Hydrogen sulfide ($\\text{H}_2\\text{S}$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxygen ($\\text{O}_2$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfur ($\\text{S}$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Water ($\\text{H}_2\\text{O}$)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hydrogen sulfide ($\\text{H}_2\\text{S}$) acts as the reducing agent because it donates electrons and is oxidized to sulfur ($\\text{S}$).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which of the following statements is true for the reaction $\\text{Mg} (s) + \\text{F}_2 (g) \\rightarrow \\text{MgF}_2 (s)$?",
+    "options": [
+      {
+        "text": "Magnesium is reduced",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluorine is oxidized",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnesium is oxidized and fluorine is reduced",
+        "isCorrect": true
+      },
+      {
+        "text": "Both magnesium and fluorine are oxidized",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In this reaction, magnesium is oxidized (loses electrons) and fluorine is reduced (gains electrons).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which of the following reactions involves both oxidation and reduction processes?",
+    "options": [
+      {
+        "text": "$\\text{S} (s) + \\text{O}_2 (g) \\rightarrow \\text{SO}_2 (g)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{H}_2\\text{S} (g) + \\text{Cl}_2 (g) \\rightarrow 2 \\text{HCl} (g) + \\text{S} (s)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{CH}_4 (g) + 2 \\text{O}_2 (g) \\rightarrow \\text{CO}_2 (g) + 2 \\text{H}_2\\text{O} (l)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{Mg} (s) + \\text{Cl}_2 (g) \\rightarrow \\text{MgCl}_2 (s)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction $\\text{H}_2\\text{S} + \\text{Cl}_2 \\rightarrow 2 \\text{HCl} + \\text{S}$, hydrogen sulfide is oxidized and chlorine is reduced.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "What is the oxidation state of sulfur in $\\text{H}_2\\text{S}$?",
+    "options": [
+      {
+        "text": "$-2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$+2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$+4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In $\\text{H}_2\\text{S}$, sulfur has an oxidation state of $-2$ as hydrogen has an oxidation state of $+1$ each.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "Identify the oxidizing agent in the reaction $\\text{H}_2\\text{S} (g) + \\text{Cl}_2 (g) \\rightarrow 2 \\text{HCl} (g) + \\text{S} (s)$.",
+    "options": [
+      {
+        "text": "Hydrogen sulfide ($\\text{H}_2\\text{S}$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Chlorine ($\\text{Cl}_2$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydrochloric acid ($\\text{HCl}$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfur ($\\text{S}$)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chlorine ($\\text{Cl}_2$) is the oxidizing agent because it gains electrons and is reduced to hydrochloric acid ($\\text{HCl}$).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "Which reaction demonstrates the removal of an electropositive element?",
+    "options": [
+      {
+        "text": "$2\\text{K}_4[\\text{Fe(CN)}_6] (aq) + \\text{H}_2\\text{O}_2 (aq) \\rightarrow 2\\text{K}_3[\\text{Fe(CN)}_6] (aq) + 2\\text{KOH} (aq)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{CH}_4 (g) + 2 \\text{O}_2 (g) \\rightarrow \\text{CO}_2 (g) + 2 \\text{H}_2\\text{O} (l)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{Mg} (s) + \\text{F}_2 (g) \\rightarrow \\text{MgF}_2 (s)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\text{H}_2\\text{S} (g) + \\text{O}_2 (g) \\rightarrow 2 \\text{S} (s) + 2 \\text{H}_2\\text{O} (l)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, potassium is removed as potassium hydroxide ($\\text{KOH}$) and hence represents the removal of an electropositive element.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "What happens to the oxidation state of oxygen in the reaction $2 \\text{HgO} (s) \\rightarrow 2 \\text{Hg} (l) + \\text{O}_2 (g)$?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxygen is reduced",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, oxygen's oxidation state remains the same as it is zero in both reactants and products.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which element is being oxidized in the reaction $\\text{CH}_4 (g) + 2 \\text{O}_2 (g) \\rightarrow \\text{CO}_2 (g) + 2 \\text{H}_2\\text{O} (l)$?",
+    "options": [
+      {
+        "text": "Carbon",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Carbon is oxidized in this reaction as it gains oxygen to form carbon dioxide.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "In the reaction $\\text{Mg} (s) + \\text{F}_2 (g) \\rightarrow \\text{MgF}_2 (s)$, which element is reduced?",
+    "options": [
+      {
+        "text": "Magnesium",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluorine",
+        "isCorrect": true
+      },
+      {
+        "text": "Both Magnesium and Fluorine",
+        "isCorrect": false
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorine is reduced as it gains electrons to form fluoride ions.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 16,
+    "questionText": "Identify the reducing agent in the reaction $\\text{S} (s) + \\text{O}_2 (g) \\rightarrow \\text{SO}_2 (g)$.",
+    "options": [
+      {
+        "text": "Sulfur ($\\text{S}$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxygen ($\\text{O}_2$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfur dioxide ($\\text{SO}_2$)",
+        "isCorrect": false
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sulfur is the reducing agent as it loses electrons and is oxidized to sulfur dioxide.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "In which reaction is hydrogen reduced?",
+    "options": [
+      {
+        "text": "$\\text{H}_2\\text{S} (g) + \\text{Cl}_2 (g) \\rightarrow 2 \\text{HCl} (g) + \\text{S} (s)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\text{H}_2\\text{O} (l) \\rightarrow 2 \\text{H}_2 (g) + \\text{O}_2 (g)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{Mg} (s) + \\text{Cl}_2 (g) \\rightarrow \\text{MgCl}_2 (s)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{CH}_4 (g) + 2 \\text{O}_2 (g) \\rightarrow \\text{CO}_2 (g) + 2 \\text{H}_2\\text{O} (l)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction $2 \\text{H}_2\\text{O} \\rightarrow 2 \\text{H}_2 + \\text{O}_2$, hydrogen is reduced as it gains electrons to form hydrogen gas.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which of the following reactions demonstrates oxidation by removal of hydrogen?",
+    "options": [
+      {
+        "text": "$\\text{CH}_4 (g) + 2 \\text{O}_2 (g) \\rightarrow \\text{CO}_2 (g) + 2 \\text{H}_2\\text{O} (l)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{Mg} (s) + \\text{F}_2 (g) \\rightarrow \\text{MgF}_2 (s)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\text{H}_2\\text{S} (g) + \\text{O}_2 (g) \\rightarrow 2 \\text{S} (s) + 2 \\text{H}_2\\text{O} (l)$",
+        "isCorrect": true
+      },
+      {
+        "text": "Both A and C",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Both reactions A and C involve the removal of hydrogen. In reaction A, methane loses hydrogen to form carbon dioxide and water. In reaction C, hydrogen sulfide loses hydrogen to form sulfur and water.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "What is the oxidation state of oxygen in $\\text{H}_2\\text{O}_2$ (hydrogen peroxide)?",
+    "options": [
+      {
+        "text": "$-1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$+1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In hydrogen peroxide ($\\text{H}_2\\text{O}_2$), each oxygen atom has an oxidation state of $-1$.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which of the following statements is true for the reaction $\\text{2HgO} (s) \\rightarrow \\text{2Hg} (l) + \\text{O}_2 (g)$?",
+    "options": [
+      {
+        "text": "Mercury is reduced",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxygen is oxidized",
+        "isCorrect": false
+      },
+      {
+        "text": "Both mercury and oxygen are oxidized",
+        "isCorrect": false
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mercury is reduced as it gains electrons, while oxygen is neither oxidized nor reduced as its oxidation state does not change.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "In the reaction $\\text{Mg} (s) + \\text{Cl}_2 (g) \\rightarrow \\text{MgCl}_2 (s)$, what is the change in oxidation state for magnesium?",
+    "options": [
+      {
+        "text": "0 to +2",
+        "isCorrect": true
+      },
+      {
+        "text": "0 to -2",
+        "isCorrect": false
+      },
+      {
+        "text": "0 to +1",
+        "isCorrect": false
+      },
+      {
+        "text": "0 to -1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Magnesium changes its oxidation state from 0 to +2 in the reaction.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which of the following is a redox reaction?",
+    "options": [
+      {
+        "text": "$\\text{CaCO}_3 (s) \\rightarrow \\text{CaO} (s) + \\text{CO}_2 (g)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{H}_2\\text{O}_2 (aq) \\rightarrow \\text{H}_2\\text{O} (l) + \\frac{1}{2} \\text{O}_2 (g)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{NaCl} (s) \\rightarrow \\text{Na} (s) + \\text{Cl}_2 (g)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{ZnCO}_3 (s) \\rightarrow \\text{ZnO} (s) + \\text{CO}_2 (g)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The decomposition of hydrogen peroxide ($\\text{H}_2\\text{O}_2$) into water ($\\text{H}_2\\text{O}$) and oxygen ($\\text{O}_2$) is a redox reaction as oxygen undergoes both reduction and oxidation.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which species is oxidized in the reaction $2 \\text{H}_2\\text{O}_2 (aq) \\rightarrow 2 \\text{H}_2\\text{O} (l) + \\text{O}_2 (g)$?",
+    "options": [
+      {
+        "text": "Hydrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen in $\\text{H}_2\\text{O}_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxygen in $\\text{O}_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "Both hydrogen and oxygen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the decomposition of hydrogen peroxide ($\\text{H}_2\\text{O}_2$), oxygen is oxidized as it goes from an oxidation state of -1 to 0.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 24,
+    "questionText": "Identify the species that is reduced in the reaction $\\text{Zn} (s) + \\text{Cu}^{2+} (aq) \\rightarrow \\text{Zn}^{2+} (aq) + \\text{Cu} (s)$.",
+    "options": [
+      {
+        "text": "Zinc",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper ion",
+        "isCorrect": true
+      },
+      {
+        "text": "Zinc ion",
+        "isCorrect": false
+      },
+      {
+        "text": "Both zinc and copper ion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, copper ion ($\\text{Cu}^{2+}$) is reduced as it gains electrons to form copper metal ($\\text{Cu}$).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "What is the oxidation state of manganese in $\\text{KMnO}_4$?",
+    "options": [
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "+7",
+        "isCorrect": true
+      },
+      {
+        "text": "+6",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In potassium permanganate ($\\text{KMnO}_4$), manganese has an oxidation state of +7.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which reaction involves a disproportionation process?",
+    "options": [
+      {
+        "text": "$\\text{H}_2\\text{O}_2 \\rightarrow \\text{H}_2\\text{O} + \\text{O}_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{CaCO}_3 \\rightarrow \\text{CaO} + \\text{CO}_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{Na} + \\text{Cl}_2 \\rightarrow \\text{NaCl}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{ZnCO}_3 \\rightarrow \\text{ZnO} + \\text{CO}_2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Disproportionation is a type of redox reaction where a single substance is both oxidized and reduced. The decomposition of hydrogen peroxide ($\\text{H}_2\\text{O}_2$) is a classic example.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 27,
+    "questionText": "What is the change in oxidation state for sulfur in the reaction $\\text{H}_2\\text{SO}_4 \\rightarrow \\text{SO}_2$?",
+    "options": [
+      {
+        "text": "+6 to +4",
+        "isCorrect": true
+      },
+      {
+        "text": "+4 to +6",
+        "isCorrect": false
+      },
+      {
+        "text": "+2 to +4",
+        "isCorrect": false
+      },
+      {
+        "text": "+6 to +2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, sulfur in sulfuric acid ($\\text{H}_2\\text{SO}_4$) is reduced from an oxidation state of +6 to +4 in sulfur dioxide ($\\text{SO}_2$).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 28,
+    "questionText": "In the reaction $\\text{Cl}_2 + 2 \\text{NaBr} \\rightarrow 2 \\text{NaCl} + \\text{Br}_2$, which species is the oxidizing agent?",
+    "options": [
+      {
+        "text": "Chlorine ($\\text{Cl}_2$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Bromine ($\\text{Br}_2$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodium bromide ($\\text{NaBr}$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodium chloride ($\\text{NaCl}$)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chlorine ($\\text{Cl}_2$) is the oxidizing agent as it gains electrons and is reduced to chloride ions ($\\text{Cl}^-$).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "What is the oxidation state of nitrogen in $\\text{NH}_4^+$?",
+    "options": [
+      {
+        "text": "-3",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+5",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In ammonium ion ($\\text{NH}_4^+$), nitrogen has an oxidation state of -3.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 30,
+    "questionText": "Which of the following reactions involves the oxidation of carbon?",
+    "options": [
+      {
+        "text": "$\\text{CH}_4 + 2\\text{O}_2 \\rightarrow \\text{CO}_2 + 2\\text{H}_2\\text{O}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{C}_2\\text{H}_5\\text{OH} \\rightarrow \\text{CH}_3\\text{CHO}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{C}_6\\text{H}_6 + 3\\text{Cl}_2 \\rightarrow \\text{C}_6\\text{H}_6\\text{Cl}_6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Both the combustion of methane ($\\text{CH}_4$) and carbon ($\\text{C}$) involve the oxidation of carbon to carbon dioxide ($\\text{CO}_2$).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 31,
+    "questionText": "In the reaction $\\text{2Fe}^{3+} + \\text{Sn}^{2+} \\rightarrow \\text{2Fe}^{2+} + \\text{Sn}^{4+}$, which species is the reducing agent?",
+    "options": [
+      {
+        "text": "Iron ion ($\\text{Fe}^{3+}$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tin ion ($\\text{Sn}^{2+}$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Iron ion ($\\text{Fe}^{2+}$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tin ion ($\\text{Sn}^{4+}$)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tin ion ($\\text{Sn}^{2+}$) acts as the reducing agent as it donates electrons and is oxidized to $\\text{Sn}^{4+}$.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 32,
+    "questionText": "Which of the following reactions involves reduction of oxygen?",
+    "options": [
+      {
+        "text": "$\\text{2H}_2\\text{O} \\rightarrow 2\\text{H}_2 + \\text{O}_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{CH}_4 + 2\\text{O}_2 \\rightarrow \\text{CO}_2 + 2\\text{H}_2\\text{O}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{Mg} + \\text{O}_2 \\rightarrow \\text{MgO}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{Zn} + \\text{O}_2 \\rightarrow \\text{ZnO}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction $2\\text{H}_2\\text{O} \\rightarrow 2\\text{H}_2 + \\text{O}_2$, oxygen is reduced as it gains electrons.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 33,
+    "questionText": "What is the oxidation state of phosphorus in $\\text{H}_3\\text{PO}_4$?",
+    "options": [
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+5",
+        "isCorrect": true
+      },
+      {
+        "text": "+1",
+        "isCorrect": false
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In phosphoric acid ($\\text{H}_3\\text{PO}_4$), phosphorus has an oxidation state of +5.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 34,
+    "questionText": "Which element is oxidized in the reaction $2 \\text{KI} + \\text{Br}_2 \\rightarrow 2 \\text{KBr} + \\text{I}_2$?",
+    "options": [
+      {
+        "text": "Potassium",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine",
+        "isCorrect": true
+      },
+      {
+        "text": "Bromine",
+        "isCorrect": false
+      },
+      {
+        "text": "Both potassium and iodine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, iodine is oxidized as it goes from an oxidation state of -1 in $\\text{KI}$ to 0 in $\\text{I}_2$.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "Identify the species that is reduced in the reaction $\\text{MnO}_2 + 4\\text{HCl} \\rightarrow \\text{MnCl}_2 + \\text{Cl}_2 + 2\\text{H}_2\\text{O}$.",
+    "options": [
+      {
+        "text": "Manganese dioxide ($\\text{MnO}_2$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrochloric acid ($\\text{HCl}$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Manganese chloride ($\\text{MnCl}_2$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Water ($\\text{H}_2\\text{O}$)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, hydrochloric acid ($\\text{HCl}$) is reduced as chlorine ($\\text{Cl}_2$) is formed.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 36,
+    "questionText": "What is the oxidation state of chromium in $\\text{K}_2\\text{Cr}_2\\text{O}_7$?",
+    "options": [
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+6",
+        "isCorrect": true
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "+7",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In potassium dichromate ($\\text{K}_2\\text{Cr}_2\\text{O}_7$), chromium has an oxidation state of +6.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 37,
+    "questionText": "Which reaction involves the oxidation of hydrogen?",
+    "options": [
+      {
+        "text": "$\\text{2H}_2 + \\text{O}_2 \\rightarrow 2\\text{H}_2\\text{O}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{2H}_2\\text{O} \\rightarrow 2\\text{H}_2 + \\text{O}_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{CH}_4 + 2\\text{O}_2 \\rightarrow \\text{CO}_2 + 2\\text{H}_2\\text{O}$",
+        "isCorrect": true
+      },
+      {
+        "text": "Both A and C",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Both reactions A and C involve the oxidation of hydrogen. In reaction A, hydrogen is oxidized to form water. In reaction C, methane is oxidized, and hydrogen is involved in the formation of water.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 38,
+    "questionText": "In the reaction $\\text{Fe}_2\\text{O}_3 + 3\\text{CO} \\rightarrow 2\\text{Fe} + 3\\text{CO}_2$, which species is the reducing agent?",
+    "options": [
+      {
+        "text": "Iron(III) oxide ($\\text{Fe}_2\\text{O}_3$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbon monoxide ($\\text{CO}$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Carbon dioxide ($\\text{CO}_2$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iron ($\\text{Fe}$)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Carbon monoxide ($\\text{CO}$) is the reducing agent as it donates electrons and is oxidized to carbon dioxide ($\\text{CO}_2$).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 39,
+    "questionText": "Which species is reduced in the reaction $\\text{MnO}_4^- + 8\\text{H}^+ + 5\\text{Fe}^{2+} \\rightarrow \\text{Mn}^{2+} + 4\\text{H}_2\\text{O} + 5\\text{Fe}^{3+}$?",
+    "options": [
+      {
+        "text": "Manganese in $\\text{MnO}_4^-$",
+        "isCorrect": true
+      },
+      {
+        "text": "Iron in $\\text{Fe}^{2+}$",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrogen in $\\text{H}^+$",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen in $\\text{H}_2\\text{O}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, manganese in $\\text{MnO}_4^-$ is reduced from an oxidation state of +7 to +2.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 40,
+    "questionText": "What is the oxidation state of sulfur in $\\text{H}_2\\text{SO}_3$?",
+    "options": [
+      {
+        "text": "+4",
+        "isCorrect": true
+      },
+      {
+        "text": "+6",
+        "isCorrect": false
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In sulfurous acid ($\\text{H}_2\\text{SO}_3$), sulfur has an oxidation state of +4.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 41,
+    "questionText": "Identify the species that is oxidized in the reaction $\\text{Cr}_2\\text{O}_7^{2-} + 14\\text{H}^+ + 6\\text{Fe}^{2+} \\rightarrow 2\\text{Cr}^{3+} + 7\\text{H}_2\\text{O} + 6\\text{Fe}^{3+}$.",
+    "options": [
+      {
+        "text": "Iron in $\\text{Fe}^{2+}$",
+        "isCorrect": true
+      },
+      {
+        "text": "Chromium in $\\text{Cr}_2\\text{O}_7^{2-}$",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrogen in $\\text{H}^+$",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen in $\\text{H}_2\\text{O}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, iron in $\\text{Fe}^{2+}$ is oxidized from +2 to +3.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 42,
+    "questionText": "What is the oxidation state of chlorine in $\\text{ClO}_3^-$?",
+    "options": [
+      {
+        "text": "+5",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      },
+      {
+        "text": "+1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In chlorate ion ($\\text{ClO}_3^-$), chlorine has an oxidation state of +5.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 43,
+    "questionText": "Which of the following reactions is an example of a redox reaction?",
+    "options": [
+      {
+        "text": "$\\text{Zn} + \\text{CuSO}_4 \\rightarrow \\text{ZnSO}_4 + \\text{Cu}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{NaCl} \\rightarrow \\text{Na} + \\text{Cl}_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{CaCO}_3 \\rightarrow \\text{CaO} + \\text{CO}_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{HCl} + \\text{NaOH} \\rightarrow \\text{NaCl} + \\text{H}_2\\text{O}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction $\\text{Zn} + \\text{CuSO}_4 \\rightarrow \\text{ZnSO}_4 + \\text{Cu}$ is a redox reaction as zinc is oxidized and copper is reduced.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 44,
+    "questionText": "In the reaction $\\text{2KClO}_3 \\rightarrow 2KCl + 3\\text{O}_2$, what is the oxidation state of chlorine in $\\text{KClO}_3$?",
+    "options": [
+      {
+        "text": "+5",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      },
+      {
+        "text": "+1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In potassium chlorate ($\\text{KClO}_3$), chlorine has an oxidation state of +5.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 45,
+    "questionText": "Which of the following reactions involves the reduction of iron?",
+    "options": [
+      {
+        "text": "$\\text{Fe}_2\\text{O}_3 + 3\\text{CO} \\rightarrow 2\\text{Fe} + 3\\text{CO}_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{2Fe} + \\text{O}_2 \\rightarrow \\text{2FeO}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{FeSO}_4 \\rightarrow \\text{Fe}_2\\text{O}_3 + \\text{SO}_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{Fe} + \\text{Cl}_2 \\rightarrow \\text{FeCl}_3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction $\\text{Fe}_2\\text{O}_3 + 3\\text{CO} \\rightarrow 2\\text{Fe} + 3\\text{CO}_2$, iron is reduced from an oxidation state of +3 to 0.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 46,
+    "questionText": "Identify the reducing agent in the reaction $\\text{Zn} + \\text{Cu}^{2+} \\rightarrow \\text{Zn}^{2+} + \\text{Cu}$.",
+    "options": [
+      {
+        "text": "Zinc",
+        "isCorrect": true
+      },
+      {
+        "text": "Copper ion",
+        "isCorrect": false
+      },
+      {
+        "text": "Zinc ion",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, zinc is the reducing agent as it donates electrons and is oxidized to zinc ion.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 47,
+    "questionText": "What is the oxidation state of carbon in $\\text{CH}_4$?",
+    "options": [
+      {
+        "text": "-4",
+        "isCorrect": true
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In methane ($\\text{CH}_4$), carbon has an oxidation state of -4.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 48,
+    "questionText": "Which of the following reactions is a disproportionation reaction?",
+    "options": [
+      {
+        "text": "$2 \\text{H}_2\\text{O}_2 \\rightarrow 2 \\text{H}_2\\text{O} + \\text{O}_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{2Fe} + \\text{O}_2 \\rightarrow \\text{2FeO}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{CH}_4 + 2 \\text{O}_2 \\rightarrow \\text{CO}_2 + 2 \\text{H}_2\\text{O}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{Zn} + \\text{CuSO}_4 \\rightarrow \\text{ZnSO}_4 + \\text{Cu}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The decomposition of hydrogen peroxide ($\\text{H}_2\\text{O}_2$) is a disproportionation reaction as it involves the same element being both oxidized and reduced.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 49,
+    "questionText": "In the reaction $\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2$, what is the change in oxidation state of carbon?",
+    "options": [
+      {
+        "text": "0 to +4",
+        "isCorrect": true
+      },
+      {
+        "text": "0 to -4",
+        "isCorrect": false
+      },
+      {
+        "text": "0 to +2",
+        "isCorrect": false
+      },
+      {
+        "text": "0 to -2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, carbon is oxidized from an oxidation state of 0 to +4 in carbon dioxide ($\\text{CO}_2$).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 50,
+    "questionText": "What is the oxidation state of oxygen in $\\text{OF}_2$?",
+    "options": [
+      {
+        "text": "+2",
+        "isCorrect": true
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "+1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In oxygen difluoride ($\\text{OF}_2$), oxygen has an oxidation state of +2 because fluorine is more electronegative and has an oxidation state of -1.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 51,
+    "questionText": "Which species is the oxidizing agent in the reaction $\\text{H}_2 + \\text{F}_2 \\rightarrow 2\\text{HF}$?",
+    "options": [
+      {
+        "text": "Fluorine ($\\text{F}_2$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydrogen ($\\text{H}_2$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrofluoric acid ($\\text{HF}$)",
+        "isCorrect": false
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, fluorine ($\\text{F}_2$) is the oxidizing agent as it gains electrons and is reduced to fluoride ions in hydrofluoric acid ($\\text{HF}$).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 52,
+    "questionText": "What is the oxidation state of nitrogen in $\\text{NO}_3^-$?",
+    "options": [
+      {
+        "text": "+5",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+1",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In nitrate ion ($\\text{NO}_3^-$), nitrogen has an oxidation state of +5.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 53,
+    "questionText": "In the reaction $\\text{2MnO}_4^- + 5\\text{H}_2\\text{C}_2\\text{O}_4 + 6\\text{H}^+ \\rightarrow 2\\text{Mn}^{2+} + 10\\text{CO}_2 + 8\\text{H}_2\\text{O}$, what is the reducing agent?",
+    "options": [
+      {
+        "text": "Oxalic acid ($\\text{H}_2\\text{C}_2\\text{O}_4$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Permanganate ion ($\\text{MnO}_4^-$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrogen ion ($\\text{H}^+$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbon dioxide ($\\text{CO}_2$)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, oxalic acid ($\\text{H}_2\\text{C}_2\\text{O}_4$) is the reducing agent as it donates electrons and is oxidized to carbon dioxide ($\\text{CO}_2$).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 54,
+    "questionText": "Identify the species that is oxidized in the reaction $\\text{2I}^- + \\text{Br}_2 \\rightarrow 2\\text{Br}^- + \\text{I}_2$.",
+    "options": [
+      {
+        "text": "Iodide ion ($\\text{I}^-$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Bromine ($\\text{Br}_2$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromide ion ($\\text{Br}^-)$",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine ($\\text{I}_2$)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, iodide ion ($\\text{I}^-$) is oxidized to iodine ($\\text{I}_2$).",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 55,
+    "questionText": "What is the oxidation state of sulfur in $\\text{Na}_2\\text{SO}_4$?",
+    "options": [
+      {
+        "text": "+6",
+        "isCorrect": true
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In sodium sulfate ($\\text{Na}_2\\text{SO}_4$), sulfur has an oxidation state of +6.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 56,
+    "questionText": "Which of the following reactions involves the reduction of nitrogen?",
+    "options": [
+      {
+        "text": "$\\text{N}_2 + 3\\text{H}_2 \\rightarrow 2\\text{NH}_3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{NH}_3 \\rightarrow \\text{N}_2 + 3\\text{H}_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{NO}_3^- \\rightarrow \\text{NO}_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{NO}_2 \\rightarrow \\text{NO}_3^-$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction $\\text{N}_2 + 3\\text{H}_2 \\rightarrow 2\\text{NH}_3$, nitrogen is reduced from 0 in $\\text{N}_2$ to -3 in $\\text{NH}_3$.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 57,
+    "questionText": "Identify the species that is oxidized in the reaction $2\\text{H}_2 + \\text{O}_2 \\rightarrow 2\\text{H}_2\\text{O}$.",
+    "options": [
+      {
+        "text": "Hydrogen",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "Water",
+        "isCorrect": false
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, hydrogen is oxidized from 0 in $\\text{H}_2$ to +1 in $\\text{H}_2\\text{O}$.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 58,
+    "questionText": "Which of the following is a redox reaction?",
+    "options": [
+      {
+        "text": "$\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{NaCl} \\rightarrow \\text{Na} + \\text{Cl}_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{CaCO}_3 \\rightarrow \\text{CaO} + \\text{CO}_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{HCl} + \\text{NaOH} \\rightarrow \\text{NaCl} + \\text{H}_2\\text{O}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction $\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2$ is a redox reaction as carbon is oxidized and oxygen is reduced.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 59,
+    "questionText": "What is the oxidation state of iron in $\\text{Fe}_2\\text{O}_3$?",
+    "options": [
+      {
+        "text": "+3",
+        "isCorrect": true
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "+1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In iron(III) oxide ($\\text{Fe}_2\\text{O}_3$), iron has an oxidation state of +3.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 60,
+    "questionText": "Identify the species that is reduced in the reaction $\\text{CuO} + \\text{H}_2 \\rightarrow \\text{Cu} + \\text{H}_2\\text{O}$.",
+    "options": [
+      {
+        "text": "Copper(II) oxide",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper",
+        "isCorrect": false
+      },
+      {
+        "text": "Water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, copper(II) oxide is reduced to copper.",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 1,
+    "questionText": "In the redox reaction $\\text{Zn} (s) + \\text{Cu}^{2+} (aq) \\rightarrow \\text{Zn}^{2+} (aq) + \\text{Cu} (s)$, which species undergoes oxidation?",
+    "options": [
+      {
+        "text": "Zinc",
+        "isCorrect": true
+      },
+      {
+        "text": "Copper",
+        "isCorrect": false
+      },
+      {
+        "text": "Zinc ion",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper ion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Zinc undergoes oxidation as it loses electrons to form zinc ions ($\\text{Zn}^{2+}$).",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "In the reaction $\\text{Fe}^{2+} (aq) + \\text{MnO}_4^- (aq) \\rightarrow \\text{Fe}^{3+} (aq) + \\text{Mn}^{2+} (aq)$, which species is the reducing agent?",
+    "options": [
+      {
+        "text": "Fe$^{2+}$",
+        "isCorrect": true
+      },
+      {
+        "text": "MnO$_4^-$",
+        "isCorrect": false
+      },
+      {
+        "text": "Fe$^{3+}$",
+        "isCorrect": false
+      },
+      {
+        "text": "Mn$^{2+}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fe$^{2+}$ acts as the reducing agent as it donates electrons and is oxidized to Fe$^{3+}$.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which of the following represents a half-reaction for the reduction process?",
+    "options": [
+      {
+        "text": "Zn $\\rightarrow$ Zn$^{2+}$ + 2e$^-$",
+        "isCorrect": false
+      },
+      {
+        "text": "Cu$^{2+}$ + 2e$^-$ $\\rightarrow$ Cu",
+        "isCorrect": true
+      },
+      {
+        "text": "2H$_2$ + O$_2$ $\\rightarrow$ 2H$_2$O",
+        "isCorrect": false
+      },
+      {
+        "text": "2Cl$^-$ $\\rightarrow$ Cl$_2$ + 2e$^-$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The half-reaction Cu$^{2+}$ + 2e$^-$ $\\rightarrow$ Cu represents the reduction of copper ions to copper metal.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "In the redox reaction $2 \\text{Ag}^+ (aq) + \\text{Cu} (s) \\rightarrow 2 \\text{Ag} (s) + \\text{Cu}^{2+} (aq)$, what is the oxidation half-reaction?",
+    "options": [
+      {
+        "text": "Cu $\\rightarrow$ Cu$^{2+}$ + 2e$^-$",
+        "isCorrect": true
+      },
+      {
+        "text": "2Ag$^+$ + 2e$^-$ $\\rightarrow$ 2Ag",
+        "isCorrect": false
+      },
+      {
+        "text": "Cu$^{2+}$ + 2e$^-$ $\\rightarrow$ Cu",
+        "isCorrect": false
+      },
+      {
+        "text": "2Ag $\\rightarrow$ 2Ag$^+$ + 2e$^-$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The oxidation half-reaction Cu $\\rightarrow$ Cu$^{2+}$ + 2e$^-$ shows the loss of electrons by copper.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which of the following reactions demonstrates the reduction of oxygen?",
+    "options": [
+      {
+        "text": "O$_2$ + 4e$^-$ $\\rightarrow$ 2O$^{2-}$",
+        "isCorrect": true
+      },
+      {
+        "text": "2H$_2$ + O$_2$ $\\rightarrow$ 2H$_2$O",
+        "isCorrect": false
+      },
+      {
+        "text": "O$_2$ $\\rightarrow$ 2O$^{2-}$ + 4e$^-$",
+        "isCorrect": false
+      },
+      {
+        "text": "O$_2$ + 2H$_2$ $\\rightarrow$ 2H$_2$O",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The half-reaction O$_2$ + 4e$^-$ $\\rightarrow$ 2O$^{2-}$ represents the reduction of oxygen to oxide ions.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "In the reaction $\\text{Cr}_2\\text{O}_7^{2-} + 14\\text{H}^+ + 6\\text{Fe}^{2+} \\rightarrow 2\\text{Cr}^{3+} + 7\\text{H}_2\\text{O} + 6\\text{Fe}^{3+}$, which species is reduced?",
+    "options": [
+      {
+        "text": "Cr$_2$O$_7^{2-}$",
+        "isCorrect": true
+      },
+      {
+        "text": "Fe$^{2+}$",
+        "isCorrect": false
+      },
+      {
+        "text": "H$^+$",
+        "isCorrect": false
+      },
+      {
+        "text": "Fe$^{3+}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, Cr$_2$O$_7^{2-}$ is reduced from an oxidation state of +6 to +3.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which of the following is true for the oxidation state change in the reaction $\\text{2I}^- + \\text{Cl}_2 \\rightarrow \\text{I}_2 + 2\\text{Cl}^-$?",
+    "options": [
+      {
+        "text": "Iodine is oxidized and chlorine is reduced",
+        "isCorrect": true
+      },
+      {
+        "text": "Iodine is reduced and chlorine is oxidized",
+        "isCorrect": false
+      },
+      {
+        "text": "Both iodine and chlorine are oxidized",
+        "isCorrect": false
+      },
+      {
+        "text": "Both iodine and chlorine are reduced",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, iodine is oxidized from -1 to 0, and chlorine is reduced from 0 to -1.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which of the following is a correct example of a redox reaction?",
+    "options": [
+      {
+        "text": "Zn + Cu$^{2+}$ $\\rightarrow$ Zn$^{2+}$ + Cu",
+        "isCorrect": true
+      },
+      {
+        "text": "H$_2$ + Cl$_2$ $\\rightarrow$ 2HCl",
+        "isCorrect": false
+      },
+      {
+        "text": "2Na + Cl$_2$ $\\rightarrow$ 2NaCl",
+        "isCorrect": false
+      },
+      {
+        "text": "2H$_2$ + O$_2$ $\\rightarrow$ 2H$_2$O",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction Zn + Cu$^{2+}$ $\\rightarrow$ Zn$^{2+}$ + Cu is a redox reaction where zinc is oxidized and copper is reduced.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "In the reaction $2 \\text{H}_2\\text{O}_2 \\rightarrow 2 \\text{H}_2\\text{O} + \\text{O}_2$, what is the reducing agent?",
+    "options": [
+      {
+        "text": "H$_2$O$_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "O$_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "H$_2$O",
+        "isCorrect": false
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, H$_2$O$_2$ acts as both oxidizing and reducing agent, making it a disproportionation reaction.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 10,
+    "questionText": "In a redox reaction, which of the following statements is true?",
+    "options": [
+      {
+        "text": "The substance that gains electrons is oxidized",
+        "isCorrect": false
+      },
+      {
+        "text": "The substance that loses electrons is reduced",
+        "isCorrect": false
+      },
+      {
+        "text": "The substance that gains electrons is reduced",
+        "isCorrect": true
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a redox reaction, the substance that gains electrons is reduced, and the substance that loses electrons is oxidized.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which species is the oxidizing agent in the reaction $\\text{Fe}_2\\text{O}_3 + 3\\text{CO} \\rightarrow 2\\text{Fe} + 3\\text{CO}_2$?",
+    "options": [
+      {
+        "text": "Fe$_2$O$_3$",
+        "isCorrect": true
+      },
+      {
+        "text": "CO",
+        "isCorrect": false
+      },
+      {
+        "text": "Fe",
+        "isCorrect": false
+      },
+      {
+        "text": "CO$_2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fe$_2$O$_3$ is the oxidizing agent as it gains electrons and is reduced to Fe.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "In the reaction $\\text{MnO}_4^- + 8\\text{H}^+ + 5\\text{Fe}^{2+} \\rightarrow \\text{Mn}^{2+} + 4\\text{H}_2\\text{O} + 5\\text{Fe}^{3+}$, what is the change in oxidation state of manganese?",
+    "options": [
+      {
+        "text": "+7 to +2",
+        "isCorrect": true
+      },
+      {
+        "text": "+2 to +7",
+        "isCorrect": false
+      },
+      {
+        "text": "+3 to +6",
+        "isCorrect": false
+      },
+      {
+        "text": "+6 to +3",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, manganese changes its oxidation state from +7 in MnO$_4^-$ to +2 in Mn$^{2+}$.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which of the following represents the correct reduction half-reaction?",
+    "options": [
+      {
+        "text": "Cu$^{2+}$ + 2e$^-$ $\\rightarrow$ Cu",
+        "isCorrect": true
+      },
+      {
+        "text": "Zn $\\rightarrow$ Zn$^{2+}$ + 2e$^-$",
+        "isCorrect": false
+      },
+      {
+        "text": "2H$_2$ + O$_2$ $\\rightarrow$ 2H$_2$O",
+        "isCorrect": false
+      },
+      {
+        "text": "2Cl$^-$ $\\rightarrow$ Cl$_2$ + 2e$^-$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reduction half-reaction Cu$^{2+}$ + 2e$^-$ $\\rightarrow$ Cu represents the gain of electrons by copper ions.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 14,
+    "questionText": "In the reaction $\\text{Fe}^{2+} (aq) + \\text{MnO}_4^- (aq) \\rightarrow \\text{Fe}^{3+} (aq) + \\text{Mn}^{2+} (aq)$, which species is the oxidizing agent?",
+    "options": [
+      {
+        "text": "MnO$_4^-$",
+        "isCorrect": true
+      },
+      {
+        "text": "Fe$^{2+}$",
+        "isCorrect": false
+      },
+      {
+        "text": "Fe$^{3+}$",
+        "isCorrect": false
+      },
+      {
+        "text": "Mn$^{2+}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "MnO$_4^-$ acts as the oxidizing agent as it gains electrons and is reduced to Mn$^{2+}$.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the oxidation state of sulfur in $\\text{SO}_4^{2-}$?",
+    "options": [
+      {
+        "text": "+6",
+        "isCorrect": true
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In sulfate ion (SO$_4^{2-}$), sulfur has an oxidation state of +6.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 16,
+    "questionText": "In the redox reaction $\\text{Zn} (s) + \\text{Cu}^{2+} (aq) \\rightarrow \\text{Zn}^{2+} (aq) + \\text{Cu} (s)$, what is the reducing agent?",
+    "options": [
+      {
+        "text": "Zinc",
+        "isCorrect": true
+      },
+      {
+        "text": "Copper ion",
+        "isCorrect": false
+      },
+      {
+        "text": "Zinc ion",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Zinc acts as the reducing agent as it loses electrons and is oxidized to zinc ions ($\\text{Zn}^{2+}$).",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which of the following statements is correct for a redox reaction?",
+    "options": [
+      {
+        "text": "Oxidation and reduction occur simultaneously",
+        "isCorrect": true
+      },
+      {
+        "text": "Only oxidation occurs",
+        "isCorrect": false
+      },
+      {
+        "text": "Only reduction occurs",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither oxidation nor reduction occurs",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a redox reaction, oxidation and reduction occur simultaneously as one species is oxidized and another is reduced.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "What is the oxidation state of nitrogen in $\\text{NH}_3$?",
+    "options": [
+      {
+        "text": "-3",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+5",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In ammonia ($\\text{NH}_3$), nitrogen has an oxidation state of -3.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 19,
+    "questionText": "In the redox reaction $\\text{Zn} (s) + \\text{Fe}^{2+} (aq) \\rightarrow \\text{Zn}^{2+} (aq) + \\text{Fe} (s)$, which species is oxidized?",
+    "options": [
+      {
+        "text": "Zinc",
+        "isCorrect": true
+      },
+      {
+        "text": "Iron ion",
+        "isCorrect": false
+      },
+      {
+        "text": "Zinc ion",
+        "isCorrect": false
+      },
+      {
+        "text": "Iron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Zinc is oxidized as it loses electrons to form zinc ions ($\\text{Zn}^{2+}$).",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "What is the reduction half-reaction for the reaction $\\text{Fe}_2\\text{O}_3 + 3\\text{CO} \\rightarrow 2\\text{Fe} + 3\\text{CO}_2$?",
+    "options": [
+      {
+        "text": "Fe$_2$O$_3$ + 6e$^-$ $\\rightarrow$ 2Fe + 3O$^{2-}$",
+        "isCorrect": false
+      },
+      {
+        "text": "Fe$_2$O$_3$ + 6e$^-$ + 6H$^+$ $\\rightarrow$ 2Fe + 3H$_2$O",
+        "isCorrect": true
+      },
+      {
+        "text": "Fe$^{3+}$ + 3e$^-$ $\\rightarrow$ Fe",
+        "isCorrect": false
+      },
+      {
+        "text": "Fe$^{2+}$ + 2e$^-$ $\\rightarrow$ Fe",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reduction half-reaction Fe$_2$O$_3$ + 6e$^-$ + 6H$^+$ $\\rightarrow$ 2Fe + 3H$_2$O represents the reduction of Fe$_2$O$_3$ to Fe.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 21,
+    "questionText": "In the redox reaction $\\text{Cl}_2 + 2\\text{I}^- \\rightarrow 2\\text{Cl}^- + \\text{I}_2$, which species is reduced?",
+    "options": [
+      {
+        "text": "Chlorine",
+        "isCorrect": true
+      },
+      {
+        "text": "Iodine",
+        "isCorrect": false
+      },
+      {
+        "text": "Chloride ion",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodide ion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In this reaction, chlorine is reduced as it gains electrons to form chloride ions.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "Which of the following reactions involves oxidation and reduction of the same element?",
+    "options": [
+      {
+        "text": "$2 \\text{H}_2\\text{O}_2 \\rightarrow 2 \\text{H}_2\\text{O} + \\text{O}_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{Zn} + \\text{Cu}^{2+} \\rightarrow \\text{Zn}^{2+} + \\text{Cu}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{Fe} + \\text{S} \\rightarrow \\text{FeS}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{2H}_2 + \\text{O}_2 \\rightarrow 2 \\text{H}_2\\text{O}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The decomposition of hydrogen peroxide ($\\text{H}_2\\text{O}_2$) involves both the oxidation and reduction of oxygen.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 23,
+    "questionText": "What is the oxidation state of carbon in $\\text{CH}_3\\text{OH}$?",
+    "options": [
+      {
+        "text": "-2",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": true
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In methanol ($\\text{CH}_3\\text{OH}$), carbon has an oxidation state of +2.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "Identify the species that is reduced in the reaction $2\\text{Na} + \\text{Cl}_2 \\rightarrow 2\\text{NaCl}$.",
+    "options": [
+      {
+        "text": "Chlorine",
+        "isCorrect": true
+      },
+      {
+        "text": "Sodium",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodium chloride",
+        "isCorrect": false
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In this reaction, chlorine is reduced as it gains electrons to form chloride ions.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which species is the reducing agent in the reaction $\\text{Fe}_2\\text{O}_3 + 3\\text{CO} \\rightarrow 2\\text{Fe} + 3\\text{CO}_2$?",
+    "options": [
+      {
+        "text": "Carbon monoxide",
+        "isCorrect": true
+      },
+      {
+        "text": "Iron(III) oxide",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbon dioxide",
+        "isCorrect": false
+      },
+      {
+        "text": "Iron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Carbon monoxide ($\\text{CO}$) is the reducing agent as it donates electrons and is oxidized to carbon dioxide ($\\text{CO}_2$).",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "In the reaction $\\text{Cr}_2\\text{O}_7^{2-} + 6 \\text{Fe}^{2+} + 14\\text{H}^+ \\rightarrow 2\\text{Cr}^{3+} + 6\\text{Fe}^{3+} + 7\\text{H}_2\\text{O}$, what is the oxidation state change for chromium?",
+    "options": [
+      {
+        "text": "+6 to +3",
+        "isCorrect": true
+      },
+      {
+        "text": "+3 to +6",
+        "isCorrect": false
+      },
+      {
+        "text": "0 to +3",
+        "isCorrect": false
+      },
+      {
+        "text": "+3 to 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, chromium is reduced from an oxidation state of +6 in $\\text{Cr}_2\\text{O}_7^{2-}$ to +3 in $\\text{Cr}^{3+}$.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 27,
+    "questionText": "Which of the following represents the oxidation half-reaction?",
+    "options": [
+      {
+        "text": "Zn $\\rightarrow$ Zn$^{2+}$ + 2e$^-$",
+        "isCorrect": true
+      },
+      {
+        "text": "Cu$^{2+}$ + 2e$^-$ $\\rightarrow$ Cu",
+        "isCorrect": false
+      },
+      {
+        "text": "2H$_2$ + O$_2$ $\\rightarrow$ 2H$_2$O",
+        "isCorrect": false
+      },
+      {
+        "text": "2Cl$^-$ $\\rightarrow$ Cl$_2$ + 2e$^-$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The oxidation half-reaction Zn $\\rightarrow$ Zn$^{2+}$ + 2e$^-$ represents the loss of electrons by zinc.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which of the following reactions demonstrates the reduction of hydrogen?",
+    "options": [
+      {
+        "text": "H$_2$ + Cl$_2$ $\\rightarrow$ 2HCl",
+        "isCorrect": false
+      },
+      {
+        "text": "2H$^+$ + 2e$^-$ $\\rightarrow$ H$_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "H$_2$ + O$_2$ $\\rightarrow$ 2H$_2$O",
+        "isCorrect": false
+      },
+      {
+        "text": "Zn + 2HCl $\\rightarrow$ ZnCl$_2$ + H$_2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The half-reaction 2H$^+$ + 2e$^-$ $\\rightarrow$ H$_2$ represents the reduction of hydrogen ions to hydrogen gas.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "What is the oxidation state of chlorine in $\\text{HClO}_4$?",
+    "options": [
+      {
+        "text": "+7",
+        "isCorrect": true
+      },
+      {
+        "text": "+1",
+        "isCorrect": false
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In perchloric acid ($\\text{HClO}_4$), chlorine has an oxidation state of +7.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which of the following is a redox reaction?",
+    "options": [
+      {
+        "text": "$\\text{Zn} + \\text{CuSO}_4 \\rightarrow \\text{ZnSO}_4 + \\text{Cu}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{NaCl} \\rightarrow \\text{Na} + \\text{Cl}_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{CaCO}_3 \\rightarrow \\text{CaO} + \\text{CO}_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{HCl} + \\text{NaOH} \\rightarrow \\text{NaCl} + \\text{H}_2\\text{O}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction $\\text{Zn} + \\text{CuSO}_4 \\rightarrow \\text{ZnSO}_4 + \\text{Cu}$ is a redox reaction as zinc is oxidized and copper is reduced.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 49,
+    "questionText": "What is the oxidation state of sulfur in $\\text{H}_2\\text{SO}_4$?",
+    "options": [
+      {
+        "text": "+6",
+        "isCorrect": true
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In sulfuric acid ($\\text{H}_2\\text{SO}_4$), sulfur has an oxidation state of +6.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 50,
+    "questionText": "In the reaction $\\text{MnO}_2 + 4 \\text{HCl} \\rightarrow \\text{MnCl}_2 + \\text{Cl}_2 + 2 \\text{H}_2\\text{O}$, which species acts as the reducing agent?",
+    "options": [
+      {
+        "text": "HCl",
+        "isCorrect": true
+      },
+      {
+        "text": "MnO$_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "MnCl$_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "H$_2$O",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the reaction, hydrochloric acid (HCl) acts as the reducing agent as it donates electrons and is oxidized to chlorine gas (Cl$_2$).",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is the oxidation number of sulfur in $\\text{H}_2\\text{SO}_4$?",
+    "options": [
+      {
+        "text": "+6",
+        "isCorrect": true
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In sulfuric acid ($\\text{H}_2\\text{SO}_4$), sulfur has an oxidation number of +6.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "In the compound $\\text{KMnO}_4$, what is the oxidation number of manganese?",
+    "options": [
+      {
+        "text": "+7",
+        "isCorrect": true
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "+6",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In potassium permanganate ($\\text{KMnO}_4$), manganese has an oxidation number of +7.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 3,
+    "questionText": "Determine the oxidation number of chlorine in $\\text{ClO}_3^-$.",
+    "options": [
+      {
+        "text": "+5",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      },
+      {
+        "text": "+1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In chlorate ion ($\\text{ClO}_3^-$), chlorine has an oxidation number of +5.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is the oxidation number of nitrogen in $\\text{NH}_3$?",
+    "options": [
+      {
+        "text": "-3",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+5",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In ammonia ($\\text{NH}_3$), nitrogen has an oxidation number of -3.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "Calculate the oxidation number of phosphorus in $\\text{H}_3\\text{PO}_4$.",
+    "options": [
+      {
+        "text": "+5",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "-3",
+        "isCorrect": false
+      },
+      {
+        "text": "+1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In phosphoric acid ($\\text{H}_3\\text{PO}_4$), phosphorus has an oxidation number of +5.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "What is the oxidation number of chromium in $\\text{Cr}_2\\text{O}_7^{2-}$?",
+    "options": [
+      {
+        "text": "+6",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In dichromate ion ($\\text{Cr}_2\\text{O}_7^{2-}$), each chromium atom has an oxidation number of +6.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "Determine the oxidation number of carbon in $\\text{CO}_2$.",
+    "options": [
+      {
+        "text": "+4",
+        "isCorrect": true
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "-4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In carbon dioxide ($\\text{CO}_2$), carbon has an oxidation number of +4.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "What is the oxidation number of oxygen in $\\text{H}_2\\text{O}_2$ (hydrogen peroxide)?",
+    "options": [
+      {
+        "text": "-1",
+        "isCorrect": true
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "+1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In hydrogen peroxide ($\\text{H}_2\\text{O}_2$), each oxygen atom has an oxidation number of -1.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "Determine the oxidation number of sulfur in $\\text{Na}_2\\text{SO}_3$.",
+    "options": [
+      {
+        "text": "+4",
+        "isCorrect": true
+      },
+      {
+        "text": "+6",
+        "isCorrect": false
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In sodium sulfite ($\\text{Na}_2\\text{SO}_3$), sulfur has an oxidation number of +4.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "What is the oxidation number of nitrogen in $\\text{N}_2\\text{O}_5$?",
+    "options": [
+      {
+        "text": "+5",
+        "isCorrect": true
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In dinitrogen pentoxide ($\\text{N}_2\\text{O}_5$), nitrogen has an oxidation number of +5.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "Calculate the oxidation number of chlorine in $\\text{HClO}$.",
+    "options": [
+      {
+        "text": "+1",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+5",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In hypochlorous acid ($\\text{HClO}$), chlorine has an oxidation number of +1.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "What is the oxidation number of iodine in $\\text{IO}_3^-$?",
+    "options": [
+      {
+        "text": "+5",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+7",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In iodate ion ($\\text{IO}_3^-$), iodine has an oxidation number of +5.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "Determine the oxidation number of manganese in $\\text{MnO}_2$.",
+    "options": [
+      {
+        "text": "+4",
+        "isCorrect": true
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "+6",
+        "isCorrect": false
+      },
+      {
+        "text": "+7",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In manganese dioxide ($\\text{MnO}_2$), manganese has an oxidation number of +4.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 14,
+    "questionText": "What is the oxidation number of carbon in $\\text{C}_2\\text{H}_6$?",
+    "options": [
+      {
+        "text": "-3",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In ethane ($\\text{C}_2\\text{H}_6$), each carbon atom has an oxidation number of -3.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "Calculate the oxidation number of chromium in $\\text{K}_2\\text{Cr}_2\\text{O}_7$.",
+    "options": [
+      {
+        "text": "+6",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In potassium dichromate ($\\text{K}_2\\text{Cr}_2\\text{O}_7$), each chromium atom has an oxidation number of +6.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "HARD"
+  },
+  {
+    "qno": 16,
+    "questionText": "What is the oxidation number of phosphorus in $\\text{H}_3\\text{PO}_3$?",
+    "options": [
+      {
+        "text": "+3",
+        "isCorrect": true
+      },
+      {
+        "text": "+5",
+        "isCorrect": false
+      },
+      {
+        "text": "-3",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In phosphorous acid ($\\text{H}_3\\text{PO}_3$), phosphorus has an oxidation number of +3.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 17,
+    "questionText": "Determine the oxidation number of sulfur in $\\text{SO}_2$.",
+    "options": [
+      {
+        "text": "+4",
+        "isCorrect": true
+      },
+      {
+        "text": "+6",
+        "isCorrect": false
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In sulfur dioxide ($\\text{SO}_2$), sulfur has an oxidation number of +4.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 18,
+    "questionText": "What is the oxidation number of oxygen in $\\text{OF}_2$?",
+    "options": [
+      {
+        "text": "+2",
+        "isCorrect": true
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "+1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In oxygen difluoride ($\\text{OF}_2$), oxygen has an oxidation number of +2.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "Calculate the oxidation number of nitrogen in $\\text{N}_2\\text{O}$.",
+    "options": [
+      {
+        "text": "+1",
+        "isCorrect": true
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In nitrous oxide ($\\text{N}_2\\text{O}$), each nitrogen atom has an oxidation number of +1.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "What is the oxidation number of chlorine in $\\text{Cl}_2$?",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      },
+      {
+        "text": "+1",
+        "isCorrect": false
+      },
+      {
+        "text": "+5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In chlorine gas ($\\text{Cl}_2$), chlorine has an oxidation number of 0.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "Determine the oxidation number of bromine in $\\text{KBrO}_3$.",
+    "options": [
+      {
+        "text": "+5",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+7",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In potassium bromate ($\\text{KBrO}_3$), bromine has an oxidation number of +5.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "What is the oxidation number of carbon in $\\text{HCOOH}$?",
+    "options": [
+      {
+        "text": "+2",
+        "isCorrect": true
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In formic acid ($\\text{HCOOH}$), carbon has an oxidation number of +2.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "Calculate the oxidation number of iodine in $\\text{I}_2$.",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      },
+      {
+        "text": "+1",
+        "isCorrect": false
+      },
+      {
+        "text": "+5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In iodine molecule ($\\text{I}_2$), iodine has an oxidation number of 0.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 24,
+    "questionText": "What is the oxidation number of sulfur in $\\text{H}_2\\text{S}$?",
+    "options": [
+      {
+        "text": "-2",
+        "isCorrect": true
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In hydrogen sulfide ($\\text{H}_2\\text{S}$), sulfur has an oxidation number of -2.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 25,
+    "questionText": "Determine the oxidation number of chlorine in $\\text{NaClO}_3$.",
+    "options": [
+      {
+        "text": "+5",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+7",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In sodium chlorate ($\\text{NaClO}_3$), chlorine has an oxidation number of +5.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 26,
+    "questionText": "What is the oxidation number of nitrogen in $\\text{N}_2\\text{H}_4$?",
+    "options": [
+      {
+        "text": "-2",
+        "isCorrect": true
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In hydrazine ($\\text{N}_2\\text{H}_4$), each nitrogen atom has an oxidation number of -2.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "HARD"
+  },
+  {
+    "qno": 27,
+    "questionText": "Determine the oxidation number of sulfur in $\\text{Na}_2\\text{S}_2\\text{O}_3$.",
+    "options": [
+      {
+        "text": "+2",
+        "isCorrect": true
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "+6",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In sodium thiosulfate ($\\text{Na}_2\\text{S}_2\\text{O}_3$), each sulfur atom has an average oxidation number of +2.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "HARD"
+  },
+  {
+    "qno": 28,
+    "questionText": "What is the oxidation number of chromium in $\\text{Cr}_2\\text{O}_3$?",
+    "options": [
+      {
+        "text": "+3",
+        "isCorrect": true
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "+6",
+        "isCorrect": false
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In chromium(III) oxide ($\\text{Cr}_2\\text{O}_3$), each chromium atom has an oxidation number of +3.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "Determine the oxidation number of manganese in $\\text{KMnO}_4$.",
+    "options": [
+      {
+        "text": "+7",
+        "isCorrect": true
+      },
+      {
+        "text": "+6",
+        "isCorrect": false
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In potassium permanganate ($\\text{KMnO}_4$), manganese has an oxidation number of +7.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 30,
+    "questionText": "What is the oxidation number of chlorine in $\\text{Cl}_2\\text{O}_7$?",
+    "options": [
+      {
+        "text": "+7",
+        "isCorrect": true
+      },
+      {
+        "text": "+5",
+        "isCorrect": false
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In dichlorine heptoxide ($\\text{Cl}_2\\text{O}_7$), each chlorine atom has an oxidation number of +7.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "HARD"
+  },
+  {
+    "qno": 31,
+    "questionText": "Determine the oxidation number of carbon in $\\text{CH}_3\\text{OH}$.",
+    "options": [
+      {
+        "text": "-2",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": true
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In methanol ($\\text{CH}_3\\text{OH}$), carbon has an oxidation number of +2.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 32,
+    "questionText": "What is the oxidation number of phosphorus in $\\text{H}_3\\text{PO}_2$?",
+    "options": [
+      {
+        "text": "+1",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+5",
+        "isCorrect": false
+      },
+      {
+        "text": "-3",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In hypophosphorous acid ($\\text{H}_3\\text{PO}_2$), phosphorus has an oxidation number of +1.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 33,
+    "questionText": "Determine the oxidation number of sulfur in $\\text{Na}_2\\text{SO}_4$.",
+    "options": [
+      {
+        "text": "+6",
+        "isCorrect": true
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In sodium sulfate ($\\text{Na}_2\\text{SO}_4$), sulfur has an oxidation number of +6.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 34,
+    "questionText": "What is the oxidation number of nitrogen in $\\text{NO}_2$?",
+    "options": [
+      {
+        "text": "+4",
+        "isCorrect": true
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "+5",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In nitrogen dioxide ($\\text{NO}_2$), nitrogen has an oxidation number of +4.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "Determine the oxidation number of chlorine in $\\text{KClO}_4$.",
+    "options": [
+      {
+        "text": "+7",
+        "isCorrect": true
+      },
+      {
+        "text": "+5",
+        "isCorrect": false
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In potassium perchlorate ($\\text{KClO}_4$), chlorine has an oxidation number of +7.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "HARD"
+  },
+  {
+    "qno": 36,
+    "questionText": "What is the oxidation number of sulfur in $\\text{S}_8$?",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "-2",
+        "isCorrect": false
+      },
+      {
+        "text": "+6",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In elemental sulfur ($\\text{S}_8$), sulfur has an oxidation number of 0.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 37,
+    "questionText": "Determine the oxidation number of nitrogen in $\\text{HNO}_3$.",
+    "options": [
+      {
+        "text": "+5",
+        "isCorrect": true
+      },
+      {
+        "text": "+3",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In nitric acid ($\\text{HNO}_3$), nitrogen has an oxidation number of +5.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 38,
+    "questionText": "What is the oxidation number of carbon in $\\text{CH}_4$?",
+    "options": [
+      {
+        "text": "-4",
+        "isCorrect": true
+      },
+      {
+        "text": "+4",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "+2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In methane ($\\text{CH}_4$), carbon has an oxidation number of -4.",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "level": "EASY"
+  },
+  {
+    "qno": 1,
+    "questionText": "In a galvanic cell, which electrode is the anode?",
+    "options": [
+      {
+        "text": "The electrode where oxidation occurs",
+        "isCorrect": true
+      },
+      {
+        "text": "The electrode where reduction occurs",
+        "isCorrect": false
+      },
+      {
+        "text": "The electrode with higher potential",
+        "isCorrect": false
+      },
+      {
+        "text": "The electrode with lower potential",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a galvanic cell, the anode is the electrode where oxidation occurs.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "What is the function of a salt bridge in a galvanic cell?",
+    "options": [
+      {
+        "text": "To allow the flow of ions and maintain electrical neutrality",
+        "isCorrect": true
+      },
+      {
+        "text": "To allow the flow of electrons between electrodes",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide a surface for redox reactions",
+        "isCorrect": false
+      },
+      {
+        "text": "To prevent the mixing of solutions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The salt bridge allows the flow of ions to maintain electrical neutrality in a galvanic cell.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "In a galvanic cell, the electrode at which reduction occurs is called the:",
+    "options": [
+      {
+        "text": "Cathode",
+        "isCorrect": true
+      },
+      {
+        "text": "Anode",
+        "isCorrect": false
+      },
+      {
+        "text": "Salt bridge",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrolyte",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a galvanic cell, the electrode at which reduction occurs is called the cathode.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is the standard electrode potential for the reduction of $\\text{H}^+$ to $\\text{H}_2$?",
+    "options": [
+      {
+        "text": "0.00 V",
+        "isCorrect": true
+      },
+      {
+        "text": "1.00 V",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.44 V",
+        "isCorrect": false
+      },
+      {
+        "text": "0.76 V",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard electrode potential for the reduction of $\\text{H}^+$ to $\\text{H}_2$ is 0.00 V.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which of the following reactions occurs at the cathode in a galvanic cell?",
+    "options": [
+      {
+        "text": "Reduction",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither reduction nor oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Both reduction and oxidation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a galvanic cell, reduction occurs at the cathode.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "In an electrolytic cell, which electrode is the cathode?",
+    "options": [
+      {
+        "text": "The electrode where reduction occurs",
+        "isCorrect": true
+      },
+      {
+        "text": "The electrode where oxidation occurs",
+        "isCorrect": false
+      },
+      {
+        "text": "The electrode with higher potential",
+        "isCorrect": false
+      },
+      {
+        "text": "The electrode with lower potential",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an electrolytic cell, the cathode is the electrode where reduction occurs.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "What is the main purpose of the salt bridge in a galvanic cell?",
+    "options": [
+      {
+        "text": "To maintain electrical neutrality in the solutions",
+        "isCorrect": true
+      },
+      {
+        "text": "To allow electrons to flow between electrodes",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide a surface for oxidation reactions",
+        "isCorrect": false
+      },
+      {
+        "text": "To separate the anode and cathode",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main purpose of the salt bridge is to maintain electrical neutrality by allowing the flow of ions.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which electrode is positively charged in a galvanic cell?",
+    "options": [
+      {
+        "text": "Cathode",
+        "isCorrect": true
+      },
+      {
+        "text": "Anode",
+        "isCorrect": false
+      },
+      {
+        "text": "Salt bridge",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrolyte",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a galvanic cell, the cathode is positively charged.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "In an electrolytic cell, which electrode is the anode?",
+    "options": [
+      {
+        "text": "The electrode where oxidation occurs",
+        "isCorrect": true
+      },
+      {
+        "text": "The electrode where reduction occurs",
+        "isCorrect": false
+      },
+      {
+        "text": "The electrode with higher potential",
+        "isCorrect": false
+      },
+      {
+        "text": "The electrode with lower potential",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an electrolytic cell, the anode is the electrode where oxidation occurs.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following describes the function of the anode in a galvanic cell?",
+    "options": [
+      {
+        "text": "It is where oxidation occurs",
+        "isCorrect": true
+      },
+      {
+        "text": "It is where reduction occurs",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the positively charged electrode",
+        "isCorrect": false
+      },
+      {
+        "text": "It is where the salt bridge is connected",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a galvanic cell, the anode is where oxidation occurs.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "What is the standard cell potential of a galvanic cell made of copper and zinc electrodes?",
+    "options": [
+      {
+        "text": "1.10 V",
+        "isCorrect": true
+      },
+      {
+        "text": "0.76 V",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.34 V",
+        "isCorrect": false
+      },
+      {
+        "text": "0.00 V",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard cell potential of a galvanic cell made of copper and zinc electrodes is 1.10 V.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 12,
+    "questionText": "In a galvanic cell, the flow of electrons is from:",
+    "options": [
+      {
+        "text": "Anode to cathode",
+        "isCorrect": true
+      },
+      {
+        "text": "Cathode to anode",
+        "isCorrect": false
+      },
+      {
+        "text": "Salt bridge to electrolyte",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrolyte to salt bridge",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a galvanic cell, electrons flow from the anode to the cathode.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "What is the purpose of a salt bridge in a galvanic cell?",
+    "options": [
+      {
+        "text": "To maintain electrical neutrality by allowing the flow of ions",
+        "isCorrect": true
+      },
+      {
+        "text": "To allow electrons to flow between the electrodes",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide a surface for the redox reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "To separate the oxidation and reduction half-cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The salt bridge allows ions to flow between the half-cells to maintain electrical neutrality.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "In an electrolytic cell, which process occurs at the anode?",
+    "options": [
+      {
+        "text": "Oxidation",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Both oxidation and reduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither oxidation nor reduction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an electrolytic cell, oxidation occurs at the anode.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 15,
+    "questionText": "Which of the following best describes the cathode in an electrolytic cell?",
+    "options": [
+      {
+        "text": "It is where reduction occurs",
+        "isCorrect": true
+      },
+      {
+        "text": "It is where oxidation occurs",
+        "isCorrect": false
+      },
+      {
+        "text": "It is positively charged",
+        "isCorrect": false
+      },
+      {
+        "text": "It is connected to the negative terminal of the power source",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an electrolytic cell, the cathode is where reduction occurs.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "In a galvanic cell, which of the following reactions occurs at the cathode?",
+    "options": [
+      {
+        "text": "Reduction",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither reduction nor oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Both reduction and oxidation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a galvanic cell, reduction occurs at the cathode.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "What is the standard reduction potential for the reduction of zinc ions ($\\text{Zn}^{2+}$) to zinc metal ($\\text{Zn}$)?",
+    "options": [
+      {
+        "text": "-0.76 V",
+        "isCorrect": true
+      },
+      {
+        "text": "0.34 V",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.44 V",
+        "isCorrect": false
+      },
+      {
+        "text": "0.00 V",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard reduction potential for the reduction of $\\text{Zn}^{2+}$ to $\\text{Zn}$ is -0.76 V.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "What is the standard electrode potential for the reduction of hydrogen ions ($\\text{H}^+$) to hydrogen gas ($\\text{H}_2$)?",
+    "options": [
+      {
+        "text": "0.00 V",
+        "isCorrect": true
+      },
+      {
+        "text": "1.00 V",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.44 V",
+        "isCorrect": false
+      },
+      {
+        "text": "0.76 V",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard electrode potential for the reduction of $\\text{H}^+$ to $\\text{H}_2$ is 0.00 V.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "In a galvanic cell, which of the following reactions occurs at the anode?",
+    "options": [
+      {
+        "text": "Oxidation",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither reduction nor oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Both reduction and oxidation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a galvanic cell, oxidation occurs at the anode.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 22,
+    "questionText": "What is the standard reduction potential for the reduction of copper ions ($\\text{Cu}^{2+}$) to copper metal ($\\text{Cu}$)?",
+    "options": [
+      {
+        "text": "0.34 V",
+        "isCorrect": true
+      },
+      {
+        "text": "-0.76 V",
+        "isCorrect": false
+      },
+      {
+        "text": "0.00 V",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.44 V",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard reduction potential for the reduction of $\\text{Cu}^{2+}$ to $\\text{Cu}$ is 0.34 V.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 24,
+    "questionText": "What is the function of a salt bridge in a galvanic cell?",
+    "options": [
+      {
+        "text": "To maintain electrical neutrality by allowing the flow of ions",
+        "isCorrect": true
+      },
+      {
+        "text": "To allow electrons to flow between the electrodes",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide a surface for the redox reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "To separate the oxidation and reduction half-cells",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The salt bridge allows ions to flow between the half-cells to maintain electrical neutrality.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "In an electrolytic cell, which of the following reactions occurs at the anode?",
+    "options": [
+      {
+        "text": "Oxidation",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither reduction nor oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Both reduction and oxidation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an electrolytic cell, oxidation occurs at the anode.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which of the following describes the function of the cathode in a galvanic cell?",
+    "options": [
+      {
+        "text": "It is where reduction occurs",
+        "isCorrect": true
+      },
+      {
+        "text": "It is where oxidation occurs",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the positively charged electrode",
+        "isCorrect": false
+      },
+      {
+        "text": "It is where the salt bridge is connected",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a galvanic cell, the cathode is where reduction occurs.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "What is the standard reduction potential for the reduction of silver ions ($\\text{Ag}^+$) to silver metal ($\\text{Ag}$)?",
+    "options": [
+      {
+        "text": "0.80 V",
+        "isCorrect": true
+      },
+      {
+        "text": "0.34 V",
+        "isCorrect": false
+      },
+      {
+        "text": "0.00 V",
+        "isCorrect": false
+      },
+      {
+        "text": "1.10 V",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard reduction potential for the reduction of $\\text{Ag}^+$ to $\\text{Ag}$ is 0.80 V.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "HARD"
+  },
+  {
+    "qno": 28,
+    "questionText": "In a galvanic cell, which of the following describes the anode?",
+    "options": [
+      {
+        "text": "It is where oxidation occurs",
+        "isCorrect": true
+      },
+      {
+        "text": "It is where reduction occurs",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the positively charged electrode",
+        "isCorrect": false
+      },
+      {
+        "text": "It is where the salt bridge is connected",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a galvanic cell, the anode is where oxidation occurs.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "In an electrolytic cell, which electrode is positively charged?",
+    "options": [
+      {
+        "text": "Anode",
+        "isCorrect": true
+      },
+      {
+        "text": "Cathode",
+        "isCorrect": false
+      },
+      {
+        "text": "Salt bridge",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrolyte",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an electrolytic cell, the anode is positively charged.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "EASY"
+  },
+  {
+    "qno": 30,
+    "questionText": "What is the standard reduction potential for the reduction of hydrogen ions ($\\text{H}^+$) to hydrogen gas ($\\text{H}_2$)?",
+    "options": [
+      {
+        "text": "0.00 V",
+        "isCorrect": true
+      },
+      {
+        "text": "1.00 V",
+        "isCorrect": false
+      },
+      {
+        "text": "-0.44 V",
+        "isCorrect": false
+      },
+      {
+        "text": "0.76 V",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard reduction potential for the reduction of $\\text{H}^+$ to $\\text{H}_2$ is 0.00 V.",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions and Electrode Processes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is the standard enthalpy change for the formation of one mole of a compound from its elements in their standard states called?",
+    "options": [
+      {
+        "text": "Standard enthalpy of formation",
+        "isCorrect": true
+      },
+      {
+        "text": "Standard enthalpy of combustion",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard enthalpy of neutralization",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard enthalpy of reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard enthalpy change for the formation of one mole of a compound from its elements in their standard states is called the standard enthalpy of formation.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpies for Different Types of Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which of the following is true for an exothermic reaction?",
+    "options": [
+      {
+        "text": "Heat is released",
+        "isCorrect": true
+      },
+      {
+        "text": "Heat is absorbed",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no heat exchange",
+        "isCorrect": false
+      },
+      {
+        "text": "The enthalpy change is positive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an exothermic reaction, heat is released and the enthalpy change is negative.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpies for Different Types of Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "What is the standard enthalpy change for the combustion of one mole of a substance in excess oxygen?",
+    "options": [
+      {
+        "text": "Standard enthalpy of combustion",
+        "isCorrect": true
+      },
+      {
+        "text": "Standard enthalpy of formation",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard enthalpy of neutralization",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard enthalpy of reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard enthalpy change for the combustion of one mole of a substance in excess oxygen is called the standard enthalpy of combustion.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpies for Different Types of Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "Which of the following reactions is typically exothermic?",
+    "options": [
+      {
+        "text": "Combustion of methane",
+        "isCorrect": true
+      },
+      {
+        "text": "Melting of ice",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaporation of water",
+        "isCorrect": false
+      },
+      {
+        "text": "Photosynthesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The combustion of methane is an exothermic reaction as it releases heat.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpies for Different Types of Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "What is the enthalpy change when one mole of water is formed from its ions in dilute solution?",
+    "options": [
+      {
+        "text": "Standard enthalpy of neutralization",
+        "isCorrect": true
+      },
+      {
+        "text": "Standard enthalpy of formation",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard enthalpy of combustion",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard enthalpy of reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The enthalpy change when one mole of water is formed from its ions in dilute solution is called the standard enthalpy of neutralization.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpies for Different Types of Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which of the following processes is endothermic?",
+    "options": [
+      {
+        "text": "Evaporation of water",
+        "isCorrect": true
+      },
+      {
+        "text": "Combustion of methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Freezing of water",
+        "isCorrect": false
+      },
+      {
+        "text": "Condensation of steam",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The evaporation of water is an endothermic process as it requires heat to convert liquid water into vapor.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpies for Different Types of Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "What is the enthalpy change for the reaction when one mole of a compound is formed from its constituent elements?",
+    "options": [
+      {
+        "text": "Standard enthalpy of formation",
+        "isCorrect": true
+      },
+      {
+        "text": "Standard enthalpy of combustion",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard enthalpy of neutralization",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard enthalpy of reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The enthalpy change for the reaction when one mole of a compound is formed from its constituent elements is called the standard enthalpy of formation.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpies for Different Types of Reactions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "Which of the following reactions has a positive enthalpy change?",
+    "options": [
+      {
+        "text": "Melting of ice",
+        "isCorrect": true
+      },
+      {
+        "text": "Combustion of methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Condensation of steam",
+        "isCorrect": false
+      },
+      {
+        "text": "Freezing of water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The melting of ice is an endothermic process with a positive enthalpy change as it requires heat to convert solid ice into liquid water.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpies for Different Types of Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "What is the standard enthalpy change for the formation of one mole of a compound from its elements in their standard states?",
+    "options": [
+      {
+        "text": "Standard enthalpy of formation",
+        "isCorrect": true
+      },
+      {
+        "text": "Standard enthalpy of combustion",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard enthalpy of neutralization",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard enthalpy of reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard enthalpy change for the formation of one mole of a compound from its elements in their standard states is called the standard enthalpy of formation.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpies for Different Types of Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is the criterion for spontaneity in terms of Gibbs free energy?",
+    "options": [
+      {
+        "text": "ΔG < 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≥ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A process is spontaneous if the change in Gibbs free energy (ΔG) is less than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which of the following statements is true for a spontaneous process?",
+    "options": [
+      {
+        "text": "It can occur without any external influence",
+        "isCorrect": true
+      },
+      {
+        "text": "It always releases energy",
+        "isCorrect": false
+      },
+      {
+        "text": "It requires continuous input of energy",
+        "isCorrect": false
+      },
+      {
+        "text": "It always absorbs energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A spontaneous process is one that occurs without any external influence.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which of the following conditions must be met for a reaction to be spontaneous at constant temperature and pressure?",
+    "options": [
+      {
+        "text": "ΔG < 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔS < 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction to be spontaneous at constant temperature and pressure, the Gibbs free energy change (ΔG) must be less than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "What does a negative value of ΔG indicate about a reaction?",
+    "options": [
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is exothermic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A negative value of ΔG indicates that the reaction is spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "If ΔH is positive and ΔS is negative, what can be said about the spontaneity of the reaction?",
+    "options": [
+      {
+        "text": "The reaction is non-spontaneous at all temperatures",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is spontaneous at all temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is spontaneous at high temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is spontaneous at low temperatures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If ΔH is positive and ΔS is negative, the reaction is non-spontaneous at all temperatures.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which of the following reactions is spontaneous at room temperature?",
+    "options": [
+      {
+        "text": "Combustion of methane",
+        "isCorrect": true
+      },
+      {
+        "text": "Decomposition of water into hydrogen and oxygen",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of rust",
+        "isCorrect": false
+      },
+      {
+        "text": "Synthesis of ammonia from nitrogen and hydrogen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The combustion of methane is a spontaneous reaction at room temperature.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which of the following processes is non-spontaneous?",
+    "options": [
+      {
+        "text": "Melting of ice at -10°C",
+        "isCorrect": true
+      },
+      {
+        "text": "Evaporation of water at 25°C",
+        "isCorrect": false
+      },
+      {
+        "text": "Combustion of propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Dissolution of salt in water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The melting of ice at -10°C is a non-spontaneous process.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "What is the relationship between Gibbs free energy (ΔG), enthalpy (ΔH), and entropy (ΔS)?",
+    "options": [
+      {
+        "text": "ΔG = ΔH - TΔS",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG = ΔH + TΔS",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = TΔS - ΔH",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = ΔH - TΔS + ΔU",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The relationship between Gibbs free energy (ΔG), enthalpy (ΔH), and entropy (ΔS) is given by ΔG = ΔH - TΔS.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "If ΔH is negative and ΔS is positive, what can be said about the spontaneity of the reaction?",
+    "options": [
+      {
+        "text": "The reaction is spontaneous at all temperatures",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is non-spontaneous at all temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is spontaneous at high temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is spontaneous at low temperatures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If ΔH is negative and ΔS is positive, the reaction is spontaneous at all temperatures.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "What does it mean if ΔG is zero for a reaction?",
+    "options": [
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction releases energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If ΔG is zero for a reaction, it means the reaction is at equilibrium.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which of the following is a criterion for spontaneity in terms of entropy?",
+    "options": [
+      {
+        "text": "ΔS > 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔS < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔS = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔS ≥ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A process is spontaneous if the change in entropy (ΔS) is greater than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "For a reaction to be spontaneous at low temperatures, which of the following conditions must be met?",
+    "options": [
+      {
+        "text": "ΔH < 0 and ΔS < 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔH > 0 and ΔS > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH < 0 and ΔS > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH > 0 and ΔS < 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction to be spontaneous at low temperatures, ΔH must be less than zero and ΔS must be less than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 13,
+    "questionText": "Which of the following conditions favors spontaneity at high temperatures?",
+    "options": [
+      {
+        "text": "ΔH > 0 and ΔS > 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔH < 0 and ΔS < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH < 0 and ΔS > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH > 0 and ΔS < 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction to be spontaneous at high temperatures, ΔH must be greater than zero and ΔS must be greater than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "Which of the following is true for a non-spontaneous process?",
+    "options": [
+      {
+        "text": "It requires continuous input of energy",
+        "isCorrect": true
+      },
+      {
+        "text": "It occurs without any external influence",
+        "isCorrect": false
+      },
+      {
+        "text": "It always releases energy",
+        "isCorrect": false
+      },
+      {
+        "text": "It always absorbs energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A non-spontaneous process requires continuous input of energy to occur.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 15,
+    "questionText": "What happens to the spontaneity of a reaction if ΔH is negative and ΔS is negative?",
+    "options": [
+      {
+        "text": "The reaction is spontaneous at low temperatures",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is spontaneous at high temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is non-spontaneous at all temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is spontaneous at all temperatures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If ΔH is negative and ΔS is negative, the reaction is spontaneous at low temperatures.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 16,
+    "questionText": "What is the sign of ΔG for a process that is non-spontaneous?",
+    "options": [
+      {
+        "text": "ΔG > 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≤ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a process that is non-spontaneous, ΔG is greater than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "Which of the following statements is true about the spontaneity of an endothermic reaction?",
+    "options": [
+      {
+        "text": "It can be spontaneous if ΔS is positive",
+        "isCorrect": true
+      },
+      {
+        "text": "It is always non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "It is always spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "It can be spontaneous if ΔS is negative",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An endothermic reaction can be spontaneous if the change in entropy (ΔS) is positive.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "For a reaction where ΔH is positive and ΔS is positive, at what temperatures is the reaction spontaneous?",
+    "options": [
+      {
+        "text": "High temperatures",
+        "isCorrect": true
+      },
+      {
+        "text": "Low temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "All temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "No temperatures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction where ΔH is positive and ΔS is positive, the reaction is spontaneous at high temperatures.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 19,
+    "questionText": "What is the condition for spontaneity when ΔH is negative and ΔS is positive?",
+    "options": [
+      {
+        "text": "The reaction is spontaneous at all temperatures",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is non-spontaneous at all temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is spontaneous at high temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is spontaneous at low temperatures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When ΔH is negative and ΔS is positive, the reaction is spontaneous at all temperatures.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 20,
+    "questionText": "Which of the following is a necessary condition for a reaction to be spontaneous?",
+    "options": [
+      {
+        "text": "ΔG < 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔS < 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction to be spontaneous, the change in Gibbs free energy (ΔG) must be less than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 21,
+    "questionText": "What is the effect of temperature on the spontaneity of a reaction where ΔH is positive and ΔS is positive?",
+    "options": [
+      {
+        "text": "The reaction becomes more spontaneous at higher temperatures",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction becomes less spontaneous at higher temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction becomes non-spontaneous at higher temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature has no effect on the spontaneity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction where ΔH is positive and ΔS is positive, the reaction becomes more spontaneous at higher temperatures.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 1,
+    "questionText": "What is the relationship between Gibbs free energy change (ΔG) and the equilibrium constant (K)?",
+    "options": [
+      {
+        "text": "ΔG = -RT ln K",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG = RT ln K",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = -K ln RT",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = K ln RT",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The relationship between Gibbs free energy change (ΔG) and the equilibrium constant (K) is given by ΔG = -RT ln K.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which of the following is true when a reaction is at equilibrium?",
+    "options": [
+      {
+        "text": "ΔG = 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≠ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a reaction is at equilibrium, ΔG is equal to zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "For a reaction with a large equilibrium constant (K >> 1), what can be said about ΔG°?",
+    "options": [
+      {
+        "text": "ΔG° is large and negative",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG° is large and positive",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° is small and positive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction with a large equilibrium constant (K >> 1), ΔG° is large and negative.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "What is the value of ΔG for a non-spontaneous reaction?",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": true
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Depends on the reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a non-spontaneous reaction, ΔG is positive.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "What does it mean if ΔG° is negative for a reaction?",
+    "options": [
+      {
+        "text": "The reaction is spontaneous under standard conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is non-spontaneous under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has no tendency to occur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If ΔG° is negative for a reaction, it means the reaction is spontaneous under standard conditions.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which of the following indicates a reaction that is at equilibrium?",
+    "options": [
+      {
+        "text": "ΔG = 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≠ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction that is at equilibrium has a Gibbs free energy change (ΔG) equal to zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "What is the significance of the Gibbs free energy change (ΔG) in a chemical reaction?",
+    "options": [
+      {
+        "text": "It predicts the spontaneity of the reaction",
+        "isCorrect": true
+      },
+      {
+        "text": "It indicates the rate of the reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the equilibrium position",
+        "isCorrect": false
+      },
+      {
+        "text": "It measures the heat released or absorbed",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Gibbs free energy change (ΔG) predicts the spontaneity of a chemical reaction.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 8,
+    "questionText": "For a reaction to be spontaneous, what must be true about the Gibbs free energy change (ΔG)?",
+    "options": [
+      {
+        "text": "ΔG must be negative",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG must be positive",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG must be zero",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG must be greater than zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction to be spontaneous, the Gibbs free energy change (ΔG) must be negative.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "What is the relationship between ΔG and the equilibrium constant (K) at standard conditions?",
+    "options": [
+      {
+        "text": "ΔG = -RT ln K",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG = RT lnK",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = -K ln RT",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = K ln RT",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The relationship between ΔG and the equilibrium constant (K) at standard conditions is given by ΔG = -RT ln K.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which of the following is true for a reaction at equilibrium?",
+    "options": [
+      {
+        "text": "ΔG = 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≠ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction at equilibrium, ΔG is equal to zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "If a reaction has a large equilibrium constant, what can be inferred about ΔG°?",
+    "options": [
+      {
+        "text": "ΔG° is large and negative",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG° is large and positive",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° is small and positive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If a reaction has a large equilibrium constant, ΔG° is large and negative.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "What does a positive ΔG indicate about a reaction?",
+    "options": [
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction releases energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A positive ΔG indicates that the reaction is non-spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "If ΔG° is negative, what does it suggest about the reaction?",
+    "options": [
+      {
+        "text": "The reaction is spontaneous under standard conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is non-spontaneous under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has no tendency to occur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If ΔG° is negative, it suggests that the reaction is spontaneous under standard conditions.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 14,
+    "questionText": "What is the condition for a reaction to be at equilibrium in terms of Gibbs free energy?",
+    "options": [
+      {
+        "text": "ΔG = 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≠ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The condition for a reaction to be at equilibrium is that ΔG is equal to zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 15,
+    "questionText": "For a reaction to be spontaneous, what must be true about ΔG?",
+    "options": [
+      {
+        "text": "ΔG < 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≠ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction to be spontaneous, ΔG must be less than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 16,
+    "questionText": "What does it mean if a reaction has a Gibbs free energy change (ΔG) of zero?",
+    "options": [
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction releases energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If a reaction has a Gibbs free energy change (ΔG) of zero, it means the reaction is at equilibrium.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "What does a negative value of ΔG° indicate about the reaction?",
+    "options": [
+      {
+        "text": "The reaction is spontaneous under standard conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is non-spontaneous under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has no tendency to occur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A negative value of ΔG° indicates that the reaction is spontaneous under standard conditions.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "What can be inferred if the equilibrium constant (K) is very small (K << 1)?",
+    "options": [
+      {
+        "text": "ΔG° is large and positive",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG° is large and negative",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° is small and positive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the equilibrium constant (K) is very small (K << 1), ΔG° is large and positive.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which of the following is true for a reaction with ΔG° > 0?",
+    "options": [
+      {
+        "text": "The reaction is non-spontaneous under standard conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is spontaneous under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has no tendency to occur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction with ΔG° > 0 is non-spontaneous under standard conditions.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "What is the relationship between ΔG and the reaction quotient (Q) at any point during the reaction?",
+    "options": [
+      {
+        "text": "ΔG = ΔG° + RT ln Q",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG = ΔG° - RT ln Q",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = -ΔG° + RT ln Q",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = ΔG° - Q ln RT",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The relationship between ΔG and the reaction quotient (Q) at any point during the reaction is given by ΔG = ΔG° + RT ln Q.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 21,
+    "questionText": "If ΔG° for a reaction is negative, what can be said about the equilibrium constant (K)?",
+    "options": [
+      {
+        "text": "K > 1",
+        "isCorrect": true
+      },
+      {
+        "text": "K < 1",
+        "isCorrect": false
+      },
+      {
+        "text": "K = 1",
+        "isCorrect": false
+      },
+      {
+        "text": "K = 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If ΔG° for a reaction is negative, the equilibrium constant (K) is greater than 1.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "What is the effect of increasing temperature on the equilibrium position of an exothermic reaction?",
+    "options": [
+      {
+        "text": "Shifts towards the reactants",
+        "isCorrect": true
+      },
+      {
+        "text": "Shifts towards the products",
+        "isCorrect": false
+      },
+      {
+        "text": "No effect",
+        "isCorrect": false
+      },
+      {
+        "text": "Shifts to equilibrium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the temperature of an exothermic reaction shifts the equilibrium position towards the reactants.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 23,
+    "questionText": "What is the value of ΔG for a reaction at equilibrium?",
+    "options": [
+      {
+        "text": "ΔG = 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≠ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value of ΔG for a reaction at equilibrium is zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which of the following best describes the relationship between ΔG° and K?",
+    "options": [
+      {
+        "text": "ΔG° = -RT ln K",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG° = RT ln K",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° = K ln RT",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° = -K ln RT",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The relationship between ΔG° and K is given by ΔG° = -RT ln K.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "If ΔG° for a reaction is positive, what can be said about the spontaneity of the reaction under standard conditions?",
+    "options": [
+      {
+        "text": "The reaction is non-spontaneous under standard conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is spontaneous under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has no tendency to occur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If ΔG° for a reaction is positive, the reaction is non-spontaneous under standard conditions.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "What is the significance of ΔG = ΔG° + RT ln Q in a chemical reaction?",
+    "options": [
+      {
+        "text": "It relates the Gibbs free energy change to the reaction quotient",
+        "isCorrect": true
+      },
+      {
+        "text": "It determines the equilibrium constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It measures the heat released or absorbed",
+        "isCorrect": false
+      },
+      {
+        "text": "It indicates the rate of the reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equation ΔG = ΔG° + RT ln Q relates the Gibbs free energy change to the reaction quotient.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "For a reaction with ΔG° > 0, which of the following is true about the equilibrium constant (K)?",
+    "options": [
+      {
+        "text": "K < 1",
+        "isCorrect": true
+      },
+      {
+        "text": "K > 1",
+        "isCorrect": false
+      },
+      {
+        "text": "K = 1",
+        "isCorrect": false
+      },
+      {
+        "text": "K = 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction with ΔG° > 0, the equilibrium constant (K) is less than 1.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which of the following statements is true about a reaction with ΔG = 0?",
+    "options": [
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction releases energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction with ΔG = 0 is at equilibrium.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 29,
+    "questionText": "What can be inferred if the equilibrium constant (K) is very large (K >> 1)?",
+    "options": [
+      {
+        "text": "ΔG° is large and negative",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG° is large and positive",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° is small and positive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the equilibrium constant (K) is very large (K >> 1), ΔG° is large and negative.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 30,
+    "questionText": "What does it mean if ΔG° is zero for a reaction?",
+    "options": [
+      {
+        "text": "The reaction is at equilibrium under standard conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is spontaneous under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is non-spontaneous under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has no tendency to occur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If ΔG° is zero for a reaction, it means the reaction is at equilibrium under standard conditions.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 31,
+    "questionText": "Which of the following conditions is necessary for a reaction to be spontaneous?",
+    "options": [
+      {
+        "text": "ΔG < 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≠ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction to be spontaneous, ΔG must be less than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 32,
+    "questionText": "What is the effect of decreasing temperature on the equilibrium position of an exothermic reaction?",
+    "options": [
+      {
+        "text": "Shifts towards the products",
+        "isCorrect": true
+      },
+      {
+        "text": "Shifts towards the reactants",
+        "isCorrect": false
+      },
+      {
+        "text": "No effect",
+        "isCorrect": false
+      },
+      {
+        "text": "Shifts to equilibrium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Decreasing the temperature of an exothermic reaction shifts the equilibrium position towards the products.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 33,
+    "questionText": "What is the relationship between ΔG and the equilibrium constant (K) at equilibrium?",
+    "options": [
+      {
+        "text": "ΔG = 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≠ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, ΔG is equal to zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 34,
+    "questionText": "What is the effect of adding a catalyst on the equilibrium position of a reaction?",
+    "options": [
+      {
+        "text": "No effect on equilibrium position",
+        "isCorrect": true
+      },
+      {
+        "text": "Shifts towards the products",
+        "isCorrect": false
+      },
+      {
+        "text": "Shifts towards the reactants",
+        "isCorrect": false
+      },
+      {
+        "text": "Increases the equilibrium constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adding a catalyst has no effect on the equilibrium position of a reaction; it only speeds up the rate at which equilibrium is achieved.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 35,
+    "questionText": "For a reaction with ΔG° < 0, what can be said about the spontaneity of the reaction under standard conditions?",
+    "options": [
+      {
+        "text": "The reaction is spontaneous under standard conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is non-spontaneous under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has no tendency to occur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction with ΔG° < 0, the reaction is spontaneous under standard conditions.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 36,
+    "questionText": "What happens to ΔG as a reaction proceeds towards equilibrium?",
+    "options": [
+      {
+        "text": "ΔG approaches zero",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG becomes more negative",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG becomes more positive",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG remains constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As a reaction proceeds towards equilibrium, ΔG approaches zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 37,
+    "questionText": "What does a very small equilibrium constant (K << 1) indicate about the reaction?",
+    "options": [
+      {
+        "text": "The reaction favors the reactants",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction favors the products",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has equal amounts of reactants and products",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A very small equilibrium constant (K << 1) indicates that the reaction favors the reactants.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 38,
+    "questionText": "If ΔG is negative for a reaction, what can be inferred about the reaction?",
+    "options": [
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction releases energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If ΔG is negative, the reaction is spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 39,
+    "questionText": "What is the effect of a decrease in temperature on the equilibrium position of an endothermic reaction?",
+    "options": [
+      {
+        "text": "Shifts towards the reactants",
+        "isCorrect": true
+      },
+      {
+        "text": "Shifts towards the products",
+        "isCorrect": false
+      },
+      {
+        "text": "No effect",
+        "isCorrect": false
+      },
+      {
+        "text": "Shifts to equilibrium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A decrease in temperature shifts the equilibrium position of an endothermic reaction towards the reactants.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 40,
+    "questionText": "What is the value of ΔG for a reaction that is not at equilibrium?",
+    "options": [
+      {
+        "text": "ΔG ≠ 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction that is not at equilibrium, ΔG is not equal to zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 41,
+    "questionText": "What does it mean if the reaction quotient (Q) is equal to the equilibrium constant (K)?",
+    "options": [
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction releases energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the reaction quotient (Q) is equal to the equilibrium constant (K), the reaction is at equilibrium.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 42,
+    "questionText": "Which of the following best describes the relationship between ΔG, ΔG°, and Q?",
+    "options": [
+      {
+        "text": "ΔG = ΔG° + RT ln Q",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG = ΔG° - RT ln Q",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = -ΔG° + RT ln Q",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = ΔG° - Q ln RT",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The relationship between ΔG, ΔG°, and Q is given by ΔG = ΔG° + RT ln Q.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 43,
+    "questionText": "What is the effect of increasing pressure on the equilibrium position of a reaction involving gases?",
+    "options": [
+      {
+        "text": "Shifts towards the side with fewer moles of gas",
+        "isCorrect": true
+      },
+      {
+        "text": "Shifts towards the side with more moles of gas",
+        "isCorrect": false
+      },
+      {
+        "text": "No effect",
+        "isCorrect": false
+      },
+      {
+        "text": "Shifts to equilibrium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing pressure shifts the equilibrium position of a reaction involving gases towards the side with fewer moles of gas.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 44,
+    "questionText": "What does it mean if ΔG° for a reaction is zero?",
+    "options": [
+      {
+        "text": "The reaction is at equilibrium under standard conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is spontaneous under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is non-spontaneous under standard conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has no tendency to occur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If ΔG° for a reaction is zero, it means the reaction is at equilibrium under standard conditions.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 45,
+    "questionText": "What is the effect of a decrease in pressure on the equilibrium position of a reaction involving gases?",
+    "options": [
+      {
+        "text": "Shifts towards the side with more moles of gas",
+        "isCorrect": true
+      },
+      {
+        "text": "Shifts towards the side with fewer moles of gas",
+        "isCorrect": false
+      },
+      {
+        "text": "No effect",
+        "isCorrect": false
+      },
+      {
+        "text": "Shifts to equilibrium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A decrease in pressure shifts the equilibrium position of a reaction involving gases towards the side with more moles of gas.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 46,
+    "questionText": "What is the value of ΔG° when the equilibrium constant (K) is equal to 1?",
+    "options": [
+      {
+        "text": "ΔG° = 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG° > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° ≠ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When the equilibrium constant (K) is equal to 1, ΔG° is equal to zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 47,
+    "questionText": "Which of the following statements is true for a reaction with a very large equilibrium constant (K >> 1)?",
+    "options": [
+      {
+        "text": "The reaction favors the products",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction favors the reactants",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has equal amounts of reactants and products",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A very large equilibrium constant (K >> 1) indicates that the reaction favors the products.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 48,
+    "questionText": "What is the relationship between ΔG and the equilibrium constant (K) when a reaction is at equilibrium?",
+    "options": [
+      {
+        "text": "ΔG = 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≠ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a reaction is at equilibrium, ΔG is equal to zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 49,
+    "questionText": "What does a positive value of ΔG° indicate about the equilibrium position of a reaction?",
+    "options": [
+      {
+        "text": "The reaction favors the reactants",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction favors the products",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction has no tendency to occur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A positive value of ΔG° indicates that the reaction favors the reactants.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 50,
+    "questionText": "Which of the following conditions must be true for a reaction to be non-spontaneous?",
+    "options": [
+      {
+        "text": "ΔG > 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≠ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction to be non-spontaneous, ΔG must be greater than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  }
+]

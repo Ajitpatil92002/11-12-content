@@ -1,0 +1,4500 @@
+[
+  {
+    "qno": "1",
+    "questionText": "What distinguishes fluids from solids?",
+    "options": [
+      {
+        "text": "Fluids have a definite shape",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluids can flow and have no definite shape",
+        "isCorrect": true
+      },
+      {
+        "text": "Fluids are incompressible",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluids have high resistance to shear stress",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluids can flow and have no definite shape, distinguishing them from solids.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "What percentage of Earth's surface is covered with water?",
+    "options": [
+      {
+        "text": "50%",
+        "isCorrect": false
+      },
+      {
+        "text": "60%",
+        "isCorrect": false
+      },
+      {
+        "text": "70%",
+        "isCorrect": true
+      },
+      {
+        "text": "80%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "About 70% of Earth's surface is covered with water.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "Which of the following is true about fluids?",
+    "options": [
+      {
+        "text": "They have a fixed volume and shape",
+        "isCorrect": false
+      },
+      {
+        "text": "They have a fixed volume but no definite shape",
+        "isCorrect": true
+      },
+      {
+        "text": "They have no fixed volume but a definite shape",
+        "isCorrect": false
+      },
+      {
+        "text": "They are highly compressible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluids have a fixed volume but no definite shape.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "4",
+    "questionText": "What is the approximate shear stress of fluids compared to solids?",
+    "options": [
+      {
+        "text": "Equal",
+        "isCorrect": false
+      },
+      {
+        "text": "Ten times smaller",
+        "isCorrect": false
+      },
+      {
+        "text": "A hundred times smaller",
+        "isCorrect": false
+      },
+      {
+        "text": "A million times smaller",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The shearing stress of fluids is about a million times smaller than that of solids.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "5",
+    "questionText": "Which property of fluids makes them important for processes in living beings?",
+    "options": [
+      {
+        "text": "High compressibility",
+        "isCorrect": false
+      },
+      {
+        "text": "Ability to flow",
+        "isCorrect": true
+      },
+      {
+        "text": "Definite shape",
+        "isCorrect": false
+      },
+      {
+        "text": "Resistance to shear stress",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ability to flow makes fluids important for processes in living beings.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "How does the volume of solids, liquids, and gases depend on stress or pressure acting on them?",
+    "options": [
+      {
+        "text": "Volume of solids and liquids changes significantly",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume of gases changes significantly",
+        "isCorrect": true
+      },
+      {
+        "text": "Volume of solids and gases changes significantly",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume of liquids and gases changes significantly",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The volume of gases changes significantly with stress or pressure.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "7",
+    "questionText": "What is the main reason that fluids can flow?",
+    "options": [
+      {
+        "text": "High compressibility",
+        "isCorrect": false
+      },
+      {
+        "text": "Low resistance to shear stress",
+        "isCorrect": true
+      },
+      {
+        "text": "High density",
+        "isCorrect": false
+      },
+      {
+        "text": "Definite shape",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluids can flow because they offer very little resistance to shear stress.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "Which of the following is NOT a property of fluids?",
+    "options": [
+      {
+        "text": "Ability to flow",
+        "isCorrect": false
+      },
+      {
+        "text": "No definite shape",
+        "isCorrect": false
+      },
+      {
+        "text": "Fixed volume",
+        "isCorrect": false
+      },
+      {
+        "text": "High resistance to shear stress",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Fluids do not have high resistance to shear stress.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "9",
+    "questionText": "Why is it important to understand the behavior and properties of fluids?",
+    "options": [
+      {
+        "text": "Fluids have high compressibility",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluids are not present in the human body",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluids mediate many processes in living beings",
+        "isCorrect": true
+      },
+      {
+        "text": "Fluids do not affect the environment",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Understanding the behavior and properties of fluids is important because fluids mediate many processes in living beings.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "10",
+    "questionText": "Which property of fluids makes them different from solids?",
+    "options": [
+      {
+        "text": "High resistance to shear stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Fixed volume and shape",
+        "isCorrect": false
+      },
+      {
+        "text": "Ability to flow and change shape",
+        "isCorrect": true
+      },
+      {
+        "text": "High density",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ability to flow and change shape distinguishes fluids from solids.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the compressibility of solids and liquids compared to gases?",
+    "options": [
+      {
+        "text": "Much higher",
+        "isCorrect": false
+      },
+      {
+        "text": "Much lower",
+        "isCorrect": true
+      },
+      {
+        "text": "Equal",
+        "isCorrect": false
+      },
+      {
+        "text": "Variable",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Solids and liquids have much lower compressibility compared to gases.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "Which of the following statements about fluids is incorrect?",
+    "options": [
+      {
+        "text": "Fluids can flow",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluids have no definite shape",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluids have a fixed volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluids have high resistance to shear stress",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Fluids do not have high resistance to shear stress; they offer very little resistance.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "What fraction of the Earth's surface is covered with water?",
+    "options": [
+      {
+        "text": "One-third",
+        "isCorrect": false
+      },
+      {
+        "text": "Two-thirds",
+        "isCorrect": true
+      },
+      {
+        "text": "Half",
+        "isCorrect": false
+      },
+      {
+        "text": "Three-fourths",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Two-thirds of the Earth's surface is covered with water.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "14",
+    "questionText": "What is the main factor that affects the volume of a solid, liquid, or gas?",
+    "options": [
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Density",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The volume of a solid, liquid, or gas depends on the pressure acting on it.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "15",
+    "questionText": "Which of the following is true about the volume of a gas?",
+    "options": [
+      {
+        "text": "It is fixed",
+        "isCorrect": false
+      },
+      {
+        "text": "It fills the entire volume of its container",
+        "isCorrect": true
+      },
+      {
+        "text": "It changes with temperature but not pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "It is independent of external conditions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The volume of a gas fills the entire volume of its container.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "16",
+    "questionText": "What is the definition of pressure?",
+    "options": [
+      {
+        "text": "Force per unit area",
+        "isCorrect": true
+      },
+      {
+        "text": "Force per unit volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Force per unit length",
+        "isCorrect": false
+      },
+      {
+        "text": "Force per unit mass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure is defined as the force acting per unit area.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "Which of the following equations represents the average pressure exerted by a fluid?",
+    "options": [
+      {
+        "text": "$P_{av} = \\frac{F}{A}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P_{av} = \\frac{A}{F}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P_{av} = F \\times A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P_{av} = F - A$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average pressure is given by the equation $P_{av} = \\frac{F}{A}$, where $F$ is the force and $A$ is the area.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "18",
+    "questionText": "What is the SI unit of pressure?",
+    "options": [
+      {
+        "text": "Pascal (Pa)",
+        "isCorrect": true
+      },
+      {
+        "text": "Newton (N)",
+        "isCorrect": false
+      },
+      {
+        "text": "Joule (J)",
+        "isCorrect": false
+      },
+      {
+        "text": "Watt (W)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The SI unit of pressure is Pascal (Pa).",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "19",
+    "questionText": "What happens to the pressure as the depth in a fluid increases?",
+    "options": [
+      {
+        "text": "Pressure increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure fluctuates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As the depth in a fluid increases, the pressure increases due to the weight of the fluid above.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "20",
+    "questionText": "How is pressure in a fluid at rest exerted on an object?",
+    "options": [
+      {
+        "text": "Normal to the object's surface",
+        "isCorrect": true
+      },
+      {
+        "text": "Parallel to the object's surface",
+        "isCorrect": false
+      },
+      {
+        "text": "At an angle to the object's surface",
+        "isCorrect": false
+      },
+      {
+        "text": "Not exerted on the object's surface",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pressure in a fluid at rest is exerted normal (perpendicular) to the object's surface.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "21",
+    "questionText": "What is the pressure at a depth of 10 m below the surface of a lake? (Assume $\\rho = 1000 \\text{ kg/m}^3$ and $g = 10 \\text{ m/s}^2$)",
+    "options": [
+      {
+        "text": "$2.01 \\times 10^5 \\text{ Pa}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1.01 \\times 10^5 \\text{ Pa}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.01 \\times 10^5 \\text{ Pa}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4.01 \\times 10^5 \\text{ Pa}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pressure at 10 m depth is calculated as $P = P_a + \\rho gh = 1.01 \\times 10^5 \\text{ Pa} + 1000 \\text{ kg/m}^3 \\times 10 \\text{ m/s}^2 \\times 10 \\text{ m} = 2.01 \\times 10^5 \\text{ Pa}$.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "HARD"
+  },
+  {
+    "qno": "22",
+    "questionText": "What does the term 'gauge pressure' refer to?",
+    "options": [
+      {
+        "text": "Excess pressure over atmospheric pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Absolute pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure at sea level",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauge pressure refers to the excess pressure over atmospheric pressure.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "Which law states that pressure in a fluid at rest is the same at all points if they are at the same height?",
+    "options": [
+      {
+        "text": "Pascal's Law",
+        "isCorrect": true
+      },
+      {
+        "text": "Newton's Law",
+        "isCorrect": false
+      },
+      {
+        "text": "Bernoulli's Principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Archimedes' Principle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pascal's Law states that the pressure in a fluid at rest is the same at all points if they are at the same height.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "What is the pressure exerted by the atmosphere at sea level?",
+    "options": [
+      {
+        "text": "$1.013 \\times 10^5 \\text{ Pa}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1.013 \\times 10^4 \\text{ Pa}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.013 \\times 10^6 \\text{ Pa}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.013 \\times 10^3 \\text{ Pa}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pressure exerted by the atmosphere at sea level is $1.013 \\times 10^5 \\text{ Pa}$.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "25",
+    "questionText": "What device is used to measure atmospheric pressure?",
+    "options": [
+      {
+        "text": "Barometer",
+        "isCorrect": true
+      },
+      {
+        "text": "Manometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Hygrometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Thermometer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A barometer is used to measure atmospheric pressure.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "26",
+    "questionText": "What is the relationship between pressure and force?",
+    "options": [
+      {
+        "text": "Pressure is the force per unit area",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure is the force per unit volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure is the force per unit length",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure is the force per unit mass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure is the force acting per unit area.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "27",
+    "questionText": "What is the atmospheric pressure in terms of mm of mercury (Hg)?",
+    "options": [
+      {
+        "text": "760 mm Hg",
+        "isCorrect": true
+      },
+      {
+        "text": "750 mm Hg",
+        "isCorrect": false
+      },
+      {
+        "text": "800 mm Hg",
+        "isCorrect": false
+      },
+      {
+        "text": "700 mm Hg",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The atmospheric pressure is equivalent to 760 mm of mercury (Hg).",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "28",
+    "questionText": "How does the density of a fluid affect the pressure at a certain depth?",
+    "options": [
+      {
+        "text": "Higher density results in higher pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher density results in lower pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Density does not affect pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Density affects only the surface pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Higher density of a fluid results in higher pressure at a certain depth.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "29",
+    "questionText": "What is the formula for calculating pressure at a depth in a fluid?",
+    "options": [
+      {
+        "text": "$P = P_a + \\rho gh$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P = P_a - \\rho gh$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = P_a \\times \\rho gh$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = \\rho gh - P_a$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pressure at a depth in a fluid is given by $P = P_a + \\rho gh$, where $P_a$ is the atmospheric pressure, $\\rho$ is the density, $g$ is the acceleration due to gravity, and $h$ is the depth.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "HARD"
+  },
+  {
+    "qno": "30",
+    "questionText": "What is the pressure difference at two points in a fluid of density $\\rho$ at heights $h_1$ and $h_2$?",
+    "options": [
+      {
+        "text": "$\\Delta P = \\rho g (h_2 - h_1)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta P = \\rho g (h_1 - h_2)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta P = \\rho (h_2 - h_1)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta P = g (h_2 - h_1)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pressure difference at two points in a fluid of density $\\rho$ at heights $h_1$ and $h_2$ is $\\Delta P = \\rho g (h_2 - h_1)$.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "HARD"
+  },
+  {
+    "qno": "31",
+    "questionText": "What is the relationship between force, pressure, and area?",
+    "options": [
+      {
+        "text": "$F = P \\times A$",
+        "isCorrect": true
+      },
+      {
+        "text": "$F = \\frac{P}{A}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$F = P + A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$F = \\frac{A}{P}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The force $F$ is related to pressure $P$ and area $A$ by the equation $F = P \\times A$.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "32",
+    "questionText": "How does pressure change with height in a fluid?",
+    "options": [
+      {
+        "text": "Pressure decreases with increase in height",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure increases with increase in height",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure remains constant with height",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure fluctuates with height",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure decreases with increase in height in a fluid due to the reduction in the weight of the fluid above.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "33",
+    "questionText": "What is the term used for the pressure exerted by a fluid in motion?",
+    "options": [
+      {
+        "text": "Dynamic pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Static pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Gauge pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Absolute pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dynamic pressure refers to the pressure exerted by a fluid in motion.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "34",
+    "questionText": "What is the gauge pressure at a depth of 20 m in a fluid with density $1000 \\text{ kg/m}^3$ and $g = 10 \\text{ m/s}^2$?",
+    "options": [
+      {
+        "text": "$2.0 \\times 10^5 \\text{ Pa}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1.0 \\times 10^5 \\text{ Pa}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3.0 \\times 10^5 \\text{ Pa}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4.0 \\times 10^5 \\text{ Pa}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The gauge pressure at 20 m depth is calculated as $P_g = \\rho gh = 1000 \\text{ kg/m}^3 \\times 10 \\text{ m/s}^2 \\times 20 \\text{ m} = 2.0 \\times 10^5 \\text{ Pa}$.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "HARD"
+  },
+  {
+    "qno": "35",
+    "questionText": "How does the pressure in a fluid at rest vary with direction?",
+    "options": [
+      {
+        "text": "Pressure is the same in all directions",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure varies with direction",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure is zero in all directions",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure is infinite in all directions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pressure in a fluid at rest is the same in all directions.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "36",
+    "questionText": "What is the standard atmospheric pressure in terms of bars?",
+    "options": [
+      {
+        "text": "1 bar",
+        "isCorrect": true
+      },
+      {
+        "text": "2 bars",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5 bars",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5 bars",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard atmospheric pressure is 1 bar.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "37",
+    "questionText": "How is the pressure at a certain depth in a fluid affected if the fluid is open to the atmosphere?",
+    "options": [
+      {
+        "text": "The pressure is greater than atmospheric pressure by an amount $\\rho gh$",
+        "isCorrect": true
+      },
+      {
+        "text": "The pressure is equal to atmospheric pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure is less than atmospheric pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure is independent of atmospheric pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pressure at a certain depth in a fluid open to the atmosphere is greater than atmospheric pressure by an amount $\\rho gh$.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "HARD"
+  },
+  {
+    "qno": "38",
+    "questionText": "What is the value of one atmosphere (atm) in Pascals (Pa)?",
+    "options": [
+      {
+        "text": "$1.013 \\times 10^5 \\text{ Pa}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1.013 \\times 10^4 \\text{ Pa}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.013 \\times 10^6 \\text{ Pa}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.013 \\times 10^3 \\text{ Pa}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "One atmosphere (atm) is equal to $1.013 \\times 10^5 \\text{ Pa}$.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "39",
+    "questionText": "What does the term 'Pascal' refer to?",
+    "options": [
+      {
+        "text": "The SI unit of pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "The SI unit of force",
+        "isCorrect": false
+      },
+      {
+        "text": "The SI unit of mass",
+        "isCorrect": false
+      },
+      {
+        "text": "The SI unit of length",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pascal (Pa) is the SI unit of pressure.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "40",
+    "questionText": "What instrument is used to measure small pressure differences?",
+    "options": [
+      {
+        "text": "Manometer",
+        "isCorrect": true
+      },
+      {
+        "text": "Barometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Thermometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Hygrometer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A manometer is used to measure small pressure differences.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "41",
+    "questionText": "What is the density of water at 4°C?",
+    "options": [
+      {
+        "text": "$1.0 \\times 10^3 \\text{ kg/m}^3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1.0 \\times 10^2 \\text{ kg/m}^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.0 \\times 10^4 \\text{ kg/m}^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.0 \\times 10^1 \\text{ kg/m}^3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The density of water at 4°C is $1.0 \\times 10^3 \\text{ kg/m}^3$.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "42",
+    "questionText": "How is pressure in a fluid measured using a piston device?",
+    "options": [
+      {
+        "text": "By balancing the inward force exerted by the fluid with an outward spring force",
+        "isCorrect": true
+      },
+      {
+        "text": "By measuring the velocity of the fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "By calculating the density of the fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "By determining the temperature of the fluid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure in a fluid can be measured using a piston device by balancing the inward force exerted by the fluid with an outward spring force.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "HARD"
+  },
+  {
+    "qno": "43",
+    "questionText": "What is the principle behind a hydraulic lift?",
+    "options": [
+      {
+        "text": "Pascal's Law",
+        "isCorrect": true
+      },
+      {
+        "text": "Newton's First Law",
+        "isCorrect": false
+      },
+      {
+        "text": "Bernoulli's Principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Archimedes' Principle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A hydraulic lift operates on the principle of Pascal's Law.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "44",
+    "questionText": "Which device is used to measure the force acting on a piston due to fluid pressure?",
+    "options": [
+      {
+        "text": "Pressure gauge",
+        "isCorrect": true
+      },
+      {
+        "text": "Thermometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Hygrometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Barometer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A pressure gauge is used to measure the force acting on a piston due to fluid pressure.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "45",
+    "questionText": "What is the significance of pressure being a scalar quantity?",
+    "options": [
+      {
+        "text": "It acts equally in all directions",
+        "isCorrect": true
+      },
+      {
+        "text": "It has a specific direction",
+        "isCorrect": false
+      },
+      {
+        "text": "It only acts in one direction",
+        "isCorrect": false
+      },
+      {
+        "text": "It is independent of force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure being a scalar quantity means it acts equally in all directions.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "HARD"
+  },
+  {
+    "qno": "46",
+    "questionText": "What defines streamline flow in fluids?",
+    "options": [
+      {
+        "text": "Smooth, non-crossing paths of fluid particles",
+        "isCorrect": true
+      },
+      {
+        "text": "Turbulent and chaotic flow paths",
+        "isCorrect": false
+      },
+      {
+        "text": "Intermittent and irregular flow",
+        "isCorrect": false
+      },
+      {
+        "text": "Flow with variable velocity at every point",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Streamline flow in fluids is defined by smooth, non-crossing paths of fluid particles.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "EASY"
+  },
+  {
+    "qno": "47",
+    "questionText": "Which principle describes that no two streamlines can cross each other?",
+    "options": [
+      {
+        "text": "Continuity equation",
+        "isCorrect": false
+      },
+      {
+        "text": "Bernoulli's principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Streamline principle",
+        "isCorrect": true
+      },
+      {
+        "text": "Torricelli's theorem",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "No two streamlines can cross each other because each point in the fluid has a unique velocity in streamline flow.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "EASY"
+  },
+  {
+    "qno": "48",
+    "questionText": "What does the continuity equation in fluid dynamics state?",
+    "options": [
+      {
+        "text": "Av = constant",
+        "isCorrect": true
+      },
+      {
+        "text": "P + 0.5ρv^2 + ρgh = constant",
+        "isCorrect": false
+      },
+      {
+        "text": "v = √(2gh)",
+        "isCorrect": false
+      },
+      {
+        "text": "F = ma",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The continuity equation in fluid dynamics states that Av = constant, where A is the cross-sectional area and v is the flow velocity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "49",
+    "questionText": "How does the velocity of fluid particles change in a pipe with varying cross-sectional area?",
+    "options": [
+      {
+        "text": "Velocity increases in narrower sections",
+        "isCorrect": true
+      },
+      {
+        "text": "Velocity decreases in narrower sections",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity fluctuates randomly",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the continuity equation, the velocity of fluid particles increases in narrower sections of a pipe.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "50",
+    "questionText": "What is the condition for achieving streamline flow in fluids?",
+    "options": [
+      {
+        "text": "Low flow speeds",
+        "isCorrect": true
+      },
+      {
+        "text": "High flow speeds",
+        "isCorrect": false
+      },
+      {
+        "text": "Variable pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "High turbulence",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Streamline flow is achieved at low flow speeds, where fluid particles move smoothly along defined paths.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "EASY"
+  },
+  {
+    "qno": "51",
+    "questionText": "What is the term for a curve whose tangent at any point is in the direction of the fluid velocity at that point?",
+    "options": [
+      {
+        "text": "Streamline",
+        "isCorrect": true
+      },
+      {
+        "text": "Trajectory",
+        "isCorrect": false
+      },
+      {
+        "text": "Pathline",
+        "isCorrect": false
+      },
+      {
+        "text": "Streakline",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A streamline is a curve whose tangent at any point is in the direction of the fluid velocity at that point.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "52",
+    "questionText": "What does the equation of continuity ensure in fluid flow?",
+    "options": [
+      {
+        "text": "Conservation of mass",
+        "isCorrect": true
+      },
+      {
+        "text": "Conservation of energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Conservation of momentum",
+        "isCorrect": false
+      },
+      {
+        "text": "Conservation of pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equation of continuity ensures the conservation of mass in fluid flow.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "53",
+    "questionText": "Which of the following is true for streamlines in steady flow?",
+    "options": [
+      {
+        "text": "They do not intersect",
+        "isCorrect": true
+      },
+      {
+        "text": "They intersect at various points",
+        "isCorrect": false
+      },
+      {
+        "text": "They form closed loops",
+        "isCorrect": false
+      },
+      {
+        "text": "They indicate varying velocity directions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In steady flow, streamlines do not intersect because each point in the fluid has a unique velocity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "54",
+    "questionText": "What is the effect of streamlines being closely spaced in a fluid flow?",
+    "options": [
+      {
+        "text": "Higher fluid velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "Lower fluid velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Constant fluid velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Random fluid velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Closely spaced streamlines indicate higher fluid velocity according to the equation of continuity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "55",
+    "questionText": "Which equation relates the speed of fluid flow in a pipe to the areas of cross-sections?",
+    "options": [
+      {
+        "text": "$A_1v_1 = A_2v_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$A_1 + v_1 = A_2 + v_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$A_1v_1 + A_2v_2 = constant$",
+        "isCorrect": false
+      },
+      {
+        "text": "$A_1 - v_1 = A_2 - v_2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The continuity equation, $A_1v_1 = A_2v_2$, relates the speed of fluid flow in a pipe to the areas of cross-sections.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "56",
+    "questionText": "What happens to fluid particles in turbulent flow?",
+    "options": [
+      {
+        "text": "They move chaotically with fluctuating velocities",
+        "isCorrect": true
+      },
+      {
+        "text": "They move in straight lines",
+        "isCorrect": false
+      },
+      {
+        "text": "They remain stationary",
+        "isCorrect": false
+      },
+      {
+        "text": "They move uniformly with constant velocities",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In turbulent flow, fluid particles move chaotically with fluctuating velocities.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "57",
+    "questionText": "What is the critical speed in fluid dynamics?",
+    "options": [
+      {
+        "text": "The speed above which flow becomes turbulent",
+        "isCorrect": true
+      },
+      {
+        "text": "The speed below which flow becomes turbulent",
+        "isCorrect": false
+      },
+      {
+        "text": "The maximum speed of streamline flow",
+        "isCorrect": false
+      },
+      {
+        "text": "The minimum speed of turbulent flow",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Critical speed is the speed above which flow becomes turbulent.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "58",
+    "questionText": "What does the streamline equation ensure in fluid flow?",
+    "options": [
+      {
+        "text": "Conservation of momentum",
+        "isCorrect": false
+      },
+      {
+        "text": "Conservation of energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Conservation of mass",
+        "isCorrect": true
+      },
+      {
+        "text": "Conservation of pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The streamline equation ensures the conservation of mass in fluid flow.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "59",
+    "questionText": "Which fluid flow is characterized by smooth paths of fluid particles?",
+    "options": [
+      {
+        "text": "Streamline flow",
+        "isCorrect": true
+      },
+      {
+        "text": "Turbulent flow",
+        "isCorrect": false
+      },
+      {
+        "text": "Chaotic flow",
+        "isCorrect": false
+      },
+      {
+        "text": "Random flow",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Streamline flow is characterized by smooth paths of fluid particles.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "EASY"
+  },
+  {
+    "qno": "60",
+    "questionText": "What is the principle of continuity in fluid dynamics?",
+    "options": [
+      {
+        "text": "The product of cross-sectional area and fluid velocity remains constant",
+        "isCorrect": true
+      },
+      {
+        "text": "The sum of cross-sectional area and fluid velocity remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "The difference between cross-sectional area and fluid velocity remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of cross-sectional area to fluid velocity remains constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principle of continuity states that the product of cross-sectional area and fluid velocity remains constant.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "EASY"
+  },
+  {
+    "qno": "61",
+    "questionText": "How do you calculate the volume flow rate in a pipe?",
+    "options": [
+      {
+        "text": "$Q = Av$",
+        "isCorrect": true
+      },
+      {
+        "text": "$Q = A + v$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Q = A - v$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Q = \\frac{A}{v}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The volume flow rate in a pipe is calculated using the formula $Q = Av$, where A is the cross-sectional area and v is the flow velocity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "62",
+    "questionText": "What is the behavior of fluid particles in steady flow?",
+    "options": [
+      {
+        "text": "Fluid particles move along fixed paths",
+        "isCorrect": true
+      },
+      {
+        "text": "Fluid particles move randomly",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluid particles remain stationary",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluid particles change their paths frequently",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In steady flow, fluid particles move along fixed paths.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "63",
+    "questionText": "What is the relationship between streamline spacing and fluid velocity?",
+    "options": [
+      {
+        "text": "Closer streamlines indicate higher velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "Closer streamlines indicate lower velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Streamline spacing does not affect velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Closer streamlines indicate constant velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Closer streamlines indicate higher velocity according to the principle of continuity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "64",
+    "questionText": "What is a pathline in fluid mechanics?",
+    "options": [
+      {
+        "text": "The actual path followed by a fluid particle",
+        "isCorrect": true
+      },
+      {
+        "text": "A curve tangent to the velocity vector",
+        "isCorrect": false
+      },
+      {
+        "text": "A curve representing the density variation",
+        "isCorrect": false
+      },
+      {
+        "text": "A curve representing the pressure variation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A pathline is the actual path followed by a fluid particle over time.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "65",
+    "questionText": "What is the difference between streamline and turbulent flow?",
+    "options": [
+      {
+        "text": "Streamline flow has smooth paths; turbulent flow is chaotic",
+        "isCorrect": true
+      },
+      {
+        "text": "Streamline flow is chaotic; turbulent flow has smooth paths",
+        "isCorrect": false
+      },
+      {
+        "text": "Both have chaotic flow paths",
+        "isCorrect": false
+      },
+      {
+        "text": "Both have smooth flow paths",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Streamline flow has smooth, non-crossing paths, while turbulent flow is chaotic with fluctuating velocities.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "66",
+    "questionText": "How does streamline flow differ from turbulent flow?",
+    "options": [
+      {
+        "text": "Streamline flow has steady, smooth paths; turbulent flow is irregular",
+        "isCorrect": true
+      },
+      {
+        "text": "Streamline flow is irregular; turbulent flow has steady, smooth paths",
+        "isCorrect": false
+      },
+      {
+        "text": "Both are irregular flows",
+        "isCorrect": false
+      },
+      {
+        "text": "Both are steady, smooth flows",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Streamline flow has steady, smooth paths, while turbulent flow is irregular with fluctuating velocities.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "67",
+    "questionText": "What happens to fluid particles in streamline flow?",
+    "options": [
+      {
+        "text": "They move in smooth paths",
+        "isCorrect": true
+      },
+      {
+        "text": "They move randomly",
+        "isCorrect": false
+      },
+      {
+        "text": "They remain stationary",
+        "isCorrect": false
+      },
+      {
+        "text": "They move chaotically",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In streamline flow, fluid particles move in smooth paths without crossing each other.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "EASY"
+  },
+  {
+    "qno": "68",
+    "questionText": "What is the effect of increasing velocity on fluid flow in a pipe with constant cross-sectional area?",
+    "options": [
+      {
+        "text": "Flow rate increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Flow rate decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Flow rate remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Flow rate fluctuates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing velocity in a pipe with constant cross-sectional area increases the flow rate according to the continuity equation.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "EASY"
+  },
+  {
+    "qno": "69",
+    "questionText": "What does Bernoulli's principle relate to in fluid dynamics?",
+    "options": [
+      {
+        "text": "Pressure, velocity, and height",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure and density",
+        "isCorrect": false
+      },
+      {
+        "text": "Density and velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Height and velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle relates pressure, velocity, and height in fluid dynamics.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "70",
+    "questionText": "What condition must be met for streamline flow to exist?",
+    "options": [
+      {
+        "text": "Low Reynolds number",
+        "isCorrect": true
+      },
+      {
+        "text": "High Reynolds number",
+        "isCorrect": false
+      },
+      {
+        "text": "Variable flow velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Chaotic flow paths",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Streamline flow exists at low Reynolds numbers, where fluid flow is smooth and predictable.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "71",
+    "questionText": "What happens to the velocity of fluid particles in streamline flow as they move from a wider section to a narrower section of a pipe?",
+    "options": [
+      {
+        "text": "Velocity increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Velocity decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity fluctuates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In streamline flow, the velocity of fluid particles increases as they move from a wider section to a narrower section of a pipe according to the continuity equation.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "72",
+    "questionText": "Which parameter is directly proportional to the flow rate in streamline flow?",
+    "options": [
+      {
+        "text": "Cross-sectional area",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Density",
+        "isCorrect": false
+      },
+      {
+        "text": "Height",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In streamline flow, the flow rate is directly proportional to the cross-sectional area of the pipe.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "73",
+    "questionText": "What is the streamline equation in fluid mechanics?",
+    "options": [
+      {
+        "text": "$Av = constant$",
+        "isCorrect": true
+      },
+      {
+        "text": "$A + v = constant$",
+        "isCorrect": false
+      },
+      {
+        "text": "$A - v = constant$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{A}{v} = constant$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The streamline equation in fluid mechanics is $Av = constant$, where A is the cross-sectional area and v is the fluid velocity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "EASY"
+  },
+  {
+    "qno": "74",
+    "questionText": "What is the effect of streamline flow on pressure distribution in a fluid?",
+    "options": [
+      {
+        "text": "Uniform pressure distribution",
+        "isCorrect": true
+      },
+      {
+        "text": "Non-uniform pressure distribution",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluctuating pressure distribution",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero pressure distribution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In streamline flow, the pressure distribution in a fluid is uniform.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "75",
+    "questionText": "What is the velocity profile of a fluid in streamline flow?",
+    "options": [
+      {
+        "text": "Parabolic",
+        "isCorrect": true
+      },
+      {
+        "text": "Linear",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponential",
+        "isCorrect": false
+      },
+      {
+        "text": "Constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The velocity profile of a fluid in streamline flow is parabolic.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "76",
+    "questionText": "What does the Reynolds number indicate in fluid dynamics?",
+    "options": [
+      {
+        "text": "The type of fluid flow (laminar or turbulent)",
+        "isCorrect": true
+      },
+      {
+        "text": "The density of the fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "The velocity of the fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure of the fluid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Reynolds number indicates the type of fluid flow, whether it is laminar (streamline) or turbulent.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "77",
+    "questionText": "What is the effect of increasing the cross-sectional area of a pipe on fluid velocity in streamline flow?",
+    "options": [
+      {
+        "text": "Velocity decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Velocity increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity fluctuates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In streamline flow, increasing the cross-sectional area of a pipe decreases the fluid velocity according to the continuity equation.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "EASY"
+  },
+  {
+    "qno": "78",
+    "questionText": "How does the pressure at different points in a streamline flow relate to the fluid velocity?",
+    "options": [
+      {
+        "text": "Higher velocity corresponds to lower pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher velocity corresponds to higher pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity and pressure are independent",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity and pressure are equal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In streamline flow, higher fluid velocity corresponds to lower pressure, as described by Bernoulli's principle.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "79",
+    "questionText": "Which of the following describes laminar flow?",
+    "options": [
+      {
+        "text": "Fluid particles move in parallel layers with no disruption between them",
+        "isCorrect": true
+      },
+      {
+        "text": "Fluid particles move chaotically with constant changes in direction",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluid particles move randomly with no predictable pattern",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluid particles remain stationary",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Laminar flow is characterized by fluid particles moving in parallel layers with no disruption between them.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "80",
+    "questionText": "What is the effect of high Reynolds number on fluid flow?",
+    "options": [
+      {
+        "text": "Flow becomes turbulent",
+        "isCorrect": true
+      },
+      {
+        "text": "Flow remains laminar",
+        "isCorrect": false
+      },
+      {
+        "text": "Flow velocity decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Flow velocity increases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A high Reynolds number indicates that the flow is likely to become turbulent.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "81",
+    "questionText": "What happens to the kinetic energy of fluid particles in streamline flow?",
+    "options": [
+      {
+        "text": "It remains constant along a streamline",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases along a streamline",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases along a streamline",
+        "isCorrect": false
+      },
+      {
+        "text": "It fluctuates along a streamline",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In streamline flow, the kinetic energy of fluid particles remains constant along a streamline.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "82",
+    "questionText": "Which of the following is NOT a characteristic of streamline flow?",
+    "options": [
+      {
+        "text": "Fluid particles move in parallel layers",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluid particles follow smooth paths",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluid particles move chaotically",
+        "isCorrect": true
+      },
+      {
+        "text": "Fluid particles do not intersect",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In streamline flow, fluid particles do not move chaotically; they follow smooth, parallel paths.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "EASY"
+  },
+  {
+    "qno": "83",
+    "questionText": "What does the term 'laminar flow' refer to?",
+    "options": [
+      {
+        "text": "Smooth, parallel flow of fluid particles",
+        "isCorrect": true
+      },
+      {
+        "text": "Chaotic, random flow of fluid particles",
+        "isCorrect": false
+      },
+      {
+        "text": "Flow with high turbulence",
+        "isCorrect": false
+      },
+      {
+        "text": "Flow with variable pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Laminar flow refers to the smooth, parallel flow of fluid particles.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "EASY"
+  },
+  {
+    "qno": "84",
+    "questionText": "What is the relationship between streamline spacing and fluid velocity in streamline flow?",
+    "options": [
+      {
+        "text": "Closer spacing indicates higher velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "Closer spacing indicates lower velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Spacing does not affect velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Closer spacing indicates constant velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In streamline flow, closer spacing of streamlines indicates higher fluid velocity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "85",
+    "questionText": "What is the effect of decreasing the cross-sectional area of a pipe on fluid velocity in streamline flow?",
+    "options": [
+      {
+        "text": "Velocity increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Velocity decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity fluctuates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In streamline flow, decreasing the cross-sectional area of a pipe increases the fluid velocity according to the continuity equation.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "86",
+    "questionText": "What is the condition for achieving laminar flow in fluids?",
+    "options": [
+      {
+        "text": "Low flow speeds",
+        "isCorrect": true
+      },
+      {
+        "text": "High flow speeds",
+        "isCorrect": false
+      },
+      {
+        "text": "Variable pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "High turbulence",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Laminar flow is achieved at low flow speeds, where fluid particles move smoothly along defined paths.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "87",
+    "questionText": "Which principle explains that the sum of pressure, kinetic energy per unit volume, and potential energy per unit volume is constant along a streamline?",
+    "options": [
+      {
+        "text": "Bernoulli's principle",
+        "isCorrect": true
+      },
+      {
+        "text": "Continuity equation",
+        "isCorrect": false
+      },
+      {
+        "text": "Pascal's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Archimedes' principle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle explains that the sum of pressure, kinetic energy per unit volume, and potential energy per unit volume is constant along a streamline.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "88",
+    "questionText": "What is the relationship between pressure and velocity in streamline flow according to Bernoulli's principle?",
+    "options": [
+      {
+        "text": "Higher velocity corresponds to lower pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher velocity corresponds to higher pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity and pressure are independent",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity and pressure are equal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bernoulli's principle, higher fluid velocity corresponds to lower pressure.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "89",
+    "questionText": "What is the behavior of fluid particles in streamline flow as they move from a narrower section to a wider section of a pipe?",
+    "options": [
+      {
+        "text": "Velocity decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Velocity increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity fluctuates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In streamline flow, the velocity of fluid particles decreases as they move from a narrower section to a wider section of a pipe according to the continuity equation.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "HARD"
+  },
+  {
+    "qno": "90",
+    "questionText": "What is the effect of fluid density on streamline flow?",
+    "options": [
+      {
+        "text": "Higher density results in higher velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Higher density results in lower velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "Density does not affect velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Density affects only the surface velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Higher fluid density results in lower velocity in streamline flow due to increased resistance to motion.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "91",
+    "questionText": "What is the continuity equation in fluid mechanics?",
+    "options": [
+      {
+        "text": "$A_1v_1 = A_2v_2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$A_1 + v_1 = A_2 + v_2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$A_1v_1 + A_2v_2 = constant$",
+        "isCorrect": false
+      },
+      {
+        "text": "$A_1 - v_1 = A_2 - v_2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The continuity equation in fluid mechanics is $A_1v_1 = A_2v_2$, where A is the cross-sectional area and v is the fluid velocity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "EASY"
+  },
+  {
+    "qno": "92",
+    "questionText": "What is the effect of increasing the velocity of fluid flow in a pipe with constant cross-sectional area?",
+    "options": [
+      {
+        "text": "Flow rate increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Flow rate decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Flow rate remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Flow rate fluctuates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the velocity of fluid flow in a pipe with constant cross-sectional area increases the flow rate according to the continuity equation.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "94",
+    "questionText": "How does pressure change with height in streamline flow?",
+    "options": [
+      {
+        "text": "Pressure decreases with increase in height",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure increases with increase in height",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure remains constant with height",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure fluctuates with height",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In streamline flow, pressure decreases with an increase in height due to the reduction in the weight of the fluid above.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "100",
+    "questionText": "What is the behavior of fluid particles in streamline flow?",
+    "options": [
+      {
+        "text": "Fluid particles move along fixed paths",
+        "isCorrect": true
+      },
+      {
+        "text": "Fluid particles move randomly",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluid particles remain stationary",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluid particles change their paths frequently",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In streamline flow, fluid particles move along fixed paths.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "101",
+    "questionText": "What does Bernoulli's principle state?",
+    "options": [
+      {
+        "text": "The sum of pressure energy, kinetic energy per unit volume, and potential energy per unit volume is constant along a streamline",
+        "isCorrect": true
+      },
+      {
+        "text": "The pressure in a fluid decreases with depth",
+        "isCorrect": false
+      },
+      {
+        "text": "The volume flow rate is equal to the cross-sectional area times the flow velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure in a fluid increases with velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle states that the sum of pressure energy, kinetic energy per unit volume, and potential energy per unit volume is constant along a streamline.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "EASY"
+  },
+  {
+    "qno": "102",
+    "questionText": "According to Bernoulli's principle, what happens to the pressure in a fluid as the velocity increases?",
+    "options": [
+      {
+        "text": "Pressure decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure fluctuates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bernoulli's principle, as the velocity of a fluid increases, the pressure decreases.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "EASY"
+  },
+  {
+    "qno": "103",
+    "questionText": "What is the equation for Bernoulli's principle?",
+    "options": [
+      {
+        "text": "$P + 0.5 \\rho v^2 + \\rho gh = constant$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P + \\rho v + \\rho gh = constant$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P + 0.5 \\rho v + \\rho gh = constant$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P + \\rho v^2 + \\rho gh = constant$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equation for Bernoulli's principle is $P + 0.5 \\rho v^2 + \\rho gh = constant$.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "104",
+    "questionText": "What does Bernoulli's principle imply for a fluid flowing through a pipe with varying cross-sectional areas?",
+    "options": [
+      {
+        "text": "Higher velocity in narrower sections",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher velocity in wider sections",
+        "isCorrect": false
+      },
+      {
+        "text": "Constant velocity throughout",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocity independent of cross-sectional area",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle implies that fluid velocity is higher in narrower sections of a pipe.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "EASY"
+  },
+  {
+    "qno": "105",
+    "questionText": "How is Bernoulli's principle applied in the working of an airplane wing?",
+    "options": [
+      {
+        "text": "Higher velocity of air over the wing reduces pressure, creating lift",
+        "isCorrect": true
+      },
+      {
+        "text": "Lower velocity of air over the wing reduces pressure, creating lift",
+        "isCorrect": false
+      },
+      {
+        "text": "Higher pressure under the wing reduces velocity, creating lift",
+        "isCorrect": false
+      },
+      {
+        "text": "Higher velocity of air under the wing increases pressure, creating lift",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle is applied in the working of an airplane wing, where higher velocity of air over the wing reduces pressure, creating lift.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "106",
+    "questionText": "What does Bernoulli's principle explain about the behavior of fluids in motion?",
+    "options": [
+      {
+        "text": "As the velocity of a fluid increases, its pressure decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "As the velocity of a fluid increases, its pressure increases",
+        "isCorrect": false
+      },
+      {
+        "text": "As the velocity of a fluid increases, its pressure remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "As the velocity of a fluid increases, its density decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle explains that as the velocity of a fluid increases, its pressure decreases.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "EASY"
+  },
+  {
+    "qno": "107",
+    "questionText": "Which of the following applications utilize Bernoulli's principle?",
+    "options": [
+      {
+        "text": "Venturi meter",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydraulic lift",
+        "isCorrect": false
+      },
+      {
+        "text": "Thermometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Barometer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A Venturi meter utilizes Bernoulli's principle to measure the flow rate of fluids.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "108",
+    "questionText": "What is the principle behind the functioning of a carburetor in an internal combustion engine?",
+    "options": [
+      {
+        "text": "Bernoulli's principle",
+        "isCorrect": true
+      },
+      {
+        "text": "Pascal's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Archimedes' principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Continuity equation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The functioning of a carburetor in an internal combustion engine is based on Bernoulli's principle.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "109",
+    "questionText": "How does Bernoulli's principle apply to the operation of a perfume atomizer?",
+    "options": [
+      {
+        "text": "Higher velocity of air reduces pressure, drawing liquid up and dispersing it",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher velocity of air increases pressure, pushing liquid out",
+        "isCorrect": false
+      },
+      {
+        "text": "Lower velocity of air reduces pressure, drawing liquid up and dispersing it",
+        "isCorrect": false
+      },
+      {
+        "text": "Lower velocity of air increases pressure, pushing liquid out",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle applies to the operation of a perfume atomizer, where higher velocity of air reduces pressure, drawing liquid up and dispersing it.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "110",
+    "questionText": "What happens to the kinetic energy per unit volume in a fluid as its velocity increases according to Bernoulli's principle?",
+    "options": [
+      {
+        "text": "Kinetic energy per unit volume increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Kinetic energy per unit volume decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinetic energy per unit volume remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinetic energy per unit volume fluctuates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bernoulli's principle, as the velocity of a fluid increases, its kinetic energy per unit volume increases.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "111",
+    "questionText": "How is Bernoulli's principle related to the pressure difference in fluid flow?",
+    "options": [
+      {
+        "text": "Pressure difference is inversely proportional to fluid velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure difference is directly proportional to fluid velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure difference is independent of fluid velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure difference fluctuates with fluid velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle states that the pressure difference is inversely proportional to the fluid velocity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "HARD"
+  },
+  {
+    "qno": "112",
+    "questionText": "Which principle explains the lift generated by an airplane wing?",
+    "options": [
+      {
+        "text": "Bernoulli's principle",
+        "isCorrect": true
+      },
+      {
+        "text": "Archimedes' principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Pascal's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Continuity equation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle explains the lift generated by an airplane wing.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "EASY"
+  },
+  {
+    "qno": "113",
+    "questionText": "What does Bernoulli's principle state about the sum of pressure energy, kinetic energy, and potential energy in a flowing fluid?",
+    "options": [
+      {
+        "text": "It remains constant along a streamline",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases along a streamline",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases along a streamline",
+        "isCorrect": false
+      },
+      {
+        "text": "It fluctuates along a streamline",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle states that the sum of pressure energy, kinetic energy, and potential energy in a flowing fluid remains constant along a streamline.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "114",
+    "questionText": "How does Bernoulli's principle apply to the functioning of a hydraulic lift?",
+    "options": [
+      {
+        "text": "Bernoulli's principle does not apply to hydraulic lifts",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher velocity of fluid increases pressure, lifting the load",
+        "isCorrect": false
+      },
+      {
+        "text": "Lower velocity of fluid increases pressure, lifting the load",
+        "isCorrect": false
+      },
+      {
+        "text": "Higher pressure increases fluid velocity, lifting the load",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle does not apply to hydraulic lifts, which operate based on Pascal's law.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "HARD"
+  },
+  {
+    "qno": "115",
+    "questionText": "What is the principle behind the working of a Venturi meter?",
+    "options": [
+      {
+        "text": "Bernoulli's principle",
+        "isCorrect": true
+      },
+      {
+        "text": "Pascal's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Archimedes' principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Continuity equation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The working of a Venturi meter is based on Bernoulli's principle.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "116",
+    "questionText": "How does Bernoulli's principle explain the phenomenon of fluid entrainment?",
+    "options": [
+      {
+        "text": "Higher velocity reduces pressure, drawing surrounding fluid into the flow",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher velocity increases pressure, pushing surrounding fluid away",
+        "isCorrect": false
+      },
+      {
+        "text": "Lower velocity reduces pressure, drawing surrounding fluid into the flow",
+        "isCorrect": false
+      },
+      {
+        "text": "Lower velocity increases pressure, pushing surrounding fluid away",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle explains fluid entrainment as higher velocity reducing pressure, drawing surrounding fluid into the flow.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "HARD"
+  },
+  {
+    "qno": "117",
+    "questionText": "What does Bernoulli's principle state about the energy distribution in a flowing fluid?",
+    "options": [
+      {
+        "text": "The total mechanical energy per unit volume remains constant",
+        "isCorrect": true
+      },
+      {
+        "text": "The kinetic energy per unit volume remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "The potential energy per unit volume remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure energy per unit volume remains constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle states that the total mechanical energy per unit volume in a flowing fluid remains constant.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "EASY"
+  },
+  {
+    "qno": "118",
+    "questionText": "How does Bernoulli's principle explain the operation of a spray bottle?",
+    "options": [
+      {
+        "text": "Higher velocity of air reduces pressure, drawing liquid up and dispersing it",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher velocity of air increases pressure, pushing liquid out",
+        "isCorrect": false
+      },
+      {
+        "text": "Lower velocity of air reduces pressure, drawing liquid up and dispersing it",
+        "isCorrect": false
+      },
+      {
+        "text": "Lower velocity of air increases pressure, pushing liquid out",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle explains the operation of a spray bottle, where higher velocity of air reduces pressure, drawing liquid up and dispersing it.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "119",
+    "questionText": "What is the effect of fluid velocity on pressure according to Bernoulli's principle?",
+    "options": [
+      {
+        "text": "Higher fluid velocity results in lower pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher fluid velocity results in higher pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluid velocity does not affect pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Higher fluid velocity results in constant pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Bernoulli's principle, higher fluid velocity results in lower pressure.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "HARD"
+  },
+  {
+    "qno": "120",
+    "questionText": "How does Bernoulli's principle apply to the design of a hydraulic lift?",
+    "options": [
+      {
+        "text": "Bernoulli's principle does not apply to hydraulic lifts",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher velocity of fluid increases pressure, lifting the load",
+        "isCorrect": false
+      },
+      {
+        "text": "Lower velocity of fluid increases pressure, lifting the load",
+        "isCorrect": false
+      },
+      {
+        "text": "Higher pressure increases fluid velocity, lifting the load",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bernoulli's principle does not apply to hydraulic lifts, which operate based on Pascal's law.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "HARD"
+  },
+  {
+    "qno": "121",
+    "questionText": "What is the principle behind the functioning of a Venturi meter?",
+    "options": [
+      {
+        "text": "Bernoulli's principle",
+        "isCorrect": true
+      },
+      {
+        "text": "Pascal's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Archimedes' principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Continuity equation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The functioning of a Venturi meter is based on Bernoulli's principle.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli’s Principle",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "151",
+    "questionText": "What is viscosity in fluid dynamics?",
+    "options": [
+      {
+        "text": "A measure of a fluid's resistance to flow",
+        "isCorrect": true
+      },
+      {
+        "text": "A measure of a fluid's density",
+        "isCorrect": false
+      },
+      {
+        "text": "A measure of a fluid's compressibility",
+        "isCorrect": false
+      },
+      {
+        "text": "A measure of a fluid's temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Viscosity is a measure of a fluid's resistance to flow.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "EASY"
+  },
+  {
+    "qno": "152",
+    "questionText": "What is the SI unit of viscosity?",
+    "options": [
+      {
+        "text": "Pascal-second (Pa·s)",
+        "isCorrect": true
+      },
+      {
+        "text": "Newton-second (N·s)",
+        "isCorrect": false
+      },
+      {
+        "text": "Joule-second (J·s)",
+        "isCorrect": false
+      },
+      {
+        "text": "Watt-second (W·s)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The SI unit of viscosity is Pascal-second (Pa·s).",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "EASY"
+  },
+  {
+    "qno": "153",
+    "questionText": "How does temperature affect the viscosity of liquids?",
+    "options": [
+      {
+        "text": "Viscosity decreases with increasing temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Viscosity increases with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity remains constant with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity fluctuates with increasing temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The viscosity of liquids generally decreases with increasing temperature.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "154",
+    "questionText": "What does a higher viscosity indicate about a fluid?",
+    "options": [
+      {
+        "text": "Greater resistance to flow",
+        "isCorrect": true
+      },
+      {
+        "text": "Lower resistance to flow",
+        "isCorrect": false
+      },
+      {
+        "text": "Higher compressibility",
+        "isCorrect": false
+      },
+      {
+        "text": "Lower density",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A higher viscosity indicates that the fluid has greater resistance to flow.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "EASY"
+  },
+  {
+    "qno": "155",
+    "questionText": "What is the relationship between viscosity and fluid flow rate?",
+    "options": [
+      {
+        "text": "Higher viscosity results in a lower flow rate",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher viscosity results in a higher flow rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity does not affect the flow rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity affects only the density",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Higher viscosity results in a lower flow rate due to increased resistance to flow.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "156",
+    "questionText": "How does viscosity affect the behavior of fluid layers?",
+    "options": [
+      {
+        "text": "It causes layers to move at different velocities",
+        "isCorrect": true
+      },
+      {
+        "text": "It causes layers to move at the same velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "It has no effect on the movement of layers",
+        "isCorrect": false
+      },
+      {
+        "text": "It only affects the temperature of the layers",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Viscosity causes fluid layers to move at different velocities due to internal friction.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "HARD"
+  },
+  {
+    "qno": "157",
+    "questionText": "What is the formula for calculating viscosity using a viscometer?",
+    "options": [
+      {
+        "text": "$\\eta = \\frac{F \\cdot d}{A \\cdot v}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\eta = \\frac{A \\cdot v}{F \\cdot d}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\eta = \\frac{F \\cdot v}{A \\cdot d}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\eta = \\frac{A \\cdot d}{F \\cdot v}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for calculating viscosity using a viscometer is $\\eta = \\frac{F \\cdot d}{A \\cdot v}$, where $F$ is the force, $d$ is the distance between layers, $A$ is the area, and $v$ is the velocity gradient.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "HARD"
+  },
+  {
+    "qno": "158",
+    "questionText": "Which of the following fluids has the highest viscosity?",
+    "options": [
+      {
+        "text": "Honey",
+        "isCorrect": true
+      },
+      {
+        "text": "Water",
+        "isCorrect": false
+      },
+      {
+        "text": "Oil",
+        "isCorrect": false
+      },
+      {
+        "text": "Alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Among the given options, honey has the highest viscosity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "EASY"
+  },
+  {
+    "qno": "159",
+    "questionText": "What is the effect of increasing pressure on the viscosity of gases?",
+    "options": [
+      {
+        "text": "Viscosity increases with increasing pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Viscosity decreases with increasing pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity remains constant with increasing pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity fluctuates with increasing pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The viscosity of gases generally increases with increasing pressure.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "160",
+    "questionText": "What is the definition of dynamic viscosity?",
+    "options": [
+      {
+        "text": "The tangential force required to maintain a unit velocity gradient between two parallel layers",
+        "isCorrect": true
+      },
+      {
+        "text": "The tangential force required to maintain a unit pressure gradient between two parallel layers",
+        "isCorrect": false
+      },
+      {
+        "text": "The normal force required to maintain a unit velocity gradient between two parallel layers",
+        "isCorrect": false
+      },
+      {
+        "text": "The normal force required to maintain a unit pressure gradient between two parallel layers",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dynamic viscosity is defined as the tangential force required to maintain a unit velocity gradient between two parallel layers of fluid.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "HARD"
+  },
+  {
+    "qno": "161",
+    "questionText": "Which equation relates the shear stress to the velocity gradient in a fluid?",
+    "options": [
+      {
+        "text": "$\\tau = \\eta \\frac{dv}{dy}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\tau = \\eta \\frac{dy}{dv}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\tau = \\eta \\frac{d^2v}{dy^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\tau = \\eta \\frac{dy^2}{dv^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equation $\\tau = \\eta \\frac{dv}{dy}$ relates the shear stress $\\tau$ to the velocity gradient $\\frac{dv}{dy}$ in a fluid, where $\\eta$ is the viscosity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "HARD"
+  },
+  {
+    "qno": "162",
+    "questionText": "What does the term 'Newtonian fluid' refer to?",
+    "options": [
+      {
+        "text": "A fluid with a constant viscosity regardless of the applied shear rate",
+        "isCorrect": true
+      },
+      {
+        "text": "A fluid with varying viscosity depending on the applied shear rate",
+        "isCorrect": false
+      },
+      {
+        "text": "A fluid with no resistance to flow",
+        "isCorrect": false
+      },
+      {
+        "text": "A fluid with resistance to flow only at high temperatures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A Newtonian fluid is a fluid with a constant viscosity regardless of the applied shear rate.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "EASY"
+  },
+  {
+    "qno": "163",
+    "questionText": "What is the term for fluids whose viscosity changes with the applied shear rate?",
+    "options": [
+      {
+        "text": "Non-Newtonian fluids",
+        "isCorrect": true
+      },
+      {
+        "text": "Newtonian fluids",
+        "isCorrect": false
+      },
+      {
+        "text": "Ideal fluids",
+        "isCorrect": false
+      },
+      {
+        "text": "Compressible fluids",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Non-Newtonian fluids are those whose viscosity changes with the applied shear rate.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "EASY"
+  },
+  {
+    "qno": "164",
+    "questionText": "How does the viscosity of gases change with temperature?",
+    "options": [
+      {
+        "text": "Viscosity increases with increasing temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Viscosity decreases with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity remains constant with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity fluctuates with increasing temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The viscosity of gases generally increases with increasing temperature.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "165",
+    "questionText": "What is the effect of intermolecular forces on the viscosity of a fluid?",
+    "options": [
+      {
+        "text": "Stronger intermolecular forces result in higher viscosity",
+        "isCorrect": true
+      },
+      {
+        "text": "Stronger intermolecular forces result in lower viscosity",
+        "isCorrect": false
+      },
+      {
+        "text": "Intermolecular forces do not affect viscosity",
+        "isCorrect": false
+      },
+      {
+        "text": "Intermolecular forces affect only the temperature of the fluid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Stronger intermolecular forces in a fluid result in higher viscosity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "166",
+    "questionText": "Which of the following statements is true for a Newtonian fluid?",
+    "options": [
+      {
+        "text": "The shear stress is directly proportional to the velocity gradient",
+        "isCorrect": true
+      },
+      {
+        "text": "The shear stress is inversely proportional to the velocity gradient",
+        "isCorrect": false
+      },
+      {
+        "text": "The shear stress is independent of the velocity gradient",
+        "isCorrect": false
+      },
+      {
+        "text": "The shear stress is inversely proportional to the pressure gradient",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a Newtonian fluid, the shear stress is directly proportional to the velocity gradient.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "EASY"
+  },
+  {
+    "qno": "167",
+    "questionText": "How is the viscosity of a fluid related to its flow properties?",
+    "options": [
+      {
+        "text": "Higher viscosity means slower flow",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher viscosity means faster flow",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity does not affect flow properties",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity only affects compressibility",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Higher viscosity means slower flow due to greater resistance to motion.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "168",
+    "questionText": "What is kinematic viscosity?",
+    "options": [
+      {
+        "text": "The ratio of dynamic viscosity to fluid density",
+        "isCorrect": true
+      },
+      {
+        "text": "The product of dynamic viscosity and fluid density",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of fluid density to dynamic viscosity",
+        "isCorrect": false
+      },
+      {
+        "text": "The product of fluid density and temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kinematic viscosity is defined as the ratio of dynamic viscosity to fluid density.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "HARD"
+  },
+  {
+    "qno": "169",
+    "questionText": "What is the effect of decreasing temperature on the viscosity of a liquid?",
+    "options": [
+      {
+        "text": "Viscosity increases with decreasing temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Viscosity decreases with decreasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity remains constant with decreasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity fluctuates with decreasing temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The viscosity of a liquid generally increases with decreasing temperature.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "170",
+    "questionText": "How does viscosity affect the Reynolds number in fluid flow?",
+    "options": [
+      {
+        "text": "Higher viscosity results in a lower Reynolds number",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher viscosity results in a higher Reynolds number",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity does not affect the Reynolds number",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity affects only the flow velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Higher viscosity results in a lower Reynolds number, indicating more laminar flow.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "HARD"
+  },
+  {
+    "qno": "171",
+    "questionText": "What does the Reynolds number indicate in fluid dynamics?",
+    "options": [
+      {
+        "text": "The type of flow (laminar or turbulent)",
+        "isCorrect": true
+      },
+      {
+        "text": "The density of the fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "The velocity of the fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure of the fluid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Reynolds number indicates the type of flow in fluid dynamics, whether it is laminar or turbulent.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "172",
+    "questionText": "What is the relationship between viscosity and temperature for gases?",
+    "options": [
+      {
+        "text": "Viscosity increases with increasing temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Viscosity decreases with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity remains constant with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity fluctuates with increasing temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The viscosity of gases generally increases with increasing temperature.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "173",
+    "questionText": "How does the viscosity of a liquid change with pressure?",
+    "options": [
+      {
+        "text": "Viscosity increases with increasing pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Viscosity decreases with increasing pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity remains constant with increasing pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity fluctuates with increasing pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The viscosity of a liquid generally increases with increasing pressure.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "174",
+    "questionText": "Which of the following is a characteristic of a Non-Newtonian fluid?",
+    "options": [
+      {
+        "text": "Viscosity changes with the applied shear rate",
+        "isCorrect": true
+      },
+      {
+        "text": "Viscosity remains constant regardless of the applied shear rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity is always low",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity is always high",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Non-Newtonian fluids are characterized by their viscosity changing with the applied shear rate.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "175",
+    "questionText": "What is the effect of increasing temperature on the viscosity of liquids?",
+    "options": [
+      {
+        "text": "Viscosity decreases with increasing temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Viscosity increases with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity remains constant with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity fluctuates with increasing temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The viscosity of liquids generally decreases with increasing temperature.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "176",
+    "questionText": "How is viscosity measured?",
+    "options": [
+      {
+        "text": "Using a viscometer",
+        "isCorrect": true
+      },
+      {
+        "text": "Using a barometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Using a hygrometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Using a thermometer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Viscosity is measured using a viscometer.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "EASY"
+  },
+  {
+    "qno": "177",
+    "questionText": "What is the effect of increasing pressure on the viscosity of liquids?",
+    "options": [
+      {
+        "text": "Viscosity increases with increasing pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Viscosity decreases with increasing pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity remains constant with increasing pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity fluctuates with increasing pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The viscosity of liquids generally increases with increasing pressure.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "180",
+    "questionText": "Which of the following is true for a Newtonian fluid?",
+    "options": [
+      {
+        "text": "The shear stress is directly proportional to the velocity gradient",
+        "isCorrect": true
+      },
+      {
+        "text": "The shear stress is inversely proportional to the velocity gradient",
+        "isCorrect": false
+      },
+      {
+        "text": "The shear stress is independent of the velocity gradient",
+        "isCorrect": false
+      },
+      {
+        "text": "The shear stress is inversely proportional to the pressure gradient",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a Newtonian fluid, the shear stress is directly proportional to the velocity gradient.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "level": "EASY"
+  },
+  {
+    "qno": "201",
+    "questionText": "What is surface tension?",
+    "options": [
+      {
+        "text": "The tendency of fluid surfaces to shrink into the minimum surface area possible",
+        "isCorrect": true
+      },
+      {
+        "text": "The force exerted by a fluid on an object",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure difference between two points in a fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "The viscosity of a fluid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Surface tension is the tendency of fluid surfaces to shrink into the minimum surface area possible.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "EASY"
+  },
+  {
+    "qno": "202",
+    "questionText": "What is the SI unit of surface tension?",
+    "options": [
+      {
+        "text": "Newton per meter (N/m)",
+        "isCorrect": true
+      },
+      {
+        "text": "Pascal (Pa)",
+        "isCorrect": false
+      },
+      {
+        "text": "Joule (J)",
+        "isCorrect": false
+      },
+      {
+        "text": "Watt (W)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The SI unit of surface tension is Newton per meter (N/m).",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "EASY"
+  },
+  {
+    "qno": "203",
+    "questionText": "How does temperature affect surface tension?",
+    "options": [
+      {
+        "text": "Surface tension decreases with increasing temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Surface tension increases with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension remains constant with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension fluctuates with increasing temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Surface tension generally decreases with increasing temperature.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "204",
+    "questionText": "What is the phenomenon of capillarity?",
+    "options": [
+      {
+        "text": "The rise or fall of a liquid in a small diameter tube",
+        "isCorrect": true
+      },
+      {
+        "text": "The tendency of a liquid to form a flat surface",
+        "isCorrect": false
+      },
+      {
+        "text": "The resistance of a liquid to flow",
+        "isCorrect": false
+      },
+      {
+        "text": "The diffusion of a liquid through a membrane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Capillarity is the rise or fall of a liquid in a small diameter tube due to surface tension.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "205",
+    "questionText": "What is the contact angle in the context of surface tension?",
+    "options": [
+      {
+        "text": "The angle between the tangent to the liquid surface and the solid surface",
+        "isCorrect": true
+      },
+      {
+        "text": "The angle between the liquid surface and the vertical",
+        "isCorrect": false
+      },
+      {
+        "text": "The angle between two intersecting liquid surfaces",
+        "isCorrect": false
+      },
+      {
+        "text": "The angle between the liquid surface and the horizontal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The contact angle is the angle between the tangent to the liquid surface and the solid surface at the point of contact.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "HARD"
+  },
+  {
+    "qno": "206",
+    "questionText": "How does the presence of impurities affect surface tension?",
+    "options": [
+      {
+        "text": "Impurities generally decrease surface tension",
+        "isCorrect": true
+      },
+      {
+        "text": "Impurities generally increase surface tension",
+        "isCorrect": false
+      },
+      {
+        "text": "Impurities have no effect on surface tension",
+        "isCorrect": false
+      },
+      {
+        "text": "Impurities cause surface tension to fluctuate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The presence of impurities generally decreases the surface tension of a liquid.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "207",
+    "questionText": "What causes the shape of a liquid droplet?",
+    "options": [
+      {
+        "text": "Surface tension",
+        "isCorrect": true
+      },
+      {
+        "text": "Viscosity",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Surface tension causes a liquid to form droplets with a shape that minimizes surface area.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "EASY"
+  },
+  {
+    "qno": "208",
+    "questionText": "What is the phenomenon of capillary action?",
+    "options": [
+      {
+        "text": "The rise or fall of a liquid in a narrow tube",
+        "isCorrect": true
+      },
+      {
+        "text": "The spreading of a liquid on a solid surface",
+        "isCorrect": false
+      },
+      {
+        "text": "The tendency of a liquid to form droplets",
+        "isCorrect": false
+      },
+      {
+        "text": "The resistance of a liquid to flow",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Capillary action is the rise or fall of a liquid in a narrow tube due to surface tension.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "209",
+    "questionText": "Which of the following factors affects the magnitude of surface tension?",
+    "options": [
+      {
+        "text": "Temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Density",
+        "isCorrect": false
+      },
+      {
+        "text": "Viscosity",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Temperature affects the magnitude of surface tension; generally, surface tension decreases with increasing temperature.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "EASY"
+  },
+  {
+    "qno": "210",
+    "questionText": "What is the relationship between surface tension and the formation of a meniscus?",
+    "options": [
+      {
+        "text": "Surface tension causes the curvature of the liquid surface at the contact line",
+        "isCorrect": true
+      },
+      {
+        "text": "Surface tension flattens the liquid surface at the contact line",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension increases the height of the liquid column",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension has no effect on the liquid surface",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Surface tension causes the curvature of the liquid surface at the contact line, leading to the formation of a meniscus.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "211",
+    "questionText": "What is the effect of surfactants on surface tension?",
+    "options": [
+      {
+        "text": "Surfactants decrease surface tension",
+        "isCorrect": true
+      },
+      {
+        "text": "Surfactants increase surface tension",
+        "isCorrect": false
+      },
+      {
+        "text": "Surfactants have no effect on surface tension",
+        "isCorrect": false
+      },
+      {
+        "text": "Surfactants cause surface tension to fluctuate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Surfactants decrease surface tension by disrupting the cohesive forces at the surface of the liquid.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "EASY"
+  },
+  {
+    "qno": "212",
+    "questionText": "What is the relationship between surface tension and the formation of bubbles?",
+    "options": [
+      {
+        "text": "Surface tension provides the force that minimizes the surface area of bubbles",
+        "isCorrect": true
+      },
+      {
+        "text": "Surface tension prevents the formation of bubbles",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension has no effect on bubble formation",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension increases the size of bubbles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Surface tension provides the force that minimizes the surface area of bubbles, causing them to form spherical shapes.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "213",
+    "questionText": "What is the relationship between surface tension and the rise of liquid in a capillary tube?",
+    "options": [
+      {
+        "text": "Surface tension causes the liquid to rise or fall in a capillary tube",
+        "isCorrect": true
+      },
+      {
+        "text": "Surface tension prevents the liquid from rising in a capillary tube",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension has no effect on the liquid level in a capillary tube",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension causes the liquid to evaporate in a capillary tube",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Surface tension causes the liquid to rise or fall in a capillary tube, a phenomenon known as capillarity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "214",
+    "questionText": "What is the relationship between surface tension and the shape of liquid droplets?",
+    "options": [
+      {
+        "text": "Surface tension causes liquid droplets to form spherical shapes",
+        "isCorrect": true
+      },
+      {
+        "text": "Surface tension causes liquid droplets to form cubic shapes",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension has no effect on the shape of liquid droplets",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension causes liquid droplets to form flat shapes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Surface tension causes liquid droplets to form spherical shapes to minimize surface area.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "EASY"
+  },
+  {
+    "qno": "215",
+    "questionText": "What is the relationship between surface tension and the wetting of surfaces?",
+    "options": [
+      {
+        "text": "Surface tension affects the ability of a liquid to spread on a surface",
+        "isCorrect": true
+      },
+      {
+        "text": "Surface tension prevents a liquid from spreading on a surface",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension has no effect on the wetting of surfaces",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension causes a liquid to evaporate from a surface",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Surface tension affects the ability of a liquid to spread on a surface, influencing wetting properties.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "216",
+    "questionText": "What is the relationship between surface tension and the formation of menisci?",
+    "options": [
+      {
+        "text": "Surface tension causes the curvature of the liquid surface at the contact line",
+        "isCorrect": true
+      },
+      {
+        "text": "Surface tension flattens the liquid surface at the contact line",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension increases the height of the liquid column",
+        "isCorrect": false
+      },
+      {
+        "text": "Surface tension has no effect on the liquid surface",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Surface tension causes the curvature of the liquid surface at the contact line, leading to the formation of menisci.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "level": "HARD"
+  },
+  {
+    "qno": "36",
+    "questionText": "What is pressure in fluid dynamics?",
+    "options": [
+      {
+        "text": "The force exerted per unit area",
+        "isCorrect": true
+      },
+      {
+        "text": "The volume of a fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature of a fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "The density of a fluid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure is defined as the force exerted per unit area.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "38",
+    "questionText": "How does pressure vary with depth in a fluid?",
+    "options": [
+      {
+        "text": "Pressure increases with increasing depth",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure decreases with increasing depth",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure remains constant with increasing depth",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure fluctuates with increasing depth",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure increases with increasing depth in a fluid due to the weight of the fluid above.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "39",
+    "questionText": "What is the relationship between pressure and force?",
+    "options": [
+      {
+        "text": "Pressure is the force exerted per unit area",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure is the force exerted per unit volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure is the force exerted per unit density",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure is the force exerted per unit temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure is defined as the force exerted per unit area.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "40",
+    "questionText": "What is the formula for pressure?",
+    "options": [
+      {
+        "text": "$P = \\frac{F}{A}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P = F \\cdot A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = \\frac{A}{F}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = \\frac{F^2}{A}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for pressure is $P = \\frac{F}{A}$, where $P$ is pressure, $F$ is force, and $A$ is area.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "41",
+    "questionText": "What is the pressure exerted by a column of liquid?",
+    "options": [
+      {
+        "text": "$P = h \\rho g$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P = \\frac{h}{\\rho g}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = h \\rho$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = \\frac{h \\rho}{g}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pressure exerted by a column of liquid is given by $P = h \\rho g$, where $h$ is the height of the column, $\\rho$ is the density of the liquid, and $g$ is the acceleration due to gravity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "42",
+    "questionText": "What is atmospheric pressure?",
+    "options": [
+      {
+        "text": "The pressure exerted by the weight of the atmosphere",
+        "isCorrect": true
+      },
+      {
+        "text": "The pressure exerted by the weight of water",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure exerted by the temperature of the air",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure exerted by the density of the air",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Atmospheric pressure is the pressure exerted by the weight of the atmosphere.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "43",
+    "questionText": "What instrument is used to measure atmospheric pressure?",
+    "options": [
+      {
+        "text": "Barometer",
+        "isCorrect": true
+      },
+      {
+        "text": "Hygrometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Thermometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Manometer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A barometer is used to measure atmospheric pressure.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "44",
+    "questionText": "How does atmospheric pressure change with altitude?",
+    "options": [
+      {
+        "text": "Atmospheric pressure decreases with increasing altitude",
+        "isCorrect": true
+      },
+      {
+        "text": "Atmospheric pressure increases with increasing altitude",
+        "isCorrect": false
+      },
+      {
+        "text": "Atmospheric pressure remains constant with increasing altitude",
+        "isCorrect": false
+      },
+      {
+        "text": "Atmospheric pressure fluctuates with increasing altitude",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Atmospheric pressure decreases with increasing altitude.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "45",
+    "questionText": "What is the standard atmospheric pressure at sea level?",
+    "options": [
+      {
+        "text": "101325 Pa",
+        "isCorrect": true
+      },
+      {
+        "text": "100000 Pa",
+        "isCorrect": false
+      },
+      {
+        "text": "105000 Pa",
+        "isCorrect": false
+      },
+      {
+        "text": "95000 Pa",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard atmospheric pressure at sea level is 101325 Pa.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "46",
+    "questionText": "What is the effect of temperature on pressure in a contained fluid?",
+    "options": [
+      {
+        "text": "Pressure increases with increasing temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure decreases with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure remains constant with increasing temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure fluctuates with increasing temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a contained fluid, pressure increases with increasing temperature due to the increase in kinetic energy of the molecules.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "47",
+    "questionText": "What is Pascal's law?",
+    "options": [
+      {
+        "text": "Pressure applied to an enclosed fluid is transmitted undiminished to all parts of the fluid",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure in a fluid decreases with depth",
+        "isCorrect": false
+      },
+      {
+        "text": "The velocity of a fluid increases with pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure of a fluid is independent of temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pascal's law states that pressure applied to an enclosed fluid is transmitted undiminished to all parts of the fluid.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "48",
+    "questionText": "What is the principle behind hydraulic systems?",
+    "options": [
+      {
+        "text": "Pascal's law",
+        "isCorrect": true
+      },
+      {
+        "text": "Archimedes' principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Bernoulli's principle",
+        "isCorrect": false
+      },
+      {
+        "text": "Boyle's law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hydraulic systems operate based on Pascal's law, which states that pressure applied to an enclosed fluid is transmitted undiminished to all parts of the fluid.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  },
+  {
+    "qno": "49",
+    "questionText": "How is pressure in a fluid column calculated?",
+    "options": [
+      {
+        "text": "$P = h \\rho g$",
+        "isCorrect": true
+      },
+      {
+        "text": "$P = \\frac{h}{\\rho g}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = h \\rho$",
+        "isCorrect": false
+      },
+      {
+        "text": "$P = \\frac{h \\rho}{g}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure in a fluid column is calculated using the formula $P = h \\rho g$, where $h$ is the height of the fluid column, $\\rho$ is the density of the fluid, and $g$ is the acceleration due to gravity.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "50",
+    "questionText": "What is the gauge pressure?",
+    "options": [
+      {
+        "text": "The pressure relative to atmospheric pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "The absolute pressure of a fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure exerted by the weight of the atmosphere",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure measured by a barometer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauge pressure is the pressure relative to atmospheric pressure.",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "level": "EASY"
+  }
+]

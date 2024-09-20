@@ -1,0 +1,5540 @@
+[
+  {
+    "qno": "1",
+    "questionText": "Which term describes the diversity at the genetic level over its distributional range?",
+    "options": [
+      {
+        "text": "Ecological diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Species diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Genetic diversity",
+        "isCorrect": true
+      },
+      {
+        "text": "Biosphere diversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Genetic diversity refers to the variation in genes within a particular species.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Genetic diversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "Which of the following is an example of genetic diversity?",
+    "options": [
+      {
+        "text": "Different species of plants in a forest",
+        "isCorrect": false
+      },
+      {
+        "text": "Various ecosystems in a region",
+        "isCorrect": false
+      },
+      {
+        "text": "Genetic variation in Rauwolfia vomitoria in the Himalayas",
+        "isCorrect": true
+      },
+      {
+        "text": "Diversity of mammals in the Western Ghats",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Genetic diversity can be observed in the variation of chemical potency in Rauwolfia vomitoria across different regions.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Genetic diversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "India has more than 50,000 genetically different strains of which crop?",
+    "options": [
+      {
+        "text": "Wheat",
+        "isCorrect": false
+      },
+      {
+        "text": "Rice",
+        "isCorrect": true
+      },
+      {
+        "text": "Mango",
+        "isCorrect": false
+      },
+      {
+        "text": "Potato",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India's genetic diversity in rice includes over 50,000 different strains.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Genetic diversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "4",
+    "questionText": "What type of diversity is indicated by the various species of amphibians in the Western Ghats?",
+    "options": [
+      {
+        "text": "Genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Species diversity",
+        "isCorrect": true
+      },
+      {
+        "text": "Ecological diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat diversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Western Ghats exhibit high species diversity with many different species of amphibians.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Species diversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "5",
+    "questionText": "Which ecosystem type contributes to India's high ecological diversity?",
+    "options": [
+      {
+        "text": "Deserts",
+        "isCorrect": true
+      },
+      {
+        "text": "Temperate forests",
+        "isCorrect": false
+      },
+      {
+        "text": "Tundra",
+        "isCorrect": false
+      },
+      {
+        "text": "Savannah",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India's ecological diversity includes various ecosystems such as deserts, rain forests, mangroves, and more.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Ecological diversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "What is the term used by Edward Wilson to describe the combined diversity at all levels of biological organization?",
+    "options": [
+      {
+        "text": "Genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Species diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecological diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Biodiversity",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Edward Wilson popularized the term 'biodiversity' to describe the diversity at genetic, species, and ecosystem levels.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "7",
+    "questionText": "Which country is known to have a greater amphibian species diversity, the Western Ghats or the Eastern Ghats?",
+    "options": [
+      {
+        "text": "Western Ghats",
+        "isCorrect": true
+      },
+      {
+        "text": "Eastern Ghats",
+        "isCorrect": false
+      },
+      {
+        "text": "Both have equal diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither has significant diversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Western Ghats are known for their higher amphibian species diversity compared to the Eastern Ghats.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Species diversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "8",
+    "questionText": "The high genetic variation in Rauwolfia vomitoria in the Himalayas is related to the production of which active chemical?",
+    "options": [
+      {
+        "text": "Reserpine",
+        "isCorrect": true
+      },
+      {
+        "text": "Morphine",
+        "isCorrect": false
+      },
+      {
+        "text": "Quinine",
+        "isCorrect": false
+      },
+      {
+        "text": "Cocaine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rauwolfia vomitoria exhibits genetic variation in terms of the potency and concentration of reserpine.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Genetic diversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "9",
+    "questionText": "Which diversity type is exemplified by India's varied ecosystems, including deserts, rain forests, and coral reefs?",
+    "options": [
+      {
+        "text": "Genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Species diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecological diversity",
+        "isCorrect": true
+      },
+      {
+        "text": "Population diversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India's ecological diversity encompasses a wide range of ecosystems like deserts, rain forests, and coral reefs.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Ecological diversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "10",
+    "questionText": "Which term best describes the diversity of ecosystems within a country?",
+    "options": [
+      {
+        "text": "Genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Species diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecological diversity",
+        "isCorrect": true
+      },
+      {
+        "text": "Biological diversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ecological diversity refers to the variety of ecosystems within a particular area.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Ecological diversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "11",
+    "questionText": "Which region is known for having a greater amphibian species diversity?",
+    "options": [
+      {
+        "text": "Western Ghats",
+        "isCorrect": true
+      },
+      {
+        "text": "Eastern Ghats",
+        "isCorrect": false
+      },
+      {
+        "text": "Aravalli Hills",
+        "isCorrect": false
+      },
+      {
+        "text": "Vindhya Range",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Western Ghats have a higher diversity of amphibian species compared to other regions in India.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "Ecological diversity refers to the variety of _______ within a particular region.",
+    "options": [
+      {
+        "text": "genes",
+        "isCorrect": false
+      },
+      {
+        "text": "species",
+        "isCorrect": false
+      },
+      {
+        "text": "ecosystems",
+        "isCorrect": true
+      },
+      {
+        "text": "individuals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ecological diversity refers to the variety of ecosystems present within a particular region.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "Which of the following ecosystems contributes to India's ecological diversity?",
+    "options": [
+      {
+        "text": "Rain forests",
+        "isCorrect": true
+      },
+      {
+        "text": "Arctic tundra",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperate grasslands",
+        "isCorrect": false
+      },
+      {
+        "text": "Savannas",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India's ecological diversity includes rain forests, among other ecosystems such as deserts and coral reefs.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "14",
+    "questionText": "How many genetically different strains of rice does India have?",
+    "options": [
+      {
+        "text": "10,000",
+        "isCorrect": false
+      },
+      {
+        "text": "20,000",
+        "isCorrect": false
+      },
+      {
+        "text": "50,000",
+        "isCorrect": true
+      },
+      {
+        "text": "100,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India has over 50,000 genetically different strains of rice, showcasing high genetic diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "15",
+    "questionText": "The variety of genes within a species is referred to as _______.",
+    "options": [
+      {
+        "text": "ecological diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "species diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "genetic diversity",
+        "isCorrect": true
+      },
+      {
+        "text": "community diversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Genetic diversity refers to the variety of genes within a particular species.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "16",
+    "questionText": "Which term best describes the variety of species within a region?",
+    "options": [
+      {
+        "text": "Genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Species diversity",
+        "isCorrect": true
+      },
+      {
+        "text": "Ecological diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Population diversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Species diversity refers to the variety of species within a particular region.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "How many species of plants and animals have been described so far according to the IUCN (2004)?",
+    "options": [
+      {
+        "text": "1 million",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5 million",
+        "isCorrect": true
+      },
+      {
+        "text": "2 million",
+        "isCorrect": false
+      },
+      {
+        "text": "3 million",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the IUCN (2004), slightly more than 1.5 million species of plants and animals have been described so far.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "18",
+    "questionText": "Which plant's genetic variation is cited as an example of genetic diversity in different Himalayan ranges?",
+    "options": [
+      {
+        "text": "Rauwolfia vomitoria",
+        "isCorrect": true
+      },
+      {
+        "text": "Mangifera indica",
+        "isCorrect": false
+      },
+      {
+        "text": "Oryza sativa",
+        "isCorrect": false
+      },
+      {
+        "text": "Solanum tuberosum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rauwolfia vomitoria's genetic variation in the potency and concentration of reserpine in different Himalayan ranges is an example of genetic diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "19",
+    "questionText": "Which term describes the diversity of ecosystems within a particular region?",
+    "options": [
+      {
+        "text": "Genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Species diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecological diversity",
+        "isCorrect": true
+      },
+      {
+        "text": "Population diversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ecological diversity refers to the variety of ecosystems within a particular region.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "20",
+    "questionText": "Which of the following terms best describes the variety of species within a region?",
+    "options": [
+      {
+        "text": "Genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Species diversity",
+        "isCorrect": true
+      },
+      {
+        "text": "Ecological diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Population diversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Species diversity refers to the variety of species within a particular region.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "Which of the following statements about biodiversity is true?",
+    "options": [
+      {
+        "text": "Biodiversity is uniform across the globe.",
+        "isCorrect": false
+      },
+      {
+        "text": "Biodiversity is higher in tropical regions.",
+        "isCorrect": true
+      },
+      {
+        "text": "Biodiversity is higher in polar regions.",
+        "isCorrect": false
+      },
+      {
+        "text": "Biodiversity is unaffected by geographical location.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Biodiversity is generally higher in tropical regions compared to temperate and polar regions.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "22",
+    "questionText": "Which of the following is not a type of biodiversity?",
+    "options": [
+      {
+        "text": "Genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Species diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecological diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Climatic diversity",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Genetic, species, and ecological diversity are types of biodiversity, but climatic diversity is not.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "What percentage of the total species recorded are animals?",
+    "options": [
+      {
+        "text": "50%",
+        "isCorrect": false
+      },
+      {
+        "text": "60%",
+        "isCorrect": false
+      },
+      {
+        "text": "70%",
+        "isCorrect": true
+      },
+      {
+        "text": "80%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "More than 70% of all species recorded are animals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "24",
+    "questionText": "Which taxonomic group makes up more than 70% of the total animal species?",
+    "options": [
+      {
+        "text": "Mammals",
+        "isCorrect": false
+      },
+      {
+        "text": "Birds",
+        "isCorrect": false
+      },
+      {
+        "text": "Insects",
+        "isCorrect": true
+      },
+      {
+        "text": "Reptiles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Insects make up more than 70% of the total animal species recorded.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "25",
+    "questionText": "Which hypothesis explains why tropics have greater biodiversity due to longer evolutionary time?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speciation-time hypothesis suggests that tropical regions have had more evolutionary time, leading to greater species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "26",
+    "questionText": "Which country is home to the highest biodiversity on earth?",
+    "options": [
+      {
+        "text": "Brazil",
+        "isCorrect": true
+      },
+      {
+        "text": "India",
+        "isCorrect": false
+      },
+      {
+        "text": "China",
+        "isCorrect": false
+      },
+      {
+        "text": "Australia",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Brazil, with its Amazon rainforest, is home to the highest biodiversity on earth.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "27",
+    "questionText": "How many species of birds are found in Colombia, which is located near the equator?",
+    "options": [
+      {
+        "text": "500 species",
+        "isCorrect": false
+      },
+      {
+        "text": "800 species",
+        "isCorrect": false
+      },
+      {
+        "text": "1,400 species",
+        "isCorrect": true
+      },
+      {
+        "text": "2,000 species",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Colombia, located near the equator, has nearly 1,400 species of birds.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "28",
+    "questionText": "According to the energy hypothesis, what contributes to higher productivity and greater species diversity in the tropics?",
+    "options": [
+      {
+        "text": "Lower temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "More solar energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher rainfall",
+        "isCorrect": false
+      },
+      {
+        "text": "Stable climate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the energy hypothesis, more solar energy in the tropics contributes to higher productivity and greater species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "29",
+    "questionText": "Which term refers to the loss of species from a particular region, even though it may exist elsewhere?",
+    "options": [
+      {
+        "text": "Extirpation",
+        "isCorrect": true
+      },
+      {
+        "text": "Extinction",
+        "isCorrect": false
+      },
+      {
+        "text": "Invasion",
+        "isCorrect": false
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Extirpation refers to the loss of species from a particular region, even though it may exist elsewhere.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "30",
+    "questionText": "Which region is known for its high species richness of amphibians in India?",
+    "options": [
+      {
+        "text": "Western Ghats",
+        "isCorrect": true
+      },
+      {
+        "text": "Eastern Ghats",
+        "isCorrect": false
+      },
+      {
+        "text": "Himalayas",
+        "isCorrect": false
+      },
+      {
+        "text": "Thar Desert",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Western Ghats in India are known for their high species richness of amphibians.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "31",
+    "questionText": "How many species of plants have been recorded from India?",
+    "options": [
+      {
+        "text": "30,000",
+        "isCorrect": false
+      },
+      {
+        "text": "45,000",
+        "isCorrect": true
+      },
+      {
+        "text": "60,000",
+        "isCorrect": false
+      },
+      {
+        "text": "75,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nearly 45,000 species of plants have been recorded from India.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "32",
+    "questionText": "What is the estimated total number of species on earth according to Robert May?",
+    "options": [
+      {
+        "text": "5 million",
+        "isCorrect": false
+      },
+      {
+        "text": "7 million",
+        "isCorrect": true
+      },
+      {
+        "text": "10 million",
+        "isCorrect": false
+      },
+      {
+        "text": "15 million",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Robert May estimated the total number of species on earth to be about 7 million.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "33",
+    "questionText": "Which plant group has more species than the combined total of fishes, amphibians, reptiles, and mammals?",
+    "options": [
+      {
+        "text": "Fungi",
+        "isCorrect": true
+      },
+      {
+        "text": "Bryophytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Gymnosperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Algae",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The group Fungi has more species than the combined total of fishes, amphibians, reptiles, and mammals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "34",
+    "questionText": "Which taxonomic group of animals makes up the largest proportion of species on earth?",
+    "options": [
+      {
+        "text": "Mammals",
+        "isCorrect": false
+      },
+      {
+        "text": "Birds",
+        "isCorrect": false
+      },
+      {
+        "text": "Insects",
+        "isCorrect": true
+      },
+      {
+        "text": "Reptiles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Insects are the most species-rich taxonomic group, making up more than 70% of the total animal species.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "35",
+    "questionText": "Which region is known to have the highest biodiversity on earth?",
+    "options": [
+      {
+        "text": "Amazon rain forest",
+        "isCorrect": true
+      },
+      {
+        "text": "Sahara Desert",
+        "isCorrect": false
+      },
+      {
+        "text": "Great Barrier Reef",
+        "isCorrect": false
+      },
+      {
+        "text": "Himalayas",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Amazon rain forest in South America has the highest biodiversity on earth.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "36",
+    "questionText": "What is the total number of animal and plant species described so far?",
+    "options": [
+      {
+        "text": "1.5 million",
+        "isCorrect": true
+      },
+      {
+        "text": "2 million",
+        "isCorrect": false
+      },
+      {
+        "text": "2.5 million",
+        "isCorrect": false
+      },
+      {
+        "text": "3 million",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the IUCN (2004), the total number of plant and animal species described so far is slightly more than 1.5 million.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "37",
+    "questionText": "What percentage of the earth's land area is covered by India's biodiversity?",
+    "options": [
+      {
+        "text": "2.4%",
+        "isCorrect": true
+      },
+      {
+        "text": "5%",
+        "isCorrect": false
+      },
+      {
+        "text": "10%",
+        "isCorrect": false
+      },
+      {
+        "text": "15%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India covers 2.4% of the world's land area but has an impressive 8.1% of the global species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "38",
+    "questionText": "Which hypothesis suggests that tropical regions have remained relatively undisturbed for millions of years, allowing for greater species diversification?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speciation-time hypothesis suggests that tropical regions have remained relatively undisturbed for millions of years, allowing for greater species diversification.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "39",
+    "questionText": "How many species of insects are estimated to exist in the Amazon rain forest?",
+    "options": [
+      {
+        "text": "1 million",
+        "isCorrect": false
+      },
+      {
+        "text": "2 million",
+        "isCorrect": true
+      },
+      {
+        "text": "3 million",
+        "isCorrect": false
+      },
+      {
+        "text": "4 million",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Scientists estimate that there might be at least two million insect species in the Amazon rain forest waiting to be discovered and named.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "40",
+    "questionText": "Which country is considered one of the 12 mega diversity countries of the world?",
+    "options": [
+      {
+        "text": "India",
+        "isCorrect": true
+      },
+      {
+        "text": "Norway",
+        "isCorrect": false
+      },
+      {
+        "text": "Greenland",
+        "isCorrect": false
+      },
+      {
+        "text": "New Zealand",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is considered one of the 12 mega diversity countries of the world due to its high species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "41",
+    "questionText": "How many species of plants and animals are recorded from India?",
+    "options": [
+      {
+        "text": "45,000 species of plants and 90,000 species of animals",
+        "isCorrect": false
+      },
+      {
+        "text": "30,000 species of plants and 60,000 species of animals",
+        "isCorrect": false
+      },
+      {
+        "text": "45,000 species of plants and 1,00,000 species of animals",
+        "isCorrect": false
+      },
+      {
+        "text": "45,000 species of plants and 90,000 species of animals",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "India has recorded 45,000 species of plants and 90,000 species of animals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "42",
+    "questionText": "Which group of plants has the highest number of species?",
+    "options": [
+      {
+        "text": "Fungi",
+        "isCorrect": true
+      },
+      {
+        "text": "Bryophytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Pteridophytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Angiosperms",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The group Fungi has the highest number of species among plants.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "43",
+    "questionText": "Which hypothesis suggests that tropical environments promote niche specialization?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The climatic stability hypothesis suggests that tropical environments, being less seasonal and more constant, promote niche specialization and greater species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "44",
+    "questionText": "Which hypothesis proposes that the more solar energy available in the tropics contributes to higher productivity and greater species diversity?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy hypothesis proposes that more solar energy in the tropics contributes to higher productivity and greater species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "45",
+    "questionText": "According to the IUCN (2004), what is the total number of plant and animal species described so far?",
+    "options": [
+      {
+        "text": "1 million",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5 million",
+        "isCorrect": true
+      },
+      {
+        "text": "2 million",
+        "isCorrect": false
+      },
+      {
+        "text": "2.5 million",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUCN (2004) states that the total number of plant and animal species described so far is slightly more than 1.5 million.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "46",
+    "questionText": "What is the term used to describe the total number of species present in a given area?",
+    "options": [
+      {
+        "text": "Species richness",
+        "isCorrect": true
+      },
+      {
+        "text": "Species evenness",
+        "isCorrect": false
+      },
+      {
+        "text": "Genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecological diversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Species richness refers to the total number of species present in a given area.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "47",
+    "questionText": "Which region is known for its high species richness in the tropics?",
+    "options": [
+      {
+        "text": "Amazon rain forest",
+        "isCorrect": true
+      },
+      {
+        "text": "Sahara Desert",
+        "isCorrect": false
+      },
+      {
+        "text": "Great Barrier Reef",
+        "isCorrect": false
+      },
+      {
+        "text": "Arctic tundra",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Amazon rain forest is known for its high species richness in the tropics.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "48",
+    "questionText": "How many species of birds are found in India?",
+    "options": [
+      {
+        "text": "500 species",
+        "isCorrect": false
+      },
+      {
+        "text": "800 species",
+        "isCorrect": false
+      },
+      {
+        "text": "1,200 species",
+        "isCorrect": true
+      },
+      {
+        "text": "1,500 species",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India has more than 1,200 species of birds, reflecting its high species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "49",
+    "questionText": "Which region is known for its high species richness of vascular plants in the tropics?",
+    "options": [
+      {
+        "text": "Amazon rain forest",
+        "isCorrect": true
+      },
+      {
+        "text": "Sahara Desert",
+        "isCorrect": false
+      },
+      {
+        "text": "Great Barrier Reef",
+        "isCorrect": false
+      },
+      {
+        "text": "Arctic tundra",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Amazon rain forest is known for its high species richness of vascular plants in the tropics.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "50",
+    "questionText": "How many species of fishes are found in the Amazon rain forest?",
+    "options": [
+      {
+        "text": "1,000 species",
+        "isCorrect": false
+      },
+      {
+        "text": "2,000 species",
+        "isCorrect": false
+      },
+      {
+        "text": "3,000 species",
+        "isCorrect": true
+      },
+      {
+        "text": "4,000 species",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Amazon rain forest is home to more than 3,000 species of fishes.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "51",
+    "questionText": "Which country is considered one of the 12 mega diversity countries of the world due to its high species diversity?",
+    "options": [
+      {
+        "text": "India",
+        "isCorrect": true
+      },
+      {
+        "text": "Norway",
+        "isCorrect": false
+      },
+      {
+        "text": "Greenland",
+        "isCorrect": false
+      },
+      {
+        "text": "New Zealand",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is considered one of the 12 mega diversity countries of the world due to its high species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "52",
+    "questionText": "How many species of amphibians are found in the Amazon rain forest?",
+    "options": [
+      {
+        "text": "200 species",
+        "isCorrect": false
+      },
+      {
+        "text": "300 species",
+        "isCorrect": false
+      },
+      {
+        "text": "427 species",
+        "isCorrect": true
+      },
+      {
+        "text": "500 species",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Amazon rain forest is home to 427 species of amphibians.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "53",
+    "questionText": "Which region is known for its high species richness of birds in the tropics?",
+    "options": [
+      {
+        "text": "Amazon rain forest",
+        "isCorrect": true
+      },
+      {
+        "text": "Sahara Desert",
+        "isCorrect": false
+      },
+      {
+        "text": "Great Barrier Reef",
+        "isCorrect": false
+      },
+      {
+        "text": "Arctic tundra",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Amazon rain forest is known for its high species richness of birds in the tropics.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "54",
+    "questionText": "How many species of reptiles are found in the Amazon rain forest?",
+    "options": [
+      {
+        "text": "200 species",
+        "isCorrect": false
+      },
+      {
+        "text": "300 species",
+        "isCorrect": false
+      },
+      {
+        "text": "378 species",
+        "isCorrect": true
+      },
+      {
+        "text": "400 species",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Amazon rain forest is home to 378 species of reptiles.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "55",
+    "questionText": "Which hypothesis suggests that tropical environments, being less seasonal and more constant, promote niche specialization and greater species diversity?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The climatic stability hypothesis suggests that tropical environments, being less seasonal and more constant, promote niche specialization and greater species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "56",
+    "questionText": "Which hypothesis proposes that more solar energy in the tropics contributes to higher productivity and greater species diversity?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy hypothesis proposes that more solar energy in the tropics contributes to higher productivity and greater species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "58",
+    "questionText": "How many species of mammals are found in the Amazon rain forest?",
+    "options": [
+      {
+        "text": "200 species",
+        "isCorrect": false
+      },
+      {
+        "text": "300 species",
+        "isCorrect": false
+      },
+      {
+        "text": "427 species",
+        "isCorrect": true
+      },
+      {
+        "text": "500 species",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Amazon rain forest is home to 427 species of mammals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "59",
+    "questionText": "Which hypothesis explains that the relatively constant and predictable tropical environments promote niche specialization and greater species diversity?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The climatic stability hypothesis explains that the relatively constant and predictable tropical environments promote niche specialization and greater species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "60",
+    "questionText": "How many species of invertebrates are estimated to exist in the Amazon rain forest?",
+    "options": [
+      {
+        "text": "100,000 species",
+        "isCorrect": false
+      },
+      {
+        "text": "200,000 species",
+        "isCorrect": false
+      },
+      {
+        "text": "500,000 species",
+        "isCorrect": false
+      },
+      {
+        "text": "1,25,000 species",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The Amazon rain forest is estimated to have more than 1,25,000 species of invertebrates.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "61",
+    "questionText": "Which hypothesis suggests that the tropics have remained relatively undisturbed for millions of years, allowing for greater species diversification?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speciation-time hypothesis suggests that the tropics have remained relatively undisturbed for millions of years, allowing for greater species diversification.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "65",
+    "questionText": "Which hypothesis proposes that the tropics have higher productivity due to more solar energy, leading to greater species diversity?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy hypothesis proposes that more solar energy in the tropics leads to higher productivity and greater species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "70",
+    "questionText": "Which hypothesis suggests that the tropics have higher productivity due to more solar energy, leading to greater species diversity?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy hypothesis proposes that more solar energy in the tropics leads to higher productivity and greater species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "81",
+    "questionText": "According to the IUCN (2004), how many plant and animal species have been described so far?",
+    "options": [
+      {
+        "text": "1 million",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5 million",
+        "isCorrect": true
+      },
+      {
+        "text": "2 million",
+        "isCorrect": false
+      },
+      {
+        "text": "2.5 million",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the IUCN (2004), slightly more than 1.5 million plant and animal species have been described so far.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "82",
+    "questionText": "What is the estimated global species diversity according to Robert May?",
+    "options": [
+      {
+        "text": "5 million",
+        "isCorrect": false
+      },
+      {
+        "text": "7 million",
+        "isCorrect": true
+      },
+      {
+        "text": "10 million",
+        "isCorrect": false
+      },
+      {
+        "text": "12 million",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Robert May estimated the global species diversity to be about 7 million.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "83",
+    "questionText": "What percentage of the global species diversity is represented by animals?",
+    "options": [
+      {
+        "text": "50%",
+        "isCorrect": false
+      },
+      {
+        "text": "60%",
+        "isCorrect": false
+      },
+      {
+        "text": "70%",
+        "isCorrect": true
+      },
+      {
+        "text": "80%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "More than 70% of the global species diversity is represented by animals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "84",
+    "questionText": "Which taxonomic group is the most species-rich, making up more than 70% of all animals?",
+    "options": [
+      {
+        "text": "Mammals",
+        "isCorrect": false
+      },
+      {
+        "text": "Birds",
+        "isCorrect": false
+      },
+      {
+        "text": "Insects",
+        "isCorrect": true
+      },
+      {
+        "text": "Reptiles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Insects are the most species-rich taxonomic group, making up more than 70% of all animals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "85",
+    "questionText": "How many species of plants are there, including algae, fungi, bryophytes, gymnosperms, and angiosperms?",
+    "options": [
+      {
+        "text": "10%",
+        "isCorrect": false
+      },
+      {
+        "text": "20%",
+        "isCorrect": false
+      },
+      {
+        "text": "22%",
+        "isCorrect": true
+      },
+      {
+        "text": "30%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plants, including algae, fungi, bryophytes, gymnosperms, and angiosperms, make up no more than 22% of the total species.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "86",
+    "questionText": "Which country is known to have the highest biodiversity, especially in the Amazon rainforest?",
+    "options": [
+      {
+        "text": "India",
+        "isCorrect": false
+      },
+      {
+        "text": "Australia",
+        "isCorrect": false
+      },
+      {
+        "text": "Brazil",
+        "isCorrect": true
+      },
+      {
+        "text": "South Africa",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Brazil is known to have the highest biodiversity, especially in the Amazon rainforest.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "87",
+    "questionText": "What is the estimated number of plant species yet to be discovered and described in India?",
+    "options": [
+      {
+        "text": "50,000",
+        "isCorrect": false
+      },
+      {
+        "text": "75,000",
+        "isCorrect": false
+      },
+      {
+        "text": "100,000",
+        "isCorrect": true
+      },
+      {
+        "text": "125,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "It is estimated that there are probably more than 100,000 plant species yet to be discovered and described in India.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "88",
+    "questionText": "How many species of animals are estimated to be waiting to be discovered and described in India?",
+    "options": [
+      {
+        "text": "200,000",
+        "isCorrect": false
+      },
+      {
+        "text": "250,000",
+        "isCorrect": false
+      },
+      {
+        "text": "300,000",
+        "isCorrect": true
+      },
+      {
+        "text": "350,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "It is estimated that there are probably more than 300,000 animal species yet to be discovered and described in India.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "89",
+    "questionText": "What percentage of the world's land area is covered by India?",
+    "options": [
+      {
+        "text": "1.2%",
+        "isCorrect": false
+      },
+      {
+        "text": "2.4%",
+        "isCorrect": true
+      },
+      {
+        "text": "3.6%",
+        "isCorrect": false
+      },
+      {
+        "text": "4.8%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India covers 2.4% of the world's land area.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "90",
+    "questionText": "What is India's share of the global species diversity?",
+    "options": [
+      {
+        "text": "6.1%",
+        "isCorrect": false
+      },
+      {
+        "text": "7.1%",
+        "isCorrect": false
+      },
+      {
+        "text": "8.1%",
+        "isCorrect": true
+      },
+      {
+        "text": "9.1%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India's share of the global species diversity is an impressive 8.1%.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "91",
+    "questionText": "Which group of animals has more species than all vertebrates combined?",
+    "options": [
+      {
+        "text": "Mammals",
+        "isCorrect": false
+      },
+      {
+        "text": "Birds",
+        "isCorrect": false
+      },
+      {
+        "text": "Fungi",
+        "isCorrect": true
+      },
+      {
+        "text": "Reptiles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The group Fungi has more species than the combined total of fishes, amphibians, reptiles, and mammals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "92",
+    "questionText": "Which region of the world is known for having more complete species inventories for many taxonomic groups?",
+    "options": [
+      {
+        "text": "Tropical regions",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperate regions",
+        "isCorrect": true
+      },
+      {
+        "text": "Polar regions",
+        "isCorrect": false
+      },
+      {
+        "text": "Desert regions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Species inventories are more complete in temperate regions than in tropical regions.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "93",
+    "questionText": "According to the International Union for Conservation of Nature and Natural Resources (IUCN), how many plant and animal species have been described so far?",
+    "options": [
+      {
+        "text": "1 million",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5 million",
+        "isCorrect": true
+      },
+      {
+        "text": "2 million",
+        "isCorrect": false
+      },
+      {
+        "text": "2.5 million",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUCN states that slightly more than 1.5 million plant and animal species have been described so far.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "94",
+    "questionText": "How many species of plants and animals are currently known in the world?",
+    "options": [
+      {
+        "text": "1.5 million",
+        "isCorrect": true
+      },
+      {
+        "text": "2 million",
+        "isCorrect": false
+      },
+      {
+        "text": "3 million",
+        "isCorrect": false
+      },
+      {
+        "text": "4 million",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Slightly more than 1.5 million species of plants and animals are currently known in the world.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "95",
+    "questionText": "What is the estimated number of total species on earth, according to some extreme estimates?",
+    "options": [
+      {
+        "text": "10-20 million",
+        "isCorrect": false
+      },
+      {
+        "text": "20-30 million",
+        "isCorrect": false
+      },
+      {
+        "text": "20-50 million",
+        "isCorrect": true
+      },
+      {
+        "text": "50-70 million",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Some extreme estimates suggest that there might be between 20 to 50 million total species on earth.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "96",
+    "questionText": "According to Robert May, what is the conservative and scientifically sound estimate of global species diversity?",
+    "options": [
+      {
+        "text": "5 million",
+        "isCorrect": false
+      },
+      {
+        "text": "7 million",
+        "isCorrect": true
+      },
+      {
+        "text": "10 million",
+        "isCorrect": false
+      },
+      {
+        "text": "12 million",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Robert May's conservative and scientifically sound estimate of global species diversity is about 7 million.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "97",
+    "questionText": "What percentage of the total species have been recorded so far according to May's global estimates?",
+    "options": [
+      {
+        "text": "20%",
+        "isCorrect": false
+      },
+      {
+        "text": "22%",
+        "isCorrect": true
+      },
+      {
+        "text": "25%",
+        "isCorrect": false
+      },
+      {
+        "text": "30%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to May's global estimates, only 22% of the total species have been recorded so far.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "98",
+    "questionText": "In which region are the majority of the undiscovered species likely to be found?",
+    "options": [
+      {
+        "text": "Temperate regions",
+        "isCorrect": false
+      },
+      {
+        "text": "Tropical regions",
+        "isCorrect": true
+      },
+      {
+        "text": "Polar regions",
+        "isCorrect": false
+      },
+      {
+        "text": "Desert regions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An overwhelmingly large proportion of the species waiting to be discovered are in the tropical regions.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "99",
+    "questionText": "Which group of species has the highest number of known species?",
+    "options": [
+      {
+        "text": "Mammals",
+        "isCorrect": false
+      },
+      {
+        "text": "Birds",
+        "isCorrect": false
+      },
+      {
+        "text": "Insects",
+        "isCorrect": true
+      },
+      {
+        "text": "Reptiles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Insects have the highest number of known species among the taxonomic groups.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "100",
+    "questionText": "Which country has nearly 45,000 species of plants recorded?",
+    "options": [
+      {
+        "text": "Australia",
+        "isCorrect": false
+      },
+      {
+        "text": "Brazil",
+        "isCorrect": false
+      },
+      {
+        "text": "India",
+        "isCorrect": true
+      },
+      {
+        "text": "South Africa",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India has nearly 45,000 species of plants recorded.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "101",
+    "questionText": "How many species of animals have been recorded in India?",
+    "options": [
+      {
+        "text": "45,000",
+        "isCorrect": false
+      },
+      {
+        "text": "90,000",
+        "isCorrect": true
+      },
+      {
+        "text": "120,000",
+        "isCorrect": false
+      },
+      {
+        "text": "150,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India has recorded 90,000 species of animals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "102",
+    "questionText": "How many species of insects are there in the world?",
+    "options": [
+      {
+        "text": "500,000",
+        "isCorrect": false
+      },
+      {
+        "text": "700,000",
+        "isCorrect": false
+      },
+      {
+        "text": "1 million",
+        "isCorrect": false
+      },
+      {
+        "text": "1.25 million",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Insects make up more than 1.25 million species in the world.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "103",
+    "questionText": "Which region has a greater diversity of species, tropical or temperate regions?",
+    "options": [
+      {
+        "text": "Tropical regions",
+        "isCorrect": true
+      },
+      {
+        "text": "Temperate regions",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar regions",
+        "isCorrect": false
+      },
+      {
+        "text": "Desert regions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tropical regions have a greater diversity of species compared to temperate regions.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "104",
+    "questionText": "How many species of fungi are there in the world?",
+    "options": [
+      {
+        "text": "500,000",
+        "isCorrect": false
+      },
+      {
+        "text": "700,000",
+        "isCorrect": false
+      },
+      {
+        "text": "1 million",
+        "isCorrect": true
+      },
+      {
+        "text": "1.5 million",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "There are more than 1 million species of fungi in the world.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "105",
+    "questionText": "How many species of plants and animals are there in India?",
+    "options": [
+      {
+        "text": "45,000 species of plants and 90,000 species of animals",
+        "isCorrect": true
+      },
+      {
+        "text": "30,000 species of plants and 60,000 species of animals",
+        "isCorrect": false
+      },
+      {
+        "text": "60,000 species of plants and 120,000 species of animals",
+        "isCorrect": false
+      },
+      {
+        "text": "75,000 species of plants and 150,000 species of animals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India has recorded 45,000 species of plants and 90,000 species of animals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "106",
+    "questionText": "How many species of mammals are there in India?",
+    "options": [
+      {
+        "text": "300",
+        "isCorrect": false
+      },
+      {
+        "text": "350",
+        "isCorrect": true
+      },
+      {
+        "text": "400",
+        "isCorrect": false
+      },
+      {
+        "text": "450",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is home to about 350 species of mammals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "107",
+    "questionText": "How many species of birds are there in India?",
+    "options": [
+      {
+        "text": "500",
+        "isCorrect": false
+      },
+      {
+        "text": "1,200",
+        "isCorrect": true
+      },
+      {
+        "text": "2,000",
+        "isCorrect": false
+      },
+      {
+        "text": "2,500",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is home to about 1,200 species of birds.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "108",
+    "questionText": "How many species of reptiles are there in India?",
+    "options": [
+      {
+        "text": "300",
+        "isCorrect": false
+      },
+      {
+        "text": "350",
+        "isCorrect": false
+      },
+      {
+        "text": "450",
+        "isCorrect": true
+      },
+      {
+        "text": "500",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is home to about 450 species of reptiles.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "109",
+    "questionText": "How many species of amphibians are there in India?",
+    "options": [
+      {
+        "text": "150",
+        "isCorrect": false
+      },
+      {
+        "text": "200",
+        "isCorrect": false
+      },
+      {
+        "text": "250",
+        "isCorrect": true
+      },
+      {
+        "text": "300",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is home to about 250 species of amphibians.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "110",
+    "questionText": "How many species of fishes are there in India?",
+    "options": [
+      {
+        "text": "1,500",
+        "isCorrect": false
+      },
+      {
+        "text": "2,000",
+        "isCorrect": false
+      },
+      {
+        "text": "2,500",
+        "isCorrect": true
+      },
+      {
+        "text": "3,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is home to about 2,500 species of fishes.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "111",
+    "questionText": "Which country is home to nearly 45,000 species of plants?",
+    "options": [
+      {
+        "text": "India",
+        "isCorrect": true
+      },
+      {
+        "text": "Australia",
+        "isCorrect": false
+      },
+      {
+        "text": "Brazil",
+        "isCorrect": false
+      },
+      {
+        "text": "South Africa",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is home to nearly 45,000 species of plants.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "112",
+    "questionText": "How many species of birds are there in India?",
+    "options": [
+      {
+        "text": "1,000",
+        "isCorrect": false
+      },
+      {
+        "text": "1,200",
+        "isCorrect": true
+      },
+      {
+        "text": "1,500",
+        "isCorrect": false
+      },
+      {
+        "text": "2,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is home to about 1,200 species of birds.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "113",
+    "questionText": "How many species of reptiles are there in India?",
+    "options": [
+      {
+        "text": "200",
+        "isCorrect": false
+      },
+      {
+        "text": "300",
+        "isCorrect": false
+      },
+      {
+        "text": "450",
+        "isCorrect": true
+      },
+      {
+        "text": "500",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is home to about 450 species of reptiles.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "114",
+    "questionText": "How many species of amphibians are there in India?",
+    "options": [
+      {
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "text": "200",
+        "isCorrect": false
+      },
+      {
+        "text": "250",
+        "isCorrect": true
+      },
+      {
+        "text": "300",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is home to about 250 species of amphibians.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "115",
+    "questionText": "How many species of fishes are there in India?",
+    "options": [
+      {
+        "text": "1,000",
+        "isCorrect": false
+      },
+      {
+        "text": "1,500",
+        "isCorrect": false
+      },
+      {
+        "text": "2,500",
+        "isCorrect": true
+      },
+      {
+        "text": "3,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is home to about 2,500 species of fishes.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "116",
+    "questionText": "How many species of plants are there in India?",
+    "options": [
+      {
+        "text": "30,000",
+        "isCorrect": false
+      },
+      {
+        "text": "45,000",
+        "isCorrect": true
+      },
+      {
+        "text": "60,000",
+        "isCorrect": false
+      },
+      {
+        "text": "75,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is home to nearly 45,000 species of plants.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "117",
+    "questionText": "How many species of mammals are there in India?",
+    "options": [
+      {
+        "text": "200",
+        "isCorrect": false
+      },
+      {
+        "text": "300",
+        "isCorrect": false
+      },
+      {
+        "text": "350",
+        "isCorrect": true
+      },
+      {
+        "text": "400",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "India is home to about 350 species of mammals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "123",
+    "questionText": "How many species of fishes are there in the world?",
+    "options": [
+      {
+        "text": "10,000",
+        "isCorrect": false
+      },
+      {
+        "text": "20,000",
+        "isCorrect": false
+      },
+      {
+        "text": "30,000",
+        "isCorrect": true
+      },
+      {
+        "text": "40,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "There are more than 30,000 species of fishes in the world.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "124",
+    "questionText": "How many species of amphibians are there in the world?",
+    "options": [
+      {
+        "text": "5,000",
+        "isCorrect": false
+      },
+      {
+        "text": "6,000",
+        "isCorrect": false
+      },
+      {
+        "text": "7,000",
+        "isCorrect": true
+      },
+      {
+        "text": "8,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "There are about 7,000 species of amphibians in the world.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "125",
+    "questionText": "How many species of reptiles are there in the world?",
+    "options": [
+      {
+        "text": "5,000",
+        "isCorrect": false
+      },
+      {
+        "text": "7,000",
+        "isCorrect": false
+      },
+      {
+        "text": "10,000",
+        "isCorrect": true
+      },
+      {
+        "text": "12,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "There are about 10,000 species of reptiles in the world.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "126",
+    "questionText": "How many species of birds are there in the world?",
+    "options": [
+      {
+        "text": "8,000",
+        "isCorrect": false
+      },
+      {
+        "text": "9,000",
+        "isCorrect": false
+      },
+      {
+        "text": "10,000",
+        "isCorrect": true
+      },
+      {
+        "text": "11,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "There are about 10,000 species of birds in the world.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "127",
+    "questionText": "How many species of mammals are there in the world?",
+    "options": [
+      {
+        "text": "4,000",
+        "isCorrect": false
+      },
+      {
+        "text": "5,000",
+        "isCorrect": false
+      },
+      {
+        "text": "6,000",
+        "isCorrect": true
+      },
+      {
+        "text": "7,000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "There are about 6,000 species of mammals in the world.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "128",
+    "questionText": "Which taxonomic group has the highest number of species in the world?",
+    "options": [
+      {
+        "text": "Insects",
+        "isCorrect": true
+      },
+      {
+        "text": "Fishes",
+        "isCorrect": false
+      },
+      {
+        "text": "Birds",
+        "isCorrect": false
+      },
+      {
+        "text": "Mammals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Insects are the most species-rich taxonomic group in the world.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "129",
+    "questionText": "Which group of plants has more species than all vertebrates combined?",
+    "options": [
+      {
+        "text": "Fungi",
+        "isCorrect": true
+      },
+      {
+        "text": "Bryophytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Gymnosperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Algae",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The group Fungi has more species than the combined total of fishes, amphibians, reptiles, and mammals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "130",
+    "questionText": "Which taxonomic group has the highest number of known species?",
+    "options": [
+      {
+        "text": "Mammals",
+        "isCorrect": false
+      },
+      {
+        "text": "Birds",
+        "isCorrect": false
+      },
+      {
+        "text": "Insects",
+        "isCorrect": true
+      },
+      {
+        "text": "Reptiles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Insects have the highest number of known species among the taxonomic groups.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "131",
+    "questionText": "Which group of plants has the highest number of species?",
+    "options": [
+      {
+        "text": "Fungi",
+        "isCorrect": true
+      },
+      {
+        "text": "Bryophytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Gymnosperms",
+        "isCorrect": false
+      },
+      {
+        "text": "Algae",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The group Fungi has the highest number of species among plants.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "How Many Species are there on Earth and How Many in India?",
+    "level": "HARD"
+  },
+  {
+    "qno": "161",
+    "questionText": "Which region has the greatest species diversity?",
+    "options": [
+      {
+        "text": "Tropics",
+        "isCorrect": true
+      },
+      {
+        "text": "Temperate regions",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar regions",
+        "isCorrect": false
+      },
+      {
+        "text": "Desert regions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The tropics have the greatest species diversity compared to temperate and polar regions.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "162",
+    "questionText": "Which hypothesis explains higher biodiversity in the tropics due to more stable climate conditions?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The climatic stability hypothesis explains higher biodiversity in the tropics due to more stable climate conditions.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "163",
+    "questionText": "Which term describes the variety and variability of all forms of life on Earth?",
+    "options": [
+      {
+        "text": "Genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Species diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecological diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Biodiversity",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Biodiversity describes the variety and variability of all forms of life on Earth.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "164",
+    "questionText": "Which region is known for its high amphibian diversity?",
+    "options": [
+      {
+        "text": "Western Ghats",
+        "isCorrect": true
+      },
+      {
+        "text": "Eastern Ghats",
+        "isCorrect": false
+      },
+      {
+        "text": "Himalayas",
+        "isCorrect": false
+      },
+      {
+        "text": "Thar Desert",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Western Ghats are known for their high amphibian diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "165",
+    "questionText": "What percentage of the total known species are animals?",
+    "options": [
+      {
+        "text": "60%",
+        "isCorrect": false
+      },
+      {
+        "text": "70%",
+        "isCorrect": true
+      },
+      {
+        "text": "80%",
+        "isCorrect": false
+      },
+      {
+        "text": "90%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Animals constitute about 70% of the total known species.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "166",
+    "questionText": "Which taxonomic group has the highest species richness?",
+    "options": [
+      {
+        "text": "Mammals",
+        "isCorrect": false
+      },
+      {
+        "text": "Birds",
+        "isCorrect": false
+      },
+      {
+        "text": "Insects",
+        "isCorrect": true
+      },
+      {
+        "text": "Reptiles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Insects are the most species-rich taxonomic group.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "167",
+    "questionText": "What is the estimated number of species on Earth?",
+    "options": [
+      {
+        "text": "5 million",
+        "isCorrect": false
+      },
+      {
+        "text": "7 million",
+        "isCorrect": true
+      },
+      {
+        "text": "10 million",
+        "isCorrect": false
+      },
+      {
+        "text": "12 million",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The estimated number of species on Earth is around 7 million.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "168",
+    "questionText": "Which hypothesis suggests that more solar energy in the tropics contributes to higher productivity and greater species diversity?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy hypothesis suggests that more solar energy in the tropics contributes to higher productivity and greater species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "169",
+    "questionText": "Which hypothesis explains the high species richness in tropical regions due to longer evolutionary time?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speciation-time hypothesis explains the high species richness in tropical regions due to longer evolutionary time.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "170",
+    "questionText": "Which region in India is known for its high species diversity?",
+    "options": [
+      {
+        "text": "Western Ghats",
+        "isCorrect": true
+      },
+      {
+        "text": "Eastern Ghats",
+        "isCorrect": false
+      },
+      {
+        "text": "Himalayas",
+        "isCorrect": false
+      },
+      {
+        "text": "Thar Desert",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Western Ghats in India are known for their high species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "171",
+    "questionText": "What is the main reason for the high biodiversity in tropical regions?",
+    "options": [
+      {
+        "text": "Higher altitudes",
+        "isCorrect": false
+      },
+      {
+        "text": "Stable climate",
+        "isCorrect": true
+      },
+      {
+        "text": "Lower temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "Less solar energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The stable climate in tropical regions is the main reason for their high biodiversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "172",
+    "questionText": "Which hypothesis suggests that tropical environments promote niche specialization?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The niche specialization hypothesis suggests that tropical environments promote niche specialization.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "173",
+    "questionText": "Which term best describes the variety of genes within a species?",
+    "options": [
+      {
+        "text": "Species diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Genetic diversity",
+        "isCorrect": true
+      },
+      {
+        "text": "Ecological diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Population diversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Genetic diversity refers to the variety of genes within a species.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "174",
+    "questionText": "Which hypothesis explains the high species richness in tropical regions due to more available niches?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The niche specialization hypothesis explains the high species richness in tropical regions due to more available niches.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "175",
+    "questionText": "What is the primary reason for the high biodiversity in the Amazon rainforest?",
+    "options": [
+      {
+        "text": "High altitude",
+        "isCorrect": false
+      },
+      {
+        "text": "Stable climate",
+        "isCorrect": true
+      },
+      {
+        "text": "Cold temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "Low rainfall",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The stable climate in the Amazon rainforest is the primary reason for its high biodiversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "177",
+    "questionText": "What is the primary cause of high biodiversity in tropical regions?",
+    "options": [
+      {
+        "text": "Lower temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "More solar energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher altitudes",
+        "isCorrect": false
+      },
+      {
+        "text": "Less rainfall",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "More solar energy in tropical regions is the primary cause of their high biodiversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "178",
+    "questionText": "Which region has the greatest species richness?",
+    "options": [
+      {
+        "text": "Tropics",
+        "isCorrect": true
+      },
+      {
+        "text": "Temperate regions",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar regions",
+        "isCorrect": false
+      },
+      {
+        "text": "Desert regions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The tropics have the greatest species richness compared to temperate and polar regions.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "179",
+    "questionText": "Which hypothesis explains higher biodiversity in the tropics due to longer evolutionary time?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speciation-time hypothesis explains higher biodiversity in the tropics due to longer evolutionary time.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "180",
+    "questionText": "What is the main factor contributing to high species richness in the tropics?",
+    "options": [
+      {
+        "text": "Higher altitudes",
+        "isCorrect": false
+      },
+      {
+        "text": "More solar energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Cold temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "Less rainfall",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "More solar energy is the main factor contributing to high species richness in the tropics.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "183",
+    "questionText": "Which region is known for its high species diversity in India?",
+    "options": [
+      {
+        "text": "Western Ghats",
+        "isCorrect": true
+      },
+      {
+        "text": "Eastern Ghats",
+        "isCorrect": false
+      },
+      {
+        "text": "Himalayas",
+        "isCorrect": false
+      },
+      {
+        "text": "Thar Desert",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Western Ghats in India are known for their high species diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "190",
+    "questionText": "Which hypothesis explains higher biodiversity in the tropics due to more available niches?",
+    "options": [
+      {
+        "text": "Speciation-time hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Niche specialization hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "Climatic stability hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The niche specialization hypothesis explains higher biodiversity in the tropics due to more available niches.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "241",
+    "questionText": "Which of the following is a major cause of biodiversity loss?",
+    "options": [
+      {
+        "text": "Habitat destruction",
+        "isCorrect": true
+      },
+      {
+        "text": "Climate stability",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Decreased pollution levels",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Habitat destruction is a major cause of biodiversity loss as it leads to the loss of species' natural habitats.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "242",
+    "questionText": "What is the primary reason for the current high rates of species extinction?",
+    "options": [
+      {
+        "text": "Natural disasters",
+        "isCorrect": false
+      },
+      {
+        "text": "Human activities",
+        "isCorrect": true
+      },
+      {
+        "text": "Volcanic eruptions",
+        "isCorrect": false
+      },
+      {
+        "text": "Solar radiation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Human activities such as deforestation, pollution, and overexploitation are the primary reasons for the current high rates of species extinction.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "243",
+    "questionText": "Which of the following activities contributes to habitat destruction?",
+    "options": [
+      {
+        "text": "Urbanization",
+        "isCorrect": true
+      },
+      {
+        "text": "Conservation",
+        "isCorrect": false
+      },
+      {
+        "text": "Reforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Sustainable farming",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Urbanization leads to the destruction of natural habitats, contributing to biodiversity loss.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "244",
+    "questionText": "Which term refers to the complete disappearance of a species from Earth?",
+    "options": [
+      {
+        "text": "Extirpation",
+        "isCorrect": false
+      },
+      {
+        "text": "Extinction",
+        "isCorrect": true
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Adaptation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Extinction refers to the complete disappearance of a species from Earth.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "245",
+    "questionText": "Which human activity is the most significant driver of deforestation?",
+    "options": [
+      {
+        "text": "Agriculture",
+        "isCorrect": true
+      },
+      {
+        "text": "Fishing",
+        "isCorrect": false
+      },
+      {
+        "text": "Urbanization",
+        "isCorrect": false
+      },
+      {
+        "text": "Mining",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Agriculture is the most significant driver of deforestation as forests are cleared for crop and livestock production.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "246",
+    "questionText": "Which of the following is an example of overexploitation?",
+    "options": [
+      {
+        "text": "Sustainable fishing",
+        "isCorrect": false
+      },
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Poaching",
+        "isCorrect": true
+      },
+      {
+        "text": "Urban development",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poaching is an example of overexploitation, leading to the decline of wildlife populations.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "247",
+    "questionText": "Which invasive species has significantly impacted biodiversity in the Great Lakes of North America?",
+    "options": [
+      {
+        "text": "Zebra mussel",
+        "isCorrect": true
+      },
+      {
+        "text": "African elephant",
+        "isCorrect": false
+      },
+      {
+        "text": "Komodo dragon",
+        "isCorrect": false
+      },
+      {
+        "text": "Giant panda",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The zebra mussel is an invasive species that has significantly impacted biodiversity in the Great Lakes of North America.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "248",
+    "questionText": "What is the primary consequence of habitat fragmentation?",
+    "options": [
+      {
+        "text": "Increased species richness",
+        "isCorrect": false
+      },
+      {
+        "text": "Loss of genetic diversity",
+        "isCorrect": true
+      },
+      {
+        "text": "Enhanced ecosystem services",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved habitat connectivity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Habitat fragmentation leads to the loss of genetic diversity and the isolation of populations.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "249",
+    "questionText": "Which of the following pollutants is known to cause acid rain, affecting biodiversity?",
+    "options": [
+      {
+        "text": "Carbon dioxide",
+        "isCorrect": false
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfur dioxide",
+        "isCorrect": true
+      },
+      {
+        "text": "Ozone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sulfur dioxide is a major pollutant that causes acid rain, negatively impacting biodiversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "250",
+    "questionText": "Which term describes the introduction of a species to a new habitat where it becomes invasive?",
+    "options": [
+      {
+        "text": "Colonization",
+        "isCorrect": false
+      },
+      {
+        "text": "Invasion",
+        "isCorrect": true
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Reintroduction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Invasion describes the introduction of a species to a new habitat where it becomes invasive and disrupts local ecosystems.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "251",
+    "questionText": "Which of the following species is critically endangered due to habitat loss and poaching?",
+    "options": [
+      {
+        "text": "African elephant",
+        "isCorrect": false
+      },
+      {
+        "text": "Bengal tiger",
+        "isCorrect": true
+      },
+      {
+        "text": "Koala",
+        "isCorrect": false
+      },
+      {
+        "text": "American bison",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Bengal tiger is critically endangered due to habitat loss and poaching.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "252",
+    "questionText": "Which practice involves the illegal hunting or capturing of wild animals?",
+    "options": [
+      {
+        "text": "Conservation",
+        "isCorrect": false
+      },
+      {
+        "text": "Poaching",
+        "isCorrect": true
+      },
+      {
+        "text": "Reforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Sustainable agriculture",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poaching involves the illegal hunting or capturing of wild animals, leading to significant biodiversity loss.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "253",
+    "questionText": "What is the impact of climate change on biodiversity?",
+    "options": [
+      {
+        "text": "Increased species diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat alteration",
+        "isCorrect": true
+      },
+      {
+        "text": "Enhanced ecosystem stability",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved genetic variation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Climate change leads to habitat alteration, which negatively impacts biodiversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "254",
+    "questionText": "Which of the following is a result of habitat destruction?",
+    "options": [
+      {
+        "text": "Increased food supply",
+        "isCorrect": false
+      },
+      {
+        "text": "Species extinction",
+        "isCorrect": true
+      },
+      {
+        "text": "Greater genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Enhanced ecosystem health",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Habitat destruction often leads to species extinction as organisms lose their natural habitats.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "255",
+    "questionText": "What is the main consequence of the introduction of invasive species?",
+    "options": [
+      {
+        "text": "Increased biodiversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecosystem imbalance",
+        "isCorrect": true
+      },
+      {
+        "text": "Enhanced native species population",
+        "isCorrect": false
+      },
+      {
+        "text": "Stable ecological conditions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Invasive species often lead to ecosystem imbalance by outcompeting native species for resources.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "256",
+    "questionText": "Which of the following practices leads to soil erosion and habitat destruction?",
+    "options": [
+      {
+        "text": "Reforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Overgrazing",
+        "isCorrect": true
+      },
+      {
+        "text": "Sustainable farming",
+        "isCorrect": false
+      },
+      {
+        "text": "Wildlife conservation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Overgrazing by livestock leads to soil erosion and habitat destruction, contributing to biodiversity loss.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "257",
+    "questionText": "Which factor is responsible for the decline of coral reefs?",
+    "options": [
+      {
+        "text": "Ocean acidification",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased salinity",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduced sunlight",
+        "isCorrect": false
+      },
+      {
+        "text": "Higher oxygen levels",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ocean acidification, caused by increased CO2 levels, is a major factor responsible for the decline of coral reefs.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "258",
+    "questionText": "Which human activity has the greatest impact on marine biodiversity?",
+    "options": [
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Industrial fishing",
+        "isCorrect": true
+      },
+      {
+        "text": "Agricultural expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "Urbanization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Industrial fishing has the greatest impact on marine biodiversity by depleting fish stocks and disrupting marine ecosystems.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "259",
+    "questionText": "Which term describes the process of converting forests into non-forest land?",
+    "options": [
+      {
+        "text": "Afforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Deforestation",
+        "isCorrect": true
+      },
+      {
+        "text": "Reforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Urbanization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Deforestation describes the process of converting forests into non-forest land, leading to habitat loss.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "EASY"
+  },
+  {
+    "qno": "260",
+    "questionText": "What is the primary effect of habitat loss on wildlife populations?",
+    "options": [
+      {
+        "text": "Increased population size",
+        "isCorrect": false
+      },
+      {
+        "text": "Species displacement",
+        "isCorrect": true
+      },
+      {
+        "text": "Enhanced genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved habitat quality",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Habitat loss often leads to species displacement, where animals are forced to move to new areas.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "261",
+    "questionText": "Which human activity leads to habitat degradation and pollution in aquatic ecosystems?",
+    "options": [
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Urban runoff",
+        "isCorrect": true
+      },
+      {
+        "text": "Afforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecotourism",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Urban runoff, which includes pollutants from cities, leads to habitat degradation and pollution in aquatic ecosystems.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "262",
+    "questionText": "Which of the following is a consequence of climate change on biodiversity?",
+    "options": [
+      {
+        "text": "Stable ecosystems",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat shifts",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased species diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved ecosystem services",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Climate change causes habitat shifts, forcing species to move to new areas to survive.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "263",
+    "questionText": "Which of the following is an effect of habitat fragmentation?",
+    "options": [
+      {
+        "text": "Enhanced genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Population isolation",
+        "isCorrect": true
+      },
+      {
+        "text": "Improved habitat connectivity",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased species richness",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Habitat fragmentation leads to population isolation, where species are separated into smaller, isolated groups.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "264",
+    "questionText": "Which invasive species has caused significant damage to ecosystems in the southeastern United States?",
+    "options": [
+      {
+        "text": "Kudzu vine",
+        "isCorrect": true
+      },
+      {
+        "text": "African elephant",
+        "isCorrect": false
+      },
+      {
+        "text": "Giant panda",
+        "isCorrect": false
+      },
+      {
+        "text": "Komodo dragon",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The kudzu vine is an invasive species that has caused significant damage to ecosystems in the southeastern United States.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "265",
+    "questionText": "Which of the following pollutants is known to bioaccumulate in the food chain, affecting top predators?",
+    "options": [
+      {
+        "text": "Carbon dioxide",
+        "isCorrect": false
+      },
+      {
+        "text": "DDT",
+        "isCorrect": true
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ozone",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DDT is a pollutant that bioaccumulates in the food chain, affecting top predators.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "266",
+    "questionText": "Which human activity is a major cause of habitat loss in tropical rainforests?",
+    "options": [
+      {
+        "text": "Industrialization",
+        "isCorrect": false
+      },
+      {
+        "text": "Agriculture",
+        "isCorrect": true
+      },
+      {
+        "text": "Urbanization",
+        "isCorrect": false
+      },
+      {
+        "text": "Fishing",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Agriculture is a major cause of habitat loss in tropical rainforests as forests are cleared for farming.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "267",
+    "questionText": "Which of the following is a primary driver of biodiversity loss in marine ecosystems?",
+    "options": [
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Overfishing",
+        "isCorrect": true
+      },
+      {
+        "text": "Urban runoff",
+        "isCorrect": false
+      },
+      {
+        "text": "Agricultural expansion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Overfishing is a primary driver of biodiversity loss in marine ecosystems, leading to the depletion of fish populations.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "268",
+    "questionText": "Which term describes the reduction of genetic diversity within a population?",
+    "options": [
+      {
+        "text": "Extinction",
+        "isCorrect": false
+      },
+      {
+        "text": "Inbreeding",
+        "isCorrect": true
+      },
+      {
+        "text": "Speciation",
+        "isCorrect": false
+      },
+      {
+        "text": "Adaptation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Inbreeding describes the reduction of genetic diversity within a population due to mating between closely related individuals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "269",
+    "questionText": "Which of the following is a consequence of overexploitation of wildlife?",
+    "options": [
+      {
+        "text": "Increased genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Species extinction",
+        "isCorrect": true
+      },
+      {
+        "text": "Enhanced habitat quality",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved ecosystem services",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Overexploitation of wildlife can lead to species extinction as populations are depleted beyond recovery.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "270",
+    "questionText": "Which human activity is a leading cause of habitat degradation in coastal areas?",
+    "options": [
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Industrial pollution",
+        "isCorrect": true
+      },
+      {
+        "text": "Afforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Wildlife conservation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Industrial pollution is a leading cause of habitat degradation in coastal areas, affecting marine and coastal biodiversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "271",
+    "questionText": "Which of the following pollutants is most commonly associated with agricultural runoff?",
+    "options": [
+      {
+        "text": "Carbon monoxide",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrates",
+        "isCorrect": true
+      },
+      {
+        "text": "Ozone",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfur dioxide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nitrates are pollutants commonly associated with agricultural runoff, leading to water pollution and affecting aquatic biodiversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "272",
+    "questionText": "What is the primary consequence of introducing non-native species to an ecosystem?",
+    "options": [
+      {
+        "text": "Increased ecosystem stability",
+        "isCorrect": false
+      },
+      {
+        "text": "Disruption of local ecosystems",
+        "isCorrect": true
+      },
+      {
+        "text": "Enhanced biodiversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved habitat connectivity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Introducing non-native species to an ecosystem often leads to the disruption of local ecosystems as they outcompete native species.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "273",
+    "questionText": "Which term describes the loss of genetic diversity within a species?",
+    "options": [
+      {
+        "text": "Extinction",
+        "isCorrect": false
+      },
+      {
+        "text": "Inbreeding depression",
+        "isCorrect": true
+      },
+      {
+        "text": "Speciation",
+        "isCorrect": false
+      },
+      {
+        "text": "Adaptation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Inbreeding depression describes the loss of genetic diversity within a species due to breeding between closely related individuals.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "274",
+    "questionText": "Which of the following is a major cause of coral bleaching?",
+    "options": [
+      {
+        "text": "Decreased salinity",
+        "isCorrect": false
+      },
+      {
+        "text": "Ocean acidification",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduced sunlight",
+        "isCorrect": false
+      },
+      {
+        "text": "Higher oxygen levels",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ocean acidification, caused by increased CO2 levels, is a major cause of coral bleaching.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "The Loss of Biodiversity",
+    "level": "HARD"
+  },
+  {
+    "qno": "321",
+    "questionText": "Which approach focuses on protecting entire ecosystems rather than individual species?",
+    "options": [
+      {
+        "text": "Species-based conservation",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecosystem-based conservation",
+        "isCorrect": true
+      },
+      {
+        "text": "Ex-situ conservation",
+        "isCorrect": false
+      },
+      {
+        "text": "In-situ conservation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ecosystem-based conservation focuses on protecting entire ecosystems rather than individual species.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "322",
+    "questionText": "Which of the following is an example of ex-situ conservation?",
+    "options": [
+      {
+        "text": "National parks",
+        "isCorrect": false
+      },
+      {
+        "text": "Biosphere reserves",
+        "isCorrect": false
+      },
+      {
+        "text": "Zoos",
+        "isCorrect": true
+      },
+      {
+        "text": "Sacred groves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Zoos are an example of ex-situ conservation, where species are conserved outside their natural habitats.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "EASY"
+  },
+  {
+    "qno": "323",
+    "questionText": "What is the primary goal of in-situ conservation?",
+    "options": [
+      {
+        "text": "Captive breeding",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat restoration",
+        "isCorrect": false
+      },
+      {
+        "text": "Protecting species in their natural habitat",
+        "isCorrect": true
+      },
+      {
+        "text": "Seed banks",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In-situ conservation aims to protect species in their natural habitats.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "324",
+    "questionText": "Which type of protected area is specifically designated to conserve biological diversity?",
+    "options": [
+      {
+        "text": "National parks",
+        "isCorrect": false
+      },
+      {
+        "text": "Biosphere reserves",
+        "isCorrect": true
+      },
+      {
+        "text": "Botanical gardens",
+        "isCorrect": false
+      },
+      {
+        "text": "Wildlife corridors",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Biosphere reserves are protected areas designated to conserve biological diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "325",
+    "questionText": "Which of the following is a benefit of biodiversity conservation?",
+    "options": [
+      {
+        "text": "Loss of genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased ecosystem resilience",
+        "isCorrect": true
+      },
+      {
+        "text": "Habitat destruction",
+        "isCorrect": false
+      },
+      {
+        "text": "Species extinction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Biodiversity conservation leads to increased ecosystem resilience, allowing ecosystems to better withstand environmental changes.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "EASY"
+  },
+  {
+    "qno": "326",
+    "questionText": "What is the purpose of a wildlife sanctuary?",
+    "options": [
+      {
+        "text": "Housing endangered species",
+        "isCorrect": false
+      },
+      {
+        "text": "Protecting wildlife in their natural habitat",
+        "isCorrect": true
+      },
+      {
+        "text": "Cultivating medicinal plants",
+        "isCorrect": false
+      },
+      {
+        "text": "Providing recreational activities",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Wildlife sanctuaries protect wildlife in their natural habitats.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "EASY"
+  },
+  {
+    "qno": "327",
+    "questionText": "Which of the following is a method used in ex-situ conservation?",
+    "options": [
+      {
+        "text": "National parks",
+        "isCorrect": false
+      },
+      {
+        "text": "Seed banks",
+        "isCorrect": true
+      },
+      {
+        "text": "Sacred groves",
+        "isCorrect": false
+      },
+      {
+        "text": "Biosphere reserves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Seed banks are a method used in ex-situ conservation to preserve plant genetic material.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "328",
+    "questionText": "What is the primary function of a national park?",
+    "options": [
+      {
+        "text": "Promoting tourism",
+        "isCorrect": false
+      },
+      {
+        "text": "Preserving natural resources and wildlife",
+        "isCorrect": true
+      },
+      {
+        "text": "Conducting agricultural research",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitating industrial development",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "National parks are established to preserve natural resources and wildlife.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "EASY"
+  },
+  {
+    "qno": "329",
+    "questionText": "Which organization is known for its role in global conservation efforts?",
+    "options": [
+      {
+        "text": "World Health Organization (WHO)",
+        "isCorrect": false
+      },
+      {
+        "text": "United Nations Environment Programme (UNEP)",
+        "isCorrect": true
+      },
+      {
+        "text": "International Monetary Fund (IMF)",
+        "isCorrect": false
+      },
+      {
+        "text": "World Trade Organization (WTO)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The United Nations Environment Programme (UNEP) plays a significant role in global conservation efforts.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "330",
+    "questionText": "Which practice is an example of sustainable use of biodiversity?",
+    "options": [
+      {
+        "text": "Overfishing",
+        "isCorrect": false
+      },
+      {
+        "text": "Sustainable agriculture",
+        "isCorrect": true
+      },
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Mining",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sustainable agriculture is an example of the sustainable use of biodiversity, ensuring that resources are used in a way that does not deplete them.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "EASY"
+  },
+  {
+    "qno": "331",
+    "questionText": "Which of the following is a key component of biodiversity conservation?",
+    "options": [
+      {
+        "text": "Species extinction",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat preservation",
+        "isCorrect": true
+      },
+      {
+        "text": "Environmental pollution",
+        "isCorrect": false
+      },
+      {
+        "text": "Climate change",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Habitat preservation is a key component of biodiversity conservation, ensuring that species have the environments they need to survive.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "332",
+    "questionText": "Which type of protected area allows for sustainable use of natural resources while conserving biodiversity?",
+    "options": [
+      {
+        "text": "National parks",
+        "isCorrect": false
+      },
+      {
+        "text": "Wildlife sanctuaries",
+        "isCorrect": false
+      },
+      {
+        "text": "Biosphere reserves",
+        "isCorrect": true
+      },
+      {
+        "text": "Botanical gardens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Biosphere reserves are designed to allow for sustainable use of natural resources while conserving biodiversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "HARD"
+  },
+  {
+    "qno": "333",
+    "questionText": "Which of the following is an objective of the Convention on Biological Diversity (CBD)?",
+    "options": [
+      {
+        "text": "To promote international trade",
+        "isCorrect": false
+      },
+      {
+        "text": "To conserve biological diversity",
+        "isCorrect": true
+      },
+      {
+        "text": "To regulate global finance",
+        "isCorrect": false
+      },
+      {
+        "text": "To facilitate industrial growth",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Convention on Biological Diversity (CBD) aims to conserve biological diversity, promote sustainable use, and share benefits from genetic resources equitably.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "334",
+    "questionText": "Which term refers to the practice of growing and conserving plants in specialized gardens?",
+    "options": [
+      {
+        "text": "In-situ conservation",
+        "isCorrect": false
+      },
+      {
+        "text": "Ex-situ conservation",
+        "isCorrect": true
+      },
+      {
+        "text": "Biosphere reserve",
+        "isCorrect": false
+      },
+      {
+        "text": "Wildlife sanctuary",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ex-situ conservation refers to the practice of growing and conserving plants in specialized gardens such as botanical gardens.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "EASY"
+  },
+  {
+    "qno": "335",
+    "questionText": "Which of the following is a role of genetic banks in conservation?",
+    "options": [
+      {
+        "text": "Promoting habitat destruction",
+        "isCorrect": false
+      },
+      {
+        "text": "Preserving genetic material",
+        "isCorrect": true
+      },
+      {
+        "text": "Encouraging species extinction",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitating overexploitation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Genetic banks play a crucial role in preserving genetic material of various species for future use and conservation efforts.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "336",
+    "questionText": "Which type of conservation focuses on maintaining and recovering species in their natural habitats?",
+    "options": [
+      {
+        "text": "Ex-situ conservation",
+        "isCorrect": false
+      },
+      {
+        "text": "In-situ conservation",
+        "isCorrect": true
+      },
+      {
+        "text": "Artificial selection",
+        "isCorrect": false
+      },
+      {
+        "text": "Bioremediation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In-situ conservation focuses on maintaining and recovering species in their natural habitats.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "EASY"
+  },
+  {
+    "qno": "337",
+    "questionText": "Which method involves storing seeds under controlled conditions for future use?",
+    "options": [
+      {
+        "text": "Wildlife sanctuary",
+        "isCorrect": false
+      },
+      {
+        "text": "Seed bank",
+        "isCorrect": true
+      },
+      {
+        "text": "Botanical garden",
+        "isCorrect": false
+      },
+      {
+        "text": "Biosphere reserve",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A seed bank involves storing seeds under controlled conditions for future use and conservation.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "338",
+    "questionText": "Which of the following is a key benefit of maintaining biodiversity?",
+    "options": [
+      {
+        "text": "Increased vulnerability to pests",
+        "isCorrect": false
+      },
+      {
+        "text": "Enhanced ecosystem stability",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduced genetic variation",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased habitat destruction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maintaining biodiversity enhances ecosystem stability, making ecosystems more resilient to environmental changes.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "EASY"
+  },
+  {
+    "qno": "339",
+    "questionText": "Which type of protected area is designated for the protection of wildlife and their habitats?",
+    "options": [
+      {
+        "text": "National parks",
+        "isCorrect": true
+      },
+      {
+        "text": "Urban areas",
+        "isCorrect": false
+      },
+      {
+        "text": "Agricultural lands",
+        "isCorrect": false
+      },
+      {
+        "text": "Industrial zones",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "National parks are protected areas designated for the protection of wildlife and their habitats.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "EASY"
+  },
+  {
+    "qno": "340",
+    "questionText": "What is the role of wildlife corridors in conservation?",
+    "options": [
+      {
+        "text": "Fragmenting habitats",
+        "isCorrect": false
+      },
+      {
+        "text": "Connecting fragmented habitats",
+        "isCorrect": true
+      },
+      {
+        "text": "Promoting urbanization",
+        "isCorrect": false
+      },
+      {
+        "text": "Encouraging deforestation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Wildlife corridors play a crucial role in connecting fragmented habitats, allowing species to move freely and maintain genetic diversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "341",
+    "questionText": "Which of the following is a strategy to conserve threatened species?",
+    "options": [
+      {
+        "text": "Habitat destruction",
+        "isCorrect": false
+      },
+      {
+        "text": "Captive breeding programs",
+        "isCorrect": true
+      },
+      {
+        "text": "Overexploitation",
+        "isCorrect": false
+      },
+      {
+        "text": "Pollution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Captive breeding programs are a strategy to conserve threatened species by breeding them in controlled environments.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "342",
+    "questionText": "Which international agreement focuses on the conservation of migratory species?",
+    "options": [
+      {
+        "text": "CITES",
+        "isCorrect": false
+      },
+      {
+        "text": "CMS",
+        "isCorrect": true
+      },
+      {
+        "text": "CBD",
+        "isCorrect": false
+      },
+      {
+        "text": "Ramsar Convention",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Convention on Migratory Species (CMS) focuses on the conservation of migratory species across international borders.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "HARD"
+  },
+  {
+    "qno": "343",
+    "questionText": "Which of the following is an example of in-situ conservation?",
+    "options": [
+      {
+        "text": "Seed banks",
+        "isCorrect": false
+      },
+      {
+        "text": "Botanical gardens",
+        "isCorrect": false
+      },
+      {
+        "text": "National parks",
+        "isCorrect": true
+      },
+      {
+        "text": "Zoos",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "National parks are an example of in-situ conservation, where species are protected in their natural habitats.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "344",
+    "questionText": "Which practice is an example of sustainable forestry?",
+    "options": [
+      {
+        "text": "Clear-cutting",
+        "isCorrect": false
+      },
+      {
+        "text": "Selective logging",
+        "isCorrect": true
+      },
+      {
+        "text": "Slash-and-burn agriculture",
+        "isCorrect": false
+      },
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Selective logging is an example of sustainable forestry, allowing for the selective removal of trees without harming the overall forest ecosystem.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "345",
+    "questionText": "Which term refers to the reintroduction of a species to its natural habitat?",
+    "options": [
+      {
+        "text": "Invasion",
+        "isCorrect": false
+      },
+      {
+        "text": "Rewilding",
+        "isCorrect": true
+      },
+      {
+        "text": "Extinction",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat destruction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rewilding refers to the reintroduction of a species to its natural habitat, often after it has been locally extinct.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "HARD"
+  },
+  {
+    "qno": "346",
+    "questionText": "Which of the following is a benefit of ex-situ conservation?",
+    "options": [
+      {
+        "text": "Habitat destruction",
+        "isCorrect": false
+      },
+      {
+        "text": "Captive breeding of endangered species",
+        "isCorrect": true
+      },
+      {
+        "text": "Environmental pollution",
+        "isCorrect": false
+      },
+      {
+        "text": "Species extinction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ex-situ conservation benefits include the captive breeding of endangered species, which helps to increase their population numbers.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "EASY"
+  },
+  {
+    "qno": "347",
+    "questionText": "Which of the following practices contributes to habitat preservation?",
+    "options": [
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Pollution control",
+        "isCorrect": true
+      },
+      {
+        "text": "Urban expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "Industrial development",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pollution control is a practice that contributes to habitat preservation by reducing harmful pollutants that can degrade natural habitats.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "348",
+    "questionText": "Which term describes the practice of breeding and raising endangered species in captivity for release into the wild?",
+    "options": [
+      {
+        "text": "Poaching",
+        "isCorrect": false
+      },
+      {
+        "text": "Captive breeding",
+        "isCorrect": true
+      },
+      {
+        "text": "Overexploitation",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat destruction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Captive breeding involves breeding and raising endangered species in captivity with the goal of releasing them back into the wild.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "349",
+    "questionText": "Which international treaty aims to ensure that international trade in wild animals and plants does not threaten their survival?",
+    "options": [
+      {
+        "text": "CITES",
+        "isCorrect": true
+      },
+      {
+        "text": "CMS",
+        "isCorrect": false
+      },
+      {
+        "text": "CBD",
+        "isCorrect": false
+      },
+      {
+        "text": "Ramsar Convention",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) aims to ensure that international trade does not threaten the survival of wild animals and plants.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "HARD"
+  },
+  {
+    "qno": "350",
+    "questionText": "Which of the following is a principle of sustainable development?",
+    "options": [
+      {
+        "text": "Resource depletion",
+        "isCorrect": false
+      },
+      {
+        "text": "Intergenerational equity",
+        "isCorrect": true
+      },
+      {
+        "text": "Habitat destruction",
+        "isCorrect": false
+      },
+      {
+        "text": "Environmental pollution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Intergenerational equity is a principle of sustainable development, ensuring that the needs of future generations are not compromised by current activities.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "351",
+    "questionText": "Which method involves the restoration of ecosystems to their natural state?",
+    "options": [
+      {
+        "text": "Bioremediation",
+        "isCorrect": true
+      },
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat fragmentation",
+        "isCorrect": false
+      },
+      {
+        "text": "Overfishing",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bioremediation involves the restoration of ecosystems to their natural state by using biological methods to clean up polluted environments.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "HARD"
+  },
+  {
+    "qno": "352",
+    "questionText": "Which of the following is a goal of the IUCN Red List?",
+    "options": [
+      {
+        "text": "To promote industrial development",
+        "isCorrect": false
+      },
+      {
+        "text": "To assess the conservation status of species",
+        "isCorrect": true
+      },
+      {
+        "text": "To regulate global trade",
+        "isCorrect": false
+      },
+      {
+        "text": "To facilitate urbanization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The IUCN Red List aims to assess the conservation status of species, providing information on their risk of extinction.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "353",
+    "questionText": "Which practice is essential for maintaining genetic diversity in crop species?",
+    "options": [
+      {
+        "text": "Monoculture farming",
+        "isCorrect": false
+      },
+      {
+        "text": "Crop rotation",
+        "isCorrect": true
+      },
+      {
+        "text": "Overgrazing",
+        "isCorrect": false
+      },
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Crop rotation is essential for maintaining genetic diversity in crop species by preventing soil depletion and reducing pest infestations.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "354",
+    "questionText": "Which of the following is an impact of habitat fragmentation?",
+    "options": [
+      {
+        "text": "Increased genetic diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "Population isolation",
+        "isCorrect": true
+      },
+      {
+        "text": "Improved ecosystem services",
+        "isCorrect": false
+      },
+      {
+        "text": "Enhanced habitat connectivity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Habitat fragmentation often leads to population isolation, where species are separated into smaller, isolated groups.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "HARD"
+  },
+  {
+    "qno": "355",
+    "questionText": "Which international organization focuses on environmental sustainability and conservation?",
+    "options": [
+      {
+        "text": "World Health Organization (WHO)",
+        "isCorrect": false
+      },
+      {
+        "text": "United Nations Environment Programme (UNEP)",
+        "isCorrect": true
+      },
+      {
+        "text": "International Monetary Fund (IMF)",
+        "isCorrect": false
+      },
+      {
+        "text": "World Trade Organization (WTO)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The United Nations Environment Programme (UNEP) focuses on environmental sustainability and conservation.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "356",
+    "questionText": "Which type of conservation area aims to protect both the environment and the cultural heritage of local communities?",
+    "options": [
+      {
+        "text": "National parks",
+        "isCorrect": false
+      },
+      {
+        "text": "Biosphere reserves",
+        "isCorrect": true
+      },
+      {
+        "text": "Wildlife sanctuaries",
+        "isCorrect": false
+      },
+      {
+        "text": "Botanical gardens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Biosphere reserves aim to protect both the environment and the cultural heritage of local communities, promoting sustainable development.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "HARD"
+  },
+  {
+    "qno": "357",
+    "questionText": "Which practice involves the restoration of ecosystems to their natural state?",
+    "options": [
+      {
+        "text": "Bioremediation",
+        "isCorrect": true
+      },
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat fragmentation",
+        "isCorrect": false
+      },
+      {
+        "text": "Overfishing",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bioremediation involves the restoration of ecosystems to their natural state by using biological methods to clean up polluted environments.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "HARD"
+  },
+  {
+    "qno": "365",
+    "questionText": "Which strategy involves protecting and managing critical habitats to support biodiversity?",
+    "options": [
+      {
+        "text": "Ecosystem restoration",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat conservation",
+        "isCorrect": true
+      },
+      {
+        "text": "Captive breeding",
+        "isCorrect": false
+      },
+      {
+        "text": "Invasive species management",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Habitat conservation involves protecting and managing critical habitats to support biodiversity and prevent species extinction.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "402",
+    "questionText": "Which practice contributes to the preservation of biodiversity?",
+    "options": [
+      {
+        "text": "Habitat destruction",
+        "isCorrect": false
+      },
+      {
+        "text": "Sustainable forestry",
+        "isCorrect": true
+      },
+      {
+        "text": "Pollution",
+        "isCorrect": false
+      },
+      {
+        "text": "Overfishing",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sustainable forestry practices contribute to the preservation of biodiversity by ensuring that forest resources are used in a way that maintains ecosystem health.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "403",
+    "questionText": "Which of the following is a role of botanical gardens in conservation?",
+    "options": [
+      {
+        "text": "Pollution control",
+        "isCorrect": false
+      },
+      {
+        "text": "Ex-situ conservation",
+        "isCorrect": true
+      },
+      {
+        "text": "Habitat destruction",
+        "isCorrect": false
+      },
+      {
+        "text": "Urban development",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Botanical gardens play a role in ex-situ conservation by growing and preserving plant species outside their natural habitats.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "405",
+    "questionText": "Which strategy is used to prevent the spread of invasive species?",
+    "options": [
+      {
+        "text": "Habitat destruction",
+        "isCorrect": false
+      },
+      {
+        "text": "Biosecurity measures",
+        "isCorrect": true
+      },
+      {
+        "text": "Overfishing",
+        "isCorrect": false
+      },
+      {
+        "text": "Pollution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Biosecurity measures are used to prevent the introduction and spread of invasive species, protecting native biodiversity.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "406",
+    "questionText": "Which type of conservation involves the preservation of species in their natural habitat?",
+    "options": [
+      {
+        "text": "Ex-situ conservation",
+        "isCorrect": false
+      },
+      {
+        "text": "In-situ conservation",
+        "isCorrect": true
+      },
+      {
+        "text": "Captive breeding",
+        "isCorrect": false
+      },
+      {
+        "text": "Bioremediation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In-situ conservation involves the preservation of species in their natural habitat, allowing them to thrive in their natural ecosystems.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "407",
+    "questionText": "Which organization maintains the IUCN Red List?",
+    "options": [
+      {
+        "text": "World Wildlife Fund (WWF)",
+        "isCorrect": false
+      },
+      {
+        "text": "International Union for Conservation of Nature (IUCN)",
+        "isCorrect": true
+      },
+      {
+        "text": "United Nations Environment Programme (UNEP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Convention on Biological Diversity (CBD)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The International Union for Conservation of Nature (IUCN) maintains the IUCN Red List, which assesses the conservation status of species.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "408",
+    "questionText": "Which of the following is an example of ecosystem restoration?",
+    "options": [
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Reforestation",
+        "isCorrect": true
+      },
+      {
+        "text": "Urbanization",
+        "isCorrect": false
+      },
+      {
+        "text": "Industrialization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reforestation is an example of ecosystem restoration, as it involves planting trees to restore degraded forest areas.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "EASY"
+  },
+  {
+    "qno": "409",
+    "questionText": "Which practice helps to maintain biodiversity in agricultural systems?",
+    "options": [
+      {
+        "text": "Monoculture farming",
+        "isCorrect": false
+      },
+      {
+        "text": "Crop rotation",
+        "isCorrect": true
+      },
+      {
+        "text": "Overgrazing",
+        "isCorrect": false
+      },
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Crop rotation helps to maintain biodiversity in agricultural systems by alternating the types of crops grown in an area, preventing soil depletion and pest buildup.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "411",
+    "questionText": "Which of the following practices leads to habitat preservation?",
+    "options": [
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Reforestation",
+        "isCorrect": true
+      },
+      {
+        "text": "Urbanization",
+        "isCorrect": false
+      },
+      {
+        "text": "Industrialization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reforestation leads to habitat preservation by restoring forest areas that have been degraded or destroyed.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "EASY"
+  },
+  {
+    "qno": "412",
+    "questionText": "Which international agreement aims to ensure that trade in wild animals and plants does not threaten their survival?",
+    "options": [
+      {
+        "text": "CITES",
+        "isCorrect": true
+      },
+      {
+        "text": "CMS",
+        "isCorrect": false
+      },
+      {
+        "text": "CBD",
+        "isCorrect": false
+      },
+      {
+        "text": "Ramsar Convention",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) aims to ensure that international trade does not threaten the survival of wild animals and plants.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "HARD"
+  },
+  {
+    "qno": "413",
+    "questionText": "Which method involves the storage of genetic material for conservation purposes?",
+    "options": [
+      {
+        "text": "Habitat conservation",
+        "isCorrect": false
+      },
+      {
+        "text": "Seed banks",
+        "isCorrect": true
+      },
+      {
+        "text": "Reforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Wildlife corridors",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Seed banks involve the storage of genetic material, such as seeds, for conservation purposes and future use.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "416",
+    "questionText": "Which international treaty aims to conserve wetlands of international importance?",
+    "options": [
+      {
+        "text": "CITES",
+        "isCorrect": false
+      },
+      {
+        "text": "Ramsar Convention",
+        "isCorrect": true
+      },
+      {
+        "text": "CBD",
+        "isCorrect": false
+      },
+      {
+        "text": "CMS",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Ramsar Convention aims to conserve wetlands of international importance, ensuring their sustainable use and protection.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "442",
+    "questionText": "Which practice contributes to habitat preservation?",
+    "options": [
+      {
+        "text": "Deforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Pollution control",
+        "isCorrect": true
+      },
+      {
+        "text": "Urban expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "Industrial development",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pollution control is a practice that contributes to habitat preservation by reducing harmful pollutants that can degrade natural habitats.",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "level": "MEDIUM"
+  }
+]

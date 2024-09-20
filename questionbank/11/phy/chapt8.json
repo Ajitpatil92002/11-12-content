@@ -1,0 +1,5072 @@
+[
+  {
+    "qno": "1",
+    "questionText": "In order to change the shape or size of a body, a force is required. If you stretch a helical spring by gently pulling its ends, the length of the spring increases slightly. When you leave the ends of the spring, it regains its original size and shape. This property of a body is known as:",
+    "options": [
+      {
+        "text": "Plasticity",
+        "isCorrect": false
+      },
+      {
+        "text": "Elasticity",
+        "isCorrect": true
+      },
+      {
+        "text": "Rigidity",
+        "isCorrect": false
+      },
+      {
+        "text": "Flexibility",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elasticity is the property that allows a material to return to its original shape after the stress is removed.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "What is the property called when a lump of putty or mud gets permanently deformed upon applying force?",
+    "options": [
+      {
+        "text": "Elasticity",
+        "isCorrect": false
+      },
+      {
+        "text": "Plasticity",
+        "isCorrect": true
+      },
+      {
+        "text": "Rigidity",
+        "isCorrect": false
+      },
+      {
+        "text": "Flexibility",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plasticity is the property that allows a material to be permanently deformed without breaking.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "Which of the following materials is an example of an ideal plastic?",
+    "options": [
+      {
+        "text": "Steel",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper",
+        "isCorrect": false
+      },
+      {
+        "text": "Putty",
+        "isCorrect": true
+      },
+      {
+        "text": "Glass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Putty is a near-ideal plastic as it does not regain its shape after the removal of the applied force.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "4",
+    "questionText": "The deformation caused in a helical spring upon stretching is known as:",
+    "options": [
+      {
+        "text": "Elastic deformation",
+        "isCorrect": true
+      },
+      {
+        "text": "Plastic deformation",
+        "isCorrect": false
+      },
+      {
+        "text": "Rigidity",
+        "isCorrect": false
+      },
+      {
+        "text": "Flexibility",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The deformation caused in a helical spring when stretched is elastic deformation as it returns to its original shape.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "5",
+    "questionText": "What property allows a body to regain its original size and shape when the applied force is removed?",
+    "options": [
+      {
+        "text": "Plasticity",
+        "isCorrect": false
+      },
+      {
+        "text": "Elasticity",
+        "isCorrect": true
+      },
+      {
+        "text": "Rigidity",
+        "isCorrect": false
+      },
+      {
+        "text": "Flexibility",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elasticity is the property that allows a body to regain its original size and shape after the applied force is removed.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "6",
+    "questionText": "Which material is used to design a building due to its elastic properties?",
+    "options": [
+      {
+        "text": "Steel",
+        "isCorrect": true
+      },
+      {
+        "text": "Putty",
+        "isCorrect": false
+      },
+      {
+        "text": "Mud",
+        "isCorrect": false
+      },
+      {
+        "text": "Plastic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Steel is used in construction due to its high elasticity and strength.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "7",
+    "questionText": "A body that can regain its original shape and size when the applied force is removed is said to have:",
+    "options": [
+      {
+        "text": "Elastic deformation",
+        "isCorrect": true
+      },
+      {
+        "text": "Plastic deformation",
+        "isCorrect": false
+      },
+      {
+        "text": "Permanent deformation",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elastic deformation refers to temporary shape change that is self-reversing after the force is removed.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "Which of the following is an example of an elastic material?",
+    "options": [
+      {
+        "text": "Rubber",
+        "isCorrect": true
+      },
+      {
+        "text": "Putty",
+        "isCorrect": false
+      },
+      {
+        "text": "Mud",
+        "isCorrect": false
+      },
+      {
+        "text": "Glass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rubber is an elastic material that can return to its original shape after being stretched.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "9",
+    "questionText": "Why is glass considered brittle while brass is not?",
+    "options": [
+      {
+        "text": "Due to the elastic properties of brass",
+        "isCorrect": true
+      },
+      {
+        "text": "Due to the plasticity of glass",
+        "isCorrect": false
+      },
+      {
+        "text": "Because brass cannot be stretched",
+        "isCorrect": false
+      },
+      {
+        "text": "Because glass is a rigid material",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Brass has higher elasticity and is more flexible, making it less brittle compared to glass.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "10",
+    "questionText": "Which property is essential for designing an artificial limb?",
+    "options": [
+      {
+        "text": "Elasticity",
+        "isCorrect": true
+      },
+      {
+        "text": "Plasticity",
+        "isCorrect": false
+      },
+      {
+        "text": "Rigidity",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elasticity is crucial for artificial limbs to ensure they can withstand and recover from stress.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "11",
+    "questionText": "When a sufficiently large external force is applied to a steel bar, it can be deformed. This means that solid bodies are not perfectly:",
+    "options": [
+      {
+        "text": "Rigid",
+        "isCorrect": true
+      },
+      {
+        "text": "Elastic",
+        "isCorrect": false
+      },
+      {
+        "text": "Flexible",
+        "isCorrect": false
+      },
+      {
+        "text": "Plastic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Solid bodies are not perfectly rigid as they can be deformed under a large enough force.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "12",
+    "questionText": "What type of deformation occurs in a body when a sufficiently large external force is applied and the body does not regain its original shape?",
+    "options": [
+      {
+        "text": "Plastic deformation",
+        "isCorrect": true
+      },
+      {
+        "text": "Elastic deformation",
+        "isCorrect": false
+      },
+      {
+        "text": "Permanent deformation",
+        "isCorrect": false
+      },
+      {
+        "text": "Temporary deformation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plastic deformation occurs when a body is permanently deformed and does not regain its original shape.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "13",
+    "questionText": "Which of the following statements is true about elastic deformation?",
+    "options": [
+      {
+        "text": "It is temporary and reversible",
+        "isCorrect": true
+      },
+      {
+        "text": "It is permanent and irreversible",
+        "isCorrect": false
+      },
+      {
+        "text": "It occurs only in plastics",
+        "isCorrect": false
+      },
+      {
+        "text": "It does not depend on the force applied",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elastic deformation is temporary and reversible, meaning the material returns to its original shape after the force is removed.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "14",
+    "questionText": "The study of how simple kinds of loads or forces act to deform different solid bodies begins with the study of:",
+    "options": [
+      {
+        "text": "Elastic properties of materials",
+        "isCorrect": true
+      },
+      {
+        "text": "Plastic properties of materials",
+        "isCorrect": false
+      },
+      {
+        "text": "Rigid properties of materials",
+        "isCorrect": false
+      },
+      {
+        "text": "Flexible properties of materials",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The study of how loads or forces deform solid bodies begins with the study of elastic properties of materials.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "15",
+    "questionText": "Why is knowledge of the elastic properties of materials important in engineering design?",
+    "options": [
+      {
+        "text": "To ensure structures can withstand applied forces",
+        "isCorrect": true
+      },
+      {
+        "text": "To increase the plasticity of materials",
+        "isCorrect": false
+      },
+      {
+        "text": "To make materials more rigid",
+        "isCorrect": false
+      },
+      {
+        "text": "To reduce the flexibility of materials",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Knowledge of the elastic properties of materials is crucial in engineering design to ensure structures can withstand applied forces without permanent deformation.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.1 Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "16",
+    "questionText": "What is the formula for calculating stress?",
+    "options": [
+      {
+        "text": "$\\text{Stress} = \\frac{F}{A}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{Stress} = \\frac{A}{F}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{Stress} = F \\times A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{Stress} = \\frac{F}{L}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Stress is defined as the restoring force per unit area, given by $\\text{Stress} = \\frac{F}{A}$ where $F$ is the force applied and $A$ is the area of cross-section.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "What is the SI unit of stress?",
+    "options": [
+      {
+        "text": "Pascal (Pa)",
+        "isCorrect": true
+      },
+      {
+        "text": "Newton (N)",
+        "isCorrect": false
+      },
+      {
+        "text": "Joule (J)",
+        "isCorrect": false
+      },
+      {
+        "text": "Watt (W)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The SI unit of stress is Pascal (Pa), which is equivalent to $N \\cdot m^{-2}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "18",
+    "questionText": "If the force applied normal to the cross-sectional area of a cylinder is $F$ and the area is $A$, the stress can be calculated using which formula?",
+    "options": [
+      {
+        "text": "$\\frac{F}{A}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{A}{F}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$F \\times A$",
+        "isCorrect": false
+      },
+      {
+        "text": "$F + A$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The stress on the cylinder is calculated using the formula $\\frac{F}{A}$ where $F$ is the force and $A$ is the area of cross-section.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "19",
+    "questionText": "What is the longitudinal strain if the original length of a cylinder is $L$ and the change in length is $\\Delta L$?",
+    "options": [
+      {
+        "text": "$\\frac{\\Delta L}{L}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{L}{\\Delta L}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta L \\times L$",
+        "isCorrect": false
+      },
+      {
+        "text": "$L - \\Delta L$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Longitudinal strain is defined as the ratio of the change in length ($\\Delta L$) to the original length ($L$), given by $\\frac{\\Delta L}{L}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "20",
+    "questionText": "What is the dimensional formula of stress?",
+    "options": [
+      {
+        "text": "$[ML^{-1}T^{-2}]$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[M^2L^2T^2]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[M^2L^{-1}T^{-2}]$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[ML^2T^{-1}]$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The dimensional formula of stress is $[ML^{-1}T^{-2}]$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "HARD"
+  },
+  {
+    "qno": "21",
+    "questionText": "What type of stress is developed in a body when it is stretched by two equal forces applied normal to its cross-sectional area?",
+    "options": [
+      {
+        "text": "Tensile stress",
+        "isCorrect": true
+      },
+      {
+        "text": "Compressive stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Shearing stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydraulic stress",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a body is stretched by two equal forces applied normal to its cross-sectional area, tensile stress is developed.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "22",
+    "questionText": "What is the formula for calculating shearing strain?",
+    "options": [
+      {
+        "text": "$\\text{Shearing strain} = \\frac{\\Delta x}{L}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\text{Shearing strain} = \\frac{L}{\\Delta x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{Shearing strain} = \\Delta x \\times L$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\text{Shearing strain} = L - \\Delta x$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Shearing strain is defined as the ratio of the relative displacement ($\\Delta x$) between opposite faces of a body to its length ($L$), given by $\\text{Shearing strain} = \\frac{\\Delta x}{L}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "What is the longitudinal strain in a cylinder if the original length is $10 \\text{ m}$ and the change in length is $0.2 \\text{ m}$?",
+    "options": [
+      {
+        "text": "$0.02$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.002$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Longitudinal strain is calculated as $\\frac{\\Delta L}{L} = \\frac{0.2 \\text{ m}}{10 \\text{ m}} = 0.2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "A cylinder is compressed under the action of applied forces. The restoring force per unit area developed is known as:",
+    "options": [
+      {
+        "text": "Compressive stress",
+        "isCorrect": true
+      },
+      {
+        "text": "Tensile stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Shearing stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydraulic stress",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a cylinder is compressed under the action of applied forces, the restoring force per unit area developed is known as compressive stress.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "25",
+    "questionText": "If the relative displacement between the opposite faces of a cylinder is $\\Delta x$ and the length is $L$, what is the shearing strain?",
+    "options": [
+      {
+        "text": "$\\frac{\\Delta x}{L}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{L}{\\Delta x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta x \\times L$",
+        "isCorrect": false
+      },
+      {
+        "text": "$L - \\Delta x$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Shearing strain is calculated as the ratio of the relative displacement ($\\Delta x$) to the length ($L$), given by $\\frac{\\Delta x}{L}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "26",
+    "questionText": "What is the volumetric strain if the original volume is $V$ and the change in volume is $\\Delta V$?",
+    "options": [
+      {
+        "text": "$\\frac{\\Delta V}{V}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{V}{\\Delta V}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta V \\times V$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V - \\Delta V$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volumetric strain is defined as the ratio of the change in volume ($\\Delta V$) to the original volume ($V$), given by $\\frac{\\Delta V}{V}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "27",
+    "questionText": "If a solid sphere is placed in a fluid under high pressure, the force applied by the fluid acts in which direction?",
+    "options": [
+      {
+        "text": "Perpendicular to the surface",
+        "isCorrect": true
+      },
+      {
+        "text": "Parallel to the surface",
+        "isCorrect": false
+      },
+      {
+        "text": "Tangential to the surface",
+        "isCorrect": false
+      },
+      {
+        "text": "At an angle to the surface",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The force applied by the fluid acts perpendicular to the surface of the solid sphere under high pressure.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "28",
+    "questionText": "What is the definition of hydraulic stress?",
+    "options": [
+      {
+        "text": "The internal restoring force per unit area due to hydraulic pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "The external force per unit volume due to hydraulic pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "The change in volume per unit area due to hydraulic pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "The internal restoring force per unit volume due to hydraulic pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hydraulic stress is defined as the internal restoring force per unit area developed due to hydraulic pressure.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "HARD"
+  },
+  {
+    "qno": "29",
+    "questionText": "What is the volume strain if the original volume is 100 $\\text{m}^3$ and the change in volume is 2 $\\text{m}^3$?",
+    "options": [
+      {
+        "text": "0.02",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "0.2",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volume strain is calculated as $\\frac{\\Delta V}{V} = \\frac{2}{100} = 0.02$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "30",
+    "questionText": "If the volume strain is 0.05 and the original volume is 200 $\\text{m}^3$, what is the change in volume?",
+    "options": [
+      {
+        "text": "10 $\\text{m}^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "5 $\\text{m}^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "20 $\\text{m}^3$",
+        "isCorrect": true
+      },
+      {
+        "text": "25 $\\text{m}^3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Change in volume is calculated as $\\Delta V = \\text{Volume strain} \\times V = 0.05 \\times 200 = 10$ $\\text{m}^3$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "31",
+    "questionText": "When a body is subjected to a deforming force, a restoring force is developed in the body. This restoring force per unit area is known as:",
+    "options": [
+      {
+        "text": "Stress",
+        "isCorrect": true
+      },
+      {
+        "text": "Strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Tension",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The restoring force per unit area developed in a body due to a deforming force is known as stress.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "32",
+    "questionText": "What type of stress is developed when a cylinder is subjected to two equal and opposite deforming forces applied parallel to its cross-sectional area?",
+    "options": [
+      {
+        "text": "Shearing stress",
+        "isCorrect": true
+      },
+      {
+        "text": "Tensile stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Compressive stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydraulic stress",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Shearing stress is developed when a cylinder is subjected to two equal and opposite deforming forces applied parallel to its cross-sectional area.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "33",
+    "questionText": "If a cylinder is compressed uniformly on all sides by a fluid, the body is said to be under:",
+    "options": [
+      {
+        "text": "Hydraulic compression",
+        "isCorrect": true
+      },
+      {
+        "text": "Tensile stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Compressive stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Shearing stress",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a cylinder is compressed uniformly on all sides by a fluid, the body is said to be under hydraulic compression.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "HARD"
+  },
+  {
+    "qno": "34",
+    "questionText": "What is the strain produced by hydraulic pressure called?",
+    "options": [
+      {
+        "text": "Volume strain",
+        "isCorrect": true
+      },
+      {
+        "text": "Longitudinal strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Shearing strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Lateral strain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The strain produced by hydraulic pressure is called volume strain.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "35",
+    "questionText": "What is the angular displacement of a cylinder from the vertical position called?",
+    "options": [
+      {
+        "text": "Shearing strain",
+        "isCorrect": true
+      },
+      {
+        "text": "Longitudinal strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Lateral strain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The angular displacement of a cylinder from the vertical position due to applied tangential force is called shearing strain.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "36",
+    "questionText": "If $\\Delta V$ is the change in volume and $V$ is the original volume, what is the volume strain?",
+    "options": [
+      {
+        "text": "$\\frac{\\Delta V}{V}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{V}{\\Delta V}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta V \\times V$",
+        "isCorrect": false
+      },
+      {
+        "text": "$V - \\Delta V$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volume strain is defined as the ratio of the change in volume ($\\Delta V$) to the original volume ($V$), given by $\\frac{\\Delta V}{V}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "HARD"
+  },
+  {
+    "qno": "37",
+    "questionText": "What type of stress is experienced by a solid sphere placed in a fluid under high pressure?",
+    "options": [
+      {
+        "text": "Hydraulic stress",
+        "isCorrect": true
+      },
+      {
+        "text": "Tensile stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Compressive stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Shearing stress",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A solid sphere placed in a fluid under high pressure experiences hydraulic stress.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "38",
+    "questionText": "What is the unit of volume strain?",
+    "options": [
+      {
+        "text": "It has no unit",
+        "isCorrect": true
+      },
+      {
+        "text": "Pascal",
+        "isCorrect": false
+      },
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Joule",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volume strain is a dimensionless quantity and hence has no unit.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "39",
+    "questionText": "If the original length of a wire is 2m and it stretches by 0.01m under a certain load, what is the longitudinal strain?",
+    "options": [
+      {
+        "text": "0.005",
+        "isCorrect": false
+      },
+      {
+        "text": "0.01",
+        "isCorrect": false
+      },
+      {
+        "text": "0.02",
+        "isCorrect": false
+      },
+      {
+        "text": "0.005",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The longitudinal strain is the change in length divided by the original length, which is $\\frac{0.01m}{2m} = 0.005$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "40",
+    "questionText": "What type of strain is produced in a body when it is compressed from all directions?",
+    "options": [
+      {
+        "text": "Volumetric strain",
+        "isCorrect": true
+      },
+      {
+        "text": "Longitudinal strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Shearing strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Lateral strain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a body is compressed from all directions, it undergoes a volumetric strain.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "41",
+    "questionText": "Which type of stress is experienced by a cylinder when it is twisted by applying forces at its ends?",
+    "options": [
+      {
+        "text": "Shearing stress",
+        "isCorrect": true
+      },
+      {
+        "text": "Tensile stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Compressive stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydraulic stress",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a cylinder is twisted by applying forces at its ends, it experiences shearing stress.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "42",
+    "questionText": "If a cylinder is compressed and its length decreases by 2 cm, what is the compressive strain if its original length was 50 cm?",
+    "options": [
+      {
+        "text": "0.04",
+        "isCorrect": true
+      },
+      {
+        "text": "0.02",
+        "isCorrect": false
+      },
+      {
+        "text": "0.4",
+        "isCorrect": false
+      },
+      {
+        "text": "0.2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The compressive strain is the change in length divided by the original length, which is $\\frac{2 cm}{50 cm} = 0.04$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "43",
+    "questionText": "What is the relation between stress and strain under elastic limit?",
+    "options": [
+      {
+        "text": "Stress is directly proportional to strain",
+        "isCorrect": true
+      },
+      {
+        "text": "Stress is inversely proportional to strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Stress is equal to strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Stress and strain are unrelated",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Under elastic limit, stress is directly proportional to strain, which is known as Hooke's law.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "HARD"
+  },
+  {
+    "qno": "44",
+    "questionText": "A rubber band is stretched to twice its length. What type of deformation does it undergo?",
+    "options": [
+      {
+        "text": "Elastic deformation",
+        "isCorrect": true
+      },
+      {
+        "text": "Plastic deformation",
+        "isCorrect": false
+      },
+      {
+        "text": "Permanent deformation",
+        "isCorrect": false
+      },
+      {
+        "text": "Temporary deformation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a rubber band is stretched and it returns to its original length after releasing, it undergoes elastic deformation.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "45",
+    "questionText": "If the longitudinal strain is 0.01 and the original length is 1 meter, what is the change in length?",
+    "options": [
+      {
+        "text": "0.01 meter",
+        "isCorrect": true
+      },
+      {
+        "text": "0.1 meter",
+        "isCorrect": false
+      },
+      {
+        "text": "1 meter",
+        "isCorrect": false
+      },
+      {
+        "text": "10 meter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Change in length is calculated as $\\text{longitudinal strain} \\times \\text{original length} = 0.01 \\times 1 = 0.01$ meter.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "46",
+    "questionText": "A steel rod is compressed by a force applied on both ends. If the original length of the rod is 5 meters and the length decreases by 0.01 meter, what is the compressive strain?",
+    "options": [
+      {
+        "text": "0.002",
+        "isCorrect": false
+      },
+      {
+        "text": "0.01",
+        "isCorrect": false
+      },
+      {
+        "text": "0.002",
+        "isCorrect": true
+      },
+      {
+        "text": "0.05",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The compressive strain is the change in length divided by the original length, which is $\\frac{0.01}{5} = 0.002$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "47",
+    "questionText": "If a force of 500 N is applied to a cylinder with a cross-sectional area of $50 \\text{ cm}^2$, what is the tensile stress?",
+    "options": [
+      {
+        "text": "$10^6 \\text{ N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10^5 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10^4 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10^3 \\text{ N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tensile stress is calculated as $\\frac{F}{A}$, where $F$ is the force and $A$ is the area. Converting $50 \\text{ cm}^2$ to $0.005 \\text{ m}^2$, the stress is $\\frac{500}{0.005} = 10^6 \\text{ N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "HARD"
+  },
+  {
+    "qno": "48",
+    "questionText": "What type of strain is produced when a book is pressed with the hand and pushed horizontally?",
+    "options": [
+      {
+        "text": "Shearing strain",
+        "isCorrect": true
+      },
+      {
+        "text": "Longitudinal strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Lateral strain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a book is pressed and pushed horizontally, it undergoes shearing strain due to the tangential force applied.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "49",
+    "questionText": "A metal rod has a length of 2 m and is elongated by 0.01 m under a tensile force. What is the longitudinal strain?",
+    "options": [
+      {
+        "text": "0.005",
+        "isCorrect": true
+      },
+      {
+        "text": "0.01",
+        "isCorrect": false
+      },
+      {
+        "text": "0.02",
+        "isCorrect": false
+      },
+      {
+        "text": "0.001",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Longitudinal strain is calculated as the ratio of change in length to the original length: $\\frac{0.01}{2} = 0.005$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "50",
+    "questionText": "If a solid sphere is compressed uniformly from all directions, what type of stress does it experience?",
+    "options": [
+      {
+        "text": "Hydraulic stress",
+        "isCorrect": true
+      },
+      {
+        "text": "Tensile stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Shearing stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Compressive stress",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A solid sphere compressed uniformly from all directions experiences hydraulic stress due to the applied fluid pressure.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "51",
+    "questionText": "What is the shearing strain if the relative displacement between the opposite faces of a cylinder is 0.1 m and the length is 5 m?",
+    "options": [
+      {
+        "text": "0.02",
+        "isCorrect": true
+      },
+      {
+        "text": "0.01",
+        "isCorrect": false
+      },
+      {
+        "text": "0.002",
+        "isCorrect": false
+      },
+      {
+        "text": "0.2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Shearing strain is calculated as the ratio of relative displacement to the length: $\\frac{0.1}{5} = 0.02$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "52",
+    "questionText": "If a metal rod with an original length of 1 m is elongated to 1.01 m under a certain load, what is the longitudinal strain?",
+    "options": [
+      {
+        "text": "0.01",
+        "isCorrect": true
+      },
+      {
+        "text": "0.001",
+        "isCorrect": false
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.0001",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Longitudinal strain is the change in length divided by the original length: $\\frac{1.01 - 1}{1} = 0.01$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "53",
+    "questionText": "What is the hydraulic stress if the internal restoring force is 1000 N and the area of the cross-section is 0.5 $\\text{m}^2$?",
+    "options": [
+      {
+        "text": "2000 $\\text{N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "500 $\\text{N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "1000 $\\text{N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "1500 $\\text{N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hydraulic stress is calculated as the force per unit area: $\\frac{1000}{0.5} = 2000 \\text{N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "54",
+    "questionText": "A steel rod with an original length of 2 m is compressed by 0.02 m. What is the compressive strain?",
+    "options": [
+      {
+        "text": "0.01",
+        "isCorrect": true
+      },
+      {
+        "text": "0.001",
+        "isCorrect": false
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.02",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Compressive strain is the change in length divided by the original length: $\\frac{0.02}{2} = 0.01$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "55",
+    "questionText": "What is the volumetric strain if the change in volume is 5 $\\text{m}^3$ and the original volume is 50 $\\text{m}^3$?",
+    "options": [
+      {
+        "text": "0.1",
+        "isCorrect": true
+      },
+      {
+        "text": "0.01",
+        "isCorrect": false
+      },
+      {
+        "text": "0.05",
+        "isCorrect": false
+      },
+      {
+        "text": "0.2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volumetric strain is calculated as the change in volume divided by the original volume: $\\frac{5}{50} = 0.1$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "56",
+    "questionText": "What is the tensile stress if a force of 2000 N is applied to a rod with a cross-sectional area of 0.1 $\\text{m}^2$?",
+    "options": [
+      {
+        "text": "20000 $\\text{N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "2000 $\\text{N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "20000 $\\text{N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "200 $\\text{N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tensile stress is calculated as the force divided by the area: $\\frac{2000}{0.1} = 20000 \\text{N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "HARD"
+  },
+  {
+    "qno": "57",
+    "questionText": "A metal rod has an original length of 3 m and is stretched to 3.03 m. What is the longitudinal strain?",
+    "options": [
+      {
+        "text": "0.01",
+        "isCorrect": false
+      },
+      {
+        "text": "0.001",
+        "isCorrect": true
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.03",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Longitudinal strain is the change in length divided by the original length: $\\frac{3.03 - 3}{3} = 0.01$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "EASY"
+  },
+  {
+    "qno": "58",
+    "questionText": "What is the shearing stress if a force of 500 N is applied tangentially to a surface area of 0.2 $\\text{m}^2$?",
+    "options": [
+      {
+        "text": "2500 $\\text{N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "500 $\\text{N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "250 $\\text{N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "2000 $\\text{N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Shearing stress is calculated as the force divided by the area: $\\frac{500}{0.2} = 2500 \\text{N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "HARD"
+  },
+  {
+    "qno": "59",
+    "questionText": "What is the volume strain if the original volume of a solid is 1000 $\\text{m}^3$ and the change in volume is 50 $\\text{m}^3$?",
+    "options": [
+      {
+        "text": "0.05",
+        "isCorrect": true
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "0.005",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volume strain is calculated as the change in volume divided by the original volume: $\\frac{50}{1000} = 0.05$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "60",
+    "questionText": "A wire is stretched by a force of 1000 N, and the area of cross-section of the wire is 2 $\\text{mm}^2$. What is the tensile stress in the wire?",
+    "options": [
+      {
+        "text": "$5 \\times 10^5 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 10^7 \\text{ N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5 \\times 10^6 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 10^4 \\text{ N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tensile stress is calculated as the force divided by the area: $\\frac{1000}{2 \\times 10^{-6}} = 5 \\times 10^7 \\text{ N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.2 Stress and strain",
+    "level": "HARD"
+  },
+  {
+    "qno": "47",
+    "questionText": "What is Hooke's Law?",
+    "options": [
+      {
+        "text": "Stress is directly proportional to strain",
+        "isCorrect": true
+      },
+      {
+        "text": "Stress is inversely proportional to strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Stress is equal to strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Stress and strain are unrelated",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hooke's Law states that within the elastic limit, stress is directly proportional to strain.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "EASY"
+  },
+  {
+    "qno": "48",
+    "questionText": "If the stress in a wire is $5 \\times 10^7 \\text{ N/m}^2$ and the Young's modulus is $2 \\times 10^{11} \\text{ N/m}^2$, what is the strain?",
+    "options": [
+      {
+        "text": "$2.5 \\times 10^{-4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2.5 \\times 10^{-3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.5 \\times 10^{-2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.5 \\times 10^{-5}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Strain is calculated as $\\frac{\\text{Stress}}{\\text{Young's modulus}} = \\frac{5 \\times 10^7}{2 \\times 10^{11}} = 2.5 \\times 10^{-4}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "49",
+    "questionText": "What does Hooke's law describe?",
+    "options": [
+      {
+        "text": "Elastic behavior of materials",
+        "isCorrect": true
+      },
+      {
+        "text": "Plastic behavior of materials",
+        "isCorrect": false
+      },
+      {
+        "text": "Thermal behavior of materials",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic behavior of materials",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hooke's law describes the elastic behavior of materials where the stress is proportional to the strain.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "EASY"
+  },
+  {
+    "qno": "50",
+    "questionText": "If the force applied to a spring is $F$ and the spring constant is $k$, what is the elongation of the spring according to Hooke's law?",
+    "options": [
+      {
+        "text": "$\\frac{F}{k}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{k}{F}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Fk$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{F}{2k}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Hooke's law, the elongation of the spring is given by $\\frac{F}{k}$ where $F$ is the force applied and $k$ is the spring constant.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "51",
+    "questionText": "A spring with a spring constant of $100 \\text{ N/m}$ is stretched by $0.1 \\text{ m}$. What is the force applied to the spring?",
+    "options": [
+      {
+        "text": "10 N",
+        "isCorrect": true
+      },
+      {
+        "text": "1 N",
+        "isCorrect": false
+      },
+      {
+        "text": "100 N",
+        "isCorrect": false
+      },
+      {
+        "text": "0.1 N",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The force applied to the spring is calculated as $F = kx$, where $k = 100 \\text{ N/m}$ and $x = 0.1 \\text{ m}$. Therefore, $F = 100 \\times 0.1 = 10 \\text{ N}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "EASY"
+  },
+  {
+    "qno": "52",
+    "questionText": "What is the spring constant if a spring stretches $0.02 \\text{ m}$ when a force of $4 \\text{ N}$ is applied?",
+    "options": [
+      {
+        "text": "200 N/m",
+        "isCorrect": true
+      },
+      {
+        "text": "20 N/m",
+        "isCorrect": false
+      },
+      {
+        "text": "0.2 N/m",
+        "isCorrect": false
+      },
+      {
+        "text": "2 N/m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The spring constant $k$ is calculated as $k = \\frac{F}{x} = \\frac{4}{0.02} = 200 \\text{ N/m}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "53",
+    "questionText": "If a material obeys Hooke's law, which of the following graphs represents the relationship between stress and strain?",
+    "options": [
+      {
+        "text": "A straight line passing through the origin",
+        "isCorrect": true
+      },
+      {
+        "text": "A parabola",
+        "isCorrect": false
+      },
+      {
+        "text": "A hyperbola",
+        "isCorrect": false
+      },
+      {
+        "text": "An exponential curve",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For materials obeying Hooke's law, the relationship between stress and strain is linear, represented by a straight line passing through the origin.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "HARD"
+  },
+  {
+    "qno": "54",
+    "questionText": "What is the unit of the spring constant $k$ in Hooke's law?",
+    "options": [
+      {
+        "text": "N/m",
+        "isCorrect": true
+      },
+      {
+        "text": "N",
+        "isCorrect": false
+      },
+      {
+        "text": "m/N",
+        "isCorrect": false
+      },
+      {
+        "text": "N\\cdot m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The unit of the spring constant $k$ in Hooke's law is Newton per meter (N/m).",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "EASY"
+  },
+  {
+    "qno": "55",
+    "questionText": "If the Young's modulus of a material is $2 \\times 10^{11} \\text{ N/m}^2$ and the stress applied is $4 \\times 10^7 \\text{ N/m}^2$, what is the strain?",
+    "options": [
+      {
+        "text": "$2 \\times 10^{-4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2 \\times 10^{-5}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\times 10^{-6}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\times 10^{-3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Strain is calculated as $\\frac{\\text{Stress}}{\\text{Young's modulus}} = \\frac{4 \\times 10^7}{2 \\times 10^{11}} = 2 \\times 10^{-4}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "56",
+    "questionText": "Which of the following statements is true according to Hooke's law?",
+    "options": [
+      {
+        "text": "Stress is proportional to strain within the elastic limit",
+        "isCorrect": true
+      },
+      {
+        "text": "Stress is inversely proportional to strain within the elastic limit",
+        "isCorrect": false
+      },
+      {
+        "text": "Stress is equal to strain within the elastic limit",
+        "isCorrect": false
+      },
+      {
+        "text": "Stress and strain are unrelated within the elastic limit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hooke's law states that stress is proportional to strain within the elastic limit of the material.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "EASY"
+  },
+  {
+    "qno": "57",
+    "questionText": "What is the elongation produced in a wire of length 2m and cross-sectional area $1 \\times 10^{-6} \\text{m}^2$ when a force of 200N is applied? (Young's modulus $= 2 \\times 10^{11} \\text{N/m}^2$)",
+    "options": [
+      {
+        "text": "$2 \\times 10^{-3} \\text{m}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4 \\times 10^{-3} \\text{m}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6 \\times 10^{-3} \\text{m}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8 \\times 10^{-3} \\text{m}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elongation is calculated as $\\Delta L = \\frac{F L}{A Y} = \\frac{200 \\times 2}{1 \\times 10^{-6} \\times 2 \\times 10^{11}} = 2 \\times 10^{-3} \\text{m}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "58",
+    "questionText": "The spring constant of a spring is $200 \\text{N/m}$. What is the force required to stretch the spring by $0.05 \\text{m}$?",
+    "options": [
+      {
+        "text": "10 N",
+        "isCorrect": false
+      },
+      {
+        "text": "20 N",
+        "isCorrect": false
+      },
+      {
+        "text": "30 N",
+        "isCorrect": false
+      },
+      {
+        "text": "10 N",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The force required to stretch the spring is calculated using Hooke's law, $F = kx = 200 \\times 0.05 = 10 \\text{N}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "EASY"
+  },
+  {
+    "qno": "59",
+    "questionText": "Which of the following materials obey Hooke's law up to a certain limit?",
+    "options": [
+      {
+        "text": "Rubber",
+        "isCorrect": false
+      },
+      {
+        "text": "Steel",
+        "isCorrect": true
+      },
+      {
+        "text": "Plastic",
+        "isCorrect": false
+      },
+      {
+        "text": "Glass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Steel obeys Hooke's law up to a certain limit, beyond which it does not follow the linear relationship between stress and strain.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "60",
+    "questionText": "A spring is stretched by 0.1 m when a force of 50 N is applied. What is the spring constant?",
+    "options": [
+      {
+        "text": "500 N/m",
+        "isCorrect": true
+      },
+      {
+        "text": "50 N/m",
+        "isCorrect": false
+      },
+      {
+        "text": "5000 N/m",
+        "isCorrect": false
+      },
+      {
+        "text": "5 N/m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The spring constant $k$ is calculated as $k = \\frac{F}{x} = \\frac{50}{0.1} = 500 \\text{N/m}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "61",
+    "questionText": "If the force applied to a spring is doubled, what happens to the elongation of the spring according to Hooke's law?",
+    "options": [
+      {
+        "text": "It doubles",
+        "isCorrect": true
+      },
+      {
+        "text": "It triples",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It halves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Hooke's law, the elongation of the spring is directly proportional to the force applied. Therefore, if the force is doubled, the elongation also doubles.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "EASY"
+  },
+  {
+    "qno": "62",
+    "questionText": "A spring has a spring constant of $150 \\text{N/m}$. What is the force required to compress the spring by $0.2 \\text{m}$?",
+    "options": [
+      {
+        "text": "30 N",
+        "isCorrect": true
+      },
+      {
+        "text": "15 N",
+        "isCorrect": false
+      },
+      {
+        "text": "150 N",
+        "isCorrect": false
+      },
+      {
+        "text": "0.2 N",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The force required to compress the spring is calculated using Hooke's law, $F = kx = 150 \\times 0.2 = 30 \\text{N}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "63",
+    "questionText": "What is the Young's modulus of a material if a stress of $6 \\times 10^6 \\text{N/m}^2$ produces a strain of $2 \\times 10^{-3}$?",
+    "options": [
+      {
+        "text": "$3 \\times 10^9 \\text{N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3 \\times 10^8 \\text{N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 \\times 10^7 \\text{N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 \\times 10^6 \\text{N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Young's modulus is calculated as $Y = \\frac{\\text{Stress}}{\\text{Strain}} = \\frac{6 \\times 10^6}{2 \\times 10^{-3}} = 3 \\times 10^9 \\text{N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "HARD"
+  },
+  {
+    "qno": "64",
+    "questionText": "A material has a spring constant of $500 \\text{N/m}$. What is the energy stored in the spring when it is stretched by $0.1 \\text{m}$?",
+    "options": [
+      {
+        "text": "2.5 J",
+        "isCorrect": true
+      },
+      {
+        "text": "5 J",
+        "isCorrect": false
+      },
+      {
+        "text": "10 J",
+        "isCorrect": false
+      },
+      {
+        "text": "25 J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy stored in the spring is calculated as $U = \\frac{1}{2} k x^2 = \\frac{1}{2} \\times 500 \\times (0.1)^2 = 2.5 \\text{J}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "65",
+    "questionText": "What is the strain energy per unit volume in a wire of Young's modulus $2 \\times 10^{11} \\text{N/m}^2$ and strain $0.01$?",
+    "options": [
+      {
+        "text": "$10^9 \\text{J/m}^3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$10^8 \\text{J/m}^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10^7 \\text{J/m}^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10^6 \\text{J/m}^3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The strain energy per unit volume is calculated as $u = \\frac{1}{2} Y \\epsilon^2 = \\frac{1}{2} \\times 2 \\times 10^{11} \\times (0.01)^2 = 10^9 \\text{J/m}^3$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "HARD"
+  },
+  {
+    "qno": "66",
+    "questionText": "What happens to the length of a wire if the force applied is doubled, assuming the material follows Hooke's law?",
+    "options": [
+      {
+        "text": "The length increases by a factor of 2",
+        "isCorrect": true
+      },
+      {
+        "text": "The length remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "The length decreases by a factor of 2",
+        "isCorrect": false
+      },
+      {
+        "text": "The length increases by a factor of 4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Hooke's law, if the force applied is doubled, the elongation (change in length) also doubles.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "EASY"
+  },
+  {
+    "qno": "67",
+    "questionText": "A wire with Young's modulus $1.2 \\times 10^{11} \\text{N/m}^2$ is stretched with a force of $2 \\times 10^4 \\text{N}$. If the original length is $5 \\text{m}$ and the cross-sectional area is $2 \\times 10^{-5} \\text{m}^2$, what is the elongation?",
+    "options": [
+      {
+        "text": "0.004 m",
+        "isCorrect": true
+      },
+      {
+        "text": "0.004 m",
+        "isCorrect": false
+      },
+      {
+        "text": "0.2 m",
+        "isCorrect": false
+      },
+      {
+        "text": "0.02 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elongation is calculated as $\\Delta L = \\frac{F L}{A Y} = \\frac{2 \\times 10^4 \\times 5}{2 \\times 10^{-5} \\times 1.2 \\times 10^{11}} = 0.004 \\text{m}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "HARD"
+  },
+  {
+    "qno": "68",
+    "questionText": "What is the potential energy stored in a spring with a spring constant of $300 \\text{N/m}$ when it is compressed by $0.2 \\text{m}$?",
+    "options": [
+      {
+        "text": "6 J",
+        "isCorrect": true
+      },
+      {
+        "text": "3 J",
+        "isCorrect": false
+      },
+      {
+        "text": "12 J",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5 J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential energy stored in the spring is calculated as $U = \\frac{1}{2} k x^2 = \\frac{1}{2} \\times 300 \\times (0.2)^2 = 6 \\text{J}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "69",
+    "questionText": "If the Young's modulus of a wire is $1 \\times 10^{11} \\text{N/m}^2$ and the stress applied is $5 \\times 10^7 \\text{N/m}^2$, what is the strain in the wire?",
+    "options": [
+      {
+        "text": "$5 \\times 10^{-4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5 \\times 10^{-3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 10^{-2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 10^{-5}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Strain is calculated as $\\frac{\\text{Stress}}{\\text{Young's modulus}} = \\frac{5 \\times 10^7}{1 \\times 10^{11}} = 5 \\times 10^{-4}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "HARD"
+  },
+  {
+    "qno": "70",
+    "questionText": "A metal rod with an original length of $4 \\text{m}$ is subjected to a force that elongates it by $0.01 \\text{m}$. What is the strain in the rod?",
+    "options": [
+      {
+        "text": "0.0025",
+        "isCorrect": true
+      },
+      {
+        "text": "0.025",
+        "isCorrect": false
+      },
+      {
+        "text": "0.00025",
+        "isCorrect": false
+      },
+      {
+        "text": "0.002",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Strain is calculated as $\\frac{\\Delta L}{L} = \\frac{0.01}{4} = 0.0025$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "EASY"
+  },
+  {
+    "qno": "71",
+    "questionText": "The spring constant of a spring is $400 \\text{N/m}$. What is the force required to stretch the spring by $0.05 \\text{m}$?",
+    "options": [
+      {
+        "text": "20 N",
+        "isCorrect": true
+      },
+      {
+        "text": "40 N",
+        "isCorrect": false
+      },
+      {
+        "text": "10 N",
+        "isCorrect": false
+      },
+      {
+        "text": "30 N",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The force required to stretch the spring is calculated using Hooke's law, $F = kx = 400 \\times 0.05 = 20 \\text{N}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "72",
+    "questionText": "What is the elongation produced in a wire of length $2 \\text{m}$ and cross-sectional area $2 \\times 10^{-6} \\text{m}^2$ when a force of $1000 \\text{N}$ is applied? (Young's modulus $= 2 \\times 10^{11} \\text{N/m}^2$)",
+    "options": [
+      {
+        "text": "$0.005 \\text{m}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0.002 \\text{m}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.01 \\text{m}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.05 \\text{m}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elongation is calculated as $\\Delta L = \\frac{F L}{A Y} = \\frac{1000 \\times 2}{2 \\times 10^{-6} \\times 2 \\times 10^{11}} = 0.005 \\text{m}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "73",
+    "questionText": "If a material has a Young's modulus of $2 \\times 10^{11} \\text{N/m}^2$ and the strain produced is $0.001$, what is the stress applied?",
+    "options": [
+      {
+        "text": "$2 \\times 10^8 \\text{N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\times 10^9 \\text{N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2 \\times 10^7 \\text{N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\times 10^{10} \\text{N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Stress is calculated as $\\text{Stress} = Y \\times \\text{Strain} = 2 \\times 10^{11} \\times 0.001 = 2 \\times 10^9 \\text{N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "HARD"
+  },
+  {
+    "qno": "74",
+    "questionText": "A spring with a spring constant of $500 \\text{N/m}$ is compressed by $0.1 \\text{m}$. What is the potential energy stored in the spring?",
+    "options": [
+      {
+        "text": "2.5 J",
+        "isCorrect": true
+      },
+      {
+        "text": "5 J",
+        "isCorrect": false
+      },
+      {
+        "text": "10 J",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5 J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential energy stored in the spring is calculated as $U = \\frac{1}{2} k x^2 = \\frac{1}{2} \\times 500 \\times (0.1)^2 = 2.5 \\text{J}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "75",
+    "questionText": "A wire is elongated by $1 \\text{mm}$ when a force of $100 \\text{N}$ is applied. If the original length of the wire is $1 \\text{m}$, what is the strain produced?",
+    "options": [
+      {
+        "text": "0.001",
+        "isCorrect": true
+      },
+      {
+        "text": "0.01",
+        "isCorrect": false
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.0001",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Strain is calculated as $\\text{Strain} = \\frac{\\Delta L}{L} = \\frac{1 \\text{mm}}{1 \\text{m}} = \\frac{0.001 \\text{m}}{1 \\text{m}} = 0.001$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "EASY"
+  },
+  {
+    "qno": "76",
+    "questionText": "A material obeys Hooke's law. What is the nature of the stress-strain graph for this material?",
+    "options": [
+      {
+        "text": "A straight line passing through the origin",
+        "isCorrect": true
+      },
+      {
+        "text": "A curve passing through the origin",
+        "isCorrect": false
+      },
+      {
+        "text": "A parabola",
+        "isCorrect": false
+      },
+      {
+        "text": "A hyperbola",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For materials obeying Hooke's law, the stress-strain graph is a straight line passing through the origin.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "80",
+    "questionText": "A wire with Young's modulus $1.2 \\times 10^{11} \\text{N/m}^2$ is stretched with a force of $2 \\times 10^4 \\text{N}$. If the original length is $5 \\text{m}$ and the cross-sectional area is $2 \\times 10^{-5} \\text{m}^2$, what is the elongation?",
+    "options": [
+      {
+        "text": "0.004 m",
+        "isCorrect": true
+      },
+      {
+        "text": "0.002 m",
+        "isCorrect": false
+      },
+      {
+        "text": "0.02 m",
+        "isCorrect": false
+      },
+      {
+        "text": "0.2 m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elongation is calculated as $\\Delta L = \\frac{F L}{A Y} = \\frac{2 \\times 10^4 \\times 5}{2 \\times 10^{-5} \\times 1.2 \\times 10^{11}} = 0.004 \\text{m}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "HARD"
+  },
+  {
+    "qno": "86",
+    "questionText": "A spring is stretched by $0.1 \\text{m}$ when a force of $50 \\text{N}$ is applied. What is the spring constant?",
+    "options": [
+      {
+        "text": "500 N/m",
+        "isCorrect": true
+      },
+      {
+        "text": "50 N/m",
+        "isCorrect": false
+      },
+      {
+        "text": "5000 N/m",
+        "isCorrect": false
+      },
+      {
+        "text": "5 N/m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The spring constant $k$ is calculated as $k = \\frac{F}{x} = \\frac{50}{0.1} = 500 \\text{N/m}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.3 Hooke’s law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "89",
+    "questionText": "What does the initial linear portion of the stress-strain curve represent?",
+    "options": [
+      {
+        "text": "Elastic region",
+        "isCorrect": true
+      },
+      {
+        "text": "Plastic region",
+        "isCorrect": false
+      },
+      {
+        "text": "Yield point",
+        "isCorrect": false
+      },
+      {
+        "text": "Fracture point",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The initial linear portion of the stress-strain curve represents the elastic region where stress is directly proportional to strain.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "EASY"
+  },
+  {
+    "qno": "90",
+    "questionText": "What is the significance of the yield point on the stress-strain curve?",
+    "options": [
+      {
+        "text": "It indicates the end of the elastic region and the beginning of the plastic region",
+        "isCorrect": true
+      },
+      {
+        "text": "It indicates the point of fracture",
+        "isCorrect": false
+      },
+      {
+        "text": "It indicates the maximum stress a material can withstand",
+        "isCorrect": false
+      },
+      {
+        "text": "It indicates the region of proportionality",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The yield point on the stress-strain curve indicates the end of the elastic region and the beginning of the plastic region, where permanent deformation begins.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "91",
+    "questionText": "Which point on the stress-strain curve represents the ultimate tensile strength of a material?",
+    "options": [
+      {
+        "text": "The highest point on the curve",
+        "isCorrect": true
+      },
+      {
+        "text": "The yield point",
+        "isCorrect": false
+      },
+      {
+        "text": "The fracture point",
+        "isCorrect": false
+      },
+      {
+        "text": "The proportional limit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ultimate tensile strength of a material is represented by the highest point on the stress-strain curve.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "HARD"
+  },
+  {
+    "qno": "92",
+    "questionText": "What happens to a material in the plastic region of the stress-strain curve?",
+    "options": [
+      {
+        "text": "It undergoes permanent deformation",
+        "isCorrect": true
+      },
+      {
+        "text": "It returns to its original shape when the load is removed",
+        "isCorrect": false
+      },
+      {
+        "text": "It fractures",
+        "isCorrect": false
+      },
+      {
+        "text": "It experiences elastic deformation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the plastic region of the stress-strain curve, the material undergoes permanent deformation and does not return to its original shape when the load is removed.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "93",
+    "questionText": "What is the point called where the stress-strain curve begins to flatten out after the yield point?",
+    "options": [
+      {
+        "text": "Plastic region",
+        "isCorrect": true
+      },
+      {
+        "text": "Elastic region",
+        "isCorrect": false
+      },
+      {
+        "text": "Fracture point",
+        "isCorrect": false
+      },
+      {
+        "text": "Proportional limit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The point where the stress-strain curve begins to flatten out after the yield point is known as the plastic region.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "HARD"
+  },
+  {
+    "qno": "94",
+    "questionText": "What is the area under the stress-strain curve up to the fracture point a measure of?",
+    "options": [
+      {
+        "text": "Toughness of the material",
+        "isCorrect": true
+      },
+      {
+        "text": "Elastic modulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Yield strength",
+        "isCorrect": false
+      },
+      {
+        "text": "Ductility",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The area under the stress-strain curve up to the fracture point is a measure of the toughness of the material.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "95",
+    "questionText": "What is the significance of the fracture point on the stress-strain curve?",
+    "options": [
+      {
+        "text": "It indicates the point at which the material breaks",
+        "isCorrect": true
+      },
+      {
+        "text": "It indicates the end of the elastic region",
+        "isCorrect": false
+      },
+      {
+        "text": "It indicates the yield point",
+        "isCorrect": false
+      },
+      {
+        "text": "It indicates the proportional limit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The fracture point on the stress-strain curve indicates the point at which the material breaks.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "EASY"
+  },
+  {
+    "qno": "96",
+    "questionText": "What is represented by the slope of the linear portion of the stress-strain curve?",
+    "options": [
+      {
+        "text": "Young's modulus",
+        "isCorrect": true
+      },
+      {
+        "text": "Yield strength",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultimate tensile strength",
+        "isCorrect": false
+      },
+      {
+        "text": "Toughness",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The slope of the linear portion of the stress-strain curve represents Young's modulus, which is a measure of the stiffness of the material.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "HARD"
+  },
+  {
+    "qno": "97",
+    "questionText": "Which region of the stress-strain curve indicates that the material will return to its original shape upon removal of the load?",
+    "options": [
+      {
+        "text": "Elastic region",
+        "isCorrect": true
+      },
+      {
+        "text": "Plastic region",
+        "isCorrect": false
+      },
+      {
+        "text": "Fracture point",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultimate tensile strength",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The elastic region of the stress-strain curve indicates that the material will return to its original shape upon removal of the load.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "98",
+    "questionText": "What is the proportional limit on the stress-strain curve?",
+    "options": [
+      {
+        "text": "The point up to which stress is directly proportional to strain",
+        "isCorrect": true
+      },
+      {
+        "text": "The point at which the material breaks",
+        "isCorrect": false
+      },
+      {
+        "text": "The highest point on the curve",
+        "isCorrect": false
+      },
+      {
+        "text": "The point at which the material yields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The proportional limit on the stress-strain curve is the point up to which stress is directly proportional to strain.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "HARD"
+  },
+  {
+    "qno": "99",
+    "questionText": "What does the area under the elastic region of the stress-strain curve represent?",
+    "options": [
+      {
+        "text": "Elastic energy stored in the material",
+        "isCorrect": true
+      },
+      {
+        "text": "Toughness",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultimate tensile strength",
+        "isCorrect": false
+      },
+      {
+        "text": "Yield strength",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The area under the elastic region of the stress-strain curve represents the elastic energy stored in the material.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "100",
+    "questionText": "At what point on the stress-strain curve does necking begin?",
+    "options": [
+      {
+        "text": "Ultimate tensile strength",
+        "isCorrect": true
+      },
+      {
+        "text": "Yield point",
+        "isCorrect": false
+      },
+      {
+        "text": "Proportional limit",
+        "isCorrect": false
+      },
+      {
+        "text": "Fracture point",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Necking begins at the point of ultimate tensile strength on the stress-strain curve.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "HARD"
+  },
+  {
+    "qno": "101",
+    "questionText": "What is the definition of toughness in terms of the stress-strain curve?",
+    "options": [
+      {
+        "text": "The ability of a material to absorb energy up to the point of fracture",
+        "isCorrect": true
+      },
+      {
+        "text": "The ability of a material to return to its original shape",
+        "isCorrect": false
+      },
+      {
+        "text": "The maximum stress a material can withstand",
+        "isCorrect": false
+      },
+      {
+        "text": "The point at which a material yields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Toughness is defined as the ability of a material to absorb energy up to the point of fracture, represented by the area under the stress-strain curve.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "102",
+    "questionText": "What happens to a material after the ultimate tensile strength is reached on the stress-strain curve?",
+    "options": [
+      {
+        "text": "The material begins to neck and eventually fractures",
+        "isCorrect": true
+      },
+      {
+        "text": "The material continues to deform elastically",
+        "isCorrect": false
+      },
+      {
+        "text": "The material returns to its original shape",
+        "isCorrect": false
+      },
+      {
+        "text": "The material stops deforming",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "After the ultimate tensile strength is reached, the material begins to neck, and continued deformation leads to eventual fracture.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "HARD"
+  },
+  {
+    "qno": "103",
+    "questionText": "What is the significance of the elastic limit on the stress-strain curve?",
+    "options": [
+      {
+        "text": "It represents the maximum stress that can be applied without permanent deformation",
+        "isCorrect": true
+      },
+      {
+        "text": "It represents the point of fracture",
+        "isCorrect": false
+      },
+      {
+        "text": "It represents the yield point",
+        "isCorrect": false
+      },
+      {
+        "text": "It represents the point of ultimate tensile strength",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The elastic limit represents the maximum stress that can be applied to a material without causing permanent deformation.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "110",
+    "questionText": "What does the proportional limit on the stress-strain curve represent?",
+    "options": [
+      {
+        "text": "The point up to which stress is directly proportional to strain",
+        "isCorrect": true
+      },
+      {
+        "text": "The point at which the material breaks",
+        "isCorrect": false
+      },
+      {
+        "text": "The highest point on the curve",
+        "isCorrect": false
+      },
+      {
+        "text": "The point at which the material yields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The proportional limit on the stress-strain curve is the point up to which stress is directly proportional to strain.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.4 Stress-strain curve",
+    "level": "HARD"
+  },
+  {
+    "qno": "139",
+    "questionText": "What is Young's modulus?",
+    "options": [
+      {
+        "text": "The ratio of tensile stress to tensile strain",
+        "isCorrect": true
+      },
+      {
+        "text": "The ratio of compressive stress to compressive strain",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of shear stress to shear strain",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of bulk stress to bulk strain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Young's modulus is defined as the ratio of tensile stress to tensile strain in the linear portion of the stress-strain curve.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "140",
+    "questionText": "If the Young's modulus of a material is $2 \\times 10^{11} \\text{ N/m}^2$ and the strain produced is $0.001$, what is the stress applied?",
+    "options": [
+      {
+        "text": "$2 \\times 10^8 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\times 10^9 \\text{ N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2 \\times 10^7 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\times 10^{10} \\text{ N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Stress is calculated as $\\text{Stress} = Y \\times \\text{Strain} = 2 \\times 10^{11} \\times 0.001 = 2 \\times 10^9 \\text{ N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "141",
+    "questionText": "What is the unit of Young's modulus?",
+    "options": [
+      {
+        "text": "N/m^2",
+        "isCorrect": true
+      },
+      {
+        "text": "N/m",
+        "isCorrect": false
+      },
+      {
+        "text": "Pa/m",
+        "isCorrect": false
+      },
+      {
+        "text": "N",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The unit of Young's modulus is Pascal (Pa) or Newton per square meter (N/m^2).",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "142",
+    "questionText": "What is the relationship between stress and strain in the linear elastic region for a material with Young's modulus Y?",
+    "options": [
+      {
+        "text": "Stress = Y * Strain",
+        "isCorrect": true
+      },
+      {
+        "text": "Stress = Strain / Y",
+        "isCorrect": false
+      },
+      {
+        "text": "Stress = Y / Strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Stress = Strain * Y^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the linear elastic region, stress is directly proportional to strain, and the proportionality constant is Young's modulus, so Stress = Y * Strain.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "143",
+    "questionText": "Which material typically has the highest Young's modulus?",
+    "options": [
+      {
+        "text": "Steel",
+        "isCorrect": true
+      },
+      {
+        "text": "Rubber",
+        "isCorrect": false
+      },
+      {
+        "text": "Plastic",
+        "isCorrect": false
+      },
+      {
+        "text": "Wood",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Steel typically has the highest Young's modulus among common materials, indicating it is very stiff and resistant to deformation.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "HARD"
+  },
+  {
+    "qno": "144",
+    "questionText": "What is the shear modulus?",
+    "options": [
+      {
+        "text": "The ratio of shear stress to shear strain",
+        "isCorrect": true
+      },
+      {
+        "text": "The ratio of tensile stress to tensile strain",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of compressive stress to compressive strain",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of bulk stress to bulk strain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The shear modulus, also known as the modulus of rigidity, is defined as the ratio of shear stress to shear strain.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "145",
+    "questionText": "If a material has a shear modulus of $8 \\times 10^{10} \\text{ N/m}^2$ and a shear strain of $0.002$, what is the shear stress?",
+    "options": [
+      {
+        "text": "$1.6 \\times 10^8 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.6 \\times 10^9 \\text{ N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1.6 \\times 10^7 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1.6 \\times 10^{10} \\text{ N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Shear stress is calculated as $\\text{Shear stress} = G \\times \\text{Shear strain} = 8 \\times 10^{10} \\times 0.002 = 1.6 \\times 10^9 \\text{ N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "146",
+    "questionText": "What is bulk modulus?",
+    "options": [
+      {
+        "text": "The ratio of volumetric stress to volumetric strain",
+        "isCorrect": true
+      },
+      {
+        "text": "The ratio of tensile stress to tensile strain",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of shear stress to shear strain",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of compressive stress to compressive strain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bulk modulus is defined as the ratio of volumetric stress to volumetric strain.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "147",
+    "questionText": "A material with a bulk modulus of $5 \\times 10^{9} \\text{ N/m}^2$ experiences a volumetric strain of $0.001$. What is the volumetric stress?",
+    "options": [
+      {
+        "text": "$5 \\times 10^6 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 10^9 \\text{ N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5 \\times 10^7 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 10^8 \\text{ N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volumetric stress is calculated as $\\text{Volumetric stress} = K \\times \\text{Volumetric strain} = 5 \\times 10^{9} \\times 0.001 = 5 \\times 10^9 \\text{ N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "148",
+    "questionText": "Which of the following moduli is a measure of a material's resistance to uniform compression?",
+    "options": [
+      {
+        "text": "Bulk modulus",
+        "isCorrect": true
+      },
+      {
+        "text": "Young's modulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Shear modulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Rigidity modulus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bulk modulus is a measure of a material's resistance to uniform compression.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "149",
+    "questionText": "A rod is compressed such that its volume decreases by 0.5%. If the bulk modulus of the rod material is $2 \\times 10^{10} \\text{ N/m}^2$, what is the pressure applied?",
+    "options": [
+      {
+        "text": "$1 \\times 10^8 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1 \\times 10^9 \\text{ N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1 \\times 10^7 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1 \\times 10^6 \\text{ N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pressure is calculated as $P = K \\times \\Delta V/V = 2 \\times 10^{10} \\times 0.005 = 1 \\times 10^9 \\text{ N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "HARD"
+  },
+  {
+    "qno": "150",
+    "questionText": "Which modulus is used to describe the elasticity of a material under shear stress?",
+    "options": [
+      {
+        "text": "Shear modulus",
+        "isCorrect": true
+      },
+      {
+        "text": "Young's modulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Bulk modulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Elastic modulus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Shear modulus, also known as modulus of rigidity, is used to describe the elasticity of a material under shear stress.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "151",
+    "questionText": "A cylindrical rod has a shear modulus of $4 \\times 10^{10} \\text{ N/m}^2$. What is the shear stress if the shear strain is $0.001$?",
+    "options": [
+      {
+        "text": "$4 \\times 10^7 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\times 10^8 \\text{ N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4 \\times 10^9 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\times 10^6 \\text{ N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Shear stress is calculated as $\\text{Shear stress} = G \\times \\text{Shear strain} = 4 \\times 10^{10} \\times 0.001 = 4 \\times 10^8 \\text{ N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "152",
+    "questionText": "What is the unit of shear modulus?",
+    "options": [
+      {
+        "text": "N/m^2",
+        "isCorrect": true
+      },
+      {
+        "text": "N/m",
+        "isCorrect": false
+      },
+      {
+        "text": "Pa/m",
+        "isCorrect": false
+      },
+      {
+        "text": "N",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The unit of shear modulus is Pascal (Pa) or Newton per square meter (N/m^2).",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "153",
+    "questionText": "A material has a bulk modulus of $3 \\times 10^{9} \\text{ N/m}^2$. If a volumetric stress of $3 \\times 10^7 \\text{ N/m}^2$ is applied, what is the volumetric strain?",
+    "options": [
+      {
+        "text": "$0.01$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0.1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.001$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.0001$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volumetric strain is calculated as $\\text{Volumetric strain} = \\frac{\\text{Volumetric stress}}{K} = \\frac{3 \\times 10^7}{3 \\times 10^9} = 0.01$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "154",
+    "questionText": "Which modulus describes the elasticity of a material under hydrostatic pressure?",
+    "options": [
+      {
+        "text": "Bulk modulus",
+        "isCorrect": true
+      },
+      {
+        "text": "Young's modulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Shear modulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Elastic modulus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bulk modulus describes the elasticity of a material under hydrostatic pressure.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "155",
+    "questionText": "A cube of material is subjected to a uniform pressure of $2 \\times 10^6 \\text{ N/m}^2$. If the bulk modulus of the material is $4 \\times 10^9 \\text{ N/m}^2$, what is the fractional change in volume?",
+    "options": [
+      {
+        "text": "$5 \\times 10^{-4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2 \\times 10^{-4}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1 \\times 10^{-3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\times 10^{-4}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fractional change in volume is calculated as $\\Delta V/V = \\frac{\\text{Pressure}}{K} = \\frac{2 \\times 10^6}{4 \\times 10^9} = 5 \\times 10^{-4}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "HARD"
+  },
+  {
+    "qno": "156",
+    "questionText": "What is the relationship between Young's modulus (Y), bulk modulus (K), and shear modulus (G) for isotropic materials?",
+    "options": [
+      {
+        "text": "$Y = 3K(1 - 2\\mu)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$Y = 2G(1 + \\mu)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K = \\frac{Y}{3(1 - 2\\mu)}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$G = \\frac{Y}{2(1 + \\mu)}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For isotropic materials, the relationship between Young's modulus (Y), bulk modulus (K), and shear modulus (G) is given by $Y = 3K(1 - 2\\mu)$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "HARD"
+  },
+  {
+    "qno": "157",
+    "questionText": "A material has a shear modulus of $5 \\times 10^{10} \\text{ N/m}^2$. If a shear stress of $1 \\times 10^8 \\text{ N/m}^2$ is applied, what is the shear strain?",
+    "options": [
+      {
+        "text": "$0.002$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0.02$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.0002$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Shear strain is calculated as $\\text{Shear strain} = \\frac{\\text{Shear stress}}{G} = \\frac{1 \\times 10^8}{5 \\times 10^{10}} = 0.002$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "158",
+    "questionText": "If a rod with a Young's modulus of $2 \\times 10^{11} \\text{ N/m}^2$ is subjected to a tensile stress of $1 \\times 10^9 \\text{ N/m}^2$, what is the tensile strain?",
+    "options": [
+      {
+        "text": "$0.005$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0.05$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.0005$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tensile strain is calculated as $\\text{Tensile strain} = \\frac{\\text{Tensile stress}}{Y} = \\frac{1 \\times 10^9}{2 \\times 10^{11}} = 0.005$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "HARD"
+  },
+  {
+    "qno": "159",
+    "questionText": "Which modulus is also known as the modulus of rigidity?",
+    "options": [
+      {
+        "text": "Shear modulus",
+        "isCorrect": true
+      },
+      {
+        "text": "Young's modulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Bulk modulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Elastic modulus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Shear modulus is also known as the modulus of rigidity.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "160",
+    "questionText": "A wire is subjected to a tensile stress of $3 \\times 10^8 \\text{ N/m}^2$. If the Young's modulus of the material is $2 \\times 10^{11} \\text{ N/m}^2$, what is the tensile strain?",
+    "options": [
+      {
+        "text": "$0.0015$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0.015$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.00015$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.015$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tensile strain is calculated as $\\text{Tensile strain} = \\frac{\\text{Tensile stress}}{Y} = \\frac{3 \\times 10^8}{2 \\times 10^{11}} = 0.0015$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "161",
+    "questionText": "If a material has a Young's modulus of $1.5 \\times 10^{11} \\text{ N/m}^2$ and a tensile strain of $0.002$, what is the tensile stress applied?",
+    "options": [
+      {
+        "text": "$3 \\times 10^8 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 \\times 10^9 \\text{ N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3 \\times 10^7 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 \\times 10^{10} \\text{ N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tensile stress is calculated as $\\text{Tensile stress} = Y \\times \\text{Tensile strain} = 1.5 \\times 10^{11} \\times 0.002 = 3 \\times 10^9 \\text{ N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "HARD"
+  },
+  {
+    "qno": "162",
+    "questionText": "What is the formula for bulk modulus (K) in terms of volume (V), pressure (P), and change in volume (ΔV)?",
+    "options": [
+      {
+        "text": "$K = -\\frac{V \\Delta P}{\\Delta V}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K = \\frac{\\Delta V}{V \\Delta P}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K = \\frac{V \\Delta V}{\\Delta P}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K = \\frac{V}{\\Delta V \\Delta P}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bulk modulus (K) is given by $K = -\\frac{V \\Delta P}{\\Delta V}$, where V is the initial volume, ΔP is the pressure change, and ΔV is the change in volume.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "163",
+    "questionText": "What is the relationship between bulk modulus (K), shear modulus (G), and Poisson's ratio (ν) for isotropic materials?",
+    "options": [
+      {
+        "text": "$K = \\frac{2G(1 + \\nu)}{3(1 - 2\\nu)}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K = \\frac{G(1 + \\nu)}{3(1 - 2\\nu)}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K = \\frac{G(1 - 2\\nu)}{3(1 + \\nu)}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K = \\frac{3G(1 - 2\\nu)}{2(1 + \\nu)}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For isotropic materials, the relationship between bulk modulus (K), shear modulus (G), and Poisson's ratio (ν) is given by $K = \\frac{2G(1 + \\nu)}{3(1 - 2\\nu)}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "HARD"
+  },
+  {
+    "qno": "164",
+    "questionText": "A cylindrical rod has a Young's modulus of $2.5 \\times 10^{11} \\text{ N/m}^2$ and a shear modulus of $1 \\times 10^{11} \\text{ N/m}^2$. What is the Poisson's ratio of the material?",
+    "options": [
+      {
+        "text": "$0.3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0.2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio is calculated using the relationship $\\nu = \\frac{Y}{2G} - 1 = \\frac{2.5 \\times 10^{11}}{2 \\times 1 \\times 10^{11}} - 1 = 0.25$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "165",
+    "questionText": "What is the definition of Poisson's ratio?",
+    "options": [
+      {
+        "text": "The ratio of lateral strain to longitudinal strain",
+        "isCorrect": true
+      },
+      {
+        "text": "The ratio of longitudinal strain to lateral strain",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of shear strain to shear stress",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of volumetric strain to volumetric stress",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio is defined as the ratio of lateral strain to longitudinal strain.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "166",
+    "questionText": "A wire with a Young's modulus of $1 \\times 10^{11} \\text{ N/m}^2$ is stretched with a force that causes a longitudinal strain of $0.001$. What is the stress applied to the wire?",
+    "options": [
+      {
+        "text": "$1 \\times 10^8 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1 \\times 10^9 \\text{ N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1 \\times 10^7 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1 \\times 10^{10} \\text{ N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Stress is calculated as $\\text{Stress} = Y \\times \\text{Strain} = 1 \\times 10^{11} \\times 0.001 = 1 \\times 10^9 \\text{ N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "167",
+    "questionText": "What is the unit of Poisson's ratio?",
+    "options": [
+      {
+        "text": "It is a dimensionless quantity",
+        "isCorrect": true
+      },
+      {
+        "text": "N/m^2",
+        "isCorrect": false
+      },
+      {
+        "text": "N/m",
+        "isCorrect": false
+      },
+      {
+        "text": "Pa",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio is a dimensionless quantity as it is the ratio of two strains.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "168",
+    "questionText": "A material has a bulk modulus of $4 \\times 10^9 \\text{ N/m}^2$ and a Poisson's ratio of $0.25$. What is the Young's modulus of the material?",
+    "options": [
+      {
+        "text": "$1 \\times 10^{10} \\text{ N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2 \\times 10^9 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 \\times 10^9 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4 \\times 10^8 \\text{ N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Young's modulus is calculated using the relationship $Y = 3K(1 - 2\\nu) = 3 \\times 4 \\times 10^9 \\times (1 - 2 \\times 0.25) = 1 \\times 10^{10} \\text{ N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "169",
+    "questionText": "What is the physical significance of Poisson's ratio?",
+    "options": [
+      {
+        "text": "It measures the extent of lateral contraction for a given longitudinal extension",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the stiffness of a material",
+        "isCorrect": false
+      },
+      {
+        "text": "It measures the resistance to deformation under shear stress",
+        "isCorrect": false
+      },
+      {
+        "text": "It measures the resistance to volumetric compression",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio measures the extent of lateral contraction for a given longitudinal extension in a material.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "170",
+    "questionText": "A cylindrical rod has a shear modulus of $6 \\times 10^{10} \\text{ N/m}^2$. If a shear stress of $3 \\times 10^7 \\text{ N/m}^2$ is applied, what is the shear strain?",
+    "options": [
+      {
+        "text": "$5 \\times 10^{-4}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5 \\times 10^{-3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 10^{-2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5 \\times 10^{-5}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Shear strain is calculated as $\\text{Shear strain} = \\frac{\\text{Shear stress}}{G} = \\frac{3 \\times 10^7}{6 \\times 10^{10}} = 5 \\times 10^{-4}$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "171",
+    "questionText": "What is the definition of Young's modulus?",
+    "options": [
+      {
+        "text": "The ratio of tensile stress to tensile strain in the linear portion of the stress-strain curve",
+        "isCorrect": true
+      },
+      {
+        "text": "The ratio of compressive stress to compressive strain",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of shear stress to shear strain",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of volumetric stress to volumetric strain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Young's modulus is defined as the ratio of tensile stress to tensile strain in the linear portion of the stress-strain curve.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "172",
+    "questionText": "A wire with a Young's modulus of $2 \\times 10^{11} \\text{ N/m}^2$ is subjected to a tensile stress of $4 \\times 10^8 \\text{ N/m}^2$. What is the tensile strain produced?",
+    "options": [
+      {
+        "text": "$0.002$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0.02$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.0002$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tensile strain is calculated as $\\text{Tensile strain} = \\frac{\\text{Tensile stress}}{Y} = \\frac{4 \\times 10^8}{2 \\times 10^{11}} = 0.002$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "173",
+    "questionText": "Which modulus describes the elasticity of a material under tensile stress?",
+    "options": [
+      {
+        "text": "Young's modulus",
+        "isCorrect": true
+      },
+      {
+        "text": "Bulk modulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Shear modulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Elastic modulus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Young's modulus describes the elasticity of a material under tensile stress.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "174",
+    "questionText": "A rod is subjected to a compressive stress of $1 \\times 10^8 \\text{ N/m}^2$. If the Young's modulus of the rod material is $2 \\times 10^{11} \\text{ N/m}^2$, what is the compressive strain?",
+    "options": [
+      {
+        "text": "$0.0005$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0.005$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.00005$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.05$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Compressive strain is calculated as $\\text{Compressive strain} = \\frac{\\text{Compressive stress}}{Y} = \\frac{1 \\times 10^8}{2 \\times 10^{11}} = 0.0005$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "175",
+    "questionText": "Which modulus describes the elasticity of a material under volumetric stress?",
+    "options": [
+      {
+        "text": "Bulk modulus",
+        "isCorrect": true
+      },
+      {
+        "text": "Young's modulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Shear modulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Elastic modulus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bulk modulus describes the elasticity of a material under volumetric stress.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "176",
+    "questionText": "A material has a bulk modulus of $3 \\times 10^9 \\text{ N/m}^2$. If the volumetric strain is $0.001$, what is the volumetric stress applied?",
+    "options": [
+      {
+        "text": "$3 \\times 10^6 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 \\times 10^9 \\text{ N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3 \\times 10^7 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 \\times 10^8 \\text{ N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volumetric stress is calculated as $\\text{Volumetric stress} = K \\times \\text{Volumetric strain} = 3 \\times 10^{9} \\times 0.001 = 3 \\times 10^9 \\text{ N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "177",
+    "questionText": "What is the significance of the modulus of rigidity in materials science?",
+    "options": [
+      {
+        "text": "It measures the material's resistance to shear deformation",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the material's resistance to tensile deformation",
+        "isCorrect": false
+      },
+      {
+        "text": "It measures the material's resistance to compressive deformation",
+        "isCorrect": false
+      },
+      {
+        "text": "It measures the material's resistance to volumetric deformation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The modulus of rigidity, also known as shear modulus, measures the material's resistance to shear deformation.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "178",
+    "questionText": "A rod with a Young's modulus of $2 \\times 10^{11} \\text{ N/m}^2$ experiences a tensile strain of $0.001$. What is the tensile stress applied to the rod?",
+    "options": [
+      {
+        "text": "$2 \\times 10^8 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\times 10^9 \\text{ N/m}^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2 \\times 10^7 \\text{ N/m}^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\times 10^{10} \\text{ N/m}^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tensile stress is calculated as $\\text{Tensile stress} = Y \\times \\text{Tensile strain} = 2 \\times 10^{11} \\times 0.001 = 2 \\times 10^9 \\text{ N/m}^2$.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "179",
+    "questionText": "What is the physical significance of Young's modulus?",
+    "options": [
+      {
+        "text": "It measures the stiffness of a material under tensile stress",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the material's resistance to shear stress",
+        "isCorrect": false
+      },
+      {
+        "text": "It measures the material's resistance to volumetric stress",
+        "isCorrect": false
+      },
+      {
+        "text": "It measures the material's resistance to compressive stress",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Young's modulus measures the stiffness of a material under tensile stress.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.5 Elastic moduli",
+    "level": "EASY"
+  },
+  {
+    "qno": "180",
+    "questionText": "What is the practical application of Young's modulus in engineering?",
+    "options": [
+      {
+        "text": "Designing beams and structural elements",
+        "isCorrect": true
+      },
+      {
+        "text": "Determining thermal conductivity",
+        "isCorrect": false
+      },
+      {
+        "text": "Measuring electrical resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "Calculating magnetic field strength",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Young's modulus is crucial in designing beams and structural elements to ensure they can withstand applied stresses without excessive deformation.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "EASY"
+  },
+  {
+    "qno": "181",
+    "questionText": "Why is the bulk modulus important in the context of hydraulic systems?",
+    "options": [
+      {
+        "text": "It determines the fluid's compressibility",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the fluid's viscosity",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the fluid's thermal expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the fluid's electrical conductivity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bulk modulus is important in hydraulic systems as it determines the fluid's compressibility, which affects the system's efficiency and response time.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "182",
+    "questionText": "In which application is the shear modulus most relevant?",
+    "options": [
+      {
+        "text": "Designing torsion springs",
+        "isCorrect": true
+      },
+      {
+        "text": "Creating thermal insulators",
+        "isCorrect": false
+      },
+      {
+        "text": "Building capacitors",
+        "isCorrect": false
+      },
+      {
+        "text": "Developing optical fibers",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The shear modulus is most relevant in designing torsion springs, which rely on the material's ability to resist shear deformation.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "EASY"
+  },
+  {
+    "qno": "183",
+    "questionText": "How is Young's modulus utilized in determining the stiffness of a material?",
+    "options": [
+      {
+        "text": "By calculating the ratio of stress to strain",
+        "isCorrect": true
+      },
+      {
+        "text": "By measuring the material's density",
+        "isCorrect": false
+      },
+      {
+        "text": "By assessing the material's thermal conductivity",
+        "isCorrect": false
+      },
+      {
+        "text": "By evaluating the material's magnetic properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Young's modulus is used to determine the stiffness of a material by calculating the ratio of stress to strain in the elastic region.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "184",
+    "questionText": "Which property is most important for materials used in shock absorbers?",
+    "options": [
+      {
+        "text": "High toughness",
+        "isCorrect": true
+      },
+      {
+        "text": "High electrical conductivity",
+        "isCorrect": false
+      },
+      {
+        "text": "Low thermal expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "High optical clarity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Materials used in shock absorbers need to have high toughness to absorb and dissipate energy effectively without failing.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "185",
+    "questionText": "Why is Poisson's ratio significant in structural engineering?",
+    "options": [
+      {
+        "text": "It helps predict lateral deformation under longitudinal stress",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the material's electrical resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the material's optical properties",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the material's thermal conductivity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio is significant in structural engineering as it helps predict the lateral deformation of materials under longitudinal stress, which is crucial for designing stable structures.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "186",
+    "questionText": "How does the shear modulus influence the design of materials used in earthquake-resistant buildings?",
+    "options": [
+      {
+        "text": "It determines the material's ability to withstand shear forces during an earthquake",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the material's thermal insulation properties",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the material's electrical conductivity",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the material's optical clarity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The shear modulus is crucial in designing earthquake-resistant buildings as it determines the material's ability to withstand shear forces during seismic events.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "187",
+    "questionText": "What role does the bulk modulus play in the design of pressure vessels?",
+    "options": [
+      {
+        "text": "It helps ensure the vessel can withstand internal pressure without significant volumetric change",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the vessel's thermal conductivity",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the vessel's electrical resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the vessel's optical properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bulk modulus helps in designing pressure vessels by ensuring they can withstand internal pressure without significant volumetric change, thus maintaining their integrity.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "188",
+    "questionText": "Why is the knowledge of Poisson's ratio essential in the analysis of trusses and frames?",
+    "options": [
+      {
+        "text": "It helps predict the changes in cross-sectional dimensions under axial loading",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion coefficient",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the magnetic properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Knowledge of Poisson's ratio is essential in the analysis of trusses and frames to predict the changes in cross-sectional dimensions under axial loading, which affects their stability and performance.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "189",
+    "questionText": "How does the Young's modulus of a material affect the design of cantilever beams?",
+    "options": [
+      {
+        "text": "It determines the beam's deflection under load",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the beam's thermal expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the beam's electrical resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the beam's magnetic properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Young's modulus affects the design of cantilever beams by determining their deflection under load, which is critical for ensuring the beam's structural integrity and performance.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "190",
+    "questionText": "In which application is the knowledge of the modulus of rigidity most critical?",
+    "options": [
+      {
+        "text": "Designing shafts and axles",
+        "isCorrect": true
+      },
+      {
+        "text": "Creating thermal insulators",
+        "isCorrect": false
+      },
+      {
+        "text": "Building capacitors",
+        "isCorrect": false
+      },
+      {
+        "text": "Developing optical fibers",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The modulus of rigidity is most critical in designing shafts and axles, which must resist torsional deformation to function properly.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "191",
+    "questionText": "How is the bulk modulus of a material used in the design of underwater structures?",
+    "options": [
+      {
+        "text": "It determines the material's resistance to compressive forces due to water pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the material's electrical conductivity",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the material's thermal expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the material's optical properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bulk modulus is used to design underwater structures by determining the material's resistance to compressive forces due to water pressure, ensuring structural integrity.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "192",
+    "questionText": "What is the significance of Young's modulus in the context of bridge construction?",
+    "options": [
+      {
+        "text": "It helps in determining the stiffness and load-bearing capacity of bridge materials",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of bridge materials",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of bridge materials",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of bridge materials",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Young's modulus is significant in bridge construction as it helps determine the stiffness and load-bearing capacity of bridge materials, ensuring safety and stability.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "EASY"
+  },
+  {
+    "qno": "193",
+    "questionText": "How is Poisson's ratio important in the design of rubber materials?",
+    "options": [
+      {
+        "text": "It predicts the extent of lateral expansion under tensile stress",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal conductivity of rubber",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of rubber",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of rubber",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio is important in designing rubber materials as it predicts the extent of lateral expansion when subjected to tensile stress, which is crucial for applications requiring flexibility and resilience.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "194",
+    "questionText": "Why is the shear modulus critical in the manufacturing of gears?",
+    "options": [
+      {
+        "text": "It determines the material's ability to resist shearing forces during operation",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of gears",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of gears",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of gears",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The shear modulus is critical in the manufacturing of gears as it determines the material's ability to resist shearing forces during operation, ensuring durability and performance.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "195",
+    "questionText": "How does the bulk modulus affect the performance of automotive tires?",
+    "options": [
+      {
+        "text": "It influences the tire's ability to withstand internal pressure changes",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the tire's thermal conductivity",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the tire's electrical resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the tire's optical properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bulk modulus affects the performance of automotive tires by influencing their ability to withstand internal pressure changes, ensuring safety and comfort.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "196",
+    "questionText": "In the design of flexible electronics, why is a low Young's modulus desired?",
+    "options": [
+      {
+        "text": "It allows for greater flexibility and less resistance to bending",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases the electrical conductivity",
+        "isCorrect": false
+      },
+      {
+        "text": "It improves thermal insulation",
+        "isCorrect": false
+      },
+      {
+        "text": "It enhances optical clarity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A low Young's modulus is desired in the design of flexible electronics because it allows for greater flexibility and less resistance to bending, which is essential for the functionality of flexible devices.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "EASY"
+  },
+  {
+    "qno": "197",
+    "questionText": "What role does the shear modulus play in the performance of cutting tools?",
+    "options": [
+      {
+        "text": "It determines the tool's resistance to shearing forces during cutting",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the tool's thermal expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the tool's electrical resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the tool's optical properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The shear modulus plays a crucial role in the performance of cutting tools by determining their resistance to shearing forces during cutting, which ensures the tool's durability and effectiveness.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "198",
+    "questionText": "Why is Poisson's ratio considered in the design of materials for prosthetics?",
+    "options": [
+      {
+        "text": "It helps predict how the material will deform laterally when subjected to stress",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the material's thermal conductivity",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the material's electrical resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the material's optical properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio is considered in the design of prosthetic materials to predict how they will deform laterally when subjected to stress, ensuring comfort and functionality for the user.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "199",
+    "questionText": "How does the Young's modulus influence the selection of materials for musical instruments?",
+    "options": [
+      {
+        "text": "It affects the stiffness and vibrational characteristics of the materials",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the materials",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the materials",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the materials",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Young's modulus influences the selection of materials for musical instruments by affecting their stiffness and vibrational characteristics, which are crucial for sound quality.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "200",
+    "questionText": "Why is the bulk modulus important in the design of deep-sea submersibles?",
+    "options": [
+      {
+        "text": "It ensures the submersible can withstand high external pressures without significant volume change",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the submersible's thermal conductivity",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the submersible's electrical resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the submersible's optical properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bulk modulus is important in the design of deep-sea submersibles to ensure they can withstand high external pressures without significant volume change, maintaining structural integrity.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "201",
+    "questionText": "How does the modulus of rigidity impact the performance of suspension bridges?",
+    "options": [
+      {
+        "text": "It affects the bridge's ability to resist torsional and shear forces",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the bridge's thermal expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the bridge's electrical resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the bridge's optical properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The modulus of rigidity impacts the performance of suspension bridges by affecting their ability to resist torsional and shear forces, ensuring stability and safety.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "202",
+    "questionText": "Why is the knowledge of Poisson's ratio crucial in biomedical engineering, particularly in the design of implants?",
+    "options": [
+      {
+        "text": "It helps predict the deformation characteristics of the implant materials",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal conductivity of the implants",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the implants",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the implants",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio is crucial in biomedical engineering for designing implants as it helps predict the deformation characteristics of the materials, ensuring compatibility and performance in the human body.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "203",
+    "questionText": "How does Young's modulus affect the design of airplane wings?",
+    "options": [
+      {
+        "text": "It determines the stiffness and flexibility of the wing materials",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the wing materials",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the wing materials",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the wing materials",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Young's modulus affects the design of airplane wings by determining the stiffness and flexibility of the materials, which are crucial for aerodynamic performance and safety.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "204",
+    "questionText": "Why is the shear modulus important in the selection of materials for shear walls in buildings?",
+    "options": [
+      {
+        "text": "It ensures the walls can resist shear forces during seismic events",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the walls",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the walls",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the walls",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The shear modulus is important in selecting materials for shear walls in buildings as it ensures they can resist shear forces during seismic events, enhancing the building's stability and safety.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "205",
+    "questionText": "How is the bulk modulus used in the design of pressure sensors?",
+    "options": [
+      {
+        "text": "It determines the sensor's sensitivity to pressure changes",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the sensor's thermal conductivity",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the sensor's electrical resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the sensor's optical properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bulk modulus is used in the design of pressure sensors to determine their sensitivity to pressure changes, ensuring accurate and reliable measurements.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "206",
+    "questionText": "Why is the modulus of rigidity important in the design of springs?",
+    "options": [
+      {
+        "text": "It determines the spring's ability to resist torsional deformation",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the spring's thermal expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the spring's electrical resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the spring's optical properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The modulus of rigidity is important in the design of springs as it determines their ability to resist torsional deformation, which is essential for their functionality and durability.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "207",
+    "questionText": "How does Poisson's ratio affect the design of pressure vessels?",
+    "options": [
+      {
+        "text": "It helps predict the lateral expansion under internal pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the vessel",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the vessel",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the vessel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio affects the design of pressure vessels by helping predict the lateral expansion under internal pressure, ensuring the vessel's structural integrity and safety.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "208",
+    "questionText": "Why is a high Young's modulus desired in materials used for piano strings?",
+    "options": [
+      {
+        "text": "It provides the necessary stiffness and tension for producing sound",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the strings",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the strings",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the strings",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A high Young's modulus is desired in materials used for piano strings because it provides the necessary stiffness and tension for producing clear and resonant sound.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "209",
+    "questionText": "How does the bulk modulus influence the design of diving suits?",
+    "options": [
+      {
+        "text": "It determines the suit's ability to withstand external pressure without significant volume change",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal insulation of the suit",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the suit",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the suit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bulk modulus influences the design of diving suits by determining their ability to withstand external pressure without significant volume change, ensuring comfort and protection for the diver.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "210",
+    "questionText": "Why is the modulus of rigidity important in the selection of materials for helicopter rotor blades?",
+    "options": [
+      {
+        "text": "It ensures the blades can resist torsional and shear forces during operation",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the blades",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the blades",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the blades",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The modulus of rigidity is important in selecting materials for helicopter rotor blades as it ensures they can resist torsional and shear forces during operation, maintaining performance and safety.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "211",
+    "questionText": "How does Poisson's ratio impact the performance of elastomeric materials used in seals and gaskets?",
+    "options": [
+      {
+        "text": "It predicts the lateral expansion when compressed, ensuring a proper seal",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the material",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the material",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the material",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio impacts the performance of elastomeric materials used in seals and gaskets by predicting the lateral expansion when compressed, ensuring a proper seal and preventing leaks.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "212",
+    "questionText": "Why is a low Young's modulus preferred in materials used for flexible joints and connectors?",
+    "options": [
+      {
+        "text": "It allows for greater flexibility and less resistance to movement",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases the thermal conductivity",
+        "isCorrect": false
+      },
+      {
+        "text": "It enhances the electrical resistance",
+        "isCorrect": false
+      },
+      {
+        "text": "It improves the optical properties",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A low Young's modulus is preferred in materials used for flexible joints and connectors because it allows for greater flexibility and less resistance to movement, which is essential for their functionality.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "213",
+    "questionText": "How does the bulk modulus affect the design of submarine hulls?",
+    "options": [
+      {
+        "text": "It determines the hull's ability to withstand external pressure at great depths",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the hull",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the hull",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the hull",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bulk modulus affects the design of submarine hulls by determining their ability to withstand external pressure at great depths, ensuring the structural integrity and safety of the submarine.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "214",
+    "questionText": "Why is Poisson's ratio considered when designing materials for pressure vessels?",
+    "options": [
+      {
+        "text": "It helps predict the material's behavior under internal pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the material",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the material",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the material",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio is considered when designing materials for pressure vessels to help predict the material's behavior under internal pressure, ensuring safety and reliability.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "215",
+    "questionText": "How is the shear modulus relevant in the design of mechanical couplings?",
+    "options": [
+      {
+        "text": "It determines the coupling's ability to transmit torque without deformation",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the coupling",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the coupling",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the coupling",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The shear modulus is relevant in the design of mechanical couplings as it determines their ability to transmit torque without deformation, ensuring efficient power transmission.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "216",
+    "questionText": "Why is Young's modulus important in the design of building materials for skyscrapers?",
+    "options": [
+      {
+        "text": "It ensures the materials have the necessary stiffness and strength to support the structure",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the materials",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the materials",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the materials",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Young's modulus is important in the design of building materials for skyscrapers as it ensures they have the necessary stiffness and strength to support the structure, maintaining safety and stability.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "217",
+    "questionText": "How does Poisson's ratio influence the design of inflatable structures?",
+    "options": [
+      {
+        "text": "It helps predict the lateral expansion when the structure is inflated",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the structure",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the structure",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the structure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio influences the design of inflatable structures by helping predict the lateral expansion when the structure is inflated, ensuring it maintains its intended shape and function.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "218",
+    "questionText": "Why is the modulus of rigidity crucial in the design of torsion bars in vehicles?",
+    "options": [
+      {
+        "text": "It ensures the bars can resist torsional forces and provide the necessary suspension",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the bars",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the bars",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the bars",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The modulus of rigidity is crucial in the design of torsion bars in vehicles as it ensures they can resist torsional forces and provide the necessary suspension, enhancing vehicle performance and comfort.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "219",
+    "questionText": "How does the bulk modulus impact the performance of hydraulic systems?",
+    "options": [
+      {
+        "text": "It affects the system's efficiency by determining the fluid's compressibility",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the fluid",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the fluid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bulk modulus impacts the performance of hydraulic systems by affecting the system's efficiency through the fluid's compressibility, ensuring responsive and efficient operation.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "220",
+    "questionText": "Why is a high Young's modulus desirable for materials used in guitar strings?",
+    "options": [
+      {
+        "text": "It provides the necessary stiffness and tension for producing sound",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the strings",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the strings",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the strings",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A high Young's modulus is desirable for materials used in guitar strings as it provides the necessary stiffness and tension for producing clear and resonant sound.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "221",
+    "questionText": "How does Poisson's ratio affect the design of foam materials used in cushioning?",
+    "options": [
+      {
+        "text": "It helps predict the material's behavior under compression, ensuring comfort and support",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the foam",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the foam",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the foam",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio affects the design of foam materials used in cushioning by helping predict their behavior under compression, ensuring comfort and support.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "22",
+    "questionText": "Why is the shear modulus important in the design of shear pins used in mechanical systems?",
+    "options": [
+      {
+        "text": "It ensures the pins can withstand shear forces and provide safety in overload conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the pins",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the pins",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the pins",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The shear modulus is important in the design of shear pins used in mechanical systems to ensure they can withstand shear forces and provide safety by breaking in overload conditions.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "223",
+    "questionText": "How does the bulk modulus influence the design of materials used in pressure cookers?",
+    "options": [
+      {
+        "text": "It determines the material's ability to withstand internal pressure without significant volume change",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the material",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the material",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the material",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bulk modulus influences the design of materials used in pressure cookers by determining their ability to withstand internal pressure without significant volume change, ensuring safety and efficiency.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  },
+  {
+    "qno": "224",
+    "questionText": "Why is a high Young's modulus important for materials used in skyscraper construction?",
+    "options": [
+      {
+        "text": "It ensures the materials can support high loads without excessive deformation",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the materials",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the materials",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the materials",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A high Young's modulus is important for materials used in skyscraper construction as it ensures they can support high loads without excessive deformation, maintaining structural integrity and safety.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "225",
+    "questionText": "How does Poisson's ratio affect the design of materials used in orthopedic implants?",
+    "options": [
+      {
+        "text": "It helps predict how the implant will deform under physiological loads, ensuring compatibility and performance",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the thermal expansion of the implant",
+        "isCorrect": false
+      },
+      {
+        "text": "It evaluates the electrical resistance of the implant",
+        "isCorrect": false
+      },
+      {
+        "text": "It assesses the optical properties of the implant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Poisson's ratio affects the design of materials used in orthopedic implants by helping predict how the implant will deform under physiological loads, ensuring compatibility and performance.",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "8.6 Applications of elastic behavior of materials",
+    "level": "HARD"
+  }
+]

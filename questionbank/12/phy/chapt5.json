@@ -1,0 +1,5592 @@
+[
+  {
+    "qno": 1,
+    "questionText": "The word 'magnet' is derived from the name of an island in Greece. What is the name of this island?",
+    "options": [
+      {
+        "text": "Crete",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnesia",
+        "isCorrect": true
+      },
+      {
+        "text": "Cyprus",
+        "isCorrect": false
+      },
+      {
+        "text": "Santorini",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The word magnet is derived from the name of an island in Greece called Magnesia where magnetic ore deposits were found as early as 600 BC.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "Which scientist is credited with discovering that moving charges or electric currents produce magnetic fields?",
+    "options": [
+      {
+        "text": "Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Oersted",
+        "isCorrect": true
+      },
+      {
+        "text": "Faraday",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "This discovery, which was made in the early part of the nineteenth century, is credited to Oersted, Ampere, Biot and Savart, among others.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "The earth behaves as a magnet with the magnetic field pointing approximately from the geographic ____ to the north.",
+    "options": [
+      {
+        "text": "west",
+        "isCorrect": false
+      },
+      {
+        "text": "east",
+        "isCorrect": false
+      },
+      {
+        "text": "south",
+        "isCorrect": true
+      },
+      {
+        "text": "north",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The earth behaves as a magnet with the magnetic field pointing approximately from the geographic south to the north.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 4,
+    "questionText": "When a bar magnet is freely suspended, it points in which direction?",
+    "options": [
+      {
+        "text": "east-west",
+        "isCorrect": false
+      },
+      {
+        "text": "north-south",
+        "isCorrect": true
+      },
+      {
+        "text": "up-down",
+        "isCorrect": false
+      },
+      {
+        "text": "south-east",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a bar magnet is freely suspended, it points in the north-south direction.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "Which of the following statements about magnetic poles is true?",
+    "options": [
+      {
+        "text": "Magnetic poles can be isolated.",
+        "isCorrect": false
+      },
+      {
+        "text": "If a bar magnet is broken into two halves, each piece will have only one pole.",
+        "isCorrect": false
+      },
+      {
+        "text": "Isolated magnetic north and south poles do not exist.",
+        "isCorrect": true
+      },
+      {
+        "text": "North and south poles are the same as positive and negative electric charges.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Unlike electric charges, isolated magnetic north and south poles known as magnetic monopoles do not exist.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 6,
+    "questionText": "Which of the following is possible according to the principles of magnetism?",
+    "options": [
+      {
+        "text": "Making magnets out of wood",
+        "isCorrect": false
+      },
+      {
+        "text": "Making magnets out of iron and its alloys",
+        "isCorrect": true
+      },
+      {
+        "text": "Creating a single north or south magnetic pole",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic poles being the same as electric poles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "It is possible to make magnets out of iron and its alloys.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 7,
+    "questionText": "Which phenomenon predates human evolution?",
+    "options": [
+      {
+        "text": "Electromagnetism",
+        "isCorrect": false
+      },
+      {
+        "text": "Earth's magnetism",
+        "isCorrect": true
+      },
+      {
+        "text": "Gravitational waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Radioactivity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The earth’s magnetism predates human evolution.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "What is the direction of the magnetic field of the Earth?",
+    "options": [
+      {
+        "text": "From geographic north to south",
+        "isCorrect": false
+      },
+      {
+        "text": "From geographic east to west",
+        "isCorrect": false
+      },
+      {
+        "text": "From geographic south to north",
+        "isCorrect": true
+      },
+      {
+        "text": "From geographic west to east",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The earth behaves as a magnet with the magnetic field pointing approximately from the geographic south to the north.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 9,
+    "questionText": "Who among the following is NOT credited with the discovery of the magnetic effect of electric current?",
+    "options": [
+      {
+        "text": "Oersted",
+        "isCorrect": false
+      },
+      {
+        "text": "Ampere",
+        "isCorrect": false
+      },
+      {
+        "text": "Biot",
+        "isCorrect": false
+      },
+      {
+        "text": "Faraday",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "This discovery is credited to Oersted, Ampere, Biot and Savart, among others. Faraday is not mentioned in this context.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 10,
+    "questionText": "When a bar magnet is cut into two pieces, what happens to its magnetic poles?",
+    "options": [
+      {
+        "text": "Each piece will have a north pole only.",
+        "isCorrect": false
+      },
+      {
+        "text": "Each piece will have a south pole only.",
+        "isCorrect": false
+      },
+      {
+        "text": "Each piece will have both north and south poles.",
+        "isCorrect": true
+      },
+      {
+        "text": "One piece will have a north pole, and the other will have a south pole.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If a bar magnet is broken into two halves, we get two similar bar magnets with somewhat weaker properties.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which of the following is NOT a commonly known idea regarding magnetism?",
+    "options": [
+      {
+        "text": "The earth behaves as a magnet with the magnetic field pointing approximately from the geographic south to the north.",
+        "isCorrect": false
+      },
+      {
+        "text": "When a bar magnet is freely suspended, it points in the east-west direction.",
+        "isCorrect": true
+      },
+      {
+        "text": "There is a repulsive force when north poles (or south poles) of two magnets are brought close together.",
+        "isCorrect": false
+      },
+      {
+        "text": "We cannot isolate the north, or south pole of a magnet.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A bar magnet points in the north-south direction, not east-west.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 12,
+    "questionText": "Which of the following does NOT exist according to the principles of magnetism?",
+    "options": [
+      {
+        "text": "Magnetic monopoles",
+        "isCorrect": true
+      },
+      {
+        "text": "Dipoles",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Electromagnets",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isolated magnetic north and south poles known as magnetic monopoles do not exist.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 13,
+    "questionText": "What happens when north poles (or south poles) of two magnets are brought close together?",
+    "options": [
+      {
+        "text": "They attract each other.",
+        "isCorrect": false
+      },
+      {
+        "text": "They repel each other.",
+        "isCorrect": true
+      },
+      {
+        "text": "They cancel each other.",
+        "isCorrect": false
+      },
+      {
+        "text": "They do nothing.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "There is a repulsive force when north poles (or south poles) of two magnets are brought close together.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 14,
+    "questionText": "What is the main characteristic of magnetic monopoles?",
+    "options": [
+      {
+        "text": "They have both north and south poles.",
+        "isCorrect": false
+      },
+      {
+        "text": "They have only a north or a south pole.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are stronger than dipoles.",
+        "isCorrect": false
+      },
+      {
+        "text": "They can be isolated easily.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Magnetic monopoles are hypothetical particles that have only a north or a south pole.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "What is the behaviour of a bar magnet in an external magnetic field?",
+    "options": [
+      {
+        "text": "It points randomly.",
+        "isCorrect": false
+      },
+      {
+        "text": "It aligns with the field.",
+        "isCorrect": true
+      },
+      {
+        "text": "It repels the field.",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes non-magnetic.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A bar magnet aligns with the external magnetic field.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 16,
+    "questionText": "What force is experienced between the north pole of one magnet and the south pole of another?",
+    "options": [
+      {
+        "text": "Repulsive force",
+        "isCorrect": false
+      },
+      {
+        "text": "Attractive force",
+        "isCorrect": true
+      },
+      {
+        "text": "No force",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal and opposite force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "There is an attractive force between the north pole of one magnet and the south pole of the other.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "Why can't we isolate the north or south pole of a magnet?",
+    "options": [
+      {
+        "text": "Because magnets are always dipoles",
+        "isCorrect": true
+      },
+      {
+        "text": "Because magnetic fields are weak",
+        "isCorrect": false
+      },
+      {
+        "text": "Because monopoles are unstable",
+        "isCorrect": false
+      },
+      {
+        "text": "Because magnetic forces cancel out",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "We cannot isolate the north or south pole of a magnet because magnets are always dipoles.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "What is the behaviour of a bar magnet when suspended freely?",
+    "options": [
+      {
+        "text": "It points in the east-west direction.",
+        "isCorrect": false
+      },
+      {
+        "text": "It points in the north-south direction.",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains stationary.",
+        "isCorrect": false
+      },
+      {
+        "text": "It aligns with the magnetic field.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a bar magnet is freely suspended, it points in the north-south direction.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 19,
+    "questionText": "Which of the following is true about the north and south poles of a magnet?",
+    "options": [
+      {
+        "text": "They are the same as positive and negative electric charges.",
+        "isCorrect": false
+      },
+      {
+        "text": "They can exist separately.",
+        "isCorrect": false
+      },
+      {
+        "text": "They cannot be isolated.",
+        "isCorrect": true
+      },
+      {
+        "text": "They attract each other.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The north and south poles of a magnet cannot be isolated.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 20,
+    "questionText": "What is a characteristic of a magnetic monopole?",
+    "options": [
+      {
+        "text": "It has both north and south poles.",
+        "isCorrect": false
+      },
+      {
+        "text": "It has only a north or south pole.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is stronger than a dipole.",
+        "isCorrect": false
+      },
+      {
+        "text": "It can be isolated easily.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A magnetic monopole is a hypothetical particle that has only a north or a south pole.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 21,
+    "questionText": "Which of the following is a common misconception about magnetism?",
+    "options": [
+      {
+        "text": "Magnets have two poles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Earth behaves as a magnet.",
+        "isCorrect": false
+      },
+      {
+        "text": "North and south poles can be isolated.",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnetic fields can be created by electric currents.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A common misconception is that north and south poles can be isolated, but in reality, they cannot be.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 22,
+    "questionText": "What happens to the properties of a bar magnet if it is broken into two halves?",
+    "options": [
+      {
+        "text": "It loses its magnetism completely.",
+        "isCorrect": false
+      },
+      {
+        "text": "Each half becomes a magnet with weaker properties.",
+        "isCorrect": true
+      },
+      {
+        "text": "It becomes a monopole.",
+        "isCorrect": false
+      },
+      {
+        "text": "It no longer aligns with the magnetic field.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If a bar magnet is broken into two halves, we get two similar bar magnets with somewhat weaker properties.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 23,
+    "questionText": "Which of the following can be made into magnets?",
+    "options": [
+      {
+        "text": "Wood",
+        "isCorrect": false
+      },
+      {
+        "text": "Iron and its alloys",
+        "isCorrect": true
+      },
+      {
+        "text": "Plastic",
+        "isCorrect": false
+      },
+      {
+        "text": "Glass",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "It is possible to make magnets out of iron and its alloys.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 24,
+    "questionText": "Which of the following statements about the discovery of magnetic fields produced by electric currents is correct?",
+    "options": [
+      {
+        "text": "It was discovered by Faraday.",
+        "isCorrect": false
+      },
+      {
+        "text": "It was discovered in the early 20th century.",
+        "isCorrect": false
+      },
+      {
+        "text": "It was discovered by Oersted, Ampere, Biot, and Savart.",
+        "isCorrect": true
+      },
+      {
+        "text": "It was discovered in the late 18th century.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The discovery that moving charges or electric currents produce magnetic fields is credited to Oersted, Ampere, Biot, and Savart in the early part of the 19th century.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "What happens when a bar magnet is freely suspended?",
+    "options": [
+      {
+        "text": "It aligns with the geographic east-west direction.",
+        "isCorrect": false
+      },
+      {
+        "text": "It aligns with the geographic north-south direction.",
+        "isCorrect": true
+      },
+      {
+        "text": "It aligns with the geographic northeast-southwest direction.",
+        "isCorrect": false
+      },
+      {
+        "text": "It aligns randomly.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a bar magnet is freely suspended, it points in the north-south direction.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 26,
+    "questionText": "What force is observed between the north pole of one magnet and the south pole of another?",
+    "options": [
+      {
+        "text": "Repulsive force",
+        "isCorrect": false
+      },
+      {
+        "text": "Attractive force",
+        "isCorrect": true
+      },
+      {
+        "text": "No force",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal and opposite force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "There is an attractive force between the north pole of one magnet and the south pole of the other.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 27,
+    "questionText": "What is the magnetic field of the Earth similar to?",
+    "options": [
+      {
+        "text": "A monopole",
+        "isCorrect": false
+      },
+      {
+        "text": "A bar magnet",
+        "isCorrect": true
+      },
+      {
+        "text": "An electric dipole",
+        "isCorrect": false
+      },
+      {
+        "text": "A current loop",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Earth behaves as a magnet with its magnetic field similar to that of a bar magnet.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 28,
+    "questionText": "Which statement about magnets is incorrect?",
+    "options": [
+      {
+        "text": "The Earth behaves as a magnet.",
+        "isCorrect": false
+      },
+      {
+        "text": "A freely suspended magnet aligns north-south.",
+        "isCorrect": false
+      },
+      {
+        "text": "Like poles repel each other.",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnets can be made from any material.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Magnets can be made out of iron and its alloys, not any material.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 29,
+    "questionText": "Who among the following made significant contributions to the discovery that electric currents produce magnetic fields?",
+    "options": [
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Ampere",
+        "isCorrect": true
+      },
+      {
+        "text": "Faraday",
+        "isCorrect": false
+      },
+      {
+        "text": "Tesla",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ampere, along with Oersted, Biot, and Savart, made significant contributions to the discovery.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 30,
+    "questionText": "What was found on the island of Magnesia that led to the discovery of magnets?",
+    "options": [
+      {
+        "text": "Iron ore",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper ore",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic ore",
+        "isCorrect": true
+      },
+      {
+        "text": "Gold ore",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The word magnet is derived from the name of an island in Greece called Magnesia where magnetic ore deposits were found.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.1 Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": 31,
+    "questionText": "What happens to iron filings sprinkled around a bar magnet placed on a sheet of glass?",
+    "options": [
+      {
+        "text": "They move randomly.",
+        "isCorrect": false
+      },
+      {
+        "text": "They form a pattern resembling magnetic field lines.",
+        "isCorrect": true
+      },
+      {
+        "text": "They repel each other.",
+        "isCorrect": false
+      },
+      {
+        "text": "They stick to the glass.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pattern of iron filings suggests that the magnet has two poles similar to the positive and negative charge of an electric dipole.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "EASY"
+  },
+  {
+    "qno": 32,
+    "questionText": "What do the iron filings around a bar magnet represent?",
+    "options": [
+      {
+        "text": "Electric field lines",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic field lines",
+        "isCorrect": true
+      },
+      {
+        "text": "Gravitational field lines",
+        "isCorrect": false
+      },
+      {
+        "text": "Optical lines",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The iron filings arrange themselves in patterns that mimic magnetic field lines.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "EASY"
+  },
+  {
+    "qno": 33,
+    "questionText": "When suspended freely, which direction do the poles of a bar magnet point?",
+    "options": [
+      {
+        "text": "North and east",
+        "isCorrect": false
+      },
+      {
+        "text": "South and west",
+        "isCorrect": false
+      },
+      {
+        "text": "North and south",
+        "isCorrect": true
+      },
+      {
+        "text": "East and west",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When suspended freely, the poles of a bar magnet point approximately towards the geographic north and south poles.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "EASY"
+  },
+  {
+    "qno": 34,
+    "questionText": "What is the designation of the poles of a bar magnet when freely suspended?",
+    "options": [
+      {
+        "text": "North and east poles",
+        "isCorrect": false
+      },
+      {
+        "text": "South and west poles",
+        "isCorrect": false
+      },
+      {
+        "text": "North and south poles",
+        "isCorrect": true
+      },
+      {
+        "text": "East and west poles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "One pole is designated the North pole and the other, the South pole.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "EASY"
+  },
+  {
+    "qno": 35,
+    "questionText": "How are the magnetic field lines of a magnet or a solenoid described?",
+    "options": [
+      {
+        "text": "They form open loops.",
+        "isCorrect": false
+      },
+      {
+        "text": "They form continuous closed loops.",
+        "isCorrect": true
+      },
+      {
+        "text": "They start and end at the poles.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are linear.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic field lines of a magnet (or a solenoid) form continuous closed loops.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 36,
+    "questionText": "What does the tangent to the magnetic field line at a given point represent?",
+    "options": [
+      {
+        "text": "The direction of the electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "The direction of the gravitational field",
+        "isCorrect": false
+      },
+      {
+        "text": "The direction of the net magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "The direction of the optical field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The tangent to the field line at a given point represents the direction of the net magnetic field $B$ at that point.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 37,
+    "questionText": "What does a larger number of magnetic field lines crossing per unit area indicate?",
+    "options": [
+      {
+        "text": "A weaker magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "A stronger magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "No magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "An optical field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The larger the number of field lines crossing per unit area, the stronger is the magnitude of the magnetic field $B$.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 38,
+    "questionText": "What happens to the magnetic field lines when they intersect?",
+    "options": [
+      {
+        "text": "The direction of the magnetic field is not unique.",
+        "isCorrect": true
+      },
+      {
+        "text": "The direction of the electric field is not unique.",
+        "isCorrect": false
+      },
+      {
+        "text": "The magnetic field strengthens.",
+        "isCorrect": false
+      },
+      {
+        "text": "The magnetic field weakens.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic field lines do not intersect, for if they did, the direction of the magnetic field would not be unique at the point of intersection.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 39,
+    "questionText": "How can one plot the magnetic field lines in space?",
+    "options": [
+      {
+        "text": "Using an optical sensor",
+        "isCorrect": false
+      },
+      {
+        "text": "Using a small magnetic compass needle",
+        "isCorrect": true
+      },
+      {
+        "text": "Using a thermometer",
+        "isCorrect": false
+      },
+      {
+        "text": "Using a voltmeter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "One way to plot the magnetic field lines is to place a small magnetic compass needle at various positions and note its orientation.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "EASY"
+  },
+  {
+    "qno": 40,
+    "questionText": "What is the axial field of a finite solenoid at large distances similar to?",
+    "options": [
+      {
+        "text": "An electric dipole",
+        "isCorrect": false
+      },
+      {
+        "text": "A bar magnet",
+        "isCorrect": true
+      },
+      {
+        "text": "A monopole",
+        "isCorrect": false
+      },
+      {
+        "text": "A quadrupole",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnitude of the field at point $P$ due to the solenoid is $B = \\frac{\\mu_0 m}{4 \\pi r^3}$, which resembles the far axial magnetic field of a bar magnet.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "HARD"
+  },
+  {
+    "qno": 41,
+    "questionText": "What is the torque on a magnetic needle in a uniform magnetic field given by?",
+    "options": [
+      {
+        "text": "$\\tau = m \\times B$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\tau = E \\times B$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\tau = F \\times B$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\tau = P \\times B$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The torque on the needle is $\\tau = m \\times B$, where $\\tau$ is the restoring torque and $m$ is the magnetic moment.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 42,
+    "questionText": "What is the magnetic potential energy $U_m$ given by?",
+    "options": [
+      {
+        "text": "$U_m = -m.B$",
+        "isCorrect": true
+      },
+      {
+        "text": "$U_m = m.B$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U_m = m \\times B$",
+        "isCorrect": false
+      },
+      {
+        "text": "$U_m = -E.B$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic potential energy $U_m$ is given by $U_m = -m.B$, with potential energy being minimum when $\\theta = 0°$ and maximum when $\\theta = 180°$.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "HARD"
+  },
+  {
+    "qno": 43,
+    "questionText": "What happens to a bar magnet if it is cut into two pieces along its length?",
+    "options": [
+      {
+        "text": "It loses its magnetic properties.",
+        "isCorrect": false
+      },
+      {
+        "text": "Each piece becomes a magnet with north and south poles.",
+        "isCorrect": true
+      },
+      {
+        "text": "One piece becomes a monopole.",
+        "isCorrect": false
+      },
+      {
+        "text": "The magnetic field becomes stronger.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In either case, one gets two magnets, each with a north and south pole.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 44,
+    "questionText": "Why does an iron nail near a bar magnet experience both force and torque?",
+    "options": [
+      {
+        "text": "Due to its uniform magnetic field.",
+        "isCorrect": false
+      },
+      {
+        "text": "Due to induced magnetic moment.",
+        "isCorrect": true
+      },
+      {
+        "text": "Due to gravitational forces.",
+        "isCorrect": false
+      },
+      {
+        "text": "Due to electric fields.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The iron nail experiences a non-uniform field due to the bar magnet, resulting in an induced magnetic moment and both force and torque.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 45,
+    "questionText": "What is the magnetic moment $m$ of a bar magnet proportional to?",
+    "options": [
+      {
+        "text": "Its volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Its magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "Its length",
+        "isCorrect": false
+      },
+      {
+        "text": "Its equivalent solenoid's magnetic moment",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The magnetic moment of a bar magnet is equal to the magnetic moment of an equivalent solenoid that produces the same magnetic field.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "HARD"
+  },
+  {
+    "qno": 46,
+    "questionText": "What is the dipole in a uniform magnetic field given by?",
+    "options": [
+      {
+        "text": "Electrostatic dipole",
+        "isCorrect": false
+      },
+      {
+        "text": "Gravitational dipole",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic dipole",
+        "isCorrect": true
+      },
+      {
+        "text": "Optical dipole",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic dipole in a uniform magnetic field is analogous to an electrostatic dipole.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "HARD"
+  },
+  {
+    "qno": 47,
+    "questionText": "How can you test the analogy between a bar magnet and a solenoid?",
+    "options": [
+      {
+        "text": "By using a voltmeter",
+        "isCorrect": false
+      },
+      {
+        "text": "By observing the deflections of a compass needle near both",
+        "isCorrect": true
+      },
+      {
+        "text": "By measuring temperature changes",
+        "isCorrect": false
+      },
+      {
+        "text": "By observing gravitational forces",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "One can test this analogy by moving a small compass needle in the neighborhood of a bar magnet and a current-carrying finite solenoid and noting that the deflections of the needle are similar in both cases.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 48,
+    "questionText": "What is the similarity between a bar magnet and a current-carrying solenoid?",
+    "options": [
+      {
+        "text": "Both are monopoles",
+        "isCorrect": false
+      },
+      {
+        "text": "Both produce similar magnetic fields",
+        "isCorrect": true
+      },
+      {
+        "text": "Both are non-magnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Both have electric fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A bar magnet and a solenoid produce similar magnetic fields.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "HARD"
+  },
+  {
+    "qno": 49,
+    "questionText": "What is the magnetic potential energy $U_m$ at the most stable position of a magnetic needle in a uniform magnetic field?",
+    "options": [
+      {
+        "text": "$+mB$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-mB$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2mB$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic potential energy $U_m$ is minimum ($-mB$) at $\\theta = 0°$ (most stable position).",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "HARD"
+  },
+  {
+    "qno": 50,
+    "questionText": "How does the potential energy of a magnetic needle in a uniform magnetic field vary?",
+    "options": [
+      {
+        "text": "It is constant.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is maximum at $\\theta = 0°$.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is minimum at $\\theta = 0°$ and maximum at $\\theta = 180°$.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is zero at $\\theta = 90°$.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The potential energy is minimum ($-mB$) at $\\theta = 0°$ (most stable position) and maximum ($+mB$) at $\\theta = 180°$ (most unstable position).",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 51,
+    "questionText": "What is the magnetic field $B$ of a bar magnet along its axis at a distance $r$ given by?",
+    "options": [
+      {
+        "text": "$B = \\frac{\\mu_0 m}{4 \\pi r^3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$B = \\frac{\\mu_0 m}{2 \\pi r^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$B = \\frac{\\mu_0 m}{4 \\pi r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$B = \\frac{\\mu_0 m}{2 \\pi r^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic field $B$ of a bar magnet along its axis at a distance $r$ is given by $B = \\frac{\\mu_0 m}{4 \\pi r^3}$.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "HARD"
+  },
+  {
+    "qno": 52,
+    "questionText": "What is the relation between the magnetic field $B$ and the magnetic moment $m$ of a bar magnet?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Quadratically proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic field $B$ is directly proportional to the magnetic moment $m$ of a bar magnet.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "HARD"
+  },
+  {
+    "qno": 53,
+    "questionText": "What happens to the magnetic field lines at large distances from a bar magnet?",
+    "options": [
+      {
+        "text": "They become parallel.",
+        "isCorrect": false
+      },
+      {
+        "text": "They become perpendicular.",
+        "isCorrect": false
+      },
+      {
+        "text": "They resemble those of a current-carrying solenoid.",
+        "isCorrect": true
+      },
+      {
+        "text": "They disappear.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At large distances, the magnetic field lines resemble those of a current-carrying solenoid.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 54,
+    "questionText": "What is the equatorial field $B_E$ of a bar magnet at a distance $r$ for $r \\gg l$?",
+    "options": [
+      {
+        "text": "$B_E = \\frac{\\mu_0 m}{4 \\pi r^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$B_E = -\\frac{\\mu_0 m}{4 \\pi r^3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$B_E = \\frac{\\mu_0 m}{2 \\pi r^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$B_E = -\\frac{\\mu_0 m}{2 \\pi r^3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equatorial field $B_E$ of a bar magnet at a distance $r$ for $r \\gg l$ is given by $B_E = -\\frac{\\mu_0 m}{4 \\pi r^3}$.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "HARD"
+  },
+  {
+    "qno": 55,
+    "questionText": "What is the axial field $B_A$ of a bar magnet at a distance $r$ for $r \\gg l$?",
+    "options": [
+      {
+        "text": "$B_A = \\frac{\\mu_0 m}{4 \\pi r^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$B_A = \\frac{\\mu_0 m}{2 \\pi r^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$B_A = \\frac{\\mu_0 m}{4 \\pi r^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$B_A = \\frac{\\mu_0 m}{2 \\pi r^2}$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The axial field $B_A$ of a bar magnet at a distance $r$ for $r \\gg l$ is given by $B_A = \\frac{\\mu_0 m}{2 \\pi r^2}$.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "HARD"
+  },
+  {
+    "qno": 56,
+    "questionText": "What does the pattern of iron filings around a bar magnet suggest?",
+    "options": [
+      {
+        "text": "That the magnet has a single pole",
+        "isCorrect": false
+      },
+      {
+        "text": "That the magnet has two poles",
+        "isCorrect": true
+      },
+      {
+        "text": "That the magnet has no poles",
+        "isCorrect": false
+      },
+      {
+        "text": "That the magnet is weak",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pattern of iron filings suggests that the magnet has two poles similar to the positive and negative charge of an electric dipole.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "EASY"
+  },
+  {
+    "qno": 57,
+    "questionText": "What is the correct way to describe the field lines of a bar magnet?",
+    "options": [
+      {
+        "text": "They start and end at the poles.",
+        "isCorrect": false
+      },
+      {
+        "text": "They form continuous closed loops.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are linear.",
+        "isCorrect": false
+      },
+      {
+        "text": "They form open loops.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic field lines of a magnet (or a solenoid) form continuous closed loops.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 58,
+    "questionText": "What happens to the magnetic field lines at the intersection points?",
+    "options": [
+      {
+        "text": "They strengthen the field.",
+        "isCorrect": false
+      },
+      {
+        "text": "They weaken the field.",
+        "isCorrect": false
+      },
+      {
+        "text": "They make the direction of the magnetic field not unique.",
+        "isCorrect": true
+      },
+      {
+        "text": "They disappear.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic field lines do not intersect, for if they did, the direction of the magnetic field would not be unique at the point of intersection.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 60,
+    "questionText": "What is the behavior of a small compass needle in the neighborhood of a bar magnet and a current-carrying solenoid?",
+    "options": [
+      {
+        "text": "It deflects randomly.",
+        "isCorrect": false
+      },
+      {
+        "text": "It deflects similarly in both cases.",
+        "isCorrect": true
+      },
+      {
+        "text": "It does not deflect.",
+        "isCorrect": false
+      },
+      {
+        "text": "It only deflects near the solenoid.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "One can test the analogy by moving a small compass needle in the neighborhood of a bar magnet and a current-carrying finite solenoid and noting that the deflections of the needle are similar in both cases.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 61,
+    "questionText": "Which law explains the continuous and closed loops of magnetic field lines?",
+    "options": [
+      {
+        "text": "Faraday's Law",
+        "isCorrect": false
+      },
+      {
+        "text": "Gauss's Law of Magnetism",
+        "isCorrect": true
+      },
+      {
+        "text": "Ampere's Law",
+        "isCorrect": false
+      },
+      {
+        "text": "Biot-Savart Law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauss's Law of Magnetism states that the magnetic field lines form continuous and closed loops.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 62,
+    "questionText": "How does a bar magnet behave when placed in an external magnetic field?",
+    "options": [
+      {
+        "text": "It aligns with the field",
+        "isCorrect": true
+      },
+      {
+        "text": "It opposes the field",
+        "isCorrect": false
+      },
+      {
+        "text": "It cancels the field",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains unaffected",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A bar magnet aligns with the external magnetic field.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "EASY"
+  },
+  {
+    "qno": 63,
+    "questionText": "What is the direction of the magnetic field lines inside a bar magnet?",
+    "options": [
+      {
+        "text": "From north to south",
+        "isCorrect": false
+      },
+      {
+        "text": "From south to north",
+        "isCorrect": true
+      },
+      {
+        "text": "From east to west",
+        "isCorrect": false
+      },
+      {
+        "text": "From west to east",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic field lines inside a bar magnet run from the south pole to the north pole.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 64,
+    "questionText": "What happens to the magnetic field strength at the poles of a bar magnet?",
+    "options": [
+      {
+        "text": "It is weakest",
+        "isCorrect": false
+      },
+      {
+        "text": "It is strongest",
+        "isCorrect": true
+      },
+      {
+        "text": "It is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "It fluctuates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic field strength is strongest at the poles of a bar magnet.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "EASY"
+  },
+  {
+    "qno": 65,
+    "questionText": "What does the resemblance of magnetic field lines for a bar magnet and a solenoid suggest?",
+    "options": [
+      {
+        "text": "A bar magnet is a collection of magnetic monopoles",
+        "isCorrect": false
+      },
+      {
+        "text": "A bar magnet can be thought of as a large number of circulating currents",
+        "isCorrect": true
+      },
+      {
+        "text": "A bar magnet and solenoid are electrically equivalent",
+        "isCorrect": false
+      },
+      {
+        "text": "A bar magnet has no magnetic field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The resemblance suggests that a bar magnet may be thought of as a large number of circulating currents in analogy with a solenoid.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "HARD"
+  },
+  {
+    "qno": 66,
+    "questionText": "What is the effect of cutting a bar magnet in half?",
+    "options": [
+      {
+        "text": "Each piece has only one pole",
+        "isCorrect": false
+      },
+      {
+        "text": "Each piece becomes a smaller magnet with both poles",
+        "isCorrect": true
+      },
+      {
+        "text": "The magnet loses its magnetic properties",
+        "isCorrect": false
+      },
+      {
+        "text": "The magnet's poles are isolated",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cutting a bar magnet in half results in two smaller magnets, each with both north and south poles.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 67,
+    "questionText": "What is the pattern of iron filings around a bar magnet similar to?",
+    "options": [
+      {
+        "text": "An electric monopole",
+        "isCorrect": false
+      },
+      {
+        "text": "An electric dipole",
+        "isCorrect": true
+      },
+      {
+        "text": "A gravitational field",
+        "isCorrect": false
+      },
+      {
+        "text": "A sound wave",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The pattern of iron filings around a bar magnet suggests that it is similar to the positive and negative charges of an electric dipole.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "EASY"
+  },
+  {
+    "qno": 68,
+    "questionText": "What is the relationship between the magnetic field strength and the number of field lines per unit area?",
+    "options": [
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Not related",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially related",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The larger the number of field lines crossing per unit area, the stronger is the magnitude of the magnetic field $B$.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "EASY"
+  },
+  {
+    "qno": 69,
+    "questionText": "What is the behavior of magnetic field lines around a current-carrying solenoid similar to?",
+    "options": [
+      {
+        "text": "A monopole",
+        "isCorrect": false
+      },
+      {
+        "text": "A bar magnet",
+        "isCorrect": true
+      },
+      {
+        "text": "An electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "A gravitational field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic field lines around a current-carrying solenoid are similar to those around a bar magnet.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "HARD"
+  },
+  {
+    "qno": 70,
+    "questionText": "What is the relation between the axial field of a finite solenoid and a bar magnet at large distances?",
+    "options": [
+      {
+        "text": "They are different",
+        "isCorrect": false
+      },
+      {
+        "text": "They are similar",
+        "isCorrect": true
+      },
+      {
+        "text": "They are perpendicular",
+        "isCorrect": false
+      },
+      {
+        "text": "They are inversely proportional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The axial field of a finite solenoid at large distances resembles that of a bar magnet.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.2 The Bar Magnet",
+    "level": "HARD"
+  },
+  {
+    "qno": 71,
+    "questionText": "What does Gauss's Law of Magnetism state?",
+    "options": [
+      {
+        "text": "The net magnetic flux through any closed surface is zero.",
+        "isCorrect": true
+      },
+      {
+        "text": "The net electric flux through any closed surface is zero.",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic field lines form open loops.",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic monopoles exist.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauss's Law of Magnetism states that the net magnetic flux through any closed surface is zero.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 72,
+    "questionText": "How do magnetic field lines behave around a bar magnet and a solenoid?",
+    "options": [
+      {
+        "text": "They form open loops.",
+        "isCorrect": false
+      },
+      {
+        "text": "They form continuous closed loops.",
+        "isCorrect": true
+      },
+      {
+        "text": "They form linear patterns.",
+        "isCorrect": false
+      },
+      {
+        "text": "They disappear at infinity.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic field lines around a bar magnet and a solenoid form continuous closed loops.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "EASY"
+  },
+  {
+    "qno": 73,
+    "questionText": "What is the net magnetic flux through a closed surface enclosing a magnetic dipole?",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Infinite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The net magnetic flux through any closed surface enclosing a magnetic dipole is zero.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 74,
+    "questionText": "What does Gauss's Law of Magnetism imply about magnetic monopoles?",
+    "options": [
+      {
+        "text": "Magnetic monopoles exist.",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic monopoles do not exist.",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnetic monopoles are weak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic monopoles are strong.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauss's Law of Magnetism implies that magnetic monopoles do not exist.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 75,
+    "questionText": "How is the magnetic flux through a closed surface calculated?",
+    "options": [
+      {
+        "text": "By integrating the magnetic field over the surface area.",
+        "isCorrect": true
+      },
+      {
+        "text": "By differentiating the magnetic field over the surface area.",
+        "isCorrect": false
+      },
+      {
+        "text": "By adding the magnetic field over the surface area.",
+        "isCorrect": false
+      },
+      {
+        "text": "By subtracting the magnetic field over the surface area.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic flux through a closed surface is calculated by integrating the magnetic field over the surface area.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "HARD"
+  },
+  {
+    "qno": 76,
+    "questionText": "What is the result of the integral of the magnetic field over a closed surface?",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Infinite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The integral of the magnetic field over a closed surface is zero according to Gauss's Law of Magnetism.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "HARD"
+  },
+  {
+    "qno": 77,
+    "questionText": "What is the significance of Gauss's Law of Magnetism in the context of magnetic monopoles?",
+    "options": [
+      {
+        "text": "It confirms the existence of magnetic monopoles.",
+        "isCorrect": false
+      },
+      {
+        "text": "It confirms the non-existence of magnetic monopoles.",
+        "isCorrect": true
+      },
+      {
+        "text": "It suggests magnetic monopoles are weak.",
+        "isCorrect": false
+      },
+      {
+        "text": "It suggests magnetic monopoles are strong.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauss's Law of Magnetism confirms the non-existence of magnetic monopoles.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "HARD"
+  },
+  {
+    "qno": 78,
+    "questionText": "What does the closed surface integral of the magnetic field represent in Gauss's Law of Magnetism?",
+    "options": [
+      {
+        "text": "The electric field strength",
+        "isCorrect": false
+      },
+      {
+        "text": "The magnetic flux",
+        "isCorrect": true
+      },
+      {
+        "text": "The gravitational field strength",
+        "isCorrect": false
+      },
+      {
+        "text": "The optical field strength",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The closed surface integral of the magnetic field represents the magnetic flux according to Gauss's Law of Magnetism.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 79,
+    "questionText": "What is the mathematical expression for Gauss's Law of Magnetism?",
+    "options": [
+      {
+        "text": "$\\oint \\mathbf{B} \\cdot d\\mathbf{A} = 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\oint \\mathbf{E} \\cdot d\\mathbf{A} = 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\oint \\mathbf{B} \\cdot d\\mathbf{A} = \\mu_0 I$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\oint \\mathbf{E} \\cdot d\\mathbf{A} = \\epsilon_0 I$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mathematical expression for Gauss's Law of Magnetism is $\\oint \\mathbf{B} \\cdot d\\mathbf{A} = 0$.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "HARD"
+  },
+  {
+    "qno": 80,
+    "questionText": "What is the implication of Gauss's Law of Magnetism for the magnetic flux through a closed surface?",
+    "options": [
+      {
+        "text": "The magnetic flux is infinite.",
+        "isCorrect": false
+      },
+      {
+        "text": "The magnetic flux is positive.",
+        "isCorrect": false
+      },
+      {
+        "text": "The magnetic flux is zero.",
+        "isCorrect": true
+      },
+      {
+        "text": "The magnetic flux is negative.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Gauss's Law of Magnetism, the magnetic flux through a closed surface is zero.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 81,
+    "questionText": "How does Gauss's Law of Magnetism relate to the concept of magnetic field lines?",
+    "options": [
+      {
+        "text": "Magnetic field lines start and end at monopoles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic field lines form open loops.",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic field lines form continuous closed loops.",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnetic field lines are linear.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauss's Law of Magnetism implies that magnetic field lines form continuous closed loops.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "HARD"
+  },
+  {
+    "qno": 82,
+    "questionText": "What is the significance of the net magnetic flux being zero through a closed surface?",
+    "options": [
+      {
+        "text": "It indicates the presence of monopoles.",
+        "isCorrect": false
+      },
+      {
+        "text": "It indicates the non-existence of monopoles.",
+        "isCorrect": true
+      },
+      {
+        "text": "It suggests that magnetic fields are weak.",
+        "isCorrect": false
+      },
+      {
+        "text": "It suggests that magnetic fields are strong.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The net magnetic flux being zero through a closed surface indicates the non-existence of magnetic monopoles.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "HARD"
+  },
+  {
+    "qno": 83,
+    "questionText": "What does the absence of isolated magnetic poles imply according to Gauss's Law of Magnetism?",
+    "options": [
+      {
+        "text": "Magnetic monopoles exist.",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic monopoles do not exist.",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnetic fields are weak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic fields are strong.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The absence of isolated magnetic poles implies that magnetic monopoles do not exist according to Gauss's Law of Magnetism.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 84,
+    "questionText": "What is the implication of Gauss's Law of Magnetism for magnetic field lines?",
+    "options": [
+      {
+        "text": "They start and end at magnetic monopoles.",
+        "isCorrect": false
+      },
+      {
+        "text": "They form open loops.",
+        "isCorrect": false
+      },
+      {
+        "text": "They form continuous closed loops.",
+        "isCorrect": true
+      },
+      {
+        "text": "They disappear at infinity.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauss's Law of Magnetism implies that magnetic field lines form continuous closed loops.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "HARD"
+  },
+  {
+    "qno": 85,
+    "questionText": "What is the result of integrating the magnetic field over a closed surface?",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Infinite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Integrating the magnetic field over a closed surface results in zero, as per Gauss's Law of Magnetism.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "HARD"
+  },
+  {
+    "qno": 86,
+    "questionText": "What is the consequence of Gauss's Law of Magnetism for the concept of magnetic monopoles?",
+    "options": [
+      {
+        "text": "It confirms their existence.",
+        "isCorrect": false
+      },
+      {
+        "text": "It confirms their non-existence.",
+        "isCorrect": true
+      },
+      {
+        "text": "It suggests they are weak.",
+        "isCorrect": false
+      },
+      {
+        "text": "It suggests they are strong.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauss's Law of Magnetism confirms the non-existence of magnetic monopoles.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "HARD"
+  },
+  {
+    "qno": 87,
+    "questionText": "What is the integral of the magnetic field over a closed surface in a region with no magnetic sources?",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Infinite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The integral of the magnetic field over a closed surface in a region with no magnetic sources is zero.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 88,
+    "questionText": "What does Gauss's Law of Magnetism imply about the continuity of magnetic field lines?",
+    "options": [
+      {
+        "text": "They are discontinuous.",
+        "isCorrect": false
+      },
+      {
+        "text": "They form continuous loops.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are linear.",
+        "isCorrect": false
+      },
+      {
+        "text": "They disappear at infinity.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauss's Law of Magnetism implies that magnetic field lines form continuous loops.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "HARD"
+  },
+  {
+    "qno": 89,
+    "questionText": "What does the net magnetic flux through a closed surface indicate about magnetic sources within the surface?",
+    "options": [
+      {
+        "text": "The presence of monopoles.",
+        "isCorrect": false
+      },
+      {
+        "text": "The non-existence of monopoles.",
+        "isCorrect": true
+      },
+      {
+        "text": "The strength of magnetic sources.",
+        "isCorrect": false
+      },
+      {
+        "text": "The direction of magnetic sources.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The net magnetic flux through a closed surface indicates the non-existence of magnetic monopoles within the surface.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "HARD"
+  },
+  {
+    "qno": 90,
+    "questionText": "What is the implication of Gauss's Law of Magnetism for the nature of magnetic field lines?",
+    "options": [
+      {
+        "text": "They are linear.",
+        "isCorrect": false
+      },
+      {
+        "text": "They form continuous closed loops.",
+        "isCorrect": true
+      },
+      {
+        "text": "They start and end at monopoles.",
+        "isCorrect": false
+      },
+      {
+        "text": "They disappear at infinity.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauss's Law of Magnetism implies that magnetic field lines form continuous closed loops.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "HARD"
+  },
+  {
+    "qno": 91,
+    "questionText": "What does Gauss's Law for Magnetism state about the magnetic flux through a closed surface?",
+    "options": [
+      {
+        "text": "It is always positive.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is always negative.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is zero.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is infinite.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauss's Law for Magnetism states that the net magnetic flux through any closed surface is zero.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 92,
+    "questionText": "According to Gauss's Law of Magnetism, what is the flux through a surface that encloses no magnetic material?",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Infinite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Gauss's Law of Magnetism, the flux through a surface that encloses no magnetic material is zero.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 93,
+    "questionText": "What does the absence of isolated magnetic poles suggest in Gauss's Law of Magnetism?",
+    "options": [
+      {
+        "text": "Magnetic monopoles exist.",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic monopoles do not exist.",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnetic monopoles are weak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic monopoles are strong.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The absence of isolated magnetic poles suggests that magnetic monopoles do not exist according to Gauss's Law of Magnetism.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 94,
+    "questionText": "What does Gauss's Law for Magnetism say about the nature of magnetic field lines?",
+    "options": [
+      {
+        "text": "They are discontinuous.",
+        "isCorrect": false
+      },
+      {
+        "text": "They form closed loops.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are linear.",
+        "isCorrect": false
+      },
+      {
+        "text": "They start and end at magnetic monopoles.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauss's Law for Magnetism states that magnetic field lines form continuous closed loops.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 96,
+    "questionText": "What does Gauss's Law for Magnetism state about the existence of magnetic monopoles?",
+    "options": [
+      {
+        "text": "Magnetic monopoles exist.",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic monopoles do not exist.",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnetic monopoles are weak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic monopoles are strong.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gauss's Law for Magnetism states that magnetic monopoles do not exist.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 97,
+    "questionText": "What is the mathematical expression for Gauss's Law for Magnetism?",
+    "options": [
+      {
+        "text": "$\\oint \\mathbf{B} \\cdot d\\mathbf{A} = 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\oint \\mathbf{E} \\cdot d\\mathbf{A} = 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\oint \\mathbf{B} \\cdot d\\mathbf{A} = \\mu_0 I$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\oint \\mathbf{E} \\cdot d\\mathbf{A} = \\epsilon_0 I$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The mathematical expression for Gauss's Law for Magnetism is $\\oint \\mathbf{B} \\cdot d\\mathbf{A} = 0$.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.3 Magnetism and Gauss’s Law",
+    "level": "HARD"
+  },
+  {
+    "qno": 101,
+    "questionText": "What is the relationship between magnetisation ($M$) and magnetic field ($H$)?",
+    "options": [
+      {
+        "text": "Directly proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversely proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "Not related",
+        "isCorrect": false
+      },
+      {
+        "text": "Exponentially related",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Magnetisation ($M$) is directly proportional to the magnetic field ($H$).",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.4 Magnetisation and Magnetic Intensity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 102,
+    "questionText": "What is the SI unit of magnetisation ($M$)?",
+    "options": [
+      {
+        "text": "Tesla",
+        "isCorrect": false
+      },
+      {
+        "text": "Ampere per meter (A/m)",
+        "isCorrect": true
+      },
+      {
+        "text": "Weber",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The SI unit of magnetisation ($M$) is Ampere per meter (A/m).",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.4 Magnetisation and Magnetic Intensity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 103,
+    "questionText": "What is the relationship between the magnetic field ($B$), magnetisation ($M$), and magnetic intensity ($H$)?",
+    "options": [
+      {
+        "text": "$B = \\mu_0 (H + M)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$B = \\mu_0 (M - H)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$B = \\mu_0 (H - M)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$B = \\mu_0 (M + H)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The relationship is given by $B = \\mu_0 (H + M)$ where $\\mu_0$ is the permeability of free space.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.4 Magnetisation and Magnetic Intensity",
+    "level": "HARD"
+  },
+  {
+    "qno": 104,
+    "questionText": "What is magnetic intensity ($H$)?",
+    "options": [
+      {
+        "text": "The number of magnetic field lines passing through a surface",
+        "isCorrect": false
+      },
+      {
+        "text": "The measure of magnetising force",
+        "isCorrect": true
+      },
+      {
+        "text": "The total magnetic field within a material",
+        "isCorrect": false
+      },
+      {
+        "text": "The magnetic flux per unit area",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Magnetic intensity ($H$) is the measure of the magnetising force.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.4 Magnetisation and Magnetic Intensity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 105,
+    "questionText": "What is the unit of magnetic intensity ($H$)?",
+    "options": [
+      {
+        "text": "Tesla",
+        "isCorrect": false
+      },
+      {
+        "text": "Ampere per meter (A/m)",
+        "isCorrect": true
+      },
+      {
+        "text": "Weber",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The unit of magnetic intensity ($H$) is Ampere per meter (A/m).",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.4 Magnetisation and Magnetic Intensity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 106,
+    "questionText": "What happens to the magnetisation of a material when it is placed in an external magnetic field?",
+    "options": [
+      {
+        "text": "It decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains the same",
+        "isCorrect": false
+      },
+      {
+        "text": "It fluctuates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a material is placed in an external magnetic field, its magnetisation increases.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.4 Magnetisation and Magnetic Intensity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 107,
+    "questionText": "What is the relationship between magnetic intensity ($H$) and magnetic field ($B$) in a vacuum?",
+    "options": [
+      {
+        "text": "$B = \\mu_0 H$",
+        "isCorrect": true
+      },
+      {
+        "text": "$B = \\mu H$",
+        "isCorrect": false
+      },
+      {
+        "text": "$B = \\mu_0 M$",
+        "isCorrect": false
+      },
+      {
+        "text": "$B = H/\\mu_0$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a vacuum, the magnetic field $B$ is given by $B = \\mu_0 H$ where $\\mu_0$ is the permeability of free space.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.4 Magnetisation and Magnetic Intensity",
+    "level": "HARD"
+  },
+  {
+    "qno": 108,
+    "questionText": "What does the magnetisation ($M$) of a material depend on?",
+    "options": [
+      {
+        "text": "The number of electric charges",
+        "isCorrect": false
+      },
+      {
+        "text": "The applied magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "The temperature of the material",
+        "isCorrect": false
+      },
+      {
+        "text": "The gravitational force",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetisation ($M$) of a material depends on the applied magnetic field.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.4 Magnetisation and Magnetic Intensity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 109,
+    "questionText": "What is the definition of magnetic susceptibility ($\\chi_m$)?",
+    "options": [
+      {
+        "text": "The ratio of magnetisation to magnetic intensity",
+        "isCorrect": true
+      },
+      {
+        "text": "The ratio of magnetic field to magnetisation",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of magnetic flux to area",
+        "isCorrect": false
+      },
+      {
+        "text": "The ratio of magnetic flux to magnetic field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Magnetic susceptibility ($\\chi_m$) is defined as the ratio of magnetisation ($M$) to magnetic intensity ($H$).",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.4 Magnetisation and Magnetic Intensity",
+    "level": "HARD"
+  },
+  {
+    "qno": 110,
+    "questionText": "What is the formula for calculating magnetic susceptibility ($\\chi_m$)?",
+    "options": [
+      {
+        "text": "$\\chi_m = \\frac{M}{H}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\chi_m = \\frac{H}{M}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\chi_m = MH$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\chi_m = \\frac{B}{H}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Magnetic susceptibility ($\\chi_m$) is calculated using the formula $\\chi_m = \\frac{M}{H}$.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.4 Magnetisation and Magnetic Intensity",
+    "level": "HARD"
+  },
+  {
+    "qno": 111,
+    "questionText": "Which type of material is strongly attracted by a magnetic field?",
+    "options": [
+      {
+        "text": "Diamagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Paramagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Ferromagnetic",
+        "isCorrect": true
+      },
+      {
+        "text": "Antiferromagnetic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ferromagnetic materials are strongly attracted by a magnetic field.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "EASY"
+  },
+  {
+    "qno": 112,
+    "questionText": "What happens to the magnetic susceptibility of a paramagnetic material with an increase in temperature?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic susceptibility of a paramagnetic material decreases with an increase in temperature.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 113,
+    "questionText": "What is the main characteristic of diamagnetic materials?",
+    "options": [
+      {
+        "text": "They are strongly attracted by a magnetic field.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are weakly attracted by a magnetic field.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are repelled by a magnetic field.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are unaffected by a magnetic field.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diamagnetic materials are repelled by a magnetic field.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "EASY"
+  },
+  {
+    "qno": 114,
+    "questionText": "Which material retains its magnetism even after the removal of the magnetic field?",
+    "options": [
+      {
+        "text": "Diamagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Paramagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Ferromagnetic",
+        "isCorrect": true
+      },
+      {
+        "text": "Antiferromagnetic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ferromagnetic materials retain their magnetism even after the removal of the magnetic field.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 115,
+    "questionText": "What is the effect of an external magnetic field on a diamagnetic material?",
+    "options": [
+      {
+        "text": "It becomes strongly magnetic.",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes weakly magnetic.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is repelled by the field.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is attracted by the field.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A diamagnetic material is repelled by an external magnetic field.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "EASY"
+  },
+  {
+    "qno": 116,
+    "questionText": "Which property is exhibited by materials that are slightly attracted by a magnetic field and do not retain magnetism after the removal of the field?",
+    "options": [
+      {
+        "text": "Ferromagnetism",
+        "isCorrect": false
+      },
+      {
+        "text": "Paramagnetism",
+        "isCorrect": true
+      },
+      {
+        "text": "Diamagnetism",
+        "isCorrect": false
+      },
+      {
+        "text": "Antiferromagnetism",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Paramagnetic materials are slightly attracted by a magnetic field and do not retain magnetism after the removal of the field.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 117,
+    "questionText": "What is the behavior of antiferromagnetic materials in an external magnetic field?",
+    "options": [
+      {
+        "text": "They are strongly attracted.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are repelled.",
+        "isCorrect": false
+      },
+      {
+        "text": "Their magnetic moments align in opposite directions, canceling each other.",
+        "isCorrect": true
+      },
+      {
+        "text": "They become superconductors.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In antiferromagnetic materials, the magnetic moments align in opposite directions, canceling each other.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 118,
+    "questionText": "Which type of material has a very high magnetic susceptibility and retains magnetism even after the removal of the external magnetic field?",
+    "options": [
+      {
+        "text": "Diamagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Paramagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Ferromagnetic",
+        "isCorrect": true
+      },
+      {
+        "text": "Antiferromagnetic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ferromagnetic materials have a very high magnetic susceptibility and retain magnetism even after the removal of the external magnetic field.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 119,
+    "questionText": "Which material exhibits a net magnetic moment in the absence of an external magnetic field due to the alignment of magnetic moments in parallel directions?",
+    "options": [
+      {
+        "text": "Diamagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Paramagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Ferromagnetic",
+        "isCorrect": true
+      },
+      {
+        "text": "Antiferromagnetic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ferromagnetic materials exhibit a net magnetic moment in the absence of an external magnetic field due to the alignment of magnetic moments in parallel directions.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 120,
+    "questionText": "What is the primary cause of magnetism in materials?",
+    "options": [
+      {
+        "text": "Electric currents",
+        "isCorrect": false
+      },
+      {
+        "text": "Alignment of magnetic domains",
+        "isCorrect": true
+      },
+      {
+        "text": "External pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature changes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary cause of magnetism in materials is the alignment of magnetic domains.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "EASY"
+  },
+  {
+    "qno": 121,
+    "questionText": "Which type of magnetic material is characterized by the cancellation of its magnetic moments in opposite directions?",
+    "options": [
+      {
+        "text": "Diamagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Paramagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Antiferromagnetic",
+        "isCorrect": true
+      },
+      {
+        "text": "Ferromagnetic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Antiferromagnetic materials are characterized by the cancellation of their magnetic moments in opposite directions.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 122,
+    "questionText": "What happens to the magnetic susceptibility of ferromagnetic materials above the Curie temperature?",
+    "options": [
+      {
+        "text": "It becomes zero.",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes negative.",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases and the material becomes paramagnetic.",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases exponentially.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Above the Curie temperature, the magnetic susceptibility of ferromagnetic materials decreases and they become paramagnetic.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 123,
+    "questionText": "Which of the following is an example of a diamagnetic material?",
+    "options": [
+      {
+        "text": "Iron",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper",
+        "isCorrect": true
+      },
+      {
+        "text": "Nickel",
+        "isCorrect": false
+      },
+      {
+        "text": "Cobalt",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Copper is an example of a diamagnetic material.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "EASY"
+  },
+  {
+    "qno": 124,
+    "questionText": "What is the behavior of ferromagnetic materials when placed in a non-uniform magnetic field?",
+    "options": [
+      {
+        "text": "They are repelled by the field.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are weakly attracted by the field.",
+        "isCorrect": false
+      },
+      {
+        "text": "They move from weaker to stronger parts of the field.",
+        "isCorrect": true
+      },
+      {
+        "text": "They remain unaffected by the field.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ferromagnetic materials move from the weaker to the stronger parts of a non-uniform magnetic field.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 125,
+    "questionText": "What is the effect of increasing temperature on the magnetic susceptibility of diamagnetic materials?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains unchanged",
+        "isCorrect": true
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic susceptibility of diamagnetic materials remains unchanged with increasing temperature.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 126,
+    "questionText": "Which type of material is characterized by a negative magnetic susceptibility?",
+    "options": [
+      {
+        "text": "Diamagnetic",
+        "isCorrect": true
+      },
+      {
+        "text": "Paramagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Ferromagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Antiferromagnetic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diamagnetic materials are characterized by a negative magnetic susceptibility.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 127,
+    "questionText": "Which of the following is an example of a paramagnetic material?",
+    "options": [
+      {
+        "text": "Iron",
+        "isCorrect": false
+      },
+      {
+        "text": "Aluminum",
+        "isCorrect": true
+      },
+      {
+        "text": "Nickel",
+        "isCorrect": false
+      },
+      {
+        "text": "Cobalt",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aluminum is an example of a paramagnetic material.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "EASY"
+  },
+  {
+    "qno": 128,
+    "questionText": "What is the primary difference between ferromagnetic and antiferromagnetic materials?",
+    "options": [
+      {
+        "text": "Ferromagnetic materials are repelled by a magnetic field, while antiferromagnetic materials are attracted.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ferromagnetic materials exhibit parallel alignment of magnetic moments, while antiferromagnetic materials exhibit anti-parallel alignment.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ferromagnetic materials do not retain magnetism, while antiferromagnetic materials do.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ferromagnetic materials have negative magnetic susceptibility, while antiferromagnetic materials have positive susceptibility.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ferromagnetic materials exhibit parallel alignment of magnetic moments, while antiferromagnetic materials exhibit anti-parallel alignment.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 129,
+    "questionText": "What is the effect of an external magnetic field on paramagnetic materials?",
+    "options": [
+      {
+        "text": "They are strongly repelled.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are weakly attracted.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are unaffected.",
+        "isCorrect": false
+      },
+      {
+        "text": "They become superconductors.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Paramagnetic materials are weakly attracted by an external magnetic field.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 130,
+    "questionText": "Which property is exhibited by ferromagnetic materials but not by paramagnetic materials?",
+    "options": [
+      {
+        "text": "They are slightly attracted by a magnetic field.",
+        "isCorrect": false
+      },
+      {
+        "text": "They retain magnetism after the removal of the external magnetic field.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are repelled by a magnetic field.",
+        "isCorrect": false
+      },
+      {
+        "text": "They exhibit negative magnetic susceptibility.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ferromagnetic materials retain their magnetism even after the removal of the external magnetic field, unlike paramagnetic materials.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 131,
+    "questionText": "What is the effect of temperature on the magnetization of ferromagnetic materials?",
+    "options": [
+      {
+        "text": "It remains constant.",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases with temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases with temperature.",
+        "isCorrect": true
+      },
+      {
+        "text": "It fluctuates randomly.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetization of ferromagnetic materials decreases with an increase in temperature.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 132,
+    "questionText": "Which type of material has a negative and small magnetic susceptibility?",
+    "options": [
+      {
+        "text": "Diamagnetic",
+        "isCorrect": true
+      },
+      {
+        "text": "Paramagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Ferromagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Antiferromagnetic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diamagnetic materials have a negative and small magnetic susceptibility.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "EASY"
+  },
+  {
+    "qno": 133,
+    "questionText": "Which material is characterized by a strong interaction between neighboring atoms leading to large, permanent magnetic moments?",
+    "options": [
+      {
+        "text": "Diamagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Paramagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Ferromagnetic",
+        "isCorrect": true
+      },
+      {
+        "text": "Antiferromagnetic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ferromagnetic materials are characterized by a strong interaction between neighboring atoms leading to large, permanent magnetic moments.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 134,
+    "questionText": "Which property do all ferromagnetic materials share?",
+    "options": [
+      {
+        "text": "Negative magnetic susceptibility",
+        "isCorrect": false
+      },
+      {
+        "text": "Permanent magnetism",
+        "isCorrect": true
+      },
+      {
+        "text": "Repulsion by magnetic fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Non-magnetic behavior",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "All ferromagnetic materials exhibit permanent magnetism.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "EASY"
+  },
+  {
+    "qno": 135,
+    "questionText": "What is the primary cause of ferromagnetism in materials?",
+    "options": [
+      {
+        "text": "Weak alignment of magnetic domains",
+        "isCorrect": false
+      },
+      {
+        "text": "Strong alignment of magnetic domains",
+        "isCorrect": true
+      },
+      {
+        "text": "Random orientation of magnetic domains",
+        "isCorrect": false
+      },
+      {
+        "text": "Absence of magnetic domains",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary cause of ferromagnetism in materials is the strong alignment of magnetic domains.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 136,
+    "questionText": "Which type of magnetic material exhibits the strongest magnetic properties?",
+    "options": [
+      {
+        "text": "Diamagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Paramagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Ferromagnetic",
+        "isCorrect": true
+      },
+      {
+        "text": "Antiferromagnetic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ferromagnetic materials exhibit the strongest magnetic properties.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "EASY"
+  },
+  {
+    "qno": 137,
+    "questionText": "What is the effect of applying an external magnetic field on ferromagnetic materials?",
+    "options": [
+      {
+        "text": "It has no effect.",
+        "isCorrect": false
+      },
+      {
+        "text": "It causes random alignment of magnetic domains.",
+        "isCorrect": false
+      },
+      {
+        "text": "It causes strong alignment of magnetic domains.",
+        "isCorrect": true
+      },
+      {
+        "text": "It weakens the magnetic properties.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Applying an external magnetic field causes a strong alignment of magnetic domains in ferromagnetic materials.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 138,
+    "questionText": "What is the effect of temperature on the magnetic susceptibility of paramagnetic materials?",
+    "options": [
+      {
+        "text": "It remains constant.",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases with temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases with temperature.",
+        "isCorrect": true
+      },
+      {
+        "text": "It fluctuates randomly.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic susceptibility of paramagnetic materials decreases with an increase in temperature.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 139,
+    "questionText": "Which material is characterized by weak and temporary magnetic properties?",
+    "options": [
+      {
+        "text": "Diamagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Paramagnetic",
+        "isCorrect": true
+      },
+      {
+        "text": "Ferromagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Antiferromagnetic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Paramagnetic materials are characterized by weak and temporary magnetic properties.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "EASY"
+  },
+  {
+    "qno": 140,
+    "questionText": "What is the effect of an external magnetic field on the alignment of magnetic domains in ferromagnetic materials?",
+    "options": [
+      {
+        "text": "It causes random alignment.",
+        "isCorrect": false
+      },
+      {
+        "text": "It causes strong alignment.",
+        "isCorrect": true
+      },
+      {
+        "text": "It weakens the alignment.",
+        "isCorrect": false
+      },
+      {
+        "text": "It has no effect.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An external magnetic field causes a strong alignment of magnetic domains in ferromagnetic materials.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 141,
+    "questionText": "What happens to the magnetic susceptibility of antiferromagnetic materials below the Neel temperature?",
+    "options": [
+      {
+        "text": "It becomes zero.",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes negative.",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases and the material exhibits antiferromagnetic properties.",
+        "isCorrect": true
+      },
+      {
+        "text": "It decreases exponentially.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Below the Neel temperature, the magnetic susceptibility of antiferromagnetic materials increases and they exhibit antiferromagnetic properties.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 142,
+    "questionText": "What is the effect of temperature on the magnetization of antiferromagnetic materials?",
+    "options": [
+      {
+        "text": "It remains constant.",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases with temperature.",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases with temperature.",
+        "isCorrect": true
+      },
+      {
+        "text": "It fluctuates randomly.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetization of antiferromagnetic materials decreases with an increase in temperature.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 143,
+    "questionText": "Which of the following is an example of an antiferromagnetic material?",
+    "options": [
+      {
+        "text": "Iron",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper",
+        "isCorrect": false
+      },
+      {
+        "text": "Nickel oxide",
+        "isCorrect": true
+      },
+      {
+        "text": "Aluminum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nickel oxide is an example of an antiferromagnetic material.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "EASY"
+  },
+  {
+    "qno": 144,
+    "questionText": "What is the behavior of ferromagnetic materials above the Curie temperature?",
+    "options": [
+      {
+        "text": "They become diamagnetic.",
+        "isCorrect": false
+      },
+      {
+        "text": "They become paramagnetic.",
+        "isCorrect": true
+      },
+      {
+        "text": "They become antiferromagnetic.",
+        "isCorrect": false
+      },
+      {
+        "text": "They become superconductors.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Above the Curie temperature, ferromagnetic materials lose their strong magnetic properties and become paramagnetic.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 145,
+    "questionText": "What happens to the magnetic susceptibility of ferromagnetic materials below the Curie temperature?",
+    "options": [
+      {
+        "text": "It becomes zero.",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes negative.",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases and the material exhibits strong ferromagnetic properties.",
+        "isCorrect": true
+      },
+      {
+        "text": "It decreases exponentially.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Below the Curie temperature, the magnetic susceptibility of ferromagnetic materials increases and they exhibit strong ferromagnetic properties.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 146,
+    "questionText": "What is the primary difference between paramagnetic and diamagnetic materials?",
+    "options": [
+      {
+        "text": "Paramagnetic materials are repelled by a magnetic field, while diamagnetic materials are attracted.",
+        "isCorrect": false
+      },
+      {
+        "text": "Paramagnetic materials are weakly attracted by a magnetic field, while diamagnetic materials are weakly repelled.",
+        "isCorrect": true
+      },
+      {
+        "text": "Paramagnetic materials exhibit strong magnetism, while diamagnetic materials do not.",
+        "isCorrect": false
+      },
+      {
+        "text": "Paramagnetic materials have negative susceptibility, while diamagnetic materials have positive susceptibility.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Paramagnetic materials are weakly attracted by a magnetic field, while diamagnetic materials are weakly repelled.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 147,
+    "questionText": "Which material is characterized by the absence of a net magnetic moment due to the cancellation of magnetic moments in opposite directions?",
+    "options": [
+      {
+        "text": "Diamagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Paramagnetic",
+        "isCorrect": false
+      },
+      {
+        "text": "Antiferromagnetic",
+        "isCorrect": true
+      },
+      {
+        "text": "Ferromagnetic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Antiferromagnetic materials are characterized by the absence of a net magnetic moment due to the cancellation of magnetic moments in opposite directions.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 148,
+    "questionText": "What is the primary cause of antiferromagnetism in materials?",
+    "options": [
+      {
+        "text": "Parallel alignment of magnetic moments",
+        "isCorrect": false
+      },
+      {
+        "text": "Anti-parallel alignment of magnetic moments",
+        "isCorrect": true
+      },
+      {
+        "text": "Random orientation of magnetic moments",
+        "isCorrect": false
+      },
+      {
+        "text": "Absence of magnetic moments",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary cause of antiferromagnetism in materials is the anti-parallel alignment of magnetic moments.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "HARD"
+  },
+  {
+    "qno": 149,
+    "questionText": "What is the behavior of diamagnetic materials in an external magnetic field?",
+    "options": [
+      {
+        "text": "They are strongly attracted by the field.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are weakly attracted by the field.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are repelled by the field.",
+        "isCorrect": true
+      },
+      {
+        "text": "They become superconductors.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diamagnetic materials are repelled by an external magnetic field.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 150,
+    "questionText": "Which of the following is an example of a ferromagnetic material?",
+    "options": [
+      {
+        "text": "Iron",
+        "isCorrect": true
+      },
+      {
+        "text": "Copper",
+        "isCorrect": false
+      },
+      {
+        "text": "Aluminum",
+        "isCorrect": false
+      },
+      {
+        "text": "Nickel oxide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Iron is an example of a ferromagnetic material.",
+    "chapter": "Magnetism and Matter",
+    "topic": "5.5 Magnetic Properties of Materials",
+    "level": "EASY"
+  },
+  {
+    "qno": 151,
+    "questionText": "Which of the following defines a spontaneous process?",
+    "options": [
+      {
+        "text": "A process that occurs without any external influence",
+        "isCorrect": true
+      },
+      {
+        "text": "A process that requires continuous external influence",
+        "isCorrect": false
+      },
+      {
+        "text": "A process that occurs with an increase in enthalpy",
+        "isCorrect": false
+      },
+      {
+        "text": "A process that occurs with a decrease in entropy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A spontaneous process occurs without any external influence.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 152,
+    "questionText": "What is the driving force behind spontaneous processes in nature?",
+    "options": [
+      {
+        "text": "Decrease in entropy",
+        "isCorrect": false
+      },
+      {
+        "text": "Increase in enthalpy",
+        "isCorrect": false
+      },
+      {
+        "text": "Increase in entropy",
+        "isCorrect": true
+      },
+      {
+        "text": "Decrease in free energy",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The driving force behind spontaneous processes is an increase in entropy and a decrease in free energy.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 153,
+    "questionText": "What is the relation between spontaneity and the Gibbs free energy change ($\\Delta G$)?",
+    "options": [
+      {
+        "text": "A process is spontaneous if $\\Delta G > 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "A process is spontaneous if $\\Delta G = 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "A process is spontaneous if $\\Delta G < 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "A process is spontaneous if $\\Delta G$ is constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A process is spontaneous if the Gibbs free energy change ($\\Delta G$) is less than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 154,
+    "questionText": "What is the relationship between spontaneity and entropy ($\\Delta S$)?",
+    "options": [
+      {
+        "text": "A process is spontaneous if $\\Delta S > 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "A process is spontaneous if $\\Delta S < 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "A process is spontaneous if $\\Delta S = 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "A process is spontaneous if $\\Delta S$ is constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A process is spontaneous if the entropy change ($\\Delta S$) is greater than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 155,
+    "questionText": "What does a negative $\\Delta G$ indicate about a chemical reaction?",
+    "options": [
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is impossible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A negative $\\Delta G$ indicates that a chemical reaction is spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 156,
+    "questionText": "Which thermodynamic quantity is used to predict the spontaneity of a process at constant temperature and pressure?",
+    "options": [
+      {
+        "text": "Enthalpy ($\\Delta H$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Entropy ($\\Delta S$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Gibbs free energy ($\\Delta G$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Internal energy ($\\Delta U$)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gibbs free energy ($\\Delta G$) is used to predict the spontaneity of a process at constant temperature and pressure.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 157,
+    "questionText": "What does the term 'spontaneous' mean in the context of thermodynamics?",
+    "options": [
+      {
+        "text": "The process occurs rapidly",
+        "isCorrect": false
+      },
+      {
+        "text": "The process occurs without external intervention",
+        "isCorrect": true
+      },
+      {
+        "text": "The process requires continuous energy input",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is reversible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In thermodynamics, 'spontaneous' means that the process occurs without external intervention.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 158,
+    "questionText": "How is the change in Gibbs free energy ($\\Delta G$) related to enthalpy ($\\Delta H$) and entropy ($\\Delta S$)?",
+    "options": [
+      {
+        "text": "$\\Delta G = \\Delta H - T \\Delta S$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G = \\Delta H + T \\Delta S$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G = \\Delta H \\times T \\Delta S$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G = \\Delta H / T \\Delta S$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The change in Gibbs free energy ($\\Delta G$) is related to enthalpy ($\\Delta H$) and entropy ($\\Delta S$) by the equation $\\Delta G = \\Delta H - T \\Delta S$.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 159,
+    "questionText": "Which of the following conditions always favors a spontaneous reaction?",
+    "options": [
+      {
+        "text": "$\\Delta H < 0$, $\\Delta S > 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta H > 0$, $\\Delta S < 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta H < 0$, $\\Delta S < 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta H > 0$, $\\Delta S > 0$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction is always spontaneous if $\\Delta H < 0$ and $\\Delta S > 0$.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 160,
+    "questionText": "Which thermodynamic quantity must be negative for a process to be spontaneous at constant temperature and pressure?",
+    "options": [
+      {
+        "text": "Enthalpy ($\\Delta H$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Entropy ($\\Delta S$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Gibbs free energy ($\\Delta G$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Internal energy ($\\Delta U$)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a process to be spontaneous at constant temperature and pressure, the Gibbs free energy ($\\Delta G$) must be negative.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 161,
+    "questionText": "What is the significance of a positive $\\Delta G$ for a process?",
+    "options": [
+      {
+        "text": "The process is spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is non-spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The process is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is reversible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A positive $\\Delta G$ indicates that a process is non-spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 162,
+    "questionText": "What does a zero $\\Delta G$ indicate about a process?",
+    "options": [
+      {
+        "text": "The process is spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is at equilibrium",
+        "isCorrect": true
+      },
+      {
+        "text": "The process is reversible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A zero $\\Delta G$ indicates that a process is at equilibrium.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 163,
+    "questionText": "How does an increase in entropy ($\\Delta S$) influence the spontaneity of a process?",
+    "options": [
+      {
+        "text": "It decreases spontaneity",
+        "isCorrect": false
+      },
+      {
+        "text": "It has no effect on spontaneity",
+        "isCorrect": false
+      },
+      {
+        "text": "It increases spontaneity",
+        "isCorrect": true
+      },
+      {
+        "text": "It makes the process reversible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An increase in entropy ($\\Delta S$) increases the spontaneity of a process.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 164,
+    "questionText": "What is the relationship between entropy change ($\\Delta S$) and the number of microstates in a system?",
+    "options": [
+      {
+        "text": "Entropy decreases with an increase in microstates",
+        "isCorrect": false
+      },
+      {
+        "text": "Entropy remains constant with an increase in microstates",
+        "isCorrect": false
+      },
+      {
+        "text": "Entropy increases with an increase in microstates",
+        "isCorrect": true
+      },
+      {
+        "text": "Entropy becomes zero with an increase in microstates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Entropy increases with an increase in the number of microstates in a system.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 165,
+    "questionText": "How is the spontaneity of a process related to the second law of thermodynamics?",
+    "options": [
+      {
+        "text": "The second law states that a process is spontaneous if $\\Delta G > 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "The second law states that a process is spontaneous if $\\Delta S$ decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "The second law states that a process is spontaneous if $\\Delta S$ increases",
+        "isCorrect": true
+      },
+      {
+        "text": "The second law has no relation to spontaneity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The second law of thermodynamics states that a process is spontaneous if the entropy ($\\Delta S$) of the universe increases.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 166,
+    "questionText": "Which of the following conditions is necessary for a reaction to be spontaneous at all temperatures?",
+    "options": [
+      {
+        "text": "$\\Delta H < 0$ and $\\Delta S > 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta H > 0$ and $\\Delta S < 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta H < 0$ and $\\Delta S < 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta H > 0$ and $\\Delta S > 0$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction is spontaneous at all temperatures if $\\Delta H < 0$ and $\\Delta S > 0$.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 167,
+    "questionText": "What happens to the spontaneity of a process if both $\\Delta H$ and $\\Delta S$ are negative?",
+    "options": [
+      {
+        "text": "The process is always spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is never spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is spontaneous at low temperatures",
+        "isCorrect": true
+      },
+      {
+        "text": "The process is spontaneous at high temperatures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If both $\\Delta H$ and $\\Delta S$ are negative, the process is spontaneous at low temperatures.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 168,
+    "questionText": "What is the significance of $\\Delta G = 0$ for a chemical reaction?",
+    "options": [
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is reversible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "$\\Delta G = 0$ indicates that a chemical reaction is at equilibrium.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 169,
+    "questionText": "What does the spontaneity of a process depend on at constant temperature and pressure?",
+    "options": [
+      {
+        "text": "$\\Delta G$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta H$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta S$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta U$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At constant temperature and pressure, the spontaneity of a process depends on the Gibbs free energy change ($\\Delta G$).",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 170,
+    "questionText": "What is the relationship between the Gibbs free energy change ($\\Delta G$) and the equilibrium constant ($K$)?",
+    "options": [
+      {
+        "text": "$\\Delta G = -RT \\ln K$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G = RT \\ln K$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G = R \\ln K$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G = -R \\ln K$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The relationship between the Gibbs free energy change ($\\Delta G$) and the equilibrium constant ($K$) is given by $\\Delta G = -RT \\ln K$.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 171,
+    "questionText": "Which of the following statements is true about a non-spontaneous process?",
+    "options": [
+      {
+        "text": "It occurs without external intervention",
+        "isCorrect": false
+      },
+      {
+        "text": "It requires continuous external intervention to occur",
+        "isCorrect": true
+      },
+      {
+        "text": "It always occurs rapidly",
+        "isCorrect": false
+      },
+      {
+        "text": "It has a negative $\\Delta G$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A non-spontaneous process requires continuous external intervention to occur.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 172,
+    "questionText": "Which of the following conditions favors a non-spontaneous reaction?",
+    "options": [
+      {
+        "text": "$\\Delta H > 0$, $\\Delta S < 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta H < 0$, $\\Delta S > 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta H > 0$, $\\Delta S > 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta H < 0$, $\\Delta S < 0$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction is non-spontaneous if $\\Delta H > 0$ and $\\Delta S < 0$.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 173,
+    "questionText": "What happens to the spontaneity of a process if $\\Delta H$ is positive and $\\Delta S$ is negative?",
+    "options": [
+      {
+        "text": "The process is always spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is never spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The process is spontaneous at low temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is spontaneous at high temperatures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If $\\Delta H$ is positive and $\\Delta S$ is negative, the process is never spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 174,
+    "questionText": "How does an increase in temperature affect the spontaneity of a process with $\\Delta H > 0$ and $\\Delta S > 0$?",
+    "options": [
+      {
+        "text": "It makes the process less spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "It has no effect on spontaneity",
+        "isCorrect": false
+      },
+      {
+        "text": "It makes the process more spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "It makes the process non-spontaneous",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An increase in temperature makes a process with $\\Delta H > 0$ and $\\Delta S > 0$ more spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 175,
+    "questionText": "What is the significance of a positive $\\Delta S$ for a process?",
+    "options": [
+      {
+        "text": "The process is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The process is reversible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A positive $\\Delta S$ indicates that a process is spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 176,
+    "questionText": "Which of the following conditions must be met for a process to be spontaneous at high temperatures?",
+    "options": [
+      {
+        "text": "$\\Delta H > 0$ and $\\Delta S < 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta H < 0$ and $\\Delta S > 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta H > 0$ and $\\Delta S > 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta H < 0$ and $\\Delta S < 0$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A process is spontaneous at high temperatures if $\\Delta H < 0$ and $\\Delta S > 0$, or if $\\Delta H > 0$ and $\\Delta S > 0$.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 177,
+    "questionText": "How does a decrease in temperature affect the spontaneity of a process with $\\Delta H < 0$ and $\\Delta S < 0$?",
+    "options": [
+      {
+        "text": "It makes the process more spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "It has no effect on spontaneity",
+        "isCorrect": false
+      },
+      {
+        "text": "It makes the process less spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "It makes the process non-spontaneous",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A decrease in temperature makes a process with $\\Delta H < 0$ and $\\Delta S < 0$ more spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 178,
+    "questionText": "What does a positive $\\Delta S_{system}$ and a negative $\\Delta S_{surroundings}$ indicate about a process?",
+    "options": [
+      {
+        "text": "The process is spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The process is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is reversible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A positive $\\Delta S_{system}$ and a negative $\\Delta S_{surroundings}$ indicate that the process is spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 179,
+    "questionText": "Which condition must be met for a process to be non-spontaneous at all temperatures?",
+    "options": [
+      {
+        "text": "$\\Delta H < 0$ and $\\Delta S > 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta H > 0$ and $\\Delta S < 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta H < 0$ and $\\Delta S < 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta H > 0$ and $\\Delta S > 0$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A process is non-spontaneous at all temperatures if $\\Delta H > 0$ and $\\Delta S < 0$.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 180,
+    "questionText": "What is the relationship between spontaneity and the second law of thermodynamics?",
+    "options": [
+      {
+        "text": "The second law states that a process is spontaneous if $\\Delta G > 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "The second law states that a process is spontaneous if $\\Delta S$ decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "The second law states that a process is spontaneous if $\\Delta S$ increases",
+        "isCorrect": true
+      },
+      {
+        "text": "The second law has no relation to spontaneity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The second law of thermodynamics states that a process is spontaneous if the entropy ($\\Delta S$) of the universe increases.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 181,
+    "questionText": "What does a positive $\\Delta S_{system}$ indicate about a process?",
+    "options": [
+      {
+        "text": "The process is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The process is reversible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A positive $\\Delta S_{system}$ indicates that a process is spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 182,
+    "questionText": "What is the effect of temperature on the spontaneity of a process with $\\Delta H > 0$ and $\\Delta S < 0$?",
+    "options": [
+      {
+        "text": "It makes the process more spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "It has no effect on spontaneity",
+        "isCorrect": false
+      },
+      {
+        "text": "It makes the process less spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "It makes the process non-spontaneous",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An increase in temperature makes a process with $\\Delta H > 0$ and $\\Delta S < 0$ less spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 183,
+    "questionText": "What does a negative $\\Delta G$ indicate about a process?",
+    "options": [
+      {
+        "text": "The process is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The process is reversible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A negative $\\Delta G$ indicates that a process is spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.6 Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 192,
+    "questionText": "What does a negative Gibbs free energy change ($\\Delta G$) indicate about a chemical reaction?",
+    "options": [
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is impossible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A negative Gibbs free energy change ($\\Delta G$) indicates that a chemical reaction is spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 194,
+    "questionText": "Which condition must be met for a process to be at equilibrium?",
+    "options": [
+      {
+        "text": "$\\Delta G < 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G > 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G = 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G$ is constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A process is at equilibrium when $\\Delta G = 0$.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 195,
+    "questionText": "What happens to the Gibbs free energy change ($\\Delta G$) when a reaction is at equilibrium?",
+    "options": [
+      {
+        "text": "$\\Delta G$ becomes positive",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G$ becomes negative",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G$ is zero",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G$ is infinite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a reaction is at equilibrium, the Gibbs free energy change ($\\Delta G$) is zero.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 196,
+    "questionText": "What is the effect of temperature on the equilibrium constant ($K$) for an exothermic reaction?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an exothermic reaction, the equilibrium constant ($K$) decreases with an increase in temperature.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 197,
+    "questionText": "Which thermodynamic quantity is used to determine the direction of a chemical reaction?",
+    "options": [
+      {
+        "text": "Enthalpy ($\\Delta H$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Entropy ($\\Delta S$)",
+        "isCorrect": false
+      },
+      {
+        "text": "Gibbs free energy ($\\Delta G$)",
+        "isCorrect": true
+      },
+      {
+        "text": "Internal energy ($\\Delta U$)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gibbs free energy ($\\Delta G$) is used to determine the direction of a chemical reaction.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 198,
+    "questionText": "What is the significance of a positive Gibbs free energy change ($\\Delta G$) for a process?",
+    "options": [
+      {
+        "text": "The process is spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is non-spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The process is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is reversible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A positive Gibbs free energy change ($\\Delta G$) indicates that a process is non-spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 199,
+    "questionText": "How is the standard Gibbs free energy change ($\\Delta G^0$) related to the equilibrium constant ($K$)?",
+    "options": [
+      {
+        "text": "$\\Delta G^0 = -RT \\ln K$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G^0 = RT \\ln K$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G^0 = R \\ln K$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G^0 = -R \\ln K$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard Gibbs free energy change ($\\Delta G^0$) is related to the equilibrium constant ($K$) by $\\Delta G^0 = -RT \\ln K$.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 200,
+    "questionText": "Which of the following conditions indicates that a reaction is at equilibrium?",
+    "options": [
+      {
+        "text": "$\\Delta G < 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G > 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G = 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G$ is constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction is at equilibrium when $\\Delta G = 0$.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 201,
+    "questionText": "What is the relationship between the reaction quotient ($Q$) and the equilibrium constant ($K$) for a reaction at equilibrium?",
+    "options": [
+      {
+        "text": "$Q > K$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Q < K$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Q = K$",
+        "isCorrect": true
+      },
+      {
+        "text": "$Q$ is unrelated to $K$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, the reaction quotient ($Q$) is equal to the equilibrium constant ($K$).",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 202,
+    "questionText": "What does a reaction quotient ($Q$) greater than the equilibrium constant ($K$) indicate about the direction of the reaction?",
+    "options": [
+      {
+        "text": "The reaction will proceed forward",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction will proceed in reverse",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction will not proceed",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the reaction quotient ($Q$) is greater than the equilibrium constant ($K$), the reaction will proceed in reverse.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 203,
+    "questionText": "Which of the following conditions indicates that a reaction will proceed spontaneously in the forward direction?",
+    "options": [
+      {
+        "text": "$\\Delta G < 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G > 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G = 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G$ is constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction will proceed spontaneously in the forward direction if $\\Delta G < 0$.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 204,
+    "questionText": "What is the effect of increasing temperature on the Gibbs free energy change ($\\Delta G$) for an endothermic reaction?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": true
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an endothermic reaction, increasing the temperature increases the Gibbs free energy change ($\\Delta G$).",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 205,
+    "questionText": "What is the effect of increasing temperature on the Gibbs free energy change ($\\Delta G$) for an exothermic reaction?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an exothermic reaction, increasing the temperature decreases the Gibbs free energy change ($\\Delta G$).",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 206,
+    "questionText": "What does the Gibbs free energy change ($\\Delta G$) indicate about a system?",
+    "options": [
+      {
+        "text": "The total energy of the system",
+        "isCorrect": false
+      },
+      {
+        "text": "The maximum useful work obtainable from the system",
+        "isCorrect": true
+      },
+      {
+        "text": "The heat content of the system",
+        "isCorrect": false
+      },
+      {
+        "text": "The entropy of the system",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Gibbs free energy change ($\\Delta G$) indicates the maximum useful work obtainable from the system.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 207,
+    "questionText": "What happens to the equilibrium position if the Gibbs free energy change ($\\Delta G$) is zero?",
+    "options": [
+      {
+        "text": "The equilibrium position shifts to the right",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium position shifts to the left",
+        "isCorrect": false
+      },
+      {
+        "text": "The system is at equilibrium",
+        "isCorrect": true
+      },
+      {
+        "text": "The system is not at equilibrium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the Gibbs free energy change ($\\Delta G$) is zero, the system is at equilibrium.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 208,
+    "questionText": "What is the significance of a negative Gibbs free energy change ($\\Delta G$) for a reaction?",
+    "options": [
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is impossible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A negative Gibbs free energy change ($\\Delta G$) indicates that a reaction is spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 209,
+    "questionText": "What is the effect of pressure on the Gibbs free energy change ($\\Delta G$) for a reaction involving gases?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": true
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction involving gases, an increase in pressure generally increases the Gibbs free energy change ($\\Delta G$).",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 210,
+    "questionText": "What does the magnitude of the Gibbs free energy change ($\\Delta G$) indicate about a reaction?",
+    "options": [
+      {
+        "text": "The speed of the reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "The extent to which the reaction will proceed",
+        "isCorrect": true
+      },
+      {
+        "text": "The direction of the reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "The heat absorbed by the reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnitude of the Gibbs free energy change ($\\Delta G$) indicates the extent to which the reaction will proceed.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 211,
+    "questionText": "What happens to the Gibbs free energy change ($\\Delta G$) if the reaction quotient ($Q$) is greater than the equilibrium constant ($K$)?",
+    "options": [
+      {
+        "text": "$\\Delta G > 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G < 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G = 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G$ is constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the reaction quotient ($Q$) is greater than the equilibrium constant ($K$), the Gibbs free energy change ($\\Delta G$) is greater than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 212,
+    "questionText": "What is the significance of the equilibrium constant ($K$) being much greater than 1?",
+    "options": [
+      {
+        "text": "The reactants are favored at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The products are favored at equilibrium",
+        "isCorrect": true
+      },
+      {
+        "text": "The system is not at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the equilibrium constant ($K$) is much greater than 1, it indicates that the products are favored at equilibrium.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 213,
+    "questionText": "What does a Gibbs free energy change ($\\Delta G$) of zero indicate about a system?",
+    "options": [
+      {
+        "text": "The system is at equilibrium",
+        "isCorrect": true
+      },
+      {
+        "text": "The system is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The system is spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The system is not at equilibrium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A Gibbs free energy change ($\\Delta G$) of zero indicates that the system is at equilibrium.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 214,
+    "questionText": "How does the Gibbs free energy change ($\\Delta G$) predict the spontaneity of a reaction?",
+    "options": [
+      {
+        "text": "$\\Delta G > 0$ indicates spontaneity",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G < 0$ indicates spontaneity",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G = 0$ indicates spontaneity",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G$ has no relation to spontaneity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A Gibbs free energy change ($\\Delta G$) less than zero ($\\Delta G < 0$) indicates that a reaction is spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 215,
+    "questionText": "What is the effect of a catalyst on the Gibbs free energy change ($\\Delta G$) of a reaction?",
+    "options": [
+      {
+        "text": "It increases $\\Delta G$",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases $\\Delta G$",
+        "isCorrect": false
+      },
+      {
+        "text": "It has no effect on $\\Delta G$",
+        "isCorrect": true
+      },
+      {
+        "text": "It makes $\\Delta G$ zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A catalyst has no effect on the Gibbs free energy change ($\\Delta G$) of a reaction.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 216,
+    "questionText": "What does the equilibrium constant ($K$) indicate about the position of equilibrium?",
+    "options": [
+      {
+        "text": "It indicates the rate of the reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "It indicates the relative concentrations of reactants and products at equilibrium",
+        "isCorrect": true
+      },
+      {
+        "text": "It indicates the spontaneity of the reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "It indicates the temperature dependence of the reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant ($K$) indicates the relative concentrations of reactants and products at equilibrium.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 217,
+    "questionText": "What is the relationship between the Gibbs free energy change ($\\Delta G$) and the spontaneity of a process?",
+    "options": [
+      {
+        "text": "$\\Delta G > 0$ indicates spontaneity",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G < 0$ indicates spontaneity",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G = 0$ indicates spontaneity",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G$ has no relation to spontaneity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A Gibbs free energy change ($\\Delta G$) less than zero ($\\Delta G < 0$) indicates that a process is spontaneous.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 218,
+    "questionText": "How does the Gibbs free energy change ($\\Delta G$) relate to the maximum useful work obtainable from a reaction?",
+    "options": [
+      {
+        "text": "$\\Delta G$ represents the maximum useful work obtainable",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G$ represents the total energy of the system",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G$ represents the heat content of the system",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G$ represents the entropy of the system",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Gibbs free energy change ($\\Delta G$) represents the maximum useful work obtainable from a reaction.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 219,
+    "questionText": "What is the effect of increasing pressure on the equilibrium position of a reaction involving gases?",
+    "options": [
+      {
+        "text": "The equilibrium position shifts to favor the formation of products",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium position shifts to favor the formation of reactants",
+        "isCorrect": true
+      },
+      {
+        "text": "The equilibrium position remains unchanged",
+        "isCorrect": false
+      },
+      {
+        "text": "The equilibrium position becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Increasing the pressure generally shifts the equilibrium position of a reaction involving gases to favor the formation of reactants.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 220,
+    "questionText": "What does the magnitude of the equilibrium constant ($K$) indicate about a reaction?",
+    "options": [
+      {
+        "text": "The speed of the reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "The extent to which the reaction will proceed",
+        "isCorrect": true
+      },
+      {
+        "text": "The direction of the reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "The heat absorbed by the reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnitude of the equilibrium constant ($K$) indicates the extent to which the reaction will proceed.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 221,
+    "questionText": "What happens to the equilibrium constant ($K$) if the Gibbs free energy change ($\\Delta G$) is zero?",
+    "options": [
+      {
+        "text": "$K > 1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K < 1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$K = 1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$K$ is unrelated to $\\Delta G$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the Gibbs free energy change ($\\Delta G$) is zero, the equilibrium constant ($K$) is equal to 1.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 222,
+    "questionText": "How does the Gibbs free energy change ($\\Delta G$) indicate the direction of a reaction?",
+    "options": [
+      {
+        "text": "$\\Delta G > 0$ indicates the reaction will proceed forward",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G < 0$ indicates the reaction will proceed forward",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G = 0$ indicates the reaction will proceed forward",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G$ has no relation to the direction of the reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A Gibbs free energy change ($\\Delta G$) less than zero ($\\Delta G < 0$) indicates that the reaction will proceed forward.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 223,
+    "questionText": "What is the effect of a catalyst on the equilibrium position of a reaction?",
+    "options": [
+      {
+        "text": "It shifts the equilibrium position to the right",
+        "isCorrect": false
+      },
+      {
+        "text": "It shifts the equilibrium position to the left",
+        "isCorrect": false
+      },
+      {
+        "text": "It has no effect on the equilibrium position",
+        "isCorrect": true
+      },
+      {
+        "text": "It makes the equilibrium position zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A catalyst has no effect on the equilibrium position of a reaction; it only speeds up the rate at which equilibrium is achieved.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 224,
+    "questionText": "What does the reaction quotient ($Q$) indicate about a reaction?",
+    "options": [
+      {
+        "text": "The speed of the reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "The extent to which the reaction will proceed",
+        "isCorrect": true
+      },
+      {
+        "text": "The direction of the reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "The heat absorbed by the reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction quotient ($Q$) indicates the extent to which the reaction will proceed relative to the equilibrium constant ($K$).",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 225,
+    "questionText": "What is the relationship between the reaction quotient ($Q$) and the equilibrium constant ($K$) at equilibrium?",
+    "options": [
+      {
+        "text": "$Q > K$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Q < K$",
+        "isCorrect": false
+      },
+      {
+        "text": "$Q = K$",
+        "isCorrect": true
+      },
+      {
+        "text": "$Q$ is unrelated to $K$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, the reaction quotient ($Q$) is equal to the equilibrium constant ($K$).",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 226,
+    "questionText": "What does a reaction quotient ($Q$) less than the equilibrium constant ($K$) indicate about the direction of the reaction?",
+    "options": [
+      {
+        "text": "The reaction will proceed forward",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction will proceed in reverse",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction will not proceed",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the reaction quotient ($Q$) is less than the equilibrium constant ($K$), the reaction will proceed forward.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 227,
+    "questionText": "What happens to the Gibbs free energy change ($\\Delta G$) if the reaction quotient ($Q$) is less than the equilibrium constant ($K$)?",
+    "options": [
+      {
+        "text": "$\\Delta G > 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G < 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G = 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G$ is constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the reaction quotient ($Q$) is less than the equilibrium constant ($K$), the Gibbs free energy change ($\\Delta G$) is less than zero.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 228,
+    "questionText": "What is the effect of increasing temperature on the equilibrium constant ($K$) for an exothermic reaction?",
+    "options": [
+      {
+        "text": "It increases",
+        "isCorrect": false
+      },
+      {
+        "text": "It decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an exothermic reaction, the equilibrium constant ($K$) decreases with an increase in temperature.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 229,
+    "questionText": "What does the equilibrium constant ($K$) indicate about a reaction?",
+    "options": [
+      {
+        "text": "The speed of the reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "The extent to which the reaction will proceed",
+        "isCorrect": true
+      },
+      {
+        "text": "The direction of the reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "The heat absorbed by the reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant ($K$) indicates the extent to which the reaction will proceed.",
+    "chapter": "Thermodynamics",
+    "topic": "5.7 Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  }
+]

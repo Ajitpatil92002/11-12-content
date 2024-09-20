@@ -1,0 +1,4500 @@
+[
+  {
+    "qno": 1,
+    "questionText": "Which of the following best describes a closed system in thermodynamics?",
+    "options": [
+      {
+        "text": "No exchange of energy or matter with surroundings",
+        "isCorrect": false
+      },
+      {
+        "text": "Exchange of energy but not matter with surroundings",
+        "isCorrect": true
+      },
+      {
+        "text": "Exchange of both energy and matter with surroundings",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither energy nor matter can be exchanged with surroundings",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A closed system allows the exchange of energy (heat and work) but not matter with its surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 2,
+    "questionText": "In thermodynamics, the surroundings include:",
+    "options": [
+      {
+        "text": "Only the immediate environment of the system",
+        "isCorrect": false
+      },
+      {
+        "text": "The entire universe excluding the system",
+        "isCorrect": true
+      },
+      {
+        "text": "Only the laboratory where the system is located",
+        "isCorrect": false
+      },
+      {
+        "text": "The system itself",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The surroundings include everything other than the system itself, essentially the entire universe excluding the system.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 3,
+    "questionText": "Which of the following statements is true for an isolated system?",
+    "options": [
+      {
+        "text": "There is no exchange of energy but exchange of matter",
+        "isCorrect": false
+      },
+      {
+        "text": "There is exchange of both energy and matter",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no exchange of energy and matter",
+        "isCorrect": true
+      },
+      {
+        "text": "There is exchange of energy but not matter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An isolated system does not exchange either energy or matter with its surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 4,
+    "questionText": "The boundary that separates a system from its surroundings is called:",
+    "options": [
+      {
+        "text": "Wall",
+        "isCorrect": false
+      },
+      {
+        "text": "Partition",
+        "isCorrect": false
+      },
+      {
+        "text": "Boundary",
+        "isCorrect": true
+      },
+      {
+        "text": "Interface",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In thermodynamics, the boundary is the real or imaginary surface that separates the system from its surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 5,
+    "questionText": "If a system does work on the surroundings, the work done is considered:",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": true
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a system does work on the surroundings, the work done is considered negative according to IUPAC conventions.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 6,
+    "questionText": "In an adiabatic process, which of the following statements is true?",
+    "options": [
+      {
+        "text": "No heat is exchanged with the surroundings",
+        "isCorrect": true
+      },
+      {
+        "text": "Heat is exchanged with the surroundings",
+        "isCorrect": false
+      },
+      {
+        "text": "Only work is done on the system",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither work nor heat is exchanged",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an adiabatic process, there is no exchange of heat between the system and its surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 7,
+    "questionText": "For a system in thermodynamic equilibrium, which of the following properties remains constant over time?",
+    "options": [
+      {
+        "text": "Temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In thermodynamic equilibrium, macroscopic properties like temperature, pressure, and volume remain constant over time.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 8,
+    "questionText": "The internal energy of a system is a function of:",
+    "options": [
+      {
+        "text": "Only heat",
+        "isCorrect": false
+      },
+      {
+        "text": "Only work",
+        "isCorrect": false
+      },
+      {
+        "text": "Both heat and work",
+        "isCorrect": true
+      },
+      {
+        "text": "Neither heat nor work",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The internal energy of a system changes when heat is added or removed and when work is done on or by the system.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 9,
+    "questionText": "Which of the following is an example of an extensive property?",
+    "options": [
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume",
+        "isCorrect": true
+      },
+      {
+        "text": "Density",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Volume is an extensive property because it depends on the amount of matter present in the system.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 10,
+    "questionText": "Which type of system allows the exchange of both energy and matter with its surroundings?",
+    "options": [
+      {
+        "text": "Closed system",
+        "isCorrect": false
+      },
+      {
+        "text": "Open system",
+        "isCorrect": true
+      },
+      {
+        "text": "Isolated system",
+        "isCorrect": false
+      },
+      {
+        "text": "Adiabatic system",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An open system allows the exchange of both energy and matter with its surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 11,
+    "questionText": "Which equation represents the first law of thermodynamics?",
+    "options": [
+      {
+        "text": "$\\Delta U = q + w$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta U = q - w$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta U = q$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta U = w$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The first law of thermodynamics is represented by the equation $\\Delta U = q + w$, where $\\Delta U$ is the change in internal energy, $q$ is the heat added to the system, and $w$ is the work done on the system.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 12,
+    "questionText": "For a process occurring at constant volume, the work done is:",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a process occurring at constant volume, there is no change in volume, hence the work done is zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 13,
+    "questionText": "In an isothermal process, the change in internal energy of an ideal gas is:",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an isothermal process, the temperature of the system remains constant. For an ideal gas, internal energy is a function of temperature only, so the change in internal energy is zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "HARD"
+  },
+  {
+    "qno": 14,
+    "questionText": "A system is said to be in thermodynamic equilibrium if:",
+    "options": [
+      {
+        "text": "Its macroscopic properties are changing with time",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no net change in its macroscopic properties over time",
+        "isCorrect": true
+      },
+      {
+        "text": "It is isolated from the surroundings",
+        "isCorrect": false
+      },
+      {
+        "text": "It is an open system",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A system is in thermodynamic equilibrium if its macroscopic properties, such as pressure, volume, and temperature, remain constant over time.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 15,
+    "questionText": "For a reversible process, which of the following is true?",
+    "options": [
+      {
+        "text": "The process can be reversed without leaving any trace on the surroundings",
+        "isCorrect": true
+      },
+      {
+        "text": "The process cannot be reversed",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is always spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The process is adiabatic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reversible process is one that can be reversed without leaving any trace on the surroundings. This means that the system and surroundings can be returned to their original states with no net change.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "HARD"
+  },
+  {
+    "qno": 16,
+    "questionText": "The term 'system' in thermodynamics refers to:",
+    "options": [
+      {
+        "text": "The entire universe",
+        "isCorrect": false
+      },
+      {
+        "text": "The part of the universe being studied",
+        "isCorrect": true
+      },
+      {
+        "text": "The surroundings",
+        "isCorrect": false
+      },
+      {
+        "text": "An isolated part of the universe",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In thermodynamics, the 'system' refers to the specific part of the universe that is being studied or observed.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 17,
+    "questionText": "An isolated system is characterized by:",
+    "options": [
+      {
+        "text": "No exchange of energy but exchange of matter with surroundings",
+        "isCorrect": false
+      },
+      {
+        "text": "Exchange of both energy and matter with surroundings",
+        "isCorrect": false
+      },
+      {
+        "text": "No exchange of energy and matter with surroundings",
+        "isCorrect": true
+      },
+      {
+        "text": "Exchange of energy but not matter with surroundings",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An isolated system does not exchange energy or matter with its surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 18,
+    "questionText": "Which of the following processes is non-spontaneous?",
+    "options": [
+      {
+        "text": "Heat flowing from a hot object to a cold object",
+        "isCorrect": false
+      },
+      {
+        "text": "Water flowing downhill",
+        "isCorrect": false
+      },
+      {
+        "text": "A ball rolling uphill",
+        "isCorrect": true
+      },
+      {
+        "text": "A gas expanding into a vacuum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A ball rolling uphill is a non-spontaneous process because it requires external work to be done on the system.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "HARD"
+  },
+  {
+    "qno": 19,
+    "questionText": "The term 'state function' in thermodynamics refers to a property that:",
+    "options": [
+      {
+        "text": "Depends on the path taken to reach that state",
+        "isCorrect": false
+      },
+      {
+        "text": "Depends only on the initial and final states",
+        "isCorrect": true
+      },
+      {
+        "text": "Depends on the amount of work done",
+        "isCorrect": false
+      },
+      {
+        "text": "Is always constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A state function is a property whose value depends only on the initial and final states of the system, not on the path taken to reach that state.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 20,
+    "questionText": "The work done in a cyclic process is:",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal to the net heat added to the system",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "In a cyclic process, the net work done by the system is equal to the net heat added to the system.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "HARD"
+  },
+  {
+    "qno": 21,
+    "questionText": "If the internal energy of a system decreases and no work is done, the heat:",
+    "options": [
+      {
+        "text": "Is absorbed by the system",
+        "isCorrect": false
+      },
+      {
+        "text": "Is released by the system",
+        "isCorrect": true
+      },
+      {
+        "text": "Remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If the internal energy of a system decreases and no work is done, the system must release heat to the surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "HARD"
+  },
+  {
+    "qno": 22,
+    "questionText": "The heat capacity of a system is defined as:",
+    "options": [
+      {
+        "text": "The amount of heat required to change the temperature of the system by 1 degree Celsius",
+        "isCorrect": true
+      },
+      {
+        "text": "The amount of work required to change the temperature of the system by 1 degree Celsius",
+        "isCorrect": false
+      },
+      {
+        "text": "The amount of heat required to change the volume of the system by 1 unit",
+        "isCorrect": false
+      },
+      {
+        "text": "The amount of work required to change the volume of the system by 1 unit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Heat capacity is the amount of heat required to change the temperature of the system by 1 degree Celsius.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 23,
+    "questionText": "An isochoric process is characterized by:",
+    "options": [
+      {
+        "text": "Constant temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Constant pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Constant volume",
+        "isCorrect": true
+      },
+      {
+        "text": "Constant entropy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An isochoric process occurs at constant volume, meaning there is no change in volume.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 24,
+    "questionText": "What is the sign of work done when a gas expands against a constant external pressure?",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": true
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a gas expands against a constant external pressure, it does work on the surroundings, so the work done is negative.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 25,
+    "questionText": "Which of the following is true for a spontaneous process?",
+    "options": [
+      {
+        "text": "It requires external energy input",
+        "isCorrect": false
+      },
+      {
+        "text": "It proceeds without external intervention",
+        "isCorrect": true
+      },
+      {
+        "text": "It always releases heat",
+        "isCorrect": false
+      },
+      {
+        "text": "It is always reversible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A spontaneous process proceeds without external intervention, although it may or may not release heat.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "HARD"
+  },
+  {
+    "qno": 26,
+    "questionText": "Which of the following is a path function?",
+    "options": [
+      {
+        "text": "Internal energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Enthalpy",
+        "isCorrect": false
+      },
+      {
+        "text": "Work",
+        "isCorrect": true
+      },
+      {
+        "text": "Entropy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Work is a path function because it depends on the specific path taken between the initial and final states.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 27,
+    "questionText": "In a thermodynamic system, the surroundings are defined as:",
+    "options": [
+      {
+        "text": "The part of the universe in which observations are made",
+        "isCorrect": false
+      },
+      {
+        "text": "The entire universe except the system",
+        "isCorrect": true
+      },
+      {
+        "text": "The system itself",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The surroundings include everything other than the system itself, essentially the entire universe excluding the system.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 28,
+    "questionText": "For a process at constant pressure, the heat absorbed by the system is equal to:",
+    "options": [
+      {
+        "text": "Change in internal energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Change in enthalpy",
+        "isCorrect": true
+      },
+      {
+        "text": "Work done on the system",
+        "isCorrect": false
+      },
+      {
+        "text": "Change in temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a process at constant pressure, the heat absorbed by the system is equal to the change in enthalpy (ΔH).",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 29,
+    "questionText": "Which of the following best describes an open system?",
+    "options": [
+      {
+        "text": "No exchange of energy or matter with surroundings",
+        "isCorrect": false
+      },
+      {
+        "text": "Exchange of energy but not matter with surroundings",
+        "isCorrect": false
+      },
+      {
+        "text": "Exchange of both energy and matter with surroundings",
+        "isCorrect": true
+      },
+      {
+        "text": "Neither energy nor matter can be exchanged with surroundings",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An open system allows the exchange of both energy and matter with its surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 30,
+    "questionText": "Which of the following is a state function?",
+    "options": [
+      {
+        "text": "Heat",
+        "isCorrect": false
+      },
+      {
+        "text": "Work",
+        "isCorrect": false
+      },
+      {
+        "text": "Internal energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Path",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Internal energy is a state function because its value depends only on the state of the system, not on how it got there.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 31,
+    "questionText": "In an adiabatic process, the work done by the system is equal to:",
+    "options": [
+      {
+        "text": "The change in internal energy",
+        "isCorrect": true
+      },
+      {
+        "text": "The heat added to the system",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "The change in enthalpy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an adiabatic process, there is no heat exchange (q=0), so the work done by the system is equal to the change in internal energy (ΔU).",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "HARD"
+  },
+  {
+    "qno": 32,
+    "questionText": "A thermodynamic process is carried out at constant pressure. Which of the following is true?",
+    "options": [
+      {
+        "text": "ΔU = q",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH = q",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔU = w",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH = w",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At constant pressure, the heat added to the system is equal to the change in enthalpy (ΔH = q).",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 33,
+    "questionText": "In an isothermal process, which of the following remains constant?",
+    "options": [
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Internal energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an isothermal process, the temperature remains constant.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 34,
+    "questionText": "What is the relation between heat (q), work (w), and internal energy (ΔU) in the first law of thermodynamics?",
+    "options": [
+      {
+        "text": "ΔU = q + w",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔU = q - w",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔU = q",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔU = w",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The first law of thermodynamics is expressed as ΔU = q + w, where ΔU is the change in internal energy, q is the heat added to the system, and w is the work done on the system.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 35,
+    "questionText": "During an isochoric process, which of the following quantities is zero?",
+    "options": [
+      {
+        "text": "Change in volume",
+        "isCorrect": true
+      },
+      {
+        "text": "Change in pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Change in temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Change in internal energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "During an isochoric process, the volume remains constant, so the change in volume is zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 36,
+    "questionText": "The change in enthalpy (ΔH) is equal to the heat exchanged at constant:",
+    "options": [
+      {
+        "text": "Volume",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Entropy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The change in enthalpy (ΔH) is equal to the heat exchanged at constant pressure.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 37,
+    "questionText": "Which of the following best describes an isolated system?",
+    "options": [
+      {
+        "text": "No exchange of energy or matter with surroundings",
+        "isCorrect": true
+      },
+      {
+        "text": "Exchange of energy but not matter with surroundings",
+        "isCorrect": false
+      },
+      {
+        "text": "Exchange of both energy and matter with surroundings",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither energy nor matter can be exchanged with surroundings",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An isolated system does not exchange energy or matter with its surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 38,
+    "questionText": "In a reversible process, the system and surroundings are always:",
+    "options": [
+      {
+        "text": "In equilibrium",
+        "isCorrect": true
+      },
+      {
+        "text": "Far from equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "Irreversible",
+        "isCorrect": false
+      },
+      {
+        "text": "Adiabatic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a reversible process, the system and surroundings are always in near-equilibrium states.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "HARD"
+  },
+  {
+    "qno": 39,
+    "questionText": "The first law of thermodynamics is also known as:",
+    "options": [
+      {
+        "text": "The law of conservation of mass",
+        "isCorrect": false
+      },
+      {
+        "text": "The law of conservation of energy",
+        "isCorrect": true
+      },
+      {
+        "text": "The law of entropy",
+        "isCorrect": false
+      },
+      {
+        "text": "The law of constant composition",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The first law of thermodynamics is also known as the law of conservation of energy.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 40,
+    "questionText": "If a system absorbs heat and does work on the surroundings, which of the following is true?",
+    "options": [
+      {
+        "text": "Both q and w are positive",
+        "isCorrect": false
+      },
+      {
+        "text": "q is positive, w is negative",
+        "isCorrect": true
+      },
+      {
+        "text": "q is negative, w is positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Both q and w are negative",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "If a system absorbs heat, q is positive. If the system does work on the surroundings, w is negative.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 41,
+    "questionText": "What is the value of work done in an isothermal expansion of an ideal gas?",
+    "options": [
+      {
+        "text": "$-nRT \\ln \\frac{V_f}{V_i}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$nRT \\ln \\frac{V_f}{V_i}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-nR \\ln \\frac{V_f}{V_i}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$nR \\ln \\frac{V_f}{V_i}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done in an isothermal expansion of an ideal gas is given by $w = -nRT \\ln \\frac{V_f}{V_i}$.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "HARD"
+  },
+  {
+    "qno": 42,
+    "questionText": "The internal energy of an ideal gas depends on:",
+    "options": [
+      {
+        "text": "Pressure only",
+        "isCorrect": false
+      },
+      {
+        "text": "Volume only",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature only",
+        "isCorrect": true
+      },
+      {
+        "text": "Both pressure and volume",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an ideal gas, the internal energy depends only on temperature.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 43,
+    "questionText": "In an exothermic reaction, the enthalpy change (ΔH) is:",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": true
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an exothermic reaction, the enthalpy change (ΔH) is negative because heat is released to the surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 44,
+    "questionText": "In an endothermic reaction, the enthalpy change (ΔH) is:",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": true
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an endothermic reaction, the enthalpy change (ΔH) is positive because heat is absorbed from the surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "EASY"
+  },
+  {
+    "qno": 45,
+    "questionText": "What is the work done in a free expansion process?",
+    "options": [
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a free expansion process, the work done is zero because there is no external pressure to perform work against.",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Terms",
+    "level": "HARD"
+  },
+  {
+    "qno": 46,
+    "questionText": "What is the work done by the gas when 2 moles of an ideal gas expand isothermally and reversibly from 10 L to 20 L at a temperature of 300 K?",
+    "options": [
+      {
+        "text": "$-2.303 \\times 2 \\times 8.314 \\times 300 \\log \\frac{20}{10}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2.303 \\times 2 \\times 8.314 \\times 300 \\log \\frac{20}{10}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-8.314 \\times 300 \\log \\frac{20}{10}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8.314 \\times 300 \\log \\frac{20}{10}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done by the gas during an isothermal, reversible expansion is given by $w = -nRT \\ln \\frac{V_f}{V_i}$. Here, $n = 2$ moles, $R = 8.314 \\text{ J/mol·K}$, $T = 300 \\text{ K}$, $V_i = 10 \\text{ L}$, and $V_f = 20 \\text{ L}$. Therefore, $w = -2.303 \\times 2 \\times 8.314 \\times 300 \\log \\frac{20}{10}$.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 47,
+    "questionText": "In an adiabatic process, the pressure and volume of an ideal gas are related by the equation $PV^\\gamma = \\text{constant}$. What is the value of $\\gamma$ for a monoatomic ideal gas?",
+    "options": [
+      {
+        "text": "1.67",
+        "isCorrect": true
+      },
+      {
+        "text": "1.40",
+        "isCorrect": false
+      },
+      {
+        "text": "1.33",
+        "isCorrect": false
+      },
+      {
+        "text": "1.00",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a monoatomic ideal gas, the value of $\\gamma$ (the adiabatic index) is $\\frac{C_p}{C_v} = \\frac{5/2R}{3/2R} = \\frac{5}{3} = 1.67$.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 68,
+    "questionText": "Which of the following is a direct application of Hess's law?",
+    "options": [
+      {
+        "text": "Calculation of bond enthalpies",
+        "isCorrect": false
+      },
+      {
+        "text": "Determination of lattice energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Determination of enthalpy change for reactions not occurring directly",
+        "isCorrect": true
+      },
+      {
+        "text": "Measurement of specific heat capacity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hess's law states that the total enthalpy change of a reaction is the same, regardless of the pathway taken. It is used to determine the enthalpy change for reactions that cannot be measured directly by breaking them into a series of steps with known enthalpies.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 69,
+    "questionText": "In which of the following processes is work done by the system equal to the change in enthalpy?",
+    "options": [
+      {
+        "text": "Isothermal expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "Adiabatic expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isobaric process",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "In an isobaric process (constant pressure), the work done by the system is equal to the change in enthalpy (ΔH).",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 70,
+    "questionText": "Which of the following processes is used in refrigeration cycles?",
+    "options": [
+      {
+        "text": "Isothermal expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "Adiabatic expansion",
+        "isCorrect": true
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isobaric process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Refrigeration cycles utilize adiabatic expansion to lower the temperature of the refrigerant without heat exchange.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 71,
+    "questionText": "Calculate the work done when 1 mole of an ideal gas is compressed isothermally and reversibly from 20 L to 10 L at 300 K.",
+    "options": [
+      {
+        "text": "$-2.303 \\times 8.314 \\times 300 \\log \\frac{10}{20}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.303 \\times 8.314 \\times 300 \\log \\frac{20}{10}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-8.314 \\times 300 \\log \\frac{10}{20}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8.314 \\times 300 \\log \\frac{20}{10}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done during an isothermal, reversible compression of an ideal gas is given by $w = -nRT \\ln \\frac{V_f}{V_i}$. Here, $n = 1$ mole, $R = 8.314 \\text{J/mol·K}$, $T = 300 \\text{K}$, $V_i = 20 \\text{L}$, and $V_f = 10 \\text{L}$. Therefore, $w = -2.303 \\times 8.314 \\times 300 \\log \\frac{20}{10}$. ",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 72,
+    "questionText": "In which of the following processes is the change in enthalpy equal to the heat absorbed or released?",
+    "options": [
+      {
+        "text": "Isobaric process",
+        "isCorrect": true
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isothermal process",
+        "isCorrect": false
+      },
+      {
+        "text": "Adiabatic process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an isobaric process (constant pressure), the change in enthalpy (ΔH) is equal to the heat absorbed or released (q).",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 73,
+    "questionText": "Determine the entropy change for the isothermal reversible expansion of 1 mole of an ideal gas from 10 L to 20 L at 300 K.",
+    "options": [
+      {
+        "text": "$\\Delta S = 8.314 \\log \\frac{20}{10}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta S = 8.314 \\times \\ln \\frac{20}{10}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta S = -8.314 \\log \\frac{10}{20}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta S = -8.314 \\times \\ln \\frac{10}{20}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The entropy change (ΔS) for an ideal gas undergoing an isothermal reversible expansion is given by $\\Delta S = nR \\ln \\frac{V_f}{V_i}$. Here, $n = 1$ mole, $R = 8.314 \\text{J/mol·K}$, $V_i = 10 \\text{L}$, and $V_f = 20 \\text{L}$. Therefore, $\\Delta S = 8.314 \\times \\ln \\frac{20}{10}$.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 74,
+    "questionText": "In which type of process is the work done by the system dependent only on the initial and final states?",
+    "options": [
+      {
+        "text": "Adiabatic process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isothermal process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Any reversible process",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "In any reversible process, the work done by the system is dependent only on the initial and final states and not on the path taken.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 75,
+    "questionText": "Which of the following statements is true about the efficiency of a Carnot engine?",
+    "options": [
+      {
+        "text": "It depends on the working substance",
+        "isCorrect": false
+      },
+      {
+        "text": "It is independent of the temperatures of the hot and cold reservoirs",
+        "isCorrect": false
+      },
+      {
+        "text": "It is always less than 1",
+        "isCorrect": true
+      },
+      {
+        "text": "It can be greater than 1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The efficiency of a Carnot engine depends only on the temperatures of the hot and cold reservoirs and is always less than 1.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 76,
+    "questionText": "The change in enthalpy for the formation of 1 mole of a substance from its elements in their standard states is defined as:",
+    "options": [
+      {
+        "text": "Standard enthalpy of formation",
+        "isCorrect": true
+      },
+      {
+        "text": "Standard enthalpy of combustion",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard enthalpy of sublimation",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard enthalpy of fusion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard enthalpy of formation is the change in enthalpy for the formation of 1 mole of a substance from its elements in their standard states.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 77,
+    "questionText": "What is the relationship between the internal energy change (ΔU) and enthalpy change (ΔH) for an ideal gas undergoing a process at constant pressure?",
+    "options": [
+      {
+        "text": "$\\Delta H = \\Delta U + P \\Delta V$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta H = \\Delta U - P \\Delta V$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta H = \\Delta U$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta H = P \\Delta V$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an ideal gas undergoing a process at constant pressure, the relationship between the internal energy change (ΔU) and enthalpy change (ΔH) is given by $\\Delta H = \\Delta U + P \\Delta V$.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 78,
+    "questionText": "Which of the following processes involves the maximum entropy change?",
+    "options": [
+      {
+        "text": "Isothermal expansion of an ideal gas",
+        "isCorrect": true
+      },
+      {
+        "text": "Adiabatic expansion of an ideal gas",
+        "isCorrect": false
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isobaric process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isothermal expansion of an ideal gas involves the maximum entropy change because there is heat exchange with the surroundings at constant temperature.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 79,
+    "questionText": "Calculate the work done by 2 moles of an ideal gas during an isothermal reversible compression from 40 L to 20 L at 300 K.",
+    "options": [
+      {
+        "text": "$-2.303 \\times 2 \\times 8.314 \\times 300 \\log \\frac{20}{40}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2.303 \\times 2 \\times 8.314 \\times 300 \\log \\frac{40}{20}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-8.314 \\times 2 \\times 300 \\log \\frac{20}{40}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8.314 \\times 2 \\times 300 \\log \\frac{40}{20}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done during an isothermal, reversible compression of an ideal gas is given by $w = -nRT \\ln \\frac{V_f}{V_i}$. Here, $n = 2$ moles, $R = 8.314 \\text{J/mol·K}$, $T = 300 \\text{K}$, $V_i = 40 \\text{L}$, and $V_f = 20 \\text{L}$. Therefore, $w = -2.303 \\times 2 \\times 8.314 \\times 300 \\log \\frac{40}{20}$. ",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 80,
+    "questionText": "In a Carnot engine, the efficiency depends on which of the following factors?",
+    "options": [
+      {
+        "text": "The working substance",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature of the hot and cold reservoirs",
+        "isCorrect": true
+      },
+      {
+        "text": "The specific heat capacities of the reservoirs",
+        "isCorrect": false
+      },
+      {
+        "text": "The initial and final volumes of the working substance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The efficiency of a Carnot engine depends only on the temperatures of the hot and cold reservoirs, not on the working substance or specific heat capacities.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 81,
+    "questionText": "Which of the following is an example of an isochoric process?",
+    "options": [
+      {
+        "text": "Heating a gas in a sealed, rigid container",
+        "isCorrect": true
+      },
+      {
+        "text": "Expansion of a gas in a piston",
+        "isCorrect": false
+      },
+      {
+        "text": "Compression of a gas in a cylinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Boiling of water at constant pressure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Heating a gas in a sealed, rigid container is an example of an isochoric process where the volume remains constant.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 82,
+    "questionText": "Determine the entropy change for the isothermal reversible compression of 1 mole of an ideal gas from 20 L to 10 L at 300 K.",
+    "options": [
+      {
+        "text": "$\\Delta S = 8.314 \\log \\frac{10}{20}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta S = 8.314 \\times \\ln \\frac{10}{20}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta S = -8.314 \\log \\frac{20}{10}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta S = -8.314 \\times \\ln \\frac{20}{10}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The entropy change (ΔS) for an ideal gas undergoing an isothermal reversible compression is given by $\\Delta S = nR \\ln \\frac{V_f}{V_i}$. Here, $n = 1$ mole, $R = 8.314 \\text{J/mol·K}$, $V_i = 20 \\text{L}$, and $V_f = 10 \\text{L}$. Therefore, $\\Delta S = 8.314 \\times \\ln \\frac{10}{20}$.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 83,
+    "questionText": "Which of the following processes results in the maximum work done by an ideal gas?",
+    "options": [
+      {
+        "text": "Adiabatic expansion",
+        "isCorrect": false
+      },
+      {
+        "text": "Isothermal expansion",
+        "isCorrect": true
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isobaric process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isothermal expansion of an ideal gas results in the maximum work done because the temperature remains constant, allowing the gas to do work on the surroundings as it expands.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 84,
+    "questionText": "The change in enthalpy (ΔH) for an isothermal process involving an ideal gas is:",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an isothermal process involving an ideal gas, the change in enthalpy (ΔH) is zero because the temperature remains constant and enthalpy is a function of temperature.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 85,
+    "questionText": "Which of the following statements is true for an adiabatic process?",
+    "options": [
+      {
+        "text": "No heat is exchanged with the surroundings",
+        "isCorrect": true
+      },
+      {
+        "text": "Heat is exchanged with the surroundings",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "The pressure remains constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an adiabatic process, there is no heat exchange with the surroundings ($q = 0$).",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 86,
+    "questionText": "Calculate the change in internal energy (ΔU) for a system that absorbs 1500 J of heat and does 500 J of work on the surroundings.",
+    "options": [
+      {
+        "text": "1000 J",
+        "isCorrect": true
+      },
+      {
+        "text": "2000 J",
+        "isCorrect": false
+      },
+      {
+        "text": "500 J",
+        "isCorrect": false
+      },
+      {
+        "text": "1500 J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the first law of thermodynamics, $\\Delta U = q + w$. Here, $q = 1500 \\text{J}$ and $w = -500 \\text{J}$ (work done on the surroundings is negative). Therefore, $\\Delta U = 1500 - 500 = 1000 \\text{J}$. ",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 87,
+    "questionText": "The change in Gibbs free energy (ΔG) for a reaction is zero at:",
+    "options": [
+      {
+        "text": "Equilibrium",
+        "isCorrect": true
+      },
+      {
+        "text": "The start of the reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "The end of the reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, the change in Gibbs free energy ($\\Delta G$) for a reaction is zero, indicating no net change in the system's free energy.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 88,
+    "questionText": "The standard enthalpy change for a reaction is given by:",
+    "options": [
+      {
+        "text": "$\\Delta H^\\circ = \\Sigma \\Delta H^\\circ_f (\\text{products}) - \\Sigma \\Delta H^\\circ_f (\\text{reactants})$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta H^\\circ = \\Sigma \\Delta H^\\circ_f (\\text{reactants}) - \\Sigma \\Delta H^\\circ_f (\\text{products})$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta H^\\circ = \\Sigma \\Delta H^\\circ_f (\\text{products}) + \\Sigma \\Delta H^\\circ_f (\\text{reactants})$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta H^\\circ = \\Sigma \\Delta H^\\circ_f (\\text{reactants}) / \\Sigma \\Delta H^\\circ_f (\\text{products})$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard enthalpy change for a reaction is calculated using the equation $\\Delta H^\\circ = \\Sigma \\Delta H^\\circ_f (\\text{products}) - \\Sigma \\Delta H^\\circ_f (\\text{reactants})$.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "EASY"
+  },
+  {
+    "qno": 89,
+    "questionText": "Which of the following processes is characterized by $q = 0$?",
+    "options": [
+      {
+        "text": "Adiabatic process",
+        "isCorrect": true
+      },
+      {
+        "text": "Isothermal process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isobaric process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An adiabatic process is characterized by $q = 0$, meaning there is no heat exchange with the surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 91,
+    "questionText": "Calculate the change in internal energy (ΔU) for a system that absorbs 1200 J of heat and does 500 J of work on the surroundings.",
+    "options": [
+      {
+        "text": "700 J",
+        "isCorrect": true
+      },
+      {
+        "text": "1700 J",
+        "isCorrect": false
+      },
+      {
+        "text": "500 J",
+        "isCorrect": false
+      },
+      {
+        "text": "1200 J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the first law of thermodynamics, $\\Delta U = q + w$. Here, $q = 1200 \\text{J}$ and $w = -500 \\text{J}$ (work done on the surroundings is negative). Therefore, $\\Delta U = 1200 - 500 = 700 \\text{J}$. ",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 92,
+    "questionText": "In which type of process does the internal energy of an ideal gas remain constant?",
+    "options": [
+      {
+        "text": "Isothermal process",
+        "isCorrect": true
+      },
+      {
+        "text": "Adiabatic process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isobaric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an isothermal process, the temperature of the gas remains constant, and for an ideal gas, internal energy is a function of temperature only. Therefore, the internal energy remains constant.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "EASY"
+  },
+  {
+    "qno": 93,
+    "questionText": "The change in internal energy (ΔU) for an ideal gas undergoing an isothermal process is:",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an ideal gas undergoing an isothermal process, the change in internal energy (ΔU) is zero because internal energy is a function of temperature only, and temperature remains constant.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 96,
+    "questionText": "The efficiency of a Carnot engine depends on which of the following factors?",
+    "options": [
+      {
+        "text": "The working substance",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature of the hot and cold reservoirs",
+        "isCorrect": true
+      },
+      {
+        "text": "The specific heat capacities of the reservoirs",
+        "isCorrect": false
+      },
+      {
+        "text": "The initial and final volumes of the working substance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The efficiency of a Carnot engine depends only on the temperatures of the hot and cold reservoirs, not on the working substance or specific heat capacities.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 98,
+    "questionText": "Calculate the change in Gibbs free energy (ΔG) for a reaction at 298 K if the enthalpy change (ΔH) is -200 kJ and the entropy change (ΔS) is -300 J/K.",
+    "options": [
+      {
+        "text": "$\\Delta G = -110 \\text{kJ}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G = -80 \\text{kJ}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G = -290 \\text{kJ}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G = 90 \\text{kJ}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The change in Gibbs free energy is given by $\\Delta G = \\Delta H - T\\Delta S$. Substituting the given values, $\\Delta G = -200 \\text{kJ} - (298 \\text{K} \\times -300 \\text{J/K}) = -200 \\text{kJ} + 89.4 \\text{kJ} = -110.6 \\text{kJ} \\approx -110 \\text{kJ}$.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 104,
+    "questionText": "Calculate the change in Gibbs free energy (ΔG) for a reaction at 298 K if the enthalpy change (ΔH) is -100 kJ and the entropy change (ΔS) is -200 J/K.",
+    "options": [
+      {
+        "text": "$\\Delta G = -40 \\text{kJ}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta G = -160 \\text{kJ}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G = 40 \\text{kJ}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta G = 160 \\text{kJ}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The change in Gibbs free energy is given by $\\Delta G = \\Delta H - T\\Delta S$. Substituting the given values, $\\Delta G = -100 \\text{kJ} - (298 \\text{K} \\times -200 \\text{J/K}) = -100 \\text{kJ} + 59.6 \\text{kJ} = -40.4 \\text{kJ} \\approx -40 \\text{kJ}$.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 107,
+    "questionText": "For a process occurring at constant volume, the heat added to the system is equal to:",
+    "options": [
+      {
+        "text": "Change in internal energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Change in enthalpy",
+        "isCorrect": false
+      },
+      {
+        "text": "Work done on the system",
+        "isCorrect": false
+      },
+      {
+        "text": "Change in temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a process at constant volume, the heat added to the system is equal to the change in internal energy (ΔU).",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 108,
+    "questionText": "Which of the following statements is true for an isochoric process?",
+    "options": [
+      {
+        "text": "The volume remains constant",
+        "isCorrect": true
+      },
+      {
+        "text": "The pressure remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "The enthalpy remains constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An isochoric process occurs at constant volume, meaning there is no change in volume.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "EASY"
+  },
+  {
+    "qno": 109,
+    "questionText": "The internal energy change for an ideal gas undergoing a process is given by:",
+    "options": [
+      {
+        "text": "ΔU = nCvΔT",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔU = nCpΔT",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔU = nRTΔT",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔU = nCvT",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an ideal gas, the change in internal energy (ΔU) is given by ΔU = nCvΔT, where Cv is the molar heat capacity at constant volume.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 110,
+    "questionText": "Which of the following processes is characterized by q = 0?",
+    "options": [
+      {
+        "text": "Adiabatic process",
+        "isCorrect": true
+      },
+      {
+        "text": "Isothermal process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isobaric process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An adiabatic process is characterized by q = 0, meaning there is no heat exchange with the surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 111,
+    "questionText": "For a process at constant volume, the heat added to the system is equal to:",
+    "options": [
+      {
+        "text": "Change in internal energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Change in enthalpy",
+        "isCorrect": false
+      },
+      {
+        "text": "Work done on the system",
+        "isCorrect": false
+      },
+      {
+        "text": "Change in temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a process at constant volume, the heat added to the system is equal to the change in internal energy (ΔU).",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 112,
+    "questionText": "What is the entropy change (ΔS) for an ideal gas undergoing an isothermal expansion from volume Vi to volume Vf?",
+    "options": [
+      {
+        "text": "$\\Delta S = nR \\ln \\frac{V_f}{V_i}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta S = -nR \\ln \\frac{V_f}{V_i}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta S = nR \\ln \\frac{V_i}{V_f}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta S = -nR \\ln \\frac{V_i}{V_f}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The entropy change (ΔS) for an ideal gas undergoing an isothermal expansion is given by $\\Delta S = nR \\ln \\frac{V_f}{V_i}$.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "HARD"
+  },
+  {
+    "qno": 113,
+    "questionText": "The change in internal energy of a system is zero in which of the following processes?",
+    "options": [
+      {
+        "text": "Cyclic process",
+        "isCorrect": true
+      },
+      {
+        "text": "Isothermal process",
+        "isCorrect": false
+      },
+      {
+        "text": "Adiabatic process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a cyclic process, the system returns to its initial state, so the change in internal energy (ΔU) is zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "EASY"
+  },
+  {
+    "qno": 114,
+    "questionText": "Which of the following processes occurs at constant volume?",
+    "options": [
+      {
+        "text": "Isochoric process",
+        "isCorrect": true
+      },
+      {
+        "text": "Isobaric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isothermal process",
+        "isCorrect": false
+      },
+      {
+        "text": "Adiabatic process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An isochoric process occurs at constant volume, meaning there is no change in volume.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "EASY"
+  },
+  {
+    "qno": 115,
+    "questionText": "Which of the following statements is true for a process occurring at constant volume?",
+    "options": [
+      {
+        "text": "The work done is zero",
+        "isCorrect": true
+      },
+      {
+        "text": "The heat added equals the change in internal energy",
+        "isCorrect": true
+      },
+      {
+        "text": "The enthalpy change equals the heat added",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature remains constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a process at constant volume, the work done is zero and the heat added to the system equals the change in internal energy.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 116,
+    "questionText": "In an isothermal expansion of an ideal gas, which of the following statements is true?",
+    "options": [
+      {
+        "text": "The internal energy remains constant",
+        "isCorrect": true
+      },
+      {
+        "text": "The internal energy increases",
+        "isCorrect": false
+      },
+      {
+        "text": "The internal energy decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature changes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an isothermal process, the temperature of the gas remains constant. For an ideal gas, internal energy is a function of temperature only, so the internal energy remains constant.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "EASY"
+  },
+  {
+    "qno": 117,
+    "questionText": "Which of the following best describes a spontaneous process?",
+    "options": [
+      {
+        "text": "A process that occurs without external intervention",
+        "isCorrect": true
+      },
+      {
+        "text": "A process that requires external energy input",
+        "isCorrect": false
+      },
+      {
+        "text": "A process that always releases heat",
+        "isCorrect": false
+      },
+      {
+        "text": "A process that is always reversible",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A spontaneous process occurs without external intervention, although it may or may not release heat.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 119,
+    "questionText": "In a cyclic process, the change in internal energy (ΔU) is:",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a cyclic process, the system returns to its initial state, so the change in internal energy (ΔU) is zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "EASY"
+  },
+  {
+    "qno": 121,
+    "questionText": "What is the enthalpy change (ΔH) for a reaction if the internal energy change (ΔU) is 50 kJ and the system does 10 kJ of work on the surroundings?",
+    "options": [
+      {
+        "text": "60 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "40 kJ",
+        "isCorrect": true
+      },
+      {
+        "text": "50 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "10 kJ",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction, ΔH = ΔU + PΔV. Since the system does work on the surroundings, work done (w) is -10 kJ. Therefore, ΔH = ΔU - w = 50 kJ - 10 kJ = 40 kJ.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 122,
+    "questionText": "Which of the following processes occurs at constant pressure?",
+    "options": [
+      {
+        "text": "Isobaric process",
+        "isCorrect": true
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isothermal process",
+        "isCorrect": false
+      },
+      {
+        "text": "Adiabatic process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An isobaric process occurs at constant pressure.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "EASY"
+  },
+  {
+    "qno": 123,
+    "questionText": "The entropy change for a system undergoing an isothermal reversible expansion can be expressed as:",
+    "options": [
+      {
+        "text": "$\\Delta S = nR \\ln \\frac{V_f}{V_i}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta S = -nR \\ln \\frac{V_f}{V_i}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta S = nR \\ln \\frac{V_i}{V_f}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta S = -nR \\ln \\frac{V_i}{V_f}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The entropy change (ΔS) for an ideal gas undergoing an isothermal reversible expansion is given by $\\Delta S = nR \\ln \\frac{V_f}{V_i}$.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "HARD"
+  },
+  {
+    "qno": 124,
+    "questionText": "In which of the following processes is the work done by the system zero?",
+    "options": [
+      {
+        "text": "Isochoric process",
+        "isCorrect": true
+      },
+      {
+        "text": "Isobaric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isothermal process",
+        "isCorrect": false
+      },
+      {
+        "text": "Adiabatic process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an isochoric process, the volume remains constant, so no work is done by the system (w = 0).",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 125,
+    "questionText": "Which of the following is true for a spontaneous process?",
+    "options": [
+      {
+        "text": "ΔS > 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔS < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔS = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔS is undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A spontaneous process is characterized by an increase in entropy (ΔS > 0), indicating an increase in disorder.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 126,
+    "questionText": "Calculate the change in Gibbs free energy (ΔG) for a reaction at 298 K if the enthalpy change (ΔH) is -100 kJ and the entropy change (ΔS) is -200 J/K.",
+    "options": [
+      {
+        "text": "ΔG = -40 kJ",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG = -160 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = 40 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = 160 kJ",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The change in Gibbs free energy is given by ΔG = ΔH - TΔS. Substituting the given values, ΔG = -100 kJ - (298 K × -200 J/K) = -100 kJ + 59.6 kJ = -40.4 kJ ≈ -40 kJ.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 127,
+    "questionText": "Which of the following quantities is always positive for a spontaneous process?",
+    "options": [
+      {
+        "text": "Entropy change (ΔS)",
+        "isCorrect": true
+      },
+      {
+        "text": "Enthalpy change (ΔH)",
+        "isCorrect": false
+      },
+      {
+        "text": "Gibbs free energy change (ΔG)",
+        "isCorrect": false
+      },
+      {
+        "text": "Work done (w)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a spontaneous process, the entropy change (ΔS) is always positive, indicating an increase in disorder.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 129,
+    "questionText": "The standard enthalpy change for a reaction is given by:",
+    "options": [
+      {
+        "text": "ΔH° = ΣΔH°f(products) - ΣΔH°f(reactants)",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔH° = ΣΔH°f(reactants) - ΣΔH°f(products)",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH° = ΣΔH°f(products) + ΣΔH°f(reactants)",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH° = ΣΔH°f(reactants) / ΣΔH°f(products)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard enthalpy change for a reaction is calculated using the equation ΔH° = ΣΔH°f(products) - ΣΔH°f(reactants).",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "EASY"
+  },
+  {
+    "qno": 131,
+    "questionText": "Which of the following statements is true for a spontaneous process?",
+    "options": [
+      {
+        "text": "ΔS > 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔS < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔS = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔS is undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A spontaneous process is characterized by an increase in entropy (ΔS > 0), indicating an increase in disorder.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 132,
+    "questionText": "Calculate the work done when 1 mole of an ideal gas expands isothermally and reversibly from 10 L to 20 L at a temperature of 300 K.",
+    "options": [
+      {
+        "text": "$-2.303 \\times 8.314 \\times 300 \\log \\frac{20}{10}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2.303 \\times 8.314 \\times 300 \\log \\frac{20}{10}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-8.314 \\times 300 \\log \\frac{20}{10}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8.314 \\times 300 \\log \\frac{20}{10}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done during an isothermal, reversible expansion of an ideal gas is given by w = -nRT ln(Vf/Vi). Here, n = 1 mole, R = 8.314 J/mol·K, T = 300 K, Vi = 10 L, and Vf = 20 L. Therefore, w = -2.303 × 8.314 × 300 log(20/10).",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 133,
+    "questionText": "What is the enthalpy change when 1 mole of water is heated from 25°C to 100°C under constant pressure? (Specific heat capacity of water = 4.18 J/g·°C)",
+    "options": [
+      {
+        "text": "313.5 J",
+        "isCorrect": false
+      },
+      {
+        "text": "75.3 kJ",
+        "isCorrect": true
+      },
+      {
+        "text": "4180 J",
+        "isCorrect": false
+      },
+      {
+        "text": "100 kJ",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The enthalpy change, q = mCΔT. For 1 mole of water (18 g), q = 18 × 4.18 × (100 - 25) = 18 × 4.18 × 75 = 75.3 kJ.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 136,
+    "questionText": "Calculate the work done by 3 moles of an ideal gas expanding isothermally and reversibly from 10 L to 20 L at a temperature of 400 K.",
+    "options": [
+      {
+        "text": "$-2.303 \\times 3 \\times 8.314 \\times 400 \\log \\frac{20}{10}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2.303 \\times 3 \\times 8.314 \\times 400 \\log \\frac{20}{10}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-8.314 \\times 3 \\times 400 \\log \\frac{20}{10}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8.314 \\times 3 \\times 400 \\log \\frac{20}{10}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done during an isothermal, reversible expansion of an ideal gas is given by $w = -nRT \\ln \\frac{V_f}{V_i}$. Here, $n = 3$ moles, $R = 8.314 \\text{J/mol·K}$, $T = 400 \\text{K}$, $V_i = 10 \\text{L}$, and $V_f = 20 \\text{L}$. Therefore, $w = -2.303 \\times 3 \\times 8.314 \\times 400 \\log \\frac{20}{10}$. ",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "HARD"
+  },
+  {
+    "qno": 137,
+    "questionText": "Determine the change in internal energy (ΔU) for an ideal gas that absorbs 500 J of heat while performing 200 J of work.",
+    "options": [
+      {
+        "text": "300 J",
+        "isCorrect": true
+      },
+      {
+        "text": "700 J",
+        "isCorrect": false
+      },
+      {
+        "text": "200 J",
+        "isCorrect": false
+      },
+      {
+        "text": "500 J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the first law of thermodynamics, ΔU = q + w. Here, q = 500 J and w = -200 J (work done by the system is negative). Therefore, ΔU = 500 - 200 = 300 J.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 138,
+    "questionText": "Calculate the change in internal energy (ΔU) when 2 moles of an ideal gas are heated from 300 K to 600 K at constant volume, given Cv,m = 20 J/mol·K.",
+    "options": [
+      {
+        "text": "12000 J",
+        "isCorrect": true
+      },
+      {
+        "text": "6000 J",
+        "isCorrect": false
+      },
+      {
+        "text": "4000 J",
+        "isCorrect": false
+      },
+      {
+        "text": "2000 J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an ideal gas, ΔU = nCv,mΔT. Here, n = 2 moles, Cv,m = 20 J/mol·K, and ΔT = 600 K - 300 K = 300 K. Therefore, ΔU = 2 × 20 × 300 = 12000 J.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "HARD"
+  },
+  {
+    "qno": 139,
+    "questionText": "The heat capacity at constant pressure (Cp) and at constant volume (Cv) for an ideal gas are related by:",
+    "options": [
+      {
+        "text": "Cp = Cv + R",
+        "isCorrect": true
+      },
+      {
+        "text": "Cp = Cv - R",
+        "isCorrect": false
+      },
+      {
+        "text": "Cp = Cv",
+        "isCorrect": false
+      },
+      {
+        "text": "Cp = Cv / R",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an ideal gas, Cp = Cv + R, where Cp is the heat capacity at constant pressure and Cv is the heat capacity at constant volume.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 140,
+    "questionText": "The standard enthalpy change for the formation of one mole of CO2(g) from its elements is:",
+    "options": [
+      {
+        "text": "ΔH°f = -393.5 kJ/mol",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔH°f = +393.5 kJ/mol",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH°f = 0 kJ/mol",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH°f = -241.8 kJ/mol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard enthalpy of formation of CO2(g) from its elements (C and O2) is ΔH°f = -393.5 kJ/mol.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "EASY"
+  },
+  {
+    "qno": 143,
+    "questionText": "Which of the following processes involves no change in the internal energy of an ideal gas?",
+    "options": [
+      {
+        "text": "Isothermal process",
+        "isCorrect": true
+      },
+      {
+        "text": "Adiabatic process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isobaric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an isothermal process, the temperature of the gas remains constant, and for an ideal gas, internal energy is a function of temperature only. Therefore, the internal energy remains constant.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 144,
+    "questionText": "Determine the change in internal energy (ΔU) for 2 moles of an ideal gas heated from 300 K to 400 K at constant volume, given Cv,m = 25 J/mol·K.",
+    "options": [
+      {
+        "text": "5000 J",
+        "isCorrect": true
+      },
+      {
+        "text": "2500 J",
+        "isCorrect": false
+      },
+      {
+        "text": "1000 J",
+        "isCorrect": false
+      },
+      {
+        "text": "7500 J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an ideal gas, ΔU = nCv,mΔT. Here, n = 2 moles, Cv,m = 25 J/mol·K, and ΔT = 400 K - 300 K = 100 K. Therefore, ΔU = 2 × 25 × 100 = 5000 J.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "HARD"
+  },
+  {
+    "qno": 145,
+    "questionText": "Which of the following processes is characterized by ΔH = q?",
+    "options": [
+      {
+        "text": "Isobaric process",
+        "isCorrect": true
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isothermal process",
+        "isCorrect": false
+      },
+      {
+        "text": "Adiabatic process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an isobaric process (constant pressure), the change in enthalpy (ΔH) is equal to the heat added to the system (q).",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "EASY"
+  },
+  {
+    "qno": 148,
+    "questionText": "Calculate the work done when 2 moles of an ideal gas expands isothermally and reversibly from 5 L to 15 L at 300 K.",
+    "options": [
+      {
+        "text": "$-2.303 \\times 2 \\times 8.314 \\times 300 \\log \\frac{15}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2.303 \\times 2 \\times 8.314 \\times 300 \\log \\frac{15}{5}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-8.314 \\times 2 \\times 300 \\log \\frac{15}{5}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8.314 \\times 2 \\times 300 \\log \\frac{15}{5}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done during an isothermal, reversible expansion of an ideal gas is given by $w = -nRT \\ln \\frac{V_f}{V_i}$. Here, $n = 2$ moles, $R = 8.314 \\text{J/mol·K}$, $T = 300 \\text{K}$, $V_i = 5 \\text{L}$, and $V_f = 15 \\text{L}$. Therefore, $w = -2.303 \\times 2 \\times 8.314 \\times 300 \\log \\frac{15}{5}$. ",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "HARD"
+  },
+  {
+    "qno": 149,
+    "questionText": "Which of the following statements is true for a process at constant volume?",
+    "options": [
+      {
+        "text": "The work done is zero",
+        "isCorrect": true
+      },
+      {
+        "text": "The heat added equals the change in internal energy",
+        "isCorrect": true
+      },
+      {
+        "text": "The enthalpy change equals the heat added",
+        "isCorrect": false
+      },
+      {
+        "text": "The temperature remains constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a process at constant volume, the work done is zero and the heat added to the system equals the change in internal energy.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 150,
+    "questionText": "Determine the change in internal energy (ΔU) for 1 mole of an ideal gas heated from 300 K to 500 K at constant volume, given Cv,m = 25 J/mol·K.",
+    "options": [
+      {
+        "text": "5000 J",
+        "isCorrect": true
+      },
+      {
+        "text": "2500 J",
+        "isCorrect": false
+      },
+      {
+        "text": "1000 J",
+        "isCorrect": false
+      },
+      {
+        "text": "7500 J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an ideal gas, ΔU = nCv,mΔT. Here, n = 1 mole, Cv,m = 25 J/mol·K, and ΔT = 500 K - 300 K = 200 K. Therefore, ΔU = 1 × 25 × 200 = 5000 J.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "HARD"
+  },
+  {
+    "qno": 151,
+    "questionText": "Calculate the work done by 1 mole of an ideal gas during an isothermal reversible expansion from 10 L to 30 L at 300 K.",
+    "options": [
+      {
+        "text": "$-2.303 \\times 8.314 \\times 300 \\log \\frac{30}{10}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2.303 \\times 8.314 \\times 300 \\log \\frac{30}{10}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-8.314 \\times 300 \\log \\frac{30}{10}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8.314 \\times 300 \\log \\frac{30}{10}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done during an isothermal, reversible expansion of an ideal gas is given by $w = -nRT \\ln \\frac{V_f}{V_i}$. Here, $n = 1$ mole, $R = 8.314 \\text{J/mol·K}$, $T = 300 \\text{K}$, $V_i = 10 \\text{L}$, and $V_f = 30 \\text{L}$. Therefore, $w = -2.303 \\times 8.314 \\times 300 \\log \\frac{30}{10}$. ",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "HARD"
+  },
+  {
+    "qno": 152,
+    "questionText": "Which of the following quantities is zero in a cyclic process?",
+    "options": [
+      {
+        "text": "Change in internal energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Heat",
+        "isCorrect": false
+      },
+      {
+        "text": "Work",
+        "isCorrect": false
+      },
+      {
+        "text": "Change in enthalpy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In a cyclic process, the system returns to its initial state, so the change in internal energy (ΔU) is zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "EASY"
+  },
+  {
+    "qno": 154,
+    "questionText": "Determine the change in internal energy (ΔU) for 2 moles of an ideal gas heated from 300 K to 600 K at constant volume, given Cv,m = 20 J/mol·K.",
+    "options": [
+      {
+        "text": "12000 J",
+        "isCorrect": true
+      },
+      {
+        "text": "6000 J",
+        "isCorrect": false
+      },
+      {
+        "text": "4000 J",
+        "isCorrect": false
+      },
+      {
+        "text": "2000 J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an ideal gas, ΔU = nCv,mΔT. Here, n = 2 moles, Cv,m = 20 J/mol·K, and ΔT = 600 K - 300 K = 300 K. Therefore, ΔU = 2 × 20 × 300 = 12000 J.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "HARD"
+  },
+  {
+    "qno": 156,
+    "questionText": "Calculate the work done by 1 mole of an ideal gas expanding isothermally and reversibly from 5 L to 15 L at 300 K.",
+    "options": [
+      {
+        "text": "$-2.303 \\times 8.314 \\times 300 \\log \\frac{15}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2.303 \\times 8.314 \\times 300 \\log \\frac{15}{5}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-8.314 \\times 300 \\log \\frac{15}{5}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8.314 \\times 300 \\log \\frac{15}{5}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done during an isothermal, reversible expansion of an ideal gas is given by $w = -nRT \\ln \\frac{V_f}{V_i}$. Here, $n = 1$ mole, $R = 8.314 \\text{J/mol·K}$, $T = 300 \\text{K}$, $V_i = 5 \\text{L}$, and $V_f = 15 \\text{L}$. Therefore, $w = -2.303 \\times 8.314 \\times 300 \\log \\frac{15}{5}$. ",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "HARD"
+  },
+  {
+    "qno": 161,
+    "questionText": "Calculate the enthalpy change (ΔH) for the combustion of methane (CH4) given the bond enthalpies: C-H = 414 kJ/mol, O=O = 498 kJ/mol, C=O = 799 kJ/mol, and O-H = 463 kJ/mol.",
+    "options": [
+      {
+        "text": "-890 kJ/mol",
+        "isCorrect": true
+      },
+      {
+        "text": "-1260 kJ/mol",
+        "isCorrect": false
+      },
+      {
+        "text": "-483 kJ/mol",
+        "isCorrect": false
+      },
+      {
+        "text": "-1200 kJ/mol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The combustion reaction is CH4 + 2O2 → CO2 + 2H2O. Using the bond enthalpies, ΔH = [4(C-H) + 2(O=O)] - [2(C=O) + 4(O-H)] = [4(414) + 2(498)] - [2(799) + 4(463)] = -890 kJ/mol.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "HARD"
+  },
+  {
+    "qno": 165,
+    "questionText": "The standard enthalpy of formation (ΔH°f) of an element in its standard state is:",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard enthalpy of formation (ΔH°f) of an element in its standard state is defined as zero.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "EASY"
+  },
+  {
+    "qno": 168,
+    "questionText": "For a process at constant pressure, the heat added to the system is equal to:",
+    "options": [
+      {
+        "text": "Change in enthalpy",
+        "isCorrect": true
+      },
+      {
+        "text": "Change in internal energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Work done on the system",
+        "isCorrect": false
+      },
+      {
+        "text": "Change in temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a process at constant pressure, the heat added to the system is equal to the change in enthalpy (ΔH).",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "EASY"
+  },
+  {
+    "qno": 170,
+    "questionText": "The enthalpy change for a reaction is independent of the:",
+    "options": [
+      {
+        "text": "Path by which the reaction is carried out",
+        "isCorrect": true
+      },
+      {
+        "text": "State of reactants and products",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Enthalpy change is a state function, meaning it is independent of the path by which the reaction is carried out. It depends only on the initial and final states of the system.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 171,
+    "questionText": "Calculate the change in internal energy (ΔU) for a system that absorbs 1000 J of heat and does 400 J of work on the surroundings.",
+    "options": [
+      {
+        "text": "600 J",
+        "isCorrect": true
+      },
+      {
+        "text": "1400 J",
+        "isCorrect": false
+      },
+      {
+        "text": "400 J",
+        "isCorrect": false
+      },
+      {
+        "text": "1000 J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the first law of thermodynamics, ΔU = q + w. Here, q = 1000 J and w = -400 J (work done on the surroundings is negative). Therefore, ΔU = 1000 - 400 = 600 J.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 176,
+    "questionText": "Which of the following statements is true for a process at constant pressure?",
+    "options": [
+      {
+        "text": "ΔH = q",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔU = q",
+        "isCorrect": false
+      },
+      {
+        "text": "w = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH = 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an isobaric process (constant pressure), the change in enthalpy (ΔH) is equal to the heat added to the system (q).",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "EASY"
+  },
+  {
+    "qno": 181,
+    "questionText": "Calculate the change in Gibbs free energy (ΔG) for a reaction at 298 K if the enthalpy change (ΔH) is -200 kJ and the entropy change (ΔS) is -300 J/K.",
+    "options": [
+      {
+        "text": "ΔG = -110 kJ",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG = -80 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = -290 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = 90 kJ",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The change in Gibbs free energy is given by ΔG = ΔH - TΔS. Substituting the given values, ΔG = -200 kJ - (298 K × -300 J/K) = -200 kJ + 89.4 kJ = -110.6 kJ ≈ -110 kJ.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 183,
+    "questionText": "Which of the following statements is true regarding the enthalpy change (ΔH) of a reaction?",
+    "options": [
+      {
+        "text": "ΔH is positive for exothermic reactions",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH is negative for exothermic reactions",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔH is zero for all reactions",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH is always positive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The enthalpy change (ΔH) is negative for exothermic reactions because heat is released to the surroundings.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "EASY"
+  },
+  {
+    "qno": 184,
+    "questionText": "Calculate the standard enthalpy change for the reaction: N2(g) + 3 H2(g) → 2 NH3(g) given ΔH°f [NH3(g)] = -46 kJ/mol.",
+    "options": [
+      {
+        "text": "-92 kJ",
+        "isCorrect": true
+      },
+      {
+        "text": "46 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "-46 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "92 kJ",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard enthalpy change for the formation of 2 moles of NH3 is 2 × (-46 kJ/mol) = -92 kJ.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 185,
+    "questionText": "Which of the following factors affects the enthalpy change of a chemical reaction?",
+    "options": [
+      {
+        "text": "Temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": true
+      },
+      {
+        "text": "Physical state of reactants and products",
+        "isCorrect": true
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The enthalpy change of a chemical reaction is affected by temperature, pressure, and the physical state of the reactants and products.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 186,
+    "questionText": "The enthalpy change for a reaction in which bonds are broken in the reactants and new bonds are formed in the products is called:",
+    "options": [
+      {
+        "text": "Bond enthalpy",
+        "isCorrect": false
+      },
+      {
+        "text": "Reaction enthalpy",
+        "isCorrect": true
+      },
+      {
+        "text": "Formation enthalpy",
+        "isCorrect": false
+      },
+      {
+        "text": "Combustion enthalpy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The enthalpy change for a reaction involving the breaking and forming of bonds is called reaction enthalpy.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 187,
+    "questionText": "Which of the following is a state function?",
+    "options": [
+      {
+        "text": "Heat (q)",
+        "isCorrect": false
+      },
+      {
+        "text": "Work (w)",
+        "isCorrect": false
+      },
+      {
+        "text": "Enthalpy (H)",
+        "isCorrect": true
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Enthalpy (H) is a state function, meaning its value depends only on the state of the system, not on the path taken to reach that state.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 188,
+    "questionText": "The enthalpy change (ΔH) of a reaction can be determined using:",
+    "options": [
+      {
+        "text": "Hess's law",
+        "isCorrect": true
+      },
+      {
+        "text": "Boyle's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Charles's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Avogadro's law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hess's law states that the enthalpy change of a reaction is the same regardless of the number of steps in the reaction, allowing it to be calculated using known enthalpies of formation.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "EASY"
+  },
+  {
+    "qno": 189,
+    "questionText": "Which of the following statements is correct for an endothermic reaction?",
+    "options": [
+      {
+        "text": "ΔH is positive",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔH is negative",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH can be positive or negative",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an endothermic reaction, heat is absorbed from the surroundings, resulting in a positive enthalpy change (ΔH > 0).",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "EASY"
+  },
+  {
+    "qno": 190,
+    "questionText": "The standard enthalpy change of formation (ΔH°f) of a compound is:",
+    "options": [
+      {
+        "text": "The enthalpy change when one mole of the compound is formed from its elements in their standard states",
+        "isCorrect": true
+      },
+      {
+        "text": "The enthalpy change when one mole of the compound is decomposed into its elements",
+        "isCorrect": false
+      },
+      {
+        "text": "The enthalpy change when one mole of the compound undergoes a chemical reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "The enthalpy change when one mole of the compound is dissolved in water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard enthalpy change of formation (ΔH°f) is the enthalpy change when one mole of a compound is formed from its elements in their standard states.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "EASY"
+  },
+  {
+    "qno": 191,
+    "questionText": "The enthalpy change (ΔH) for the combustion of methane (CH4) is -890 kJ/mol. What is the enthalpy change for the combustion of 2 moles of methane?",
+    "options": [
+      {
+        "text": "-1780 kJ",
+        "isCorrect": true
+      },
+      {
+        "text": "-890 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "-445 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "-3560 kJ",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The enthalpy change for the combustion of 2 moles of methane is 2 × (-890 kJ/mol) = -1780 kJ.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "EASY"
+  },
+  {
+    "qno": 194,
+    "questionText": "Which of the following statements is true for an exothermic reaction?",
+    "options": [
+      {
+        "text": "ΔH is negative",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔH is positive",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH can be positive or negative",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an exothermic reaction, heat is released to the surroundings, resulting in a negative enthalpy change (ΔH < 0).",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "EASY"
+  },
+  {
+    "qno": 201,
+    "questionText": "Which of the following processes results in the maximum entropy change?",
+    "options": [
+      {
+        "text": "Isothermal expansion of an ideal gas",
+        "isCorrect": true
+      },
+      {
+        "text": "Adiabatic expansion of an ideal gas",
+        "isCorrect": false
+      },
+      {
+        "text": "Isochoric process",
+        "isCorrect": false
+      },
+      {
+        "text": "Isobaric process",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isothermal expansion of an ideal gas involves the maximum entropy change because there is heat exchange with the surroundings at constant temperature.",
+    "chapter": "Thermodynamics",
+    "topic": "Applications",
+    "level": "HARD"
+  },
+  {
+    "qno": 202,
+    "questionText": "Which of the following statements is true for an endothermic reaction?",
+    "options": [
+      {
+        "text": "ΔH is positive",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔH is negative",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH can be positive or negative",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an endothermic reaction, heat is absorbed from the surroundings, resulting in a positive enthalpy change (ΔH > 0).",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "EASY"
+  },
+  {
+    "qno": 203,
+    "questionText": "The enthalpy change (ΔH) for a reaction in which bonds are broken in the reactants and new bonds are formed in the products is called:",
+    "options": [
+      {
+        "text": "Bond enthalpy",
+        "isCorrect": false
+      },
+      {
+        "text": "Reaction enthalpy",
+        "isCorrect": true
+      },
+      {
+        "text": "Formation enthalpy",
+        "isCorrect": false
+      },
+      {
+        "text": "Combustion enthalpy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The enthalpy change for a reaction involving the breaking and forming of bonds is called reaction enthalpy.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 211,
+    "questionText": "Calculate the work done when 1 mole of an ideal gas expands isothermally and reversibly from 5 L to 10 L at a temperature of 300 K.",
+    "options": [
+      {
+        "text": "$-2.303 \\times 8.314 \\times 300 \\log \\frac{10}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2.303 \\times 8.314 \\times 300 \\log \\frac{10}{5}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-8.314 \\times 300 \\log \\frac{10}{5}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8.314 \\times 300 \\log \\frac{10}{5}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done during an isothermal, reversible expansion of an ideal gas is given by w = -nRT ln(Vf/Vi). Here, n = 1 mole, R = 8.314 J/mol·K, T = 300 K, Vi = 5 L, and Vf = 10 L. Therefore, w = -2.303 × 8.314 × 300 log(10/5).",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "HARD"
+  },
+  {
+    "qno": 213,
+    "questionText": "Calculate the change in internal energy (ΔU) for a system that absorbs 800 J of heat and does 300 J of work on the surroundings.",
+    "options": [
+      {
+        "text": "500 J",
+        "isCorrect": true
+      },
+      {
+        "text": "1100 J",
+        "isCorrect": false
+      },
+      {
+        "text": "300 J",
+        "isCorrect": false
+      },
+      {
+        "text": "800 J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the first law of thermodynamics, ΔU = q + w. Here, q = 800 J and w = -300 J (work done on the surroundings is negative). Therefore, ΔU = 800 - 300 = 500 J.",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 223,
+    "questionText": "Calculate the work done by 2 moles of an ideal gas expanding isothermally and reversibly from 5 L to 10 L at a temperature of 300 K.",
+    "options": [
+      {
+        "text": "$-2.303 \\times 2 \\times 8.314 \\times 300 \\log \\frac{10}{5}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2.303 \\times 2 \\times 8.314 \\times 300 \\log \\frac{10}{5}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-8.314 \\times 300 \\log \\frac{10}{5}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8.314 \\times 300 \\log \\frac{10}{5}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The work done during an isothermal, reversible expansion of an ideal gas is given by $w = -nRT \\ln \\frac{V_f}{V_i}$. Here, $n = 2$ moles, $R = 8.314 \\text{J/mol·K}$, $T = 300 \\text{K}$, $V_i = 5 \\text{L}$, and $V_f = 10 \\text{L}$. Therefore, $w = -2.303 \\times 2 \\times 8.314 \\times 300 \\log \\frac{10}{5}$. ",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "HARD"
+  },
+  {
+    "qno": 226,
+    "questionText": "Calculate the change in internal energy (ΔU) for a system that absorbs 500 J of heat and does 150 J of work on the surroundings.",
+    "options": [
+      {
+        "text": "350 J",
+        "isCorrect": true
+      },
+      {
+        "text": "650 J",
+        "isCorrect": false
+      },
+      {
+        "text": "150 J",
+        "isCorrect": false
+      },
+      {
+        "text": "500 J",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the first law of thermodynamics, $\\Delta U = q + w$. Here, $q = 500 \\text{J}$ and $w = -150 \\text{J}$ (work done on the surroundings is negative). Therefore, $\\Delta U = 500 - 150 = 350 \\text{J}$. ",
+    "chapter": "Thermodynamics",
+    "topic": "Measurement of ∆U and ∆H: Calorimetry",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 227,
+    "questionText": "Which of the following statements is true for a spontaneous process?",
+    "options": [
+      {
+        "text": "$\\Delta S > 0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\Delta S < 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta S = 0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\Delta S$ is undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A spontaneous process is characterized by an increase in entropy ($\\Delta S > 0$), indicating an increase in disorder.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 230,
+    "questionText": "Calculate the enthalpy change (ΔH) for the combustion of propane (C3H8) given the following enthalpies of formation: ΔH°f [CO2(g)] = -393.5 kJ/mol, ΔH°f [H2O(l)] = -285.8 kJ/mol, and ΔH°f [C3H8(g)] = -104.7 kJ/mol.",
+    "options": [
+      {
+        "text": "-2220.1 kJ",
+        "isCorrect": true
+      },
+      {
+        "text": "-104.7 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "285.8 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "393.5 kJ",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The balanced equation for the combustion of propane is: C3H8(g) + 5 O2(g) → 3 CO2(g) + 4 H2O(l). Using Hess's law: ΔH° = [3(-393.5) + 4(-285.8)] - [-104.7] = -2220.1 kJ.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpies for Different Types of Reactions",
+    "level": "HARD"
+  },
+  {
+    "qno": 231,
+    "questionText": "The enthalpy change (ΔH) for the neutralization of a strong acid with a strong base is:",
+    "options": [
+      {
+        "text": "Always negative",
+        "isCorrect": true
+      },
+      {
+        "text": "Always positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Dependent on the acid and base",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The enthalpy change for the neutralization of a strong acid with a strong base is always negative because the reaction releases heat.",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpies for Different Types of Reactions",
+    "level": "EASY"
+  },
+  {
+    "qno": 268,
+    "questionText": "For a spontaneous process, which of the following statements is true?",
+    "options": [
+      {
+        "text": "ΔG < 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≥ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a spontaneous process, the Gibbs free energy change (ΔG) must be negative.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 269,
+    "questionText": "Which of the following factors affects the spontaneity of a reaction?",
+    "options": [
+      {
+        "text": "Enthalpy change (ΔH)",
+        "isCorrect": true
+      },
+      {
+        "text": "Entropy change (ΔS)",
+        "isCorrect": true
+      },
+      {
+        "text": "Temperature (T)",
+        "isCorrect": true
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The spontaneity of a reaction depends on the enthalpy change (ΔH), entropy change (ΔS), and temperature (T).",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 270,
+    "questionText": "Which of the following reactions is spontaneous at standard conditions?",
+    "options": [
+      {
+        "text": "Combustion of methane",
+        "isCorrect": true
+      },
+      {
+        "text": "Decomposition of water",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of diamond from graphite",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrolysis of sodium chloride",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The combustion of methane is spontaneous at standard conditions as it releases energy (exothermic reaction) and increases the entropy of the system.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 271,
+    "questionText": "Calculate the Gibbs free energy change (ΔG) for a reaction at 298 K if ΔH = -120 kJ and ΔS = -200 J/K.",
+    "options": [
+      {
+        "text": "-60 kJ",
+        "isCorrect": true
+      },
+      {
+        "text": "60 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "-120 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "120 kJ",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Gibbs free energy change (ΔG) is calculated using ΔG = ΔH - TΔS. Substituting the given values, ΔG = -120 kJ - (298 K × -200 J/K) = -60 kJ.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 272,
+    "questionText": "For a process to be spontaneous, which of the following conditions must be met?",
+    "options": [
+      {
+        "text": "ΔG < 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≥ 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a process to be spontaneous, the Gibbs free energy change (ΔG) must be negative.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "EASY"
+  },
+  {
+    "qno": 273,
+    "questionText": "Which of the following statements is true for an endothermic reaction that is spontaneous at high temperatures?",
+    "options": [
+      {
+        "text": "ΔH > 0, ΔS > 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔH < 0, ΔS < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH < 0, ΔS > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH > 0, ΔS < 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an endothermic reaction (ΔH > 0) to be spontaneous at high temperatures, the entropy change (ΔS) must be positive (ΔS > 0) so that ΔG becomes negative at high temperatures.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 274,
+    "questionText": "The decomposition of calcium carbonate to calcium oxide and carbon dioxide is an example of:",
+    "options": [
+      {
+        "text": "A spontaneous process at high temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "A spontaneous process at low temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "A non-spontaneous process",
+        "isCorrect": false
+      },
+      {
+        "text": "A process that is spontaneous at all temperatures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The decomposition of calcium carbonate (CaCO3) to calcium oxide (CaO) and carbon dioxide (CO2) is spontaneous at high temperatures due to the positive entropy change and the requirement for sufficient thermal energy.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 275,
+    "questionText": "Which of the following conditions favors spontaneity for a process?",
+    "options": [
+      {
+        "text": "ΔH < 0, ΔS > 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔH > 0, ΔS < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH < 0, ΔS < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH > 0, ΔS > 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A process is favored to be spontaneous if the enthalpy change (ΔH) is negative (exothermic) and the entropy change (ΔS) is positive.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 276,
+    "questionText": "The boiling of water is an example of:",
+    "options": [
+      {
+        "text": "A spontaneous process at high temperature",
+        "isCorrect": true
+      },
+      {
+        "text": "A spontaneous process at low temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "A non-spontaneous process",
+        "isCorrect": false
+      },
+      {
+        "text": "A process that is spontaneous at all temperatures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The boiling of water is a spontaneous process at high temperatures because it is endothermic and involves an increase in entropy.",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneity",
+    "level": "HARD"
+  },
+  {
+    "qno": 327,
+    "questionText": "The Gibbs free energy change (ΔG) for a reaction at equilibrium is:",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Positive",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative",
+        "isCorrect": false
+      },
+      {
+        "text": "Undefined",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, the Gibbs free energy change (ΔG) is zero because the system is at its lowest energy state.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 328,
+    "questionText": "Which of the following statements is true for a reaction with a positive ΔG?",
+    "options": [
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction releases energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction with a positive ΔG is non-spontaneous because it requires input of energy to proceed.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 329,
+    "questionText": "The relationship between Gibbs free energy change (ΔG) and the equilibrium constant (K) is given by:",
+    "options": [
+      {
+        "text": "ΔG = -RT ln K",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG = RT ln K",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = -K ln R",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = K ln R",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The relationship between Gibbs free energy change (ΔG) and the equilibrium constant (K) is ΔG = -RT ln K, where R is the gas constant and T is the temperature.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 330,
+    "questionText": "At what condition does a reaction reach equilibrium?",
+    "options": [
+      {
+        "text": "ΔG = 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH = 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction reaches equilibrium when ΔG = 0, meaning there is no net change in the concentration of reactants and products.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 331,
+    "questionText": "Which of the following statements is true for a reaction with a negative ΔG?",
+    "options": [
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction absorbs energy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction with a negative ΔG is spontaneous because it releases energy and can proceed without external energy input.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 332,
+    "questionText": "The standard Gibbs free energy change (ΔG°) for a reaction is related to the standard enthalpy change (ΔH°) and the standard entropy change (ΔS°) by:",
+    "options": [
+      {
+        "text": "ΔG° = ΔH° - TΔS°",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG° = ΔH° + TΔS°",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° = ΔH° × TΔS°",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° = ΔH° / TΔS°",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The standard Gibbs free energy change (ΔG°) for a reaction is a thermodynamic quantity that predicts whether a reaction will occur spontaneously under standard conditions. It is related to the standard enthalpy change (ΔH°) and the standard entropy change (ΔS°) by the equation: ΔG° = ΔH° - TΔS°.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 333,
+    "questionText": "Calculate the standard Gibbs free energy change (ΔG°) for the reaction: 2H2(g) + O2(g) → 2H2O(l), given ΔH° = -286 kJ/mol and ΔS° = 70 J/mol·K at 298 K.",
+    "options": [
+      {
+        "text": "-237.8 kJ",
+        "isCorrect": true
+      },
+      {
+        "text": "-286 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "-216 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "-196.8 kJ",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "ΔG° = ΔH° - TΔS°. Substituting the values: ΔG° = -286 kJ - (298 K × 0.070 kJ/K) = -237.8 kJ.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 334,
+    "questionText": "Which of the following relationships is true at equilibrium?",
+    "options": [
+      {
+        "text": "ΔG = 0 and Q = K",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG < 0 and Q > K",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG > 0 and Q < K",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = 0 and Q < K",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, the Gibbs free energy change (ΔG) is zero, and the reaction quotient (Q) equals the equilibrium constant (K).",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 335,
+    "questionText": "The equilibrium constant (K) for a reaction at 298 K is 10. What is the standard Gibbs free energy change (ΔG°) for the reaction?",
+    "options": [
+      {
+        "text": "-5.7 kJ",
+        "isCorrect": true
+      },
+      {
+        "text": "5.7 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "0 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "-2.3 kJ",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "ΔG° = -RT ln K. Substituting the values: ΔG° = -8.314 J/mol·K × 298 K × ln(10) ≈ -5.7 kJ.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 336,
+    "questionText": "Which of the following statements is true about the relationship between ΔG and ΔG°?",
+    "options": [
+      {
+        "text": "ΔG = ΔG° + RT ln Q",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG = ΔG° - RT ln Q",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = ΔG° × RT ln Q",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = ΔG° / RT ln Q",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The relationship between the Gibbs free energy change (ΔG) and the standard Gibbs free energy change (ΔG°) is given by: ΔG = ΔG° + RT ln Q, where Q is the reaction quotient.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 337,
+    "questionText": "For a reaction with ΔG° > 0, what is the value of the equilibrium constant (K)?",
+    "options": [
+      {
+        "text": "K < 1",
+        "isCorrect": true
+      },
+      {
+        "text": "K > 1",
+        "isCorrect": false
+      },
+      {
+        "text": "K = 1",
+        "isCorrect": false
+      },
+      {
+        "text": "K = 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For a reaction with ΔG° > 0, the equilibrium constant (K) is less than 1, indicating that the reactants are favored at equilibrium.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 338,
+    "questionText": "The standard Gibbs free energy change (ΔG°) for a reaction is negative. What does this imply about the reaction at standard conditions?",
+    "options": [
+      {
+        "text": "The reaction is spontaneous",
+        "isCorrect": true
+      },
+      {
+        "text": "The reaction is non-spontaneous",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction is at equilibrium",
+        "isCorrect": false
+      },
+      {
+        "text": "The reaction requires energy input",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A negative standard Gibbs free energy change (ΔG°) implies that the reaction is spontaneous at standard conditions.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 339,
+    "questionText": "Which of the following factors does not affect the equilibrium constant (K) of a reaction?",
+    "options": [
+      {
+        "text": "Concentration",
+        "isCorrect": true
+      },
+      {
+        "text": "Temperature",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Nature of reactants and products",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equilibrium constant (K) is only affected by temperature and not by the concentration, pressure, or the nature of reactants and products.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 340,
+    "questionText": "Calculate the equilibrium constant (K) for a reaction at 298 K if ΔG° = -30 kJ.",
+    "options": [
+      {
+        "text": "2.45 × 10^5",
+        "isCorrect": true
+      },
+      {
+        "text": "1.00",
+        "isCorrect": false
+      },
+      {
+        "text": "10.0",
+        "isCorrect": false
+      },
+      {
+        "text": "2.45 × 10^-5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "K = e^(-ΔG°/RT). Substituting the values: K = e^(30,000 J / 8.314 J/mol·K / 298 K) ≈ 2.45 × 10^5.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 341,
+    "questionText": "For a reaction at equilibrium, which of the following is true?",
+    "options": [
+      {
+        "text": "ΔG = 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG° = 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "At equilibrium, the Gibbs free energy change (ΔG) is zero because there is no net change in the concentration of reactants and products.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 342,
+    "questionText": "Which of the following conditions is required for a reaction to be spontaneous at all temperatures?",
+    "options": [
+      {
+        "text": "ΔH < 0 and ΔS > 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔH > 0 and ΔS > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH < 0 and ΔS < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH > 0 and ΔS < 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction will be spontaneous at all temperatures if the enthalpy change (ΔH) is negative and the entropy change (ΔS) is positive.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 343,
+    "questionText": "For a reaction with ΔH > 0 and ΔS < 0, the reaction is:",
+    "options": [
+      {
+        "text": "Non-spontaneous at all temperatures",
+        "isCorrect": true
+      },
+      {
+        "text": "Spontaneous at high temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "Spontaneous at low temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "Spontaneous at all temperatures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction with ΔH > 0 and ΔS < 0 is non-spontaneous at all temperatures because both terms contribute to making ΔG positive.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 344,
+    "questionText": "Which of the following expressions represents the change in Gibbs free energy (ΔG) for a system at constant temperature and pressure?",
+    "options": [
+      {
+        "text": "ΔG = ΔH - TΔS",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG = ΔH + TΔS",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = ΔH / TΔS",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG = ΔH × TΔS",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The change in Gibbs free energy (ΔG) for a system at constant temperature and pressure is given by the expression ΔG = ΔH - TΔS.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  },
+  {
+    "qno": 345,
+    "questionText": "For a given reaction, ΔH = 40 kJ and ΔS = 100 J/K. At what temperature will the reaction become spontaneous?",
+    "options": [
+      {
+        "text": "Above 400 K",
+        "isCorrect": true
+      },
+      {
+        "text": "Below 400 K",
+        "isCorrect": false
+      },
+      {
+        "text": "At 400 K",
+        "isCorrect": false
+      },
+      {
+        "text": "At 298 K",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction will become spontaneous when ΔG < 0, i.e., T > ΔH / ΔS. Substituting the values: T > 40,000 J / 100 J/K = 400 K.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 346,
+    "questionText": "What is the effect of increasing temperature on the equilibrium constant (K) for an exothermic reaction?",
+    "options": [
+      {
+        "text": "K decreases",
+        "isCorrect": true
+      },
+      {
+        "text": "K increases",
+        "isCorrect": false
+      },
+      {
+        "text": "K remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "K becomes zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "For an exothermic reaction, increasing the temperature shifts the equilibrium position to favor the reactants, resulting in a decrease in the equilibrium constant (K).",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 347,
+    "questionText": "For a reaction with ΔH < 0 and ΔS < 0, the reaction is:",
+    "options": [
+      {
+        "text": "Spontaneous at low temperatures",
+        "isCorrect": true
+      },
+      {
+        "text": "Spontaneous at high temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "Non-spontaneous at all temperatures",
+        "isCorrect": false
+      },
+      {
+        "text": "Spontaneous at all temperatures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction with ΔH < 0 and ΔS < 0 is spontaneous at low temperatures because the negative ΔH term dominates the ΔG equation.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 348,
+    "questionText": "Which of the following is true for a reaction that is spontaneous at high temperatures but non-spontaneous at low temperatures?",
+    "options": [
+      {
+        "text": "ΔH > 0, ΔS > 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔH < 0, ΔS < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH > 0, ΔS < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH < 0, ΔS > 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A reaction with ΔH > 0 and ΔS > 0 is spontaneous at high temperatures because the positive ΔS term becomes significant at high temperatures, making ΔG negative.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": 349,
+    "questionText": "Calculate the equilibrium constant (K) for a reaction at 298 K if ΔG° = -10 kJ.",
+    "options": [
+      {
+        "text": "4.5 × 10^1",
+        "isCorrect": true
+      },
+      {
+        "text": "1.0",
+        "isCorrect": false
+      },
+      {
+        "text": "10.0",
+        "isCorrect": false
+      },
+      {
+        "text": "4.5 × 10^-1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "K = e^(-ΔG°/RT). Substituting the values: K = e^(10,000 J / 8.314 J/mol·K / 298 K) ≈ 4.5 × 10^1.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "HARD"
+  },
+  {
+    "qno": 352,
+    "questionText": "Which of the following is a state function?",
+    "options": [
+      {
+        "text": "Enthalpy (H)",
+        "isCorrect": true
+      },
+      {
+        "text": "Heat (q)",
+        "isCorrect": false
+      },
+      {
+        "text": "Work (w)",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Enthalpy (H) is a state function, meaning its value depends only on the state of the system, not on the path taken to reach that state.",
+    "chapter": "Thermodynamics",
+    "topic": "Gibbs Energy Change and Equilibrium",
+    "level": "EASY"
+  }
+]

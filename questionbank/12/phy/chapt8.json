@@ -1,0 +1,5254 @@
+[
+  {
+    "qno": "1",
+    "questionText": "Who argued that not only an electric current but also a time-varying electric field generates a magnetic field?",
+    "options": [
+      {
+        "text": "Michael Faraday",
+        "isCorrect": false
+      },
+      {
+        "text": "James Clerk Maxwell",
+        "isCorrect": true
+      },
+      {
+        "text": "Isaac Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "James Clerk Maxwell argued that a time-varying electric field generates a magnetic field.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "What inconsistency did Maxwell notice in Ampere's circuital law?",
+    "options": [
+      {
+        "text": "It didn't account for electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "It didn't account for time-varying magnetic fields",
+        "isCorrect": false
+      },
+      {
+        "text": "It didn't account for time-varying electric fields",
+        "isCorrect": true
+      },
+      {
+        "text": "It didn't account for magnetic monopoles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell noticed that Ampere's circuital law didn't account for time-varying electric fields.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "3",
+    "questionText": "According to Maxwell, what additional current is needed to remove the inconsistency in Ampere's circuital law?",
+    "options": [
+      {
+        "text": "Conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Displacement current",
+        "isCorrect": true
+      },
+      {
+        "text": "Convection current",
+        "isCorrect": false
+      },
+      {
+        "text": "Induction current",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell suggested the existence of an additional current called displacement current.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "4",
+    "questionText": "What are Maxwell's equations used for?",
+    "options": [
+      {
+        "text": "To describe gravitational forces",
+        "isCorrect": false
+      },
+      {
+        "text": "To describe electric and magnetic fields and their sources",
+        "isCorrect": true
+      },
+      {
+        "text": "To describe nuclear forces",
+        "isCorrect": false
+      },
+      {
+        "text": "To describe mechanical forces",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell's equations describe electric and magnetic fields and their sources.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "5",
+    "questionText": "What was the most important prediction to emerge from Maxwell's equations?",
+    "options": [
+      {
+        "text": "The existence of gravitational waves",
+        "isCorrect": false
+      },
+      {
+        "text": "The existence of electromagnetic waves",
+        "isCorrect": true
+      },
+      {
+        "text": "The existence of nuclear forces",
+        "isCorrect": false
+      },
+      {
+        "text": "The existence of mechanical waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The most important prediction from Maxwell's equations is the existence of electromagnetic waves.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "What did the speed of electromagnetic waves, according to Maxwell's equations, turn out to be close to?",
+    "options": [
+      {
+        "text": "The speed of sound",
+        "isCorrect": false
+      },
+      {
+        "text": "The speed of light",
+        "isCorrect": true
+      },
+      {
+        "text": "The speed of water waves",
+        "isCorrect": false
+      },
+      {
+        "text": "The speed of seismic waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of electromagnetic waves, according to Maxwell's equations, turned out to be very close to the speed of light.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "7",
+    "questionText": "Who experimentally demonstrated the existence of electromagnetic waves?",
+    "options": [
+      {
+        "text": "Michael Faraday",
+        "isCorrect": false
+      },
+      {
+        "text": "Heinrich Hertz",
+        "isCorrect": true
+      },
+      {
+        "text": "Isaac Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Heinrich Hertz experimentally demonstrated the existence of electromagnetic waves.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "According to Maxwell's work, what did light turn out to be?",
+    "options": [
+      {
+        "text": "A gravitational wave",
+        "isCorrect": false
+      },
+      {
+        "text": "A nuclear wave",
+        "isCorrect": false
+      },
+      {
+        "text": "An electromagnetic wave",
+        "isCorrect": true
+      },
+      {
+        "text": "A mechanical wave",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Maxwell's work, light turned out to be an electromagnetic wave.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "9",
+    "questionText": "What did Maxwell's work unify?",
+    "options": [
+      {
+        "text": "Electricity, magnetism, and gravity",
+        "isCorrect": false
+      },
+      {
+        "text": "Electricity, magnetism, and light",
+        "isCorrect": true
+      },
+      {
+        "text": "Electricity, gravity, and light",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetism, gravity, and light",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell's work unified the domains of electricity, magnetism, and light.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "10",
+    "questionText": "What technological use emerged from the understanding of electromagnetic waves?",
+    "options": [
+      {
+        "text": "Nuclear power generation",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio and TV broadcasting",
+        "isCorrect": true
+      },
+      {
+        "text": "Mechanical wave generation",
+        "isCorrect": false
+      },
+      {
+        "text": "Seismic wave detection",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The technological use of electromagnetic waves led to the revolution in communication, such as radio and TV broadcasting.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "11",
+    "questionText": "What did Maxwell suggest the existence of to remove the inconsistency in Ampere's circuital law?",
+    "options": [
+      {
+        "text": "Conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Displacement current",
+        "isCorrect": true
+      },
+      {
+        "text": "Convection current",
+        "isCorrect": false
+      },
+      {
+        "text": "Induction current",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell suggested the existence of an additional current called displacement current.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "What mathematical tool did Maxwell use to express the basic laws of electromagnetism?",
+    "options": [
+      {
+        "text": "Newton's laws",
+        "isCorrect": false
+      },
+      {
+        "text": "Maxwell's equations",
+        "isCorrect": true
+      },
+      {
+        "text": "Einstein's equations",
+        "isCorrect": false
+      },
+      {
+        "text": "Faraday's laws",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell formulated a set of equations known as Maxwell's equations to express the basic laws of electromagnetism.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "What was the speed of the electromagnetic waves predicted by Maxwell's equations?",
+    "options": [
+      {
+        "text": "$3 \\times 10^8$ m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "$3 \\times 10^6$ m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 \\times 10^5$ m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 \\times 10^3$ m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of electromagnetic waves, according to Maxwell's equations, turned out to be very close to the speed of light, $3 \\times 10^8$ m/s.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "14",
+    "questionText": "Who experimentally demonstrated the existence of electromagnetic waves in 1885?",
+    "options": [
+      {
+        "text": "James Clerk Maxwell",
+        "isCorrect": false
+      },
+      {
+        "text": "Heinrich Hertz",
+        "isCorrect": true
+      },
+      {
+        "text": "Michael Faraday",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Heinrich Hertz experimentally demonstrated the existence of electromagnetic waves in 1885.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "15",
+    "questionText": "What is the significance of Maxwell's work in the field of electromagnetism?",
+    "options": [
+      {
+        "text": "It unified the domain of electricity, magnetism, and light",
+        "isCorrect": true
+      },
+      {
+        "text": "It unified the domain of electricity and gravity",
+        "isCorrect": false
+      },
+      {
+        "text": "It unified the domain of magnetism and gravity",
+        "isCorrect": false
+      },
+      {
+        "text": "It unified the domain of light and gravity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell's work unified the domain of electricity, magnetism, and light.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "16",
+    "questionText": "What kind of waves are electromagnetic waves?",
+    "options": [
+      {
+        "text": "Coupled time-varying electric and magnetic fields that propagate in space",
+        "isCorrect": true
+      },
+      {
+        "text": "Static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Static magnetic fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Coupled time-varying gravitational and electric fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electromagnetic waves are coupled time-varying electric and magnetic fields that propagate in space.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "17",
+    "questionText": "What led to the conclusion that light is an electromagnetic wave?",
+    "options": [
+      {
+        "text": "The speed of electromagnetic waves obtained from Maxwell's equations matched the speed of sound",
+        "isCorrect": false
+      },
+      {
+        "text": "The speed of electromagnetic waves obtained from Maxwell's equations matched the speed of light",
+        "isCorrect": true
+      },
+      {
+        "text": "The speed of electromagnetic waves obtained from Maxwell's equations matched the speed of water waves",
+        "isCorrect": false
+      },
+      {
+        "text": "The speed of electromagnetic waves obtained from Maxwell's equations matched the speed of seismic waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of electromagnetic waves obtained from Maxwell's equations turned out to be very close to the speed of light, leading to the conclusion that light is an electromagnetic wave.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "18",
+    "questionText": "Who formulated the set of equations involving electric and magnetic fields and their sources?",
+    "options": [
+      {
+        "text": "Isaac Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "James Clerk Maxwell",
+        "isCorrect": true
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Michael Faraday",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "James Clerk Maxwell formulated a set of equations involving electric and magnetic fields and their sources.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "19",
+    "questionText": "What technological revolution was sparked by the understanding and use of electromagnetic waves?",
+    "options": [
+      {
+        "text": "Nuclear power generation",
+        "isCorrect": false
+      },
+      {
+        "text": "Communication revolution",
+        "isCorrect": true
+      },
+      {
+        "text": "Mechanical engineering revolution",
+        "isCorrect": false
+      },
+      {
+        "text": "Seismology revolution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The understanding and use of electromagnetic waves led to the communication revolution.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "20",
+    "questionText": "What was the primary technological use of electromagnetic waves demonstrated by Marconi?",
+    "options": [
+      {
+        "text": "Nuclear power",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio communication",
+        "isCorrect": true
+      },
+      {
+        "text": "Mechanical wave generation",
+        "isCorrect": false
+      },
+      {
+        "text": "Seismic wave detection",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Marconi demonstrated the use of electromagnetic waves in radio communication.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "What does the displacement current account for in Maxwell's equations?",
+    "options": [
+      {
+        "text": "Static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Time-varying electric fields",
+        "isCorrect": true
+      },
+      {
+        "text": "Static magnetic fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Time-varying gravitational fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current accounts for time-varying electric fields in Maxwell's equations.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "22",
+    "questionText": "What is the term for the additional current that Maxwell introduced to explain the generation of magnetic fields by time-varying electric fields?",
+    "options": [
+      {
+        "text": "Conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Displacement current",
+        "isCorrect": true
+      },
+      {
+        "text": "Convection current",
+        "isCorrect": false
+      },
+      {
+        "text": "Induction current",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell introduced the concept of displacement current to explain the generation of magnetic fields by time-varying electric fields.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "What did Maxwell's equations predict about the speed of electromagnetic waves?",
+    "options": [
+      {
+        "text": "They travel at the speed of sound",
+        "isCorrect": false
+      },
+      {
+        "text": "They travel at the speed of light",
+        "isCorrect": true
+      },
+      {
+        "text": "They travel faster than light",
+        "isCorrect": false
+      },
+      {
+        "text": "They travel slower than sound",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell's equations predicted that electromagnetic waves travel at the speed of light.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "Who was among the first to experimentally demonstrate the existence of electromagnetic waves?",
+    "options": [
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Heinrich Hertz",
+        "isCorrect": true
+      },
+      {
+        "text": "Isaac Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "James Clerk Maxwell",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Heinrich Hertz was among the first to experimentally demonstrate the existence of electromagnetic waves.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "25",
+    "questionText": "What was the revolutionary technological use of electromagnetic waves discovered by Marconi?",
+    "options": [
+      {
+        "text": "Nuclear energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio communication",
+        "isCorrect": true
+      },
+      {
+        "text": "Mechanical engineering",
+        "isCorrect": false
+      },
+      {
+        "text": "Seismology",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Marconi's work led to the revolutionary use of electromagnetic waves in radio communication.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "26",
+    "questionText": "What phenomenon did Maxwell's equations help unify?",
+    "options": [
+      {
+        "text": "Electricity, magnetism, and gravity",
+        "isCorrect": false
+      },
+      {
+        "text": "Electricity, magnetism, and light",
+        "isCorrect": true
+      },
+      {
+        "text": "Gravity and nuclear forces",
+        "isCorrect": false
+      },
+      {
+        "text": "Light and nuclear forces",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell's equations helped unify the phenomena of electricity, magnetism, and light.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "27",
+    "questionText": "In what year did Heinrich Hertz experimentally demonstrate the existence of electromagnetic waves?",
+    "options": [
+      {
+        "text": "1880",
+        "isCorrect": false
+      },
+      {
+        "text": "1885",
+        "isCorrect": true
+      },
+      {
+        "text": "1890",
+        "isCorrect": false
+      },
+      {
+        "text": "1895",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Heinrich Hertz experimentally demonstrated the existence of electromagnetic waves in 1885.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "28",
+    "questionText": "What inconsistency did Maxwell notice in the Ampere's circuital law?",
+    "options": [
+      {
+        "text": "It did not account for time-varying electric fields",
+        "isCorrect": true
+      },
+      {
+        "text": "It did not account for static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "It did not account for magnetic monopoles",
+        "isCorrect": false
+      },
+      {
+        "text": "It did not account for gravitational fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell noticed that Ampere's circuital law did not account for time-varying electric fields.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "29",
+    "questionText": "What did Maxwell introduce to resolve the inconsistency in Ampere's circuital law?",
+    "options": [
+      {
+        "text": "Conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Displacement current",
+        "isCorrect": true
+      },
+      {
+        "text": "Induction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Convection current",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell introduced the concept of displacement current to resolve the inconsistency in Ampere's circuital law.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "30",
+    "questionText": "What fundamental constant is related to the speed of electromagnetic waves in a vacuum?",
+    "options": [
+      {
+        "text": "Speed of sound",
+        "isCorrect": false
+      },
+      {
+        "text": "Speed of light",
+        "isCorrect": true
+      },
+      {
+        "text": "Gravitational constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Planck's constant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of electromagnetic waves in a vacuum is related to the speed of light.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "1",
+    "questionText": "What did Maxwell show regarding a changing electric field?",
+    "options": [
+      {
+        "text": "It produces a magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "It produces an electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "It produces gravitational waves",
+        "isCorrect": false
+      },
+      {
+        "text": "It produces nuclear forces",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell showed that a changing electric field produces a magnetic field.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "2",
+    "questionText": "What is the effect of a changing electric field according to Maxwell?",
+    "options": [
+      {
+        "text": "It explains the existence of gravitational waves",
+        "isCorrect": false
+      },
+      {
+        "text": "It explains the existence of electromagnetic waves",
+        "isCorrect": true
+      },
+      {
+        "text": "It explains the existence of nuclear forces",
+        "isCorrect": false
+      },
+      {
+        "text": "It explains the existence of sound waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell's theory explains that a changing electric field gives rise to a magnetic field, which is essential for the existence of electromagnetic waves.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "3",
+    "questionText": "What is the displacement current?",
+    "options": [
+      {
+        "text": "Current due to the motion of charges",
+        "isCorrect": false
+      },
+      {
+        "text": "Current due to a changing electric field",
+        "isCorrect": true
+      },
+      {
+        "text": "Current due to a static magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "Current due to gravitational forces",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current is the current that arises due to a changing electric field.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "EASY"
+  },
+  {
+    "qno": "4",
+    "questionText": "In what situation is displacement current important?",
+    "options": [
+      {
+        "text": "In steady electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "In time-varying electric fields",
+        "isCorrect": true
+      },
+      {
+        "text": "In static magnetic fields",
+        "isCorrect": false
+      },
+      {
+        "text": "In static gravitational fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Displacement current is important in situations involving time-varying electric fields.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "5",
+    "questionText": "How is the displacement current related to the electric flux?",
+    "options": [
+      {
+        "text": "It is equal to the electric flux",
+        "isCorrect": false
+      },
+      {
+        "text": "It is proportional to the rate of change of electric flux",
+        "isCorrect": true
+      },
+      {
+        "text": "It is inversely proportional to the electric flux",
+        "isCorrect": false
+      },
+      {
+        "text": "It is inversely proportional to the rate of change of electric flux",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current is proportional to the rate of change of electric flux.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "6",
+    "questionText": "What is the formula for displacement current?",
+    "options": [
+      {
+        "text": "$I_d = \\epsilon_0 \\frac{d\\Phi_E}{dt}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$I_d = \\mu_0 \\frac{d\\Phi_E}{dt}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_d = \\epsilon_0 \\frac{\\Phi_E}{dt}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_d = \\mu_0 \\frac{\\Phi_E}{dt}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The formula for displacement current is $I_d = \\epsilon_0 \\frac{d\\Phi_E}{dt}$, where $\\epsilon_0$ is the permittivity of free space and $\\frac{d\\Phi_E}{dt}$ is the rate of change of electric flux.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "7",
+    "questionText": "What law did Maxwell generalize by including the displacement current?",
+    "options": [
+      {
+        "text": "Faraday's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Ampere's law",
+        "isCorrect": true
+      },
+      {
+        "text": "Ohm's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Gauss's law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell generalized Ampere's law by including the displacement current.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "8",
+    "questionText": "What is the effect of displacement current on the magnetic field?",
+    "options": [
+      {
+        "text": "It generates a magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "It cancels out the magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "It has no effect on the magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "It generates an electric field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current generates a magnetic field, just like a conduction current.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "9",
+    "questionText": "In the charging of a capacitor, where is the displacement current observed?",
+    "options": [
+      {
+        "text": "Between the capacitor plates",
+        "isCorrect": true
+      },
+      {
+        "text": "In the wires",
+        "isCorrect": false
+      },
+      {
+        "text": "In the dielectric material",
+        "isCorrect": false
+      },
+      {
+        "text": "Outside the capacitor",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current is observed between the capacitor plates during the charging process.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "10",
+    "questionText": "What happens to the magnetic field at a point outside a capacitor with time-varying current?",
+    "options": [
+      {
+        "text": "It remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "It changes with time",
+        "isCorrect": true
+      },
+      {
+        "text": "It disappears",
+        "isCorrect": false
+      },
+      {
+        "text": "It becomes infinite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic field at a point outside a capacitor with time-varying current changes with time.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the displacement current inside a capacitor?",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal to the conduction current",
+        "isCorrect": true
+      },
+      {
+        "text": "Half of the conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Twice the conduction current",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Inside a capacitor, the displacement current is equal to the conduction current.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "What is the displacement current outside the capacitor plates?",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": true
+      },
+      {
+        "text": "Equal to the conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Half of the conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Twice the conduction current",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Outside the capacitor plates, there is no displacement current.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "13",
+    "questionText": "What is the total current passing through any surface according to the generalized Ampere's law?",
+    "options": [
+      {
+        "text": "Only the conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Only the displacement current",
+        "isCorrect": false
+      },
+      {
+        "text": "Sum of conduction and displacement currents",
+        "isCorrect": true
+      },
+      {
+        "text": "Sum of electric and magnetic currents",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the generalized Ampere's law, the total current passing through any surface is the sum of conduction and displacement currents.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "14",
+    "questionText": "What does the displacement current explain in terms of magnetic fields?",
+    "options": [
+      {
+        "text": "The existence of gravitational fields",
+        "isCorrect": false
+      },
+      {
+        "text": "The generation of magnetic fields by static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "The generation of magnetic fields by time-varying electric fields",
+        "isCorrect": true
+      },
+      {
+        "text": "The disappearance of magnetic fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current explains the generation of magnetic fields by time-varying electric fields.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "15",
+    "questionText": "Which of the following is a source of a magnetic field according to Maxwell?",
+    "options": [
+      {
+        "text": "Static electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "Time rate of change of electric field",
+        "isCorrect": true
+      },
+      {
+        "text": "Gravitational field",
+        "isCorrect": false
+      },
+      {
+        "text": "Static magnetic field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Maxwell, the time rate of change of electric field is a source of a magnetic field.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "16",
+    "questionText": "What is the value of the magnetic field between the plates of a capacitor in terms of the displacement current?",
+    "options": [
+      {
+        "text": "Zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Same as the magnetic field outside the plates",
+        "isCorrect": true
+      },
+      {
+        "text": "Twice the magnetic field outside the plates",
+        "isCorrect": false
+      },
+      {
+        "text": "Half the magnetic field outside the plates",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The magnetic field between the plates of a capacitor is the same as the magnetic field just outside the plates, as predicted by the displacement current.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "17",
+    "questionText": "What kind of symmetry is introduced by the displacement current in Maxwell's equations?",
+    "options": [
+      {
+        "text": "Symmetry between electric and magnetic fields",
+        "isCorrect": true
+      },
+      {
+        "text": "Symmetry between electric and gravitational fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Symmetry between magnetic and gravitational fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Symmetry between gravitational and nuclear fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current introduces a symmetry between electric and magnetic fields in Maxwell's equations.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "18",
+    "questionText": "What does the generalized Ampere's law state about the total current passing through any surface?",
+    "options": [
+      {
+        "text": "It is only the conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "It is only the displacement current",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the sum of the conduction and displacement currents",
+        "isCorrect": true
+      },
+      {
+        "text": "It is the sum of the electric and magnetic currents",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The generalized Ampere's law states that the total current passing through any surface is the sum of the conduction and displacement currents.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "19",
+    "questionText": "What physical quantity does the displacement current help to explain in a capacitor?",
+    "options": [
+      {
+        "text": "Electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "Gravitational field",
+        "isCorrect": false
+      },
+      {
+        "text": "Nuclear field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current helps to explain the presence of a magnetic field in a capacitor.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "20",
+    "questionText": "What kind of current is generated by a time-varying electric field?",
+    "options": [
+      {
+        "text": "Conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Displacement current",
+        "isCorrect": true
+      },
+      {
+        "text": "Induction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Convection current",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A time-varying electric field generates a displacement current.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "What kind of current exists in regions of space with no conduction current but a time-varying electric field?",
+    "options": [
+      {
+        "text": "Only conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Only displacement current",
+        "isCorrect": true
+      },
+      {
+        "text": "Both conduction and displacement currents",
+        "isCorrect": false
+      },
+      {
+        "text": "No current at all",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In regions of space with no conduction current but a time-varying electric field, only displacement current exists.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "22",
+    "questionText": "What prediction can be experimentally verified due to the displacement current?",
+    "options": [
+      {
+        "text": "Existence of gravitational fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic field between capacitor plates",
+        "isCorrect": true
+      },
+      {
+        "text": "Existence of static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Existence of magnetic monopoles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The prediction of a magnetic field between the plates of a capacitor due to the displacement current can be experimentally verified.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "What does the displacement current contribute to in terms of symmetry in Maxwell's equations?",
+    "options": [
+      {
+        "text": "Symmetry between electric and magnetic fields",
+        "isCorrect": true
+      },
+      {
+        "text": "Symmetry between gravitational and electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Symmetry between magnetic and gravitational fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Symmetry between nuclear and gravitational fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current contributes to the symmetry between electric and magnetic fields in Maxwell's equations.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "24",
+    "questionText": "What is the generalized form of Ampere's circuital law including displacement current?",
+    "options": [
+      {
+        "text": "$\\oint \\mathbf{B} \\cdot d\\mathbf{l} = \\mu_0 (I_c + \\epsilon_0 \\frac{d\\Phi_E}{dt})$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\oint \\mathbf{E} \\cdot d\\mathbf{l} = \\mu_0 (I_c + \\epsilon_0 \\frac{d\\Phi_E}{dt})$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\oint \\mathbf{B} \\cdot d\\mathbf{l} = \\mu_0 (I_c + \\mu_0 \\frac{d\\Phi_E}{dt})$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\oint \\mathbf{E} \\cdot d\\mathbf{l} = \\mu_0 (I_c + \\mu_0 \\frac{d\\Phi_E}{dt})$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The generalized form of Ampere's circuital law including displacement current is $\\oint \\mathbf{B} \\cdot d\\mathbf{l} = \\mu_0 (I_c + \\epsilon_0 \\frac{d\\Phi_E}{dt})$.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "25",
+    "questionText": "What kind of fields give rise to each other according to Maxwell's equations?",
+    "options": [
+      {
+        "text": "Static electric and magnetic fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Time-dependent electric and magnetic fields",
+        "isCorrect": true
+      },
+      {
+        "text": "Static electric and gravitational fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Time-dependent electric and gravitational fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Maxwell's equations, time-dependent electric and magnetic fields give rise to each other.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "26",
+    "questionText": "What law did Maxwell's displacement current help generalize?",
+    "options": [
+      {
+        "text": "Faraday's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Ampere's circuital law",
+        "isCorrect": true
+      },
+      {
+        "text": "Gauss's law",
+        "isCorrect": false
+      },
+      {
+        "text": "Ohm's law",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell's displacement current helped generalize Ampere's circuital law.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "27",
+    "questionText": "What does the term $\\epsilon_0 \\frac{d\\Phi_E}{dt}$ represent in the generalized Ampere's law?",
+    "options": [
+      {
+        "text": "Conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Displacement current",
+        "isCorrect": true
+      },
+      {
+        "text": "Induction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Convection current",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The term $\\epsilon_0 \\frac{d\\Phi_E}{dt}$ represents the displacement current in the generalized Ampere's law.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "28",
+    "questionText": "What kind of current is displacement current?",
+    "options": [
+      {
+        "text": "Current due to moving charges",
+        "isCorrect": false
+      },
+      {
+        "text": "Current due to changing electric fields",
+        "isCorrect": true
+      },
+      {
+        "text": "Current due to static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Current due to magnetic fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Displacement current is the current due to changing electric fields.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "EASY"
+  },
+  {
+    "qno": "29",
+    "questionText": "In what medium does the displacement current play a crucial role?",
+    "options": [
+      {
+        "text": "In conductors",
+        "isCorrect": false
+      },
+      {
+        "text": "In insulators",
+        "isCorrect": true
+      },
+      {
+        "text": "In superconductors",
+        "isCorrect": false
+      },
+      {
+        "text": "In semiconductors",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current plays a crucial role in insulators where there is no conduction current.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "30",
+    "questionText": "What is the significance of displacement current in electromagnetism?",
+    "options": [
+      {
+        "text": "It explains the static magnetic fields",
+        "isCorrect": false
+      },
+      {
+        "text": "It explains the dynamic magnetic fields",
+        "isCorrect": true
+      },
+      {
+        "text": "It explains the static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "It explains the static gravitational fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current is significant in explaining dynamic magnetic fields in electromagnetism.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "31",
+    "questionText": "What is the role of displacement current in the propagation of electromagnetic waves?",
+    "options": [
+      {
+        "text": "It has no role",
+        "isCorrect": false
+      },
+      {
+        "text": "It allows the changing electric field to generate a changing magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "It creates static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "It generates gravitational waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Displacement current allows the changing electric field to generate a changing magnetic field, which is crucial for the propagation of electromagnetic waves.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "32",
+    "questionText": "What does the term $\\epsilon_0 \\frac{d\\Phi_E}{dt}$ represent in the context of a capacitor?",
+    "options": [
+      {
+        "text": "The static electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "The displacement current",
+        "isCorrect": true
+      },
+      {
+        "text": "The conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "The magnetic field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the context of a capacitor, the term $\\epsilon_0 \\frac{d\\Phi_E}{dt}$ represents the displacement current.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "33",
+    "questionText": "What physical phenomenon does the displacement current help to explain in a charging capacitor?",
+    "options": [
+      {
+        "text": "The presence of a gravitational field",
+        "isCorrect": false
+      },
+      {
+        "text": "The presence of a magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "The presence of a nuclear field",
+        "isCorrect": false
+      },
+      {
+        "text": "The presence of a static electric field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current helps to explain the presence of a magnetic field in a charging capacitor.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "34",
+    "questionText": "How does the displacement current contribute to the magnetic field in the region between the capacitor plates?",
+    "options": [
+      {
+        "text": "It reduces the magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "It cancels out the magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "It generates the magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "It has no effect on the magnetic field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current generates the magnetic field in the region between the capacitor plates.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "35",
+    "questionText": "What does the presence of a displacement current indicate in terms of electric fields?",
+    "options": [
+      {
+        "text": "The electric field is static",
+        "isCorrect": false
+      },
+      {
+        "text": "The electric field is changing with time",
+        "isCorrect": true
+      },
+      {
+        "text": "The electric field is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "The electric field is uniform",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The presence of a displacement current indicates that the electric field is changing with time.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "36",
+    "questionText": "What kind of fields can the displacement current generate according to Maxwell's equations?",
+    "options": [
+      {
+        "text": "Gravitational fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Static magnetic fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Dynamic magnetic fields",
+        "isCorrect": true
+      },
+      {
+        "text": "Nuclear fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Maxwell's equations, the displacement current can generate dynamic magnetic fields.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "37",
+    "questionText": "What role does the displacement current play in the continuity equation for current?",
+    "options": [
+      {
+        "text": "It ensures that the total current is conserved",
+        "isCorrect": true
+      },
+      {
+        "text": "It ensures that the magnetic field is conserved",
+        "isCorrect": false
+      },
+      {
+        "text": "It ensures that the electric field is conserved",
+        "isCorrect": false
+      },
+      {
+        "text": "It ensures that the gravitational field is conserved",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current plays a role in ensuring that the total current (sum of conduction and displacement currents) is conserved in the continuity equation.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "38",
+    "questionText": "What is the significance of the displacement current in the context of electromagnetic wave propagation?",
+    "options": [
+      {
+        "text": "It is insignificant",
+        "isCorrect": false
+      },
+      {
+        "text": "It is crucial for the generation and propagation of electromagnetic waves",
+        "isCorrect": true
+      },
+      {
+        "text": "It only affects static fields",
+        "isCorrect": false
+      },
+      {
+        "text": "It only affects gravitational fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current is crucial for the generation and propagation of electromagnetic waves.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "39",
+    "questionText": "What modification did Maxwell make to Ampere's law to include the displacement current?",
+    "options": [
+      {
+        "text": "He added a term for static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "He added a term for time-varying electric fields",
+        "isCorrect": true
+      },
+      {
+        "text": "He added a term for static magnetic fields",
+        "isCorrect": false
+      },
+      {
+        "text": "He added a term for gravitational fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell modified Ampere's law by adding a term for time-varying electric fields, thus including the displacement current.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "40",
+    "questionText": "What did the inclusion of displacement current in Maxwell's equations help to explain?",
+    "options": [
+      {
+        "text": "Static gravitational fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "Dynamic magnetic fields and the propagation of electromagnetic waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Static magnetic fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The inclusion of displacement current in Maxwell's equations helped to explain dynamic magnetic fields and the propagation of electromagnetic waves.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "41",
+    "questionText": "What phenomenon can be explained by the displacement current in a parallel plate capacitor?",
+    "options": [
+      {
+        "text": "The presence of static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "The presence of a time-varying magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "The presence of gravitational waves",
+        "isCorrect": false
+      },
+      {
+        "text": "The presence of nuclear forces",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current in a parallel plate capacitor can explain the presence of a time-varying magnetic field.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "42",
+    "questionText": "What is the relationship between displacement current and conduction current in a capacitor during charging?",
+    "options": [
+      {
+        "text": "Displacement current is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Displacement current is equal to conduction current",
+        "isCorrect": true
+      },
+      {
+        "text": "Displacement current is half of conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Displacement current is twice the conduction current",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "During the charging of a capacitor, the displacement current is equal to the conduction current.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "EASY"
+  },
+  {
+    "qno": "43",
+    "questionText": "What does the displacement current help to maintain in the continuity equation for current?",
+    "options": [
+      {
+        "text": "The conservation of magnetic fields",
+        "isCorrect": false
+      },
+      {
+        "text": "The conservation of total current",
+        "isCorrect": true
+      },
+      {
+        "text": "The conservation of electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "The conservation of gravitational fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current helps to maintain the conservation of total current in the continuity equation.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "44",
+    "questionText": "How is the displacement current density ($J_d$) related to the rate of change of electric flux density ($D$)?",
+    "options": [
+      {
+        "text": "$J_d = \\mu_0 \\frac{dD}{dt}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$J_d = \\epsilon_0 \\frac{dD}{dt}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$J_d = \\epsilon_0 D$",
+        "isCorrect": false
+      },
+      {
+        "text": "$J_d = \\mu_0 D$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current density $J_d$ is related to the rate of change of electric flux density $D$ by $J_d = \\epsilon_0 \\frac{dD}{dt}$.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "45",
+    "questionText": "What is the result of the displacement current on the magnetic field inside a capacitor?",
+    "options": [
+      {
+        "text": "It eliminates the magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "It generates a magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "It reduces the magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "It has no effect on the magnetic field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current generates a magnetic field inside the capacitor.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "46",
+    "questionText": "What is the significance of Maxwell's displacement current in the context of electromagnetic theory?",
+    "options": [
+      {
+        "text": "It explains static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "It explains the propagation of electromagnetic waves",
+        "isCorrect": true
+      },
+      {
+        "text": "It explains gravitational fields",
+        "isCorrect": false
+      },
+      {
+        "text": "It explains nuclear forces",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell's displacement current is significant in explaining the propagation of electromagnetic waves.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "47",
+    "questionText": "In what form does the displacement current exist?",
+    "options": [
+      {
+        "text": "As moving charges",
+        "isCorrect": false
+      },
+      {
+        "text": "As a changing electric field",
+        "isCorrect": true
+      },
+      {
+        "text": "As a static magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "As a static electric field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current exists in the form of a changing electric field.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "48",
+    "questionText": "What is the equation for the displacement current in terms of the electric field $E$?",
+    "options": [
+      {
+        "text": "$I_d = \\epsilon_0 \\frac{dE}{dt}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$I_d = \\mu_0 \\frac{dE}{dt}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_d = \\epsilon_0 E$",
+        "isCorrect": false
+      },
+      {
+        "text": "$I_d = \\mu_0 E$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equation for the displacement current in terms of the electric field $E$ is $I_d = \\epsilon_0 \\frac{dE}{dt}$.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "49",
+    "questionText": "What kind of current is present in the region between the plates of a capacitor when it is being charged?",
+    "options": [
+      {
+        "text": "Only conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "Only displacement current",
+        "isCorrect": true
+      },
+      {
+        "text": "Both conduction and displacement current",
+        "isCorrect": false
+      },
+      {
+        "text": "No current at all",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When a capacitor is being charged, only the displacement current is present in the region between the plates.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "50",
+    "questionText": "How does the displacement current contribute to the generalization of Ampere's law?",
+    "options": [
+      {
+        "text": "By adding a term for static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "By adding a term for time-varying electric fields",
+        "isCorrect": true
+      },
+      {
+        "text": "By adding a term for static magnetic fields",
+        "isCorrect": false
+      },
+      {
+        "text": "By adding a term for gravitational fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current contributes to the generalization of Ampere's law by adding a term for time-varying electric fields.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "51",
+    "questionText": "What is the primary difference between conduction current and displacement current?",
+    "options": [
+      {
+        "text": "Conduction current involves moving charges, while displacement current involves a changing electric field",
+        "isCorrect": true
+      },
+      {
+        "text": "Conduction current involves a changing electric field, while displacement current involves moving charges",
+        "isCorrect": false
+      },
+      {
+        "text": "Both involve moving charges",
+        "isCorrect": false
+      },
+      {
+        "text": "Both involve a changing electric field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary difference is that conduction current involves moving charges, while displacement current involves a changing electric field.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "52",
+    "questionText": "Which of the following is true for the displacement current?",
+    "options": [
+      {
+        "text": "It can exist in a vacuum",
+        "isCorrect": true
+      },
+      {
+        "text": "It cannot exist in a vacuum",
+        "isCorrect": false
+      },
+      {
+        "text": "It requires a material medium",
+        "isCorrect": false
+      },
+      {
+        "text": "It is always equal to zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current can exist in a vacuum because it is due to a changing electric field, not moving charges.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "53",
+    "questionText": "How does the displacement current affect the magnetic field around a capacitor?",
+    "options": [
+      {
+        "text": "It has no effect",
+        "isCorrect": false
+      },
+      {
+        "text": "It creates a magnetic field similar to a conduction current",
+        "isCorrect": true
+      },
+      {
+        "text": "It decreases the magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "It cancels out the magnetic field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current creates a magnetic field similar to a conduction current around a capacitor.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "54",
+    "questionText": "What is the significance of the term $\\epsilon_0 \\frac{d\\Phi_E}{dt}$ in Maxwell's equations?",
+    "options": [
+      {
+        "text": "It represents the static electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "It represents the displacement current",
+        "isCorrect": true
+      },
+      {
+        "text": "It represents the conduction current",
+        "isCorrect": false
+      },
+      {
+        "text": "It represents the magnetic field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The term $\\epsilon_0 \\frac{d\\Phi_E}{dt}$ in Maxwell's equations represents the displacement current.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "55",
+    "questionText": "In what situation does the displacement current become important?",
+    "options": [
+      {
+        "text": "In static electric fields",
+        "isCorrect": false
+      },
+      {
+        "text": "In time-varying electric fields",
+        "isCorrect": true
+      },
+      {
+        "text": "In uniform magnetic fields",
+        "isCorrect": false
+      },
+      {
+        "text": "In gravitational fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current becomes important in situations involving time-varying electric fields.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "56",
+    "questionText": "What does the displacement current density ($J_d$) depend on?",
+    "options": [
+      {
+        "text": "The magnitude of the electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "The rate of change of the electric field",
+        "isCorrect": true
+      },
+      {
+        "text": "The magnitude of the magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "The rate of change of the magnetic field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current density $J_d$ depends on the rate of change of the electric field.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "57",
+    "questionText": "What does the displacement current ensure in the context of Maxwell's equations?",
+    "options": [
+      {
+        "text": "The continuity of electric charge",
+        "isCorrect": false
+      },
+      {
+        "text": "The continuity of current",
+        "isCorrect": true
+      },
+      {
+        "text": "The continuity of magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "The continuity of gravitational field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The displacement current ensures the continuity of current in the context of Maxwell's equations.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "58",
+    "questionText": "How did Maxwell's introduction of the displacement current impact the field of electromagnetism?",
+    "options": [
+      {
+        "text": "It had no significant impact",
+        "isCorrect": false
+      },
+      {
+        "text": "It unified the laws of electricity and magnetism",
+        "isCorrect": true
+      },
+      {
+        "text": "It contradicted existing theories",
+        "isCorrect": false
+      },
+      {
+        "text": "It only applied to static fields",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maxwell's introduction of the displacement current unified the laws of electricity and magnetism, significantly impacting the field of electromagnetism.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "HARD"
+  },
+  {
+    "qno": "59",
+    "questionText": "What is the effect of a time-varying electric field in the context of the displacement current?",
+    "options": [
+      {
+        "text": "It generates a displacement current",
+        "isCorrect": true
+      },
+      {
+        "text": "It generates a static electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "It generates a static magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "It cancels out the conduction current",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A time-varying electric field generates a displacement current in the context of electromagnetism.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "60",
+    "questionText": "What does the inclusion of displacement current in Maxwell's equations help to explain?",
+    "options": [
+      {
+        "text": "The propagation of electromagnetic waves",
+        "isCorrect": true
+      },
+      {
+        "text": "The propagation of sound waves",
+        "isCorrect": false
+      },
+      {
+        "text": "The propagation of gravitational waves",
+        "isCorrect": false
+      },
+      {
+        "text": "The propagation of nuclear forces",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The inclusion of displacement current in Maxwell's equations helps to explain the propagation of electromagnetic waves.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "1",
+    "questionText": "What is the nature of electromagnetic waves?",
+    "options": [
+      {
+        "text": "Longitudinal waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Transverse waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Surface waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Mechanical waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electromagnetic waves are transverse waves where the electric and magnetic fields oscillate perpendicular to the direction of wave propagation.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "In which direction do the electric and magnetic fields oscillate in an electromagnetic wave?",
+    "options": [
+      {
+        "text": "Parallel to each other",
+        "isCorrect": false
+      },
+      {
+        "text": "Perpendicular to each other",
+        "isCorrect": true
+      },
+      {
+        "text": "In the same direction",
+        "isCorrect": false
+      },
+      {
+        "text": "In opposite directions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an electromagnetic wave, the electric and magnetic fields oscillate perpendicular to each other.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "What is the speed of electromagnetic waves in a vacuum?",
+    "options": [
+      {
+        "text": "$3 \\times 10^6 \\ m/s$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 \\times 10^8 \\ m/s$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3 \\times 10^9 \\ m/s$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 \\times 10^5 \\ m/s$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of electromagnetic waves in a vacuum is $3 \\times 10^8 \\ m/s$.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "4",
+    "questionText": "Who first demonstrated the existence of electromagnetic waves experimentally?",
+    "options": [
+      {
+        "text": "James Clerk Maxwell",
+        "isCorrect": false
+      },
+      {
+        "text": "Heinrich Hertz",
+        "isCorrect": true
+      },
+      {
+        "text": "Michael Faraday",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Heinrich Hertz was the first to experimentally demonstrate the existence of electromagnetic waves.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "5",
+    "questionText": "What relationship do the electric and magnetic fields in an electromagnetic wave have?",
+    "options": [
+      {
+        "text": "They are in phase and perpendicular to each other",
+        "isCorrect": true
+      },
+      {
+        "text": "They are out of phase and perpendicular to each other",
+        "isCorrect": false
+      },
+      {
+        "text": "They are in phase and parallel to each other",
+        "isCorrect": false
+      },
+      {
+        "text": "They are out of phase and parallel to each other",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The electric and magnetic fields in an electromagnetic wave are in phase and perpendicular to each other.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "How are electromagnetic waves generated?",
+    "options": [
+      {
+        "text": "By static charges",
+        "isCorrect": false
+      },
+      {
+        "text": "By accelerating charges",
+        "isCorrect": true
+      },
+      {
+        "text": "By constant velocity charges",
+        "isCorrect": false
+      },
+      {
+        "text": "By neutral particles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electromagnetic waves are generated by accelerating charges.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "7",
+    "questionText": "What is the relationship between the frequency ($f$) and wavelength ($\\lambda$) of an electromagnetic wave?",
+    "options": [
+      {
+        "text": "$c = f \\lambda$",
+        "isCorrect": true
+      },
+      {
+        "text": "$c = \\frac{f}{\\lambda}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$c = f + \\lambda$",
+        "isCorrect": false
+      },
+      {
+        "text": "$c = \\frac{\\lambda}{f}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The relationship between the frequency ($f$) and wavelength ($\\lambda$) of an electromagnetic wave is given by $c = f \\lambda$, where $c$ is the speed of light.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "8",
+    "questionText": "What is the energy density of the electric field in an electromagnetic wave?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2} \\epsilon_0 E^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2} \\mu_0 E^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\epsilon_0 E^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\mu_0 E^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy density of the electric field in an electromagnetic wave is $\\frac{1}{2} \\epsilon_0 E^2$.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "HARD"
+  },
+  {
+    "qno": "9",
+    "questionText": "What is the energy density of the magnetic field in an electromagnetic wave?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2} \\mu_0 H^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{2} \\frac{B^2}{\\mu_0}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\mu_0 H^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{B^2}{\\mu_0}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy density of the magnetic field in an electromagnetic wave is $\\frac{1}{2} \\frac{B^2}{\\mu_0}$.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "HARD"
+  },
+  {
+    "qno": "10",
+    "questionText": "What is the Poynting vector?",
+    "options": [
+      {
+        "text": "A vector representing the magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "A vector representing the electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "A vector representing the energy flux in an electromagnetic wave",
+        "isCorrect": true
+      },
+      {
+        "text": "A vector representing the speed of light",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Poynting vector represents the energy flux in an electromagnetic wave.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "HARD"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the relation between the electric field ($E$) and the magnetic field ($B$) in an electromagnetic wave?",
+    "options": [
+      {
+        "text": "$E = cB$",
+        "isCorrect": true
+      },
+      {
+        "text": "$E = \\frac{B}{c}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$E = B$",
+        "isCorrect": false
+      },
+      {
+        "text": "$E = \\frac{B^2}{c}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The electric field ($E$) and the magnetic field ($B$) in an electromagnetic wave are related by $E = cB$, where $c$ is the speed of light.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "HARD"
+  },
+  {
+    "qno": "12",
+    "questionText": "What is the direction of the Poynting vector in relation to the electric and magnetic fields?",
+    "options": [
+      {
+        "text": "Parallel to the electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "Parallel to the magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "Perpendicular to both the electric and magnetic fields",
+        "isCorrect": true
+      },
+      {
+        "text": "Opposite to the direction of wave propagation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Poynting vector is perpendicular to both the electric and magnetic fields and points in the direction of wave propagation.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "HARD"
+  },
+  {
+    "qno": "13",
+    "questionText": "Which of the following is true about the speed of electromagnetic waves in different media?",
+    "options": [
+      {
+        "text": "It is always the same as in a vacuum",
+        "isCorrect": false
+      },
+      {
+        "text": "It is slower in a medium than in a vacuum",
+        "isCorrect": true
+      },
+      {
+        "text": "It is faster in a medium than in a vacuum",
+        "isCorrect": false
+      },
+      {
+        "text": "It varies randomly",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of electromagnetic waves is slower in a medium than in a vacuum.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "14",
+    "questionText": "What is the main mechanism of energy transfer in electromagnetic waves?",
+    "options": [
+      {
+        "text": "Conduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Convection",
+        "isCorrect": false
+      },
+      {
+        "text": "Radiation",
+        "isCorrect": true
+      },
+      {
+        "text": "Diffusion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The main mechanism of energy transfer in electromagnetic waves is radiation.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "15",
+    "questionText": "What property of electromagnetic waves allows them to travel through a vacuum?",
+    "options": [
+      {
+        "text": "They are mechanical waves",
+        "isCorrect": false
+      },
+      {
+        "text": "They do not require a medium",
+        "isCorrect": true
+      },
+      {
+        "text": "They are longitudinal waves",
+        "isCorrect": false
+      },
+      {
+        "text": "They have a frequency of zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electromagnetic waves can travel through a vacuum because they do not require a medium.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "16",
+    "questionText": "What is the relationship between the Poynting vector ($\\mathbf{S}$) and the energy flow in an electromagnetic wave?",
+    "options": [
+      {
+        "text": "$\\mathbf{S}$ points in the direction of energy flow",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\mathbf{S}$ points opposite to the direction of energy flow",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\mathbf{S}$ is perpendicular to the direction of energy flow",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\mathbf{S}$ has no relation to the direction of energy flow",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Poynting vector ($\\mathbf{S}$) points in the direction of energy flow in an electromagnetic wave.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "17",
+    "questionText": "What does the term $\\mathbf{S} = \\mathbf{E} \\times \\mathbf{H}$ represent in electromagnetic waves?",
+    "options": [
+      {
+        "text": "The speed of the wave",
+        "isCorrect": false
+      },
+      {
+        "text": "The energy density",
+        "isCorrect": false
+      },
+      {
+        "text": "The Poynting vector",
+        "isCorrect": true
+      },
+      {
+        "text": "The wavelength",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The term $\\mathbf{S} = \\mathbf{E} \\times \\mathbf{H}$ represents the Poynting vector in electromagnetic waves.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "HARD"
+  },
+  {
+    "qno": "18",
+    "questionText": "What is the relationship between the electric field ($E$) and magnetic field ($B$) in terms of energy density in an electromagnetic wave?",
+    "options": [
+      {
+        "text": "Energy density of $E$ is twice that of $B$",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy density of $E$ is half that of $B$",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy densities of $E$ and $B$ are equal",
+        "isCorrect": true
+      },
+      {
+        "text": "Energy density of $E$ is independent of $B$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The energy densities of the electric field ($E$) and magnetic field ($B$) in an electromagnetic wave are equal.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "HARD"
+  },
+  {
+    "qno": "19",
+    "questionText": "What kind of wave is an electromagnetic wave in terms of polarization?",
+    "options": [
+      {
+        "text": "Longitudinal wave",
+        "isCorrect": false
+      },
+      {
+        "text": "Transverse wave",
+        "isCorrect": true
+      },
+      {
+        "text": "Surface wave",
+        "isCorrect": false
+      },
+      {
+        "text": "Standing wave",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "An electromagnetic wave is a transverse wave, meaning its oscillations are perpendicular to the direction of wave propagation.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "20",
+    "questionText": "What is the primary source of electromagnetic waves?",
+    "options": [
+      {
+        "text": "Static charges",
+        "isCorrect": false
+      },
+      {
+        "text": "Accelerating charges",
+        "isCorrect": true
+      },
+      {
+        "text": "Constant velocity charges",
+        "isCorrect": false
+      },
+      {
+        "text": "Neutral particles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary source of electromagnetic waves is accelerating charges.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "What is the electric field vector direction in an electromagnetic wave propagating in the x-direction?",
+    "options": [
+      {
+        "text": "Along the y-axis",
+        "isCorrect": true
+      },
+      {
+        "text": "Along the x-axis",
+        "isCorrect": false
+      },
+      {
+        "text": "Along the z-axis",
+        "isCorrect": false
+      },
+      {
+        "text": "Opposite to the x-axis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In an electromagnetic wave propagating in the x-direction, the electric field vector typically oscillates along the y-axis.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "22",
+    "questionText": "What does the Maxwell equation $\\nabla \\cdot \\mathbf{E} = \\frac{\\rho}{\\epsilon_0}$ describe?",
+    "options": [
+      {
+        "text": "Gauss's law for electricity",
+        "isCorrect": true
+      },
+      {
+        "text": "Gauss's law for magnetism",
+        "isCorrect": false
+      },
+      {
+        "text": "Faraday's law of induction",
+        "isCorrect": false
+      },
+      {
+        "text": "Ampere's law with Maxwell's addition",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Maxwell equation $\\nabla \\cdot \\mathbf{E} = \\frac{\\rho}{\\epsilon_0}$ describes Gauss's law for electricity.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "What does the Maxwell equation $\\nabla \\cdot \\mathbf{B} = 0$ imply?",
+    "options": [
+      {
+        "text": "There are no magnetic monopoles",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnetic field is always zero",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic field is always constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Electric field is zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Maxwell equation $\\nabla \\cdot \\mathbf{B} = 0$ implies that there are no magnetic monopoles.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "What is the main result of Faraday's law of induction in Maxwell's equations?",
+    "options": [
+      {
+        "text": "A changing magnetic field induces an electric field",
+        "isCorrect": true
+      },
+      {
+        "text": "A static magnetic field induces an electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "A changing electric field induces a magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "A static electric field induces a magnetic field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Faraday's law of induction states that a changing magnetic field induces an electric field.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "25",
+    "questionText": "What is the result of the Maxwell-Ampere equation?",
+    "options": [
+      {
+        "text": "A changing electric field induces a magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "A static electric field induces a magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "A changing magnetic field induces an electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "A static magnetic field induces an electric field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Maxwell-Ampere equation states that a changing electric field induces a magnetic field.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "26",
+    "questionText": "What is the speed of electromagnetic waves in a vacuum dependent on?",
+    "options": [
+      {
+        "text": "Permittivity and permeability of free space",
+        "isCorrect": true
+      },
+      {
+        "text": "Charge and mass of the particle",
+        "isCorrect": false
+      },
+      {
+        "text": "Temperature and pressure of the medium",
+        "isCorrect": false
+      },
+      {
+        "text": "Frequency and wavelength of the wave",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The speed of electromagnetic waves in a vacuum depends on the permittivity and permeability of free space.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "HARD"
+  },
+  {
+    "qno": "27",
+    "questionText": "What does the Maxwell equation $\\nabla \\times \\mathbf{E} = - \\frac{\\partial \\mathbf{B}}{\\partial t}$ describe?",
+    "options": [
+      {
+        "text": "Faraday's law of induction",
+        "isCorrect": true
+      },
+      {
+        "text": "Gauss's law for electricity",
+        "isCorrect": false
+      },
+      {
+        "text": "Gauss's law for magnetism",
+        "isCorrect": false
+      },
+      {
+        "text": "Ampere's law with Maxwell's addition",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Maxwell equation $\\nabla \\times \\mathbf{E} = - \\frac{\\partial \\mathbf{B}}{\\partial t}$ describes Faraday's law of induction.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "28",
+    "questionText": "What is the significance of the equation $\\nabla \\times \\mathbf{B} = \\mu_0 \\mathbf{J} + \\mu_0 \\epsilon_0 \\frac{\\partial \\mathbf{E}}{\\partial t}$ in Maxwell's equations?",
+    "options": [
+      {
+        "text": "It shows that a changing electric field generates a magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "It shows that a changing magnetic field generates an electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "It shows that electric field is zero",
+        "isCorrect": false
+      },
+      {
+        "text": "It shows that magnetic field is zero",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equation $\\nabla \\times \\mathbf{B} = \\mu_0 \\mathbf{J} + \\mu_0 \\epsilon_0 \\frac{\\partial \\mathbf{E}}{\\partial t}$ shows that a changing electric field generates a magnetic field.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "HARD"
+  },
+  {
+    "qno": "29",
+    "questionText": "What is the direction of wave propagation in an electromagnetic wave with fields $\\mathbf{E}$ and $\\mathbf{B}$?",
+    "options": [
+      {
+        "text": "Parallel to both $\\mathbf{E}$ and $\\mathbf{B}$",
+        "isCorrect": false
+      },
+      {
+        "text": "Perpendicular to both $\\mathbf{E}$ and $\\mathbf{B}$",
+        "isCorrect": true
+      },
+      {
+        "text": "Opposite to $\\mathbf{E}$",
+        "isCorrect": false
+      },
+      {
+        "text": "Opposite to $\\mathbf{B}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The direction of wave propagation in an electromagnetic wave is perpendicular to both the electric field $\\mathbf{E}$ and the magnetic field $\\mathbf{B}$.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "30",
+    "questionText": "What does the equation $\\nabla \\times \\mathbf{B} = \\mu_0 \\epsilon_0 \\frac{\\partial \\mathbf{E}}{\\partial t}$ imply about the relationship between electric and magnetic fields?",
+    "options": [
+      {
+        "text": "A static electric field generates a magnetic field",
+        "isCorrect": false
+      },
+      {
+        "text": "A changing electric field generates a magnetic field",
+        "isCorrect": true
+      },
+      {
+        "text": "A static magnetic field generates an electric field",
+        "isCorrect": false
+      },
+      {
+        "text": "A changing magnetic field generates an electric field",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The equation $\\nabla \\times \\mathbf{B} = \\mu_0 \\epsilon_0 \\frac{\\partial \\mathbf{E}}{\\partial t}$ implies that a changing electric field generates a magnetic field.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "31",
+    "questionText": "What type of spectrum do electromagnetic waves form?",
+    "options": [
+      {
+        "text": "Continuous spectrum",
+        "isCorrect": true
+      },
+      {
+        "text": "Discrete spectrum",
+        "isCorrect": false
+      },
+      {
+        "text": "Random spectrum",
+        "isCorrect": false
+      },
+      {
+        "text": "Segmented spectrum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electromagnetic waves form a continuous spectrum ranging from radio waves to gamma rays.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "32",
+    "questionText": "Which part of the electromagnetic spectrum has the highest frequency?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "X-rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Gamma rays have the highest frequency in the electromagnetic spectrum.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "33",
+    "questionText": "Which part of the electromagnetic spectrum is used for communication via mobile phones?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Radio waves are used for communication via mobile phones.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "34",
+    "questionText": "What is the wavelength range of visible light in the electromagnetic spectrum?",
+    "options": [
+      {
+        "text": "400 nm to 700 nm",
+        "isCorrect": true
+      },
+      {
+        "text": "700 nm to 1000 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "200 nm to 400 nm",
+        "isCorrect": false
+      },
+      {
+        "text": "100 nm to 200 nm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength range of visible light in the electromagnetic spectrum is 400 nm to 700 nm.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "35",
+    "questionText": "What is the primary use of infrared waves in technology?",
+    "options": [
+      {
+        "text": "Radio communication",
+        "isCorrect": false
+      },
+      {
+        "text": "Heating and night vision",
+        "isCorrect": true
+      },
+      {
+        "text": "X-ray imaging",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet sterilization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are primarily used for heating and night vision technologies.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "36",
+    "questionText": "What is the primary source of ultraviolet (UV) radiation?",
+    "options": [
+      {
+        "text": "The Sun",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio towers",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwave ovens",
+        "isCorrect": false
+      },
+      {
+        "text": "X-ray machines",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary source of ultraviolet (UV) radiation is the Sun.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "37",
+    "questionText": "Which part of the electromagnetic spectrum is commonly used in medical imaging?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "X-rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "X-rays are commonly used in medical imaging.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "38",
+    "questionText": "What is the relationship between the wavelength and frequency of an electromagnetic wave?",
+    "options": [
+      {
+        "text": "They are directly proportional",
+        "isCorrect": false
+      },
+      {
+        "text": "They are inversely proportional",
+        "isCorrect": true
+      },
+      {
+        "text": "They are independent",
+        "isCorrect": false
+      },
+      {
+        "text": "They are equal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The wavelength and frequency of an electromagnetic wave are inversely proportional.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "39",
+    "questionText": "Which electromagnetic waves are used in radar systems?",
+    "options": [
+      {
+        "text": "Microwaves",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Microwaves are used in radar systems.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "40",
+    "questionText": "Which of the following properties is true for all electromagnetic waves?",
+    "options": [
+      {
+        "text": "They require a medium for propagation",
+        "isCorrect": false
+      },
+      {
+        "text": "They travel at the speed of light in a vacuum",
+        "isCorrect": true
+      },
+      {
+        "text": "They are longitudinal waves",
+        "isCorrect": false
+      },
+      {
+        "text": "They are mechanical waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "All electromagnetic waves travel at the speed of light in a vacuum.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "41",
+    "questionText": "What type of radiation is used in the treatment of cancer?",
+    "options": [
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gamma rays are used in the treatment of cancer.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "42",
+    "questionText": "Which part of the electromagnetic spectrum is used for remote control devices?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are used for remote control devices.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "43",
+    "questionText": "Which of the following electromagnetic waves has the shortest wavelength?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Gamma rays have the shortest wavelength in the electromagnetic spectrum.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "44",
+    "questionText": "Which part of the electromagnetic spectrum is used for sterilizing medical instruments?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ultraviolet waves are used for sterilizing medical instruments.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "45",
+    "questionText": "What type of electromagnetic wave is primarily used in microwave ovens?",
+    "options": [
+      {
+        "text": "Microwaves",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Microwaves are primarily used in microwave ovens.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "46",
+    "questionText": "Which electromagnetic waves are used in satellite communication?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Radio waves are used in satellite communication.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "47",
+    "questionText": "What is the effect of increasing frequency on the energy of an electromagnetic wave?",
+    "options": [
+      {
+        "text": "Energy decreases",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Energy remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Energy is not related to frequency",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As the frequency of an electromagnetic wave increases, its energy increases.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "48",
+    "questionText": "Which type of electromagnetic radiation is primarily used for thermal imaging?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are primarily used for thermal imaging.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "49",
+    "questionText": "Which part of the electromagnetic spectrum has the longest wavelength?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Radio waves have the longest wavelength in the electromagnetic spectrum.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "50",
+    "questionText": "What type of electromagnetic radiation is used in night vision goggles?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are used in night vision goggles.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "51",
+    "questionText": "Which electromagnetic waves are used in airport security scanners?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "X-rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "X-rays are used in airport security scanners.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "52",
+    "questionText": "Which type of electromagnetic radiation is used in fluorescent lamps?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ultraviolet waves are used in fluorescent lamps.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "53",
+    "questionText": "Which type of electromagnetic radiation is used in sterilization of food and medical equipment?",
+    "options": [
+      {
+        "text": "Gamma rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gamma rays are used in the sterilization of food and medical equipment.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "54",
+    "questionText": "Which type of electromagnetic radiation is used in fiber optic communication?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are used in fiber optic communication.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "55",
+    "questionText": "Which electromagnetic waves are used in microwave ovens?",
+    "options": [
+      {
+        "text": "Microwaves",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Microwaves are used in microwave ovens.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "56",
+    "questionText": "Which type of electromagnetic radiation is used in remote controls?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are used in remote controls.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "EASY"
+  },
+  {
+    "qno": "57",
+    "questionText": "Which type of electromagnetic radiation is used in radar systems?",
+    "options": [
+      {
+        "text": "Microwaves",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Microwaves are used in radar systems.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "58",
+    "questionText": "Which type of electromagnetic radiation is used in X-ray machines?",
+    "options": [
+      {
+        "text": "X-rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "X-rays are used in X-ray machines.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "60",
+    "questionText": "Which type of electromagnetic radiation is used in night vision goggles?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are used in night vision goggles.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Waves",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "1",
+    "questionText": "What is the primary concern regarding the toxicity of electromagnetic radiation?",
+    "options": [
+      {
+        "text": "Ionization of biological molecules",
+        "isCorrect": true
+      },
+      {
+        "text": "Heating of biological tissues",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference with electronic devices",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic effects on metals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary concern regarding the toxicity of electromagnetic radiation is the ionization of biological molecules, which can damage cells and DNA.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "2",
+    "questionText": "Which type of electromagnetic radiation is most associated with skin cancer?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ultraviolet rays are most associated with skin cancer due to their ability to ionize biological molecules and damage DNA.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "What type of electromagnetic radiation is commonly used for sterilizing medical equipment?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gamma rays are commonly used for sterilizing medical equipment because of their high energy and ability to kill bacteria and viruses.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "4",
+    "questionText": "What is the effect of prolonged exposure to high levels of microwave radiation?",
+    "options": [
+      {
+        "text": "Heating of biological tissues",
+        "isCorrect": true
+      },
+      {
+        "text": "Ionization of biological molecules",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference with electronic devices",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic effects on metals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolonged exposure to high levels of microwave radiation can cause heating of biological tissues, leading to potential burns and other heat-related injuries.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "5",
+    "questionText": "Which type of electromagnetic radiation is least likely to cause ionization?",
+    "options": [
+      {
+        "text": "Gamma rays",
+        "isCorrect": false
+      },
+      {
+        "text": "X-rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Radio waves are the least likely to cause ionization because they have the lowest energy compared to other types of electromagnetic radiation.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "What is the primary use of X-rays in medicine?",
+    "options": [
+      {
+        "text": "Heating tissues",
+        "isCorrect": false
+      },
+      {
+        "text": "Sterilizing equipment",
+        "isCorrect": false
+      },
+      {
+        "text": "Imaging internal structures",
+        "isCorrect": true
+      },
+      {
+        "text": "Therapeutic treatments",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary use of X-rays in medicine is for imaging internal structures, such as bones and organs.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "7",
+    "questionText": "What protective measure is commonly used to minimize exposure to harmful electromagnetic radiation?",
+    "options": [
+      {
+        "text": "Lead shielding",
+        "isCorrect": true
+      },
+      {
+        "text": "Aluminum foil",
+        "isCorrect": false
+      },
+      {
+        "text": "Plastic wrap",
+        "isCorrect": false
+      },
+      {
+        "text": "Glass windows",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lead shielding is commonly used to minimize exposure to harmful electromagnetic radiation, such as X-rays and gamma rays.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "8",
+    "questionText": "Which type of electromagnetic radiation is used in cancer radiotherapy?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gamma rays are used in cancer radiotherapy because of their ability to penetrate tissues and destroy cancer cells.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "9",
+    "questionText": "What is a common source of ultraviolet radiation that can cause skin damage?",
+    "options": [
+      {
+        "text": "Microwave ovens",
+        "isCorrect": false
+      },
+      {
+        "text": "Television screens",
+        "isCorrect": false
+      },
+      {
+        "text": "Sunlight",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio transmitters",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sunlight is a common source of ultraviolet radiation that can cause skin damage.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "10",
+    "questionText": "What health effect is primarily associated with long-term exposure to low levels of non-ionizing radiation?",
+    "options": [
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Eye strain and headaches",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA damage",
+        "isCorrect": false
+      },
+      {
+        "text": "Acute radiation sickness",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Long-term exposure to low levels of non-ionizing radiation is primarily associated with eye strain and headaches.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the primary danger of exposure to high levels of gamma rays?",
+    "options": [
+      {
+        "text": "Heating of biological tissues",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization of biological molecules",
+        "isCorrect": true
+      },
+      {
+        "text": "Interference with electronic devices",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic effects on metals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary danger of exposure to high levels of gamma rays is the ionization of biological molecules, which can lead to serious health effects like cancer.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "12",
+    "questionText": "Which type of electromagnetic radiation is used for detecting heat leaks in buildings?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Ultraviolet rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are used for detecting heat leaks in buildings due to their ability to detect heat radiation.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "13",
+    "questionText": "Which electromagnetic waves are most commonly associated with heating effects?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": true
+      },
+      {
+        "text": "X-rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Microwaves are most commonly associated with heating effects, such as those used in microwave ovens.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "14",
+    "questionText": "What protective measures can be used to reduce exposure to ultraviolet radiation?",
+    "options": [
+      {
+        "text": "Wearing sunscreen and protective clothing",
+        "isCorrect": true
+      },
+      {
+        "text": "Using lead shielding",
+        "isCorrect": false
+      },
+      {
+        "text": "Increasing vitamin D intake",
+        "isCorrect": false
+      },
+      {
+        "text": "Using anti-glare screens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Wearing sunscreen and protective clothing can help reduce exposure to ultraviolet radiation.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "15",
+    "questionText": "What is the primary effect of exposure to high levels of X-rays?",
+    "options": [
+      {
+        "text": "Heating of biological tissues",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization of biological molecules",
+        "isCorrect": true
+      },
+      {
+        "text": "Interference with electronic devices",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic effects on metals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure to high levels of X-rays can cause ionization of biological molecules, which can damage cells and DNA.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "16",
+    "questionText": "Which type of electromagnetic radiation is used in night vision technology?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Ultraviolet rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are used in night vision technology because they can detect heat emitted by objects.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "What health effect can result from prolonged exposure to infrared radiation?",
+    "options": [
+      {
+        "text": "Eye damage",
+        "isCorrect": true
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Bone fractures",
+        "isCorrect": false
+      },
+      {
+        "text": "Hearing loss",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolonged exposure to infrared radiation can result in eye damage, such as cataracts.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "18",
+    "questionText": "Which type of electromagnetic radiation is commonly used in airport security scanners?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "X-rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "X-rays are commonly used in airport security scanners to detect objects hidden on passengers.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "19",
+    "questionText": "What is a common source of exposure to non-ionizing radiation in everyday life?",
+    "options": [
+      {
+        "text": "Sunlight",
+        "isCorrect": true
+      },
+      {
+        "text": "X-ray machines",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma ray bursts",
+        "isCorrect": false
+      },
+      {
+        "text": "Nuclear reactors",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sunlight is a common source of exposure to non-ionizing radiation, including visible light and ultraviolet rays.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "20",
+    "questionText": "What type of radiation is used in medical imaging to see inside the body?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": false
+      },
+      {
+        "text": "X-rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "X-rays are used in medical imaging to see inside the body, such as in radiographs.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "Which type of electromagnetic radiation is associated with the highest energy?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Gamma rays are associated with the highest energy in the electromagnetic spectrum.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "22",
+    "questionText": "What is the primary concern with prolonged exposure to ultraviolet (UV) radiation?",
+    "options": [
+      {
+        "text": "Skin cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Bone fractures",
+        "isCorrect": false
+      },
+      {
+        "text": "Hearing loss",
+        "isCorrect": false
+      },
+      {
+        "text": "Muscle weakness",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary concern with prolonged exposure to ultraviolet (UV) radiation is an increased risk of skin cancer.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "Which type of electromagnetic radiation is used in microwave ovens?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": true
+      },
+      {
+        "text": "Ultraviolet rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Microwaves are used in microwave ovens for cooking food by heating water molecules.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "24",
+    "questionText": "What type of electromagnetic radiation is used in MRI (Magnetic Resonance Imaging) technology?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": false
+      },
+      {
+        "text": "X-rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "MRI (Magnetic Resonance Imaging) technology uses radio waves to generate detailed images of the body's internal structures.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "25",
+    "questionText": "Which type of electromagnetic radiation is least likely to cause damage to human tissue?",
+    "options": [
+      {
+        "text": "Gamma rays",
+        "isCorrect": false
+      },
+      {
+        "text": "X-rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Radio waves are least likely to cause damage to human tissue because they have lower energy compared to other types of electromagnetic radiation.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "26",
+    "questionText": "What is the primary risk of exposure to high levels of visible light?",
+    "options": [
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Eye strain and damage",
+        "isCorrect": true
+      },
+      {
+        "text": "Bone fractures",
+        "isCorrect": false
+      },
+      {
+        "text": "Hearing loss",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure to high levels of visible light primarily poses a risk of eye strain and damage.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "27",
+    "questionText": "Which type of electromagnetic radiation is commonly used in remote control devices?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are commonly used in remote control devices.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "28",
+    "questionText": "What is the main use of gamma rays in the medical field?",
+    "options": [
+      {
+        "text": "Heating tissues",
+        "isCorrect": false
+      },
+      {
+        "text": "Sterilizing equipment",
+        "isCorrect": false
+      },
+      {
+        "text": "Imaging internal structures",
+        "isCorrect": false
+      },
+      {
+        "text": "Cancer treatment",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Gamma rays are primarily used in the medical field for cancer treatment due to their high energy and ability to destroy cancer cells.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "29",
+    "questionText": "Which type of electromagnetic radiation is used in weather forecasting?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet rays",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Radio waves are used in weather forecasting to detect and analyze weather patterns.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "31",
+    "questionText": "What is the primary use of ultraviolet (UV) radiation in the field of sanitation?",
+    "options": [
+      {
+        "text": "Heating water",
+        "isCorrect": false
+      },
+      {
+        "text": "Sterilizing surfaces",
+        "isCorrect": true
+      },
+      {
+        "text": "Detecting leaks",
+        "isCorrect": false
+      },
+      {
+        "text": "Imaging bones",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ultraviolet (UV) radiation is primarily used for sterilizing surfaces in sanitation.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "32",
+    "questionText": "Which type of electromagnetic radiation is commonly associated with sunburns?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ultraviolet rays are commonly associated with sunburns.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "33",
+    "questionText": "What health effect is primarily associated with prolonged exposure to low levels of non-ionizing radiation?",
+    "options": [
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Eye strain and headaches",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA damage",
+        "isCorrect": false
+      },
+      {
+        "text": "Acute radiation sickness",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolonged exposure to low levels of non-ionizing radiation is primarily associated with eye strain and headaches.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "34",
+    "questionText": "Which type of electromagnetic radiation has the potential to cause ionization in biological tissues?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gamma rays have the potential to cause ionization in biological tissues due to their high energy.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "35",
+    "questionText": "Which type of electromagnetic radiation is primarily used in thermal imaging cameras?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Ultraviolet rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are primarily used in thermal imaging cameras to detect heat.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "36",
+    "questionText": "What is the primary risk associated with prolonged exposure to high-intensity visible light?",
+    "options": [
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Eye damage",
+        "isCorrect": true
+      },
+      {
+        "text": "Bone fractures",
+        "isCorrect": false
+      },
+      {
+        "text": "Hearing loss",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolonged exposure to high-intensity visible light can cause eye damage, such as cataracts and macular degeneration.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "38",
+    "questionText": "What is the primary effect of prolonged exposure to high levels of infrared radiation?",
+    "options": [
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Eye damage",
+        "isCorrect": true
+      },
+      {
+        "text": "Bone fractures",
+        "isCorrect": false
+      },
+      {
+        "text": "Hearing loss",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolonged exposure to high levels of infrared radiation can result in eye damage, such as cataracts.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "39",
+    "questionText": "Which type of electromagnetic radiation is used for sterilizing medical equipment?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gamma rays are used for sterilizing medical equipment because of their high energy and ability to kill bacteria and viruses.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "40",
+    "questionText": "What is a common source of non-ionizing radiation in everyday life?",
+    "options": [
+      {
+        "text": "Sunlight",
+        "isCorrect": true
+      },
+      {
+        "text": "X-ray machines",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma ray bursts",
+        "isCorrect": false
+      },
+      {
+        "text": "Nuclear reactors",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sunlight is a common source of non-ionizing radiation, including visible light and ultraviolet rays.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "41",
+    "questionText": "What is the primary danger of exposure to high levels of X-rays?",
+    "options": [
+      {
+        "text": "Heating of biological tissues",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization of biological molecules",
+        "isCorrect": true
+      },
+      {
+        "text": "Interference with electronic devices",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic effects on metals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary danger of exposure to high levels of X-rays is the ionization of biological molecules, which can damage cells and DNA.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "42",
+    "questionText": "Which type of electromagnetic radiation is used in airport security scanners?",
+    "options": [
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "X-rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "X-rays are used in airport security scanners to detect objects hidden on passengers.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "43",
+    "questionText": "What health effect can result from prolonged exposure to ultraviolet radiation?",
+    "options": [
+      {
+        "text": "Eye damage",
+        "isCorrect": true
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Bone fractures",
+        "isCorrect": false
+      },
+      {
+        "text": "Hearing loss",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolonged exposure to ultraviolet radiation can result in eye damage, such as cataracts, and increase the risk of skin cancer.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "44",
+    "questionText": "Which type of electromagnetic radiation is primarily used in sterilizing medical equipment?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamma rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gamma rays are primarily used in sterilizing medical equipment due to their high energy and ability to kill bacteria and viruses.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "50",
+    "questionText": "What is the primary effect of exposure to high levels of infrared radiation?",
+    "options": [
+      {
+        "text": "Heating of biological tissues",
+        "isCorrect": true
+      },
+      {
+        "text": "Ionization of biological molecules",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference with electronic devices",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic effects on metals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolonged exposure to high levels of infrared radiation can cause heating of biological tissues, leading to potential burns and other heat-related injuries.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "51",
+    "questionText": "Which type of electromagnetic radiation is primarily used in fiber optic communication?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are primarily used in fiber optic communication due to their ability to transmit data over long distances with low loss.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "52",
+    "questionText": "What is the primary effect of ultraviolet (UV) radiation on the skin?",
+    "options": [
+      {
+        "text": "Tanning and sunburn",
+        "isCorrect": true
+      },
+      {
+        "text": "Cooling sensation",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased vitamin D production",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased hair growth",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ultraviolet (UV) radiation primarily causes tanning and sunburn when it interacts with the skin.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "53",
+    "questionText": "Which type of electromagnetic radiation is used in remote controls for televisions?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are used in remote controls for televisions to transmit signals to the TV receiver.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "54",
+    "questionText": "What is the primary risk associated with prolonged exposure to low levels of non-ionizing radiation?",
+    "options": [
+      {
+        "text": "Eye strain and headaches",
+        "isCorrect": true
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA damage",
+        "isCorrect": false
+      },
+      {
+        "text": "Acute radiation sickness",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prolonged exposure to low levels of non-ionizing radiation is primarily associated with eye strain and headaches.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "55",
+    "questionText": "Which type of electromagnetic radiation is commonly used in microwave ovens?",
+    "options": [
+      {
+        "text": "Microwaves",
+        "isCorrect": true
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Microwaves are used in microwave ovens to heat food by agitating water molecules.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "56",
+    "questionText": "What is the primary effect of exposure to high levels of ultraviolet (UV) radiation?",
+    "options": [
+      {
+        "text": "Skin burns and increased risk of skin cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Eye strain",
+        "isCorrect": false
+      },
+      {
+        "text": "Bone fractures",
+        "isCorrect": false
+      },
+      {
+        "text": "Hearing loss",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "High levels of ultraviolet (UV) radiation can cause skin burns and increase the risk of skin cancer.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "57",
+    "questionText": "Which type of electromagnetic radiation is primarily used in airport body scanners?",
+    "options": [
+      {
+        "text": "X-rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "X-rays are primarily used in airport body scanners to detect concealed objects on passengers.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "58",
+    "questionText": "Which type of electromagnetic radiation is commonly used in night vision technology?",
+    "options": [
+      {
+        "text": "Infrared waves",
+        "isCorrect": true
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultraviolet rays",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Infrared waves are commonly used in night vision technology to detect heat emitted by objects.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "59",
+    "questionText": "What is the primary danger of exposure to high levels of gamma rays?",
+    "options": [
+      {
+        "text": "Ionization of biological molecules",
+        "isCorrect": true
+      },
+      {
+        "text": "Heating of biological tissues",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference with electronic devices",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnetic effects on metals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary danger of exposure to high levels of gamma rays is the ionization of biological molecules, which can lead to serious health effects like cancer.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "60",
+    "questionText": "Which type of electromagnetic radiation is used in cancer radiotherapy?",
+    "options": [
+      {
+        "text": "Gamma rays",
+        "isCorrect": true
+      },
+      {
+        "text": "Infrared waves",
+        "isCorrect": false
+      },
+      {
+        "text": "Microwaves",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio waves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gamma rays are used in cancer radiotherapy because of their ability to penetrate tissues and destroy cancer cells.",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum and Toxicity",
+    "level": "EASY"
+  }
+]

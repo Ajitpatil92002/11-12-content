@@ -1,0 +1,5618 @@
+[
+  {
+    "qno": "1",
+    "questionText": "Which of the following is a saturated hydrocarbon?",
+    "options": [
+      {
+        "text": "Ethylene",
+        "isCorrect": false
+      },
+      {
+        "text": "Methane",
+        "isCorrect": true
+      },
+      {
+        "text": "Acetylene",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methane ($CH_4$) is a saturated hydrocarbon with single bonds only.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "The general formula of alkanes is:",
+    "options": [
+      {
+        "text": "$C_nH_{2n}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_nH_{2n+2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_nH_{2n-2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_nH_{2n+1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The general formula for alkanes is $C_nH_{2n+2}$ where $n$ is the number of carbon atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "Which of the following is an example of an aromatic hydrocarbon?",
+    "options": [
+      {
+        "text": "Hexane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene ($C_6H_6$) is an aromatic hydrocarbon with a ring structure.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "4",
+    "questionText": "Identify the incorrect statement about alkanes.",
+    "options": [
+      {
+        "text": "Alkanes are saturated hydrocarbons.",
+        "isCorrect": false
+      },
+      {
+        "text": "Alkanes can form branched chains.",
+        "isCorrect": false
+      },
+      {
+        "text": "Alkanes have the general formula $C_nH_{2n}$.",
+        "isCorrect": true
+      },
+      {
+        "text": "Methane is the simplest alkane.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The general formula for alkanes is $C_nH_{2n+2}$, not $C_nH_{2n}$.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "5",
+    "questionText": "What type of hydrocarbon is ethyne?",
+    "options": [
+      {
+        "text": "Alkane",
+        "isCorrect": false
+      },
+      {
+        "text": "Alkene",
+        "isCorrect": false
+      },
+      {
+        "text": "Alkyne",
+        "isCorrect": true
+      },
+      {
+        "text": "Aromatic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethyne ($C_2H_2$) is an alkyne with a triple bond.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "Which hydrocarbon has the molecular formula $C_3H_8$?",
+    "options": [
+      {
+        "text": "Propane",
+        "isCorrect": true
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Propane ($C_3H_8$) is an alkane with three carbon atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "7",
+    "questionText": "How many structural isomers can $C_4H_{10}$ have?",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "$C_4H_{10}$ (butane) can have two structural isomers: n-butane and isobutane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "8",
+    "questionText": "Which hydrocarbon is used as a fuel in LPG?",
+    "options": [
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      },
+      {
+        "text": "Butyne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Propane ($C_3H_8$) is commonly used as a fuel in LPG.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "9",
+    "questionText": "Identify the hydrocarbon with the formula $C_2H_4$.",
+    "options": [
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethene ($C_2H_4$) is an alkene with a double bond.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "10",
+    "questionText": "Which of the following is not an alkane?",
+    "options": [
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": true
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethene ($C_2H_4$) is an alkene, not an alkane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the general formula for alkanes?",
+    "options": [
+      {
+        "text": "$C_nH_{2n+2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_nH_{2n}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_nH_{2n-2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_nH_{2n+1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The general formula for alkanes is $C_nH_{2n+2}$, where $n$ is the number of carbon atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "12",
+    "questionText": "Which of the following is the simplest alkane?",
+    "options": [
+      {
+        "text": "Methane",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methane ($CH_4$) is the simplest alkane, consisting of one carbon atom and four hydrogen atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "What type of hybridization is found in alkanes?",
+    "options": [
+      {
+        "text": "$sp^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$sp^3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$sp$",
+        "isCorrect": false
+      },
+      {
+        "text": "$dsp^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In alkanes, each carbon atom undergoes $sp^3$ hybridization, forming four sigma bonds.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "14",
+    "questionText": "How many structural isomers are possible for $C_5H_{12}$?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pentane ($C_5H_{12}$) has three structural isomers: n-pentane, isopentane, and neopentane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "15",
+    "questionText": "What is the IUPAC name of the following compound: $CH_3-CH(CH_3)-CH_2-CH_3$?",
+    "options": [
+      {
+        "text": "2-Methylbutane",
+        "isCorrect": true
+      },
+      {
+        "text": "Isobutane",
+        "isCorrect": false
+      },
+      {
+        "text": "n-Butane",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Ethylpropane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The compound $CH_3-CH(CH_3)-CH_2-CH_3$ is named 2-Methylbutane according to IUPAC nomenclature.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "16",
+    "questionText": "Which reaction is used to prepare higher alkanes from alkyl halides?",
+    "options": [
+      {
+        "text": "Wurtz reaction",
+        "isCorrect": true
+      },
+      {
+        "text": "Kolbe's reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "Friedel-Crafts alkylation",
+        "isCorrect": false
+      },
+      {
+        "text": "Grignard reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Wurtz reaction involves the coupling of alkyl halides using sodium metal in dry ether to form higher alkanes.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "HARD"
+  },
+  {
+    "qno": "17",
+    "questionText": "In alkanes, the carbon-carbon bond length is approximately:",
+    "options": [
+      {
+        "text": "154 pm",
+        "isCorrect": true
+      },
+      {
+        "text": "134 pm",
+        "isCorrect": false
+      },
+      {
+        "text": "112 pm",
+        "isCorrect": false
+      },
+      {
+        "text": "109 pm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The C-C bond length in alkanes is about 154 pm.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "18",
+    "questionText": "What is the major product when methane reacts with chlorine in the presence of UV light?",
+    "options": [
+      {
+        "text": "Chloromethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Dichloromethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Trichloromethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Tetrachloromethane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the chlorination of methane, chloromethane ($CH_3Cl$) is the major product formed in the presence of UV light.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "HARD"
+  },
+  {
+    "qno": "19",
+    "questionText": "Which catalyst is used in the hydrogenation of alkenes to alkanes?",
+    "options": [
+      {
+        "text": "Nickel",
+        "isCorrect": true
+      },
+      {
+        "text": "Copper",
+        "isCorrect": false
+      },
+      {
+        "text": "Platinum",
+        "isCorrect": true
+      },
+      {
+        "text": "Iron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nickel and platinum are commonly used catalysts in the hydrogenation of alkenes to alkanes.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "20",
+    "questionText": "Alkanes generally exhibit which type of reactions?",
+    "options": [
+      {
+        "text": "Addition",
+        "isCorrect": false
+      },
+      {
+        "text": "Substitution",
+        "isCorrect": true
+      },
+      {
+        "text": "Elimination",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxidation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alkanes typically undergo substitution reactions rather than addition reactions.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "What is the general formula for alkenes?",
+    "options": [
+      {
+        "text": "$C_nH_{2n}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_nH_{2n+2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_nH_{2n-2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_nH_{2n+1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The general formula for alkenes is $C_nH_{2n}$, where $n$ is the number of carbon atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "EASY"
+  },
+  {
+    "qno": "22",
+    "questionText": "Which of the following is the simplest alkene?",
+    "options": [
+      {
+        "text": "Ethene",
+        "isCorrect": true
+      },
+      {
+        "text": "Propene",
+        "isCorrect": false
+      },
+      {
+        "text": "Butene",
+        "isCorrect": false
+      },
+      {
+        "text": "Methene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethene ($C_2H_4$) is the simplest alkene, containing a double bond.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "EASY"
+  },
+  {
+    "qno": "23",
+    "questionText": "What type of hybridization is found in alkenes?",
+    "options": [
+      {
+        "text": "$sp^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$sp^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$sp$",
+        "isCorrect": false
+      },
+      {
+        "text": "$dsp^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In alkenes, each carbon atom involved in the double bond undergoes $sp^2$ hybridization.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "How many structural isomers are possible for $C_4H_8$?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Butene ($C_4H_8$) has three structural isomers: 1-butene, cis-2-butene, and trans-2-butene.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "25",
+    "questionText": "What is the IUPAC name of the following compound: $CH_2=CH-CH_2-CH_3$?",
+    "options": [
+      {
+        "text": "1-Butene",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Butene",
+        "isCorrect": false
+      },
+      {
+        "text": "Isobutene",
+        "isCorrect": false
+      },
+      {
+        "text": "n-Butene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The compound $CH_2=CH-CH_2-CH_3$ is named 1-Butene according to IUPAC nomenclature.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "26",
+    "questionText": "Which of the following reactions is characteristic of alkenes?",
+    "options": [
+      {
+        "text": "Hydration",
+        "isCorrect": true
+      },
+      {
+        "text": "Substitution",
+        "isCorrect": false
+      },
+      {
+        "text": "Combustion",
+        "isCorrect": false
+      },
+      {
+        "text": "Isomerization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alkenes typically undergo hydration reactions, where water adds across the double bond.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "HARD"
+  },
+  {
+    "qno": "27",
+    "questionText": "The addition of hydrogen halides to alkenes follows which rule?",
+    "options": [
+      {
+        "text": "Markovnikov's rule",
+        "isCorrect": true
+      },
+      {
+        "text": "Saytzeff's rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Hofmann's rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Anti-Markovnikov's rule",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The addition of hydrogen halides to alkenes follows Markovnikov's rule, where the halide attaches to the more substituted carbon atom.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "HARD"
+  },
+  {
+    "qno": "28",
+    "questionText": "Which of the following is a test for unsaturation in alkenes?",
+    "options": [
+      {
+        "text": "Bromine water test",
+        "isCorrect": true
+      },
+      {
+        "text": "Fehling's test",
+        "isCorrect": false
+      },
+      {
+        "text": "Tollens' test",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodoform test",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bromine water test is used to detect unsaturation in alkenes, as the bromine decolorizes in the presence of a double bond.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "EASY"
+  },
+  {
+    "qno": "29",
+    "questionText": "What is the product of the catalytic hydrogenation of propene?",
+    "options": [
+      {
+        "text": "Propane",
+        "isCorrect": true
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The catalytic hydrogenation of propene ($C_3H_6$) yields propane ($C_3H_8$).",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "30",
+    "questionText": "Which reagent is used in the hydroxylation of alkenes to form glycols?",
+    "options": [
+      {
+        "text": "Cold dilute $KMnO_4$",
+        "isCorrect": true
+      },
+      {
+        "text": "Hot concentrated $H_2SO_4$",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromine water",
+        "isCorrect": false
+      },
+      {
+        "text": "Pyridinium chlorochromate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cold dilute $KMnO_4$ is used in the hydroxylation of alkenes to form glycols.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "HARD"
+  },
+  {
+    "qno": "31",
+    "questionText": "Which of the following alkenes exhibits geometrical isomerism?",
+    "options": [
+      {
+        "text": "1-Butene",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Butene",
+        "isCorrect": true
+      },
+      {
+        "text": "Propene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2-Butene exhibits geometrical (cis-trans) isomerism due to the different arrangements of groups around the double bond.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "32",
+    "questionText": "The reaction of an alkene with $Br_2/CCl_4$ results in:",
+    "options": [
+      {
+        "text": "Decolorization of bromine water",
+        "isCorrect": true
+      },
+      {
+        "text": "Formation of a vicinal dibromide",
+        "isCorrect": true
+      },
+      {
+        "text": "No reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of an alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alkenes react with bromine in carbon tetrachloride ($Br_2/CCl_4$) to form vicinal dibromides, and the solution decolorizes, indicating the presence of the double bond.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "HARD"
+  },
+  {
+    "qno": "33",
+    "questionText": "What is the product formed when ethene reacts with $H_2SO_4$ followed by hydrolysis?",
+    "options": [
+      {
+        "text": "Ethanol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetaldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetic acid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When ethene reacts with sulfuric acid ($H_2SO_4$) and is then hydrolyzed, ethanol ($C_2H_5OH$) is formed.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "34",
+    "questionText": "The addition of water to an alkene in the presence of an acid catalyst is called:",
+    "options": [
+      {
+        "text": "Hydrogenation",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrohalogenation",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydration",
+        "isCorrect": true
+      },
+      {
+        "text": "Halogenation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The addition of water to an alkene in the presence of an acid catalyst is called hydration.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "EASY"
+  },
+  {
+    "qno": "35",
+    "questionText": "Which of the following alkenes can show both cis and trans isomers?",
+    "options": [
+      {
+        "text": "Propene",
+        "isCorrect": false
+      },
+      {
+        "text": "1-Butene",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Butene",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2-Butene can show both cis and trans isomers due to the presence of different groups on the double-bonded carbons.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "36",
+    "questionText": "What is the major product of the reaction between 1-butene and HCl?",
+    "options": [
+      {
+        "text": "2-Chlorobutane",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Chlorobutane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to Markovnikov's rule, the addition of HCl to 1-butene results in the formation of 2-chlorobutane as the major product.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "HARD"
+  },
+  {
+    "qno": "37",
+    "questionText": "Which of the following reagents is used for the oxidation of alkenes to glycols?",
+    "options": [
+      {
+        "text": "$KMnO_4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$H_2/Pd$",
+        "isCorrect": false
+      },
+      {
+        "text": "$HCl$",
+        "isCorrect": false
+      },
+      {
+        "text": "$H_2SO_4$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cold dilute potassium permanganate ($KMnO_4$) is used to oxidize alkenes to glycols.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "38",
+    "questionText": "What is the hybridization of carbon atoms in ethene?",
+    "options": [
+      {
+        "text": "$sp^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$sp^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$sp$",
+        "isCorrect": false
+      },
+      {
+        "text": "$dsp^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In ethene, the carbon atoms are $sp^2$ hybridized.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "EASY"
+  },
+  {
+    "qno": "39",
+    "questionText": "What is the product formed when propene is treated with $HBr$ in the presence of peroxides?",
+    "options": [
+      {
+        "text": "1-Bromopropane",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Bromopropane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the presence of peroxides, the addition of $HBr$ to propene follows the anti-Markovnikov rule, resulting in the formation of 1-bromopropane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "HARD"
+  },
+  {
+    "qno": "40",
+    "questionText": "Which catalyst is used in the catalytic hydrogenation of alkenes to alkanes?",
+    "options": [
+      {
+        "text": "Nickel",
+        "isCorrect": true
+      },
+      {
+        "text": "Copper",
+        "isCorrect": false
+      },
+      {
+        "text": "Platinum",
+        "isCorrect": true
+      },
+      {
+        "text": "Iron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nickel and platinum are commonly used catalysts in the catalytic hydrogenation of alkenes to alkanes.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "41",
+    "questionText": "What is the product when ethene reacts with $Cl_2$ in the presence of $CCl_4$?",
+    "options": [
+      {
+        "text": "1,2-Dichloroethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Chloroethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyl chloride",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethene reacts with chlorine in the presence of carbon tetrachloride ($CCl_4$) to form 1,2-dichloroethane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "42",
+    "questionText": "The oxidation of alkenes with hot concentrated $KMnO_4$ results in:",
+    "options": [
+      {
+        "text": "Cleavage of the double bond",
+        "isCorrect": true
+      },
+      {
+        "text": "Formation of alcohols",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydration of the double bond",
+        "isCorrect": false
+      },
+      {
+        "text": "Formation of alkanes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hot concentrated potassium permanganate ($KMnO_4$) oxidizes alkenes to cleave the double bond, resulting in the formation of carboxylic acids or ketones.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "HARD"
+  },
+  {
+    "qno": "43",
+    "questionText": "Which reagent is used to carry out the ozonolysis of alkenes?",
+    "options": [
+      {
+        "text": "Ozone",
+        "isCorrect": true
+      },
+      {
+        "text": "Bromine water",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfuric acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Potassium permanganate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ozone is used in the ozonolysis of alkenes to form ozonides, which upon hydrolysis yield carbonyl compounds.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "44",
+    "questionText": "Which of the following is a correct representation of the Markovnikov's rule?",
+    "options": [
+      {
+        "text": "The rich get richer",
+        "isCorrect": true
+      },
+      {
+        "text": "The poor get poorer",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal distribution",
+        "isCorrect": false
+      },
+      {
+        "text": "Symmetrical addition",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Markovnikov's rule states that the addition of HX to an alkene results in the hydrogen atom attaching to the carbon with the greater number of hydrogen atoms (the rich get richer).",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "EASY"
+  },
+  {
+    "qno": "45",
+    "questionText": "Which of the following is not a possible reaction of alkenes?",
+    "options": [
+      {
+        "text": "Substitution",
+        "isCorrect": true
+      },
+      {
+        "text": "Addition",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Polymerization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alkenes typically undergo addition, oxidation, and polymerization reactions, but not substitution reactions.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "46",
+    "questionText": "What is the IUPAC name for $CH_3-CH=CH-CH_3$?",
+    "options": [
+      {
+        "text": "2-Butene",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Butene",
+        "isCorrect": false
+      },
+      {
+        "text": "Isobutene",
+        "isCorrect": false
+      },
+      {
+        "text": "n-Butene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The compound $CH_3-CH=CH-CH_3$ is named 2-Butene according to IUPAC nomenclature.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "EASY"
+  },
+  {
+    "qno": "47",
+    "questionText": "Which of the following alkenes can exhibit cis-trans isomerism?",
+    "options": [
+      {
+        "text": "1-Butene",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Butene",
+        "isCorrect": true
+      },
+      {
+        "text": "Propene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2-Butene can exhibit cis-trans isomerism due to the different spatial arrangements of the groups around the double bond.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "48",
+    "questionText": "What type of reaction is used to convert an alkene to an alkane?",
+    "options": [
+      {
+        "text": "Hydrogenation",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydration",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Halogenation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hydrogenation is the reaction used to convert an alkene to an alkane by adding hydrogen across the double bond.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "49",
+    "questionText": "Which catalyst is commonly used for the hydration of alkenes?",
+    "options": [
+      {
+        "text": "Sulfuric acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Nickel",
+        "isCorrect": false
+      },
+      {
+        "text": "Palladium",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sulfuric acid is commonly used as a catalyst for the hydration of alkenes to form alcohols.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "50",
+    "questionText": "Which reagent is used for the anti-Markovnikov addition of HBr to an alkene?",
+    "options": [
+      {
+        "text": "Peroxides",
+        "isCorrect": true
+      },
+      {
+        "text": "Sulfuric acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Nickel",
+        "isCorrect": false
+      },
+      {
+        "text": "Palladium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Peroxides are used for the anti-Markovnikov addition of HBr to alkenes, resulting in the formation of the less substituted alkyl bromide.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "HARD"
+  },
+  {
+    "qno": "51",
+    "questionText": "What is the product of the reaction between propene and chlorine in carbon tetrachloride?",
+    "options": [
+      {
+        "text": "1,2-Dichloropropane",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Chloropropane",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Chloropropane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Propene reacts with chlorine in carbon tetrachloride to form 1,2-dichloropropane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "52",
+    "questionText": "The addition of $H_2$O to alkenes in the presence of $H_2SO_4$ results in the formation of:",
+    "options": [
+      {
+        "text": "Alcohols",
+        "isCorrect": true
+      },
+      {
+        "text": "Alkanes",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethers",
+        "isCorrect": false
+      },
+      {
+        "text": "Ketones",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The addition of water ($H_2O$) to alkenes in the presence of sulfuric acid ($H_2SO_4$) results in the formation of alcohols.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "EASY"
+  },
+  {
+    "qno": "53",
+    "questionText": "Which of the following alkenes will give a positive Baeyer's test?",
+    "options": [
+      {
+        "text": "Ethene",
+        "isCorrect": true
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethene, being an alkene, will decolorize potassium permanganate ($KMnO_4$) solution in the Baeyer's test.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "EASY"
+  },
+  {
+    "qno": "54",
+    "questionText": "Which reagent is used to convert ethene to ethylene glycol?",
+    "options": [
+      {
+        "text": "Cold dilute $KMnO_4$",
+        "isCorrect": true
+      },
+      {
+        "text": "Hot concentrated $H_2SO_4$",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromine water",
+        "isCorrect": false
+      },
+      {
+        "text": "Peroxides",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cold dilute potassium permanganate ($KMnO_4$) is used to oxidize ethene to ethylene glycol.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "55",
+    "questionText": "The reaction of an alkene with $H_2$ in the presence of a catalyst is known as:",
+    "options": [
+      {
+        "text": "Hydrogenation",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydration",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Halogenation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction of an alkene with hydrogen ($H_2$) in the presence of a catalyst is known as hydrogenation.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "EASY"
+  },
+  {
+    "qno": "56",
+    "questionText": "What is the product formed when 1-butene reacts with $Br_2$ in $CCl_4$?",
+    "options": [
+      {
+        "text": "1,2-Dibromobutane",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Bromobutane",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Bromobutane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "1-Butene reacts with bromine in carbon tetrachloride ($CCl_4$) to form 1,2-dibromobutane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "57",
+    "questionText": "Which of the following is not a characteristic reaction of alkenes?",
+    "options": [
+      {
+        "text": "Addition",
+        "isCorrect": false
+      },
+      {
+        "text": "Substitution",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Polymerization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alkenes typically undergo addition, oxidation, and polymerization reactions, but not substitution reactions.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "58",
+    "questionText": "What is the product formed when ethene reacts with $HBr$?",
+    "options": [
+      {
+        "text": "Bromoethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethyl bromide",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyl alcohol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction of ethene with hydrogen bromide ($HBr$) forms bromoethane or ethyl bromide.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "EASY"
+  },
+  {
+    "qno": "59",
+    "questionText": "Which of the following alkenes reacts with $KMnO_4$ to form a diol?",
+    "options": [
+      {
+        "text": "Ethene",
+        "isCorrect": true
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethene reacts with cold dilute potassium permanganate ($KMnO_4$) to form ethylene glycol (a diol).",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "60",
+    "questionText": "What type of reaction is the conversion of propene to 2-chloropropane using $HCl$?",
+    "options": [
+      {
+        "text": "Electrophilic addition",
+        "isCorrect": true
+      },
+      {
+        "text": "Nucleophilic substitution",
+        "isCorrect": false
+      },
+      {
+        "text": "Free radical substitution",
+        "isCorrect": false
+      },
+      {
+        "text": "Elimination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The conversion of propene to 2-chloropropane using hydrogen chloride ($HCl$) is an electrophilic addition reaction.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "level": "HARD"
+  },
+  {
+    "qno": "61",
+    "questionText": "What is the general formula for alkynes?",
+    "options": [
+      {
+        "text": "$C_nH_{2n-2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_nH_{2n}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_nH_{2n+2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_nH_{2n+1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The general formula for alkynes is $C_nH_{2n-2}$, where $n$ is the number of carbon atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "EASY"
+  },
+  {
+    "qno": "62",
+    "questionText": "Which of the following is the simplest alkyne?",
+    "options": [
+      {
+        "text": "Ethyne",
+        "isCorrect": true
+      },
+      {
+        "text": "Propene",
+        "isCorrect": false
+      },
+      {
+        "text": "Butyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Methyne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethyne ($C_2H_2$) is the simplest alkyne, containing a triple bond.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "EASY"
+  },
+  {
+    "qno": "63",
+    "questionText": "What type of hybridization is found in alkynes?",
+    "options": [
+      {
+        "text": "$sp$",
+        "isCorrect": true
+      },
+      {
+        "text": "$sp^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$sp^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$dsp^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In alkynes, each carbon atom involved in the triple bond undergoes $sp$ hybridization.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "64",
+    "questionText": "How many structural isomers are possible for $C_4H_6$?",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Butyne ($C_4H_6$) has two structural isomers: 1-butyne and 2-butyne.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "65",
+    "questionText": "What is the IUPAC name of the following compound: $CH≡C-CH_2-CH_3$?",
+    "options": [
+      {
+        "text": "1-Butyne",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Butyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Isobutyne",
+        "isCorrect": false
+      },
+      {
+        "text": "n-Butyne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The compound $CH≡C-CH_2-CH_3$ is named 1-Butyne according to IUPAC nomenclature.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "66",
+    "questionText": "Which of the following reactions is characteristic of alkynes?",
+    "options": [
+      {
+        "text": "Addition",
+        "isCorrect": true
+      },
+      {
+        "text": "Substitution",
+        "isCorrect": false
+      },
+      {
+        "text": "Combustion",
+        "isCorrect": false
+      },
+      {
+        "text": "Isomerization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alkynes typically undergo addition reactions, where atoms or groups add across the triple bond.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "67",
+    "questionText": "The addition of hydrogen halides to alkynes follows which rule?",
+    "options": [
+      {
+        "text": "Markovnikov's rule",
+        "isCorrect": true
+      },
+      {
+        "text": "Saytzeff's rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Hofmann's rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Anti-Markovnikov's rule",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The addition of hydrogen halides to alkynes follows Markovnikov's rule, where the halide attaches to the more substituted carbon atom.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "68",
+    "questionText": "Which of the following is a test for unsaturation in alkynes?",
+    "options": [
+      {
+        "text": "Bromine water test",
+        "isCorrect": true
+      },
+      {
+        "text": "Fehling's test",
+        "isCorrect": false
+      },
+      {
+        "text": "Tollens' test",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodoform test",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The bromine water test is used to detect unsaturation in alkynes, as the bromine decolorizes in the presence of a triple bond.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "EASY"
+  },
+  {
+    "qno": "69",
+    "questionText": "What is the product of the catalytic hydrogenation of ethyne?",
+    "options": [
+      {
+        "text": "Ethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The catalytic hydrogenation of ethyne ($C_2H_2$) yields ethane ($C_2H_6$).",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "70",
+    "questionText": "Which reagent is used in the hydroxylation of alkynes to form glycols?",
+    "options": [
+      {
+        "text": "Cold dilute $KMnO_4$",
+        "isCorrect": true
+      },
+      {
+        "text": "Hot concentrated $H_2SO_4$",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromine water",
+        "isCorrect": false
+      },
+      {
+        "text": "Pyridinium chlorochromate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cold dilute $KMnO_4$ is used in the hydroxylation of alkynes to form glycols.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "71",
+    "questionText": "Which of the following alkynes exhibits isomerism?",
+    "options": [
+      {
+        "text": "1-Butyne",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Butyne",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Propine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "1-Butyne and 2-Butyne exhibit structural isomerism.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "72",
+    "questionText": "What is the product formed when ethyne reacts with $H_2$?",
+    "options": [
+      {
+        "text": "Ethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyl alcohol",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetaldehyde",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethyne reacts with hydrogen ($H_2$) to form ethane ($C_2H_6$).",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "EASY"
+  },
+  {
+    "qno": "73",
+    "questionText": "Which of the following reagents is used for the oxidation of alkynes to carboxylic acids?",
+    "options": [
+      {
+        "text": "$KMnO_4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$H_2/Pd$",
+        "isCorrect": false
+      },
+      {
+        "text": "$HCl$",
+        "isCorrect": false
+      },
+      {
+        "text": "$H_2SO_4$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Potassium permanganate ($KMnO_4$) is used to oxidize alkynes to carboxylic acids.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "74",
+    "questionText": "What is the hybridization of carbon atoms in acetylene?",
+    "options": [
+      {
+        "text": "$sp$",
+        "isCorrect": true
+      },
+      {
+        "text": "$sp^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$sp^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$dsp^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In acetylene (ethyne), the carbon atoms are $sp$ hybridized.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "EASY"
+  },
+  {
+    "qno": "75",
+    "questionText": "Which of the following reactions is used to prepare alkynes from dihalides?",
+    "options": [
+      {
+        "text": "Dehydrohalogenation",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydration",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydrogenation",
+        "isCorrect": false
+      },
+      {
+        "text": "Halogenation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dehydrohalogenation of dihalides is used to prepare alkynes.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "76",
+    "questionText": "Which of the following is an example of a terminal alkyne?",
+    "options": [
+      {
+        "text": "Propyne",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Butyne",
+        "isCorrect": false
+      },
+      {
+        "text": "1-Pentyne",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Pentyne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Terminal alkynes have the triple bond at the end of the carbon chain, as in propyne and 1-pentyne.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "77",
+    "questionText": "What is the product formed when 2-butyne reacts with excess $H_2$ in the presence of a catalyst?",
+    "options": [
+      {
+        "text": "Butane",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Butene",
+        "isCorrect": false
+      },
+      {
+        "text": "1-Butene",
+        "isCorrect": false
+      },
+      {
+        "text": "Butyne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2-Butyne reacts with excess hydrogen in the presence of a catalyst to form butane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "78",
+    "questionText": "Which of the following reactions involves the addition of water to alkynes to form carbonyl compounds?",
+    "options": [
+      {
+        "text": "Hydration",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydrogenation",
+        "isCorrect": false
+      },
+      {
+        "text": "Halogenation",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxidation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The hydration of alkynes involves the addition of water, leading to the formation of carbonyl compounds (aldehydes or ketones).",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "79",
+    "questionText": "Which of the following is formed when ethyne is treated with sodium in liquid ammonia?",
+    "options": [
+      {
+        "text": "Sodium acetylide",
+        "isCorrect": true
+      },
+      {
+        "text": "Sodium ethoxide",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "When ethyne is treated with sodium in liquid ammonia, sodium acetylide is formed.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "80",
+    "questionText": "What is the product of the reaction between ethyne and $Br_2$?",
+    "options": [
+      {
+        "text": "1,2-Dibromoethane",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Bromoethene",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Bromoethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyne dibromide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethyne reacts with bromine to form 1,2-dibromoethane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "81",
+    "questionText": "Which catalyst is used in the Lindlar's catalyst hydrogenation of alkynes?",
+    "options": [
+      {
+        "text": "Palladium on calcium carbonate",
+        "isCorrect": true
+      },
+      {
+        "text": "Nickel",
+        "isCorrect": false
+      },
+      {
+        "text": "Platinum",
+        "isCorrect": false
+      },
+      {
+        "text": "Iron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lindlar's catalyst consists of palladium on calcium carbonate, used for the partial hydrogenation of alkynes to cis-alkenes.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "82",
+    "questionText": "The reaction of ethyne with mercuric sulfate in the presence of sulfuric acid results in:",
+    "options": [
+      {
+        "text": "Acetaldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetone",
+        "isCorrect": false
+      },
+      {
+        "text": "Acetic acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Acetylene glycol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction of ethyne with mercuric sulfate in the presence of sulfuric acid forms acetic acid through the process of hydration.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "83",
+    "questionText": "Which of the following is not a characteristic reaction of alkynes?",
+    "options": [
+      {
+        "text": "Substitution",
+        "isCorrect": true
+      },
+      {
+        "text": "Addition",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxidation",
+        "isCorrect": false
+      },
+      {
+        "text": "Polymerization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alkynes typically undergo addition, oxidation, and polymerization reactions, but not substitution reactions.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "84",
+    "questionText": "Which of the following is an example of a non-terminal alkyne?",
+    "options": [
+      {
+        "text": "2-Butyne",
+        "isCorrect": true
+      },
+      {
+        "text": "Propyne",
+        "isCorrect": false
+      },
+      {
+        "text": "1-Pentyne",
+        "isCorrect": false
+      },
+      {
+        "text": "1-Butyne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Non-terminal alkynes have the triple bond within the carbon chain, as in 2-butyne.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "85",
+    "questionText": "The reaction of 1-butyne with 2 moles of $HCl$ results in the formation of:",
+    "options": [
+      {
+        "text": "2,2-Dichlorobutane",
+        "isCorrect": true
+      },
+      {
+        "text": "1,1-Dichlorobutane",
+        "isCorrect": false
+      },
+      {
+        "text": "1,2-Dichlorobutane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction of 1-butyne with 2 moles of $HCl$ results in the formation of 2,2-dichlorobutane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "86",
+    "questionText": "What is the major product formed when ethyne reacts with ozone?",
+    "options": [
+      {
+        "text": "Glyoxal",
+        "isCorrect": true
+      },
+      {
+        "text": "Acetaldehyde",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Formic acid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reaction of ethyne with ozone results in the formation of glyoxal.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "87",
+    "questionText": "What is the IUPAC name of the following compound: $CH_3-C≡C-CH_3$?",
+    "options": [
+      {
+        "text": "2-Butyne",
+        "isCorrect": true
+      },
+      {
+        "text": "1-Butyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Isobutyne",
+        "isCorrect": false
+      },
+      {
+        "text": "n-Butyne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The compound $CH_3-C≡C-CH_3$ is named 2-Butyne according to IUPAC nomenclature.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "88",
+    "questionText": "Which of the following is not an example of an alkyne?",
+    "options": [
+      {
+        "text": "Ethyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Propene",
+        "isCorrect": true
+      },
+      {
+        "text": "Butyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Propyne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Propene is an alkene, not an alkyne.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "EASY"
+  },
+  {
+    "qno": "89",
+    "questionText": "What is the product of the reaction between 2-butyne and $H_2O$ in the presence of $HgSO_4$ and $H_2SO_4$?",
+    "options": [
+      {
+        "text": "Methyl ethyl ketone",
+        "isCorrect": true
+      },
+      {
+        "text": "Butanal",
+        "isCorrect": false
+      },
+      {
+        "text": "Butanol",
+        "isCorrect": false
+      },
+      {
+        "text": "2-Butanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The hydration of 2-butyne in the presence of mercuric sulfate ($HgSO_4$) and sulfuric acid ($H_2SO_4$) results in the formation of methyl ethyl ketone.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "90",
+    "questionText": "Which reagent is used to carry out the ozonolysis of alkynes?",
+    "options": [
+      {
+        "text": "Ozone",
+        "isCorrect": true
+      },
+      {
+        "text": "Bromine water",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfuric acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Potassium permanganate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ozone is used in the ozonolysis of alkynes to form ozonides, which upon hydrolysis yield carboxylic acids or carbonyl compounds.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "91",
+    "questionText": "Which of the following compounds is an aromatic hydrocarbon?",
+    "options": [
+      {
+        "text": "Benzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propene",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene ($C_6H_6$) is an aromatic hydrocarbon characterized by its ring structure.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "EASY"
+  },
+  {
+    "qno": "92",
+    "questionText": "What is the molecular formula of naphthalene?",
+    "options": [
+      {
+        "text": "$C_{10}H_8$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_{12}H_{10}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_6H_6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_{14}H_{10}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Naphthalene has the molecular formula $C_{10}H_8$, consisting of two fused benzene rings.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "93",
+    "questionText": "Which rule is used to determine the aromaticity of a compound?",
+    "options": [
+      {
+        "text": "Hückel's rule",
+        "isCorrect": true
+      },
+      {
+        "text": "Markovnikov's rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Saytzeff's rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Hofmann's rule",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hückel's rule is used to determine the aromaticity of a compound, stating that a molecule is aromatic if it has $(4n+2)$ π-electrons.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "HARD"
+  },
+  {
+    "qno": "94",
+    "questionText": "Which of the following is an example of a polycyclic aromatic hydrocarbon (PAH)?",
+    "options": [
+      {
+        "text": "Naphthalene",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Naphthalene is an example of a polycyclic aromatic hydrocarbon (PAH) with two fused benzene rings.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "95",
+    "questionText": "What type of reaction is characteristic of aromatic hydrocarbons?",
+    "options": [
+      {
+        "text": "Electrophilic substitution",
+        "isCorrect": true
+      },
+      {
+        "text": "Nucleophilic substitution",
+        "isCorrect": false
+      },
+      {
+        "text": "Addition",
+        "isCorrect": false
+      },
+      {
+        "text": "Elimination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aromatic hydrocarbons typically undergo electrophilic substitution reactions.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "EASY"
+  },
+  {
+    "qno": "96",
+    "questionText": "Which of the following compounds does not obey Hückel's rule?",
+    "options": [
+      {
+        "text": "Cyclooctatetraene",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cyclooctatetraene does not obey Hückel's rule as it has 8 π-electrons, which do not satisfy the $(4n+2)$ rule for aromaticity.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "HARD"
+  },
+  {
+    "qno": "97",
+    "questionText": "Which of the following reactions is used to convert benzene to nitrobenzene?",
+    "options": [
+      {
+        "text": "Nitration",
+        "isCorrect": true
+      },
+      {
+        "text": "Sulfonation",
+        "isCorrect": false
+      },
+      {
+        "text": "Friedel-Crafts alkylation",
+        "isCorrect": false
+      },
+      {
+        "text": "Halogenation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nitration is the reaction used to convert benzene to nitrobenzene by treating it with nitric acid and sulfuric acid.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "98",
+    "questionText": "What is the product of the sulfonation of benzene?",
+    "options": [
+      {
+        "text": "Benzene sulfonic acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Nitrobenzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromobenzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The sulfonation of benzene results in the formation of benzene sulfonic acid.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "EASY"
+  },
+  {
+    "qno": "99",
+    "questionText": "Which reagent is used in the Friedel-Crafts alkylation of benzene?",
+    "options": [
+      {
+        "text": "AlCl_3",
+        "isCorrect": true
+      },
+      {
+        "text": "H_2SO_4",
+        "isCorrect": false
+      },
+      {
+        "text": "HNO_3",
+        "isCorrect": false
+      },
+      {
+        "text": "Br_2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aluminum chloride ($AlCl_3$) is used as a catalyst in the Friedel-Crafts alkylation of benzene.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "HARD"
+  },
+  {
+    "qno": "100",
+    "questionText": "Which of the following is a characteristic property of aromatic hydrocarbons?",
+    "options": [
+      {
+        "text": "Planarity",
+        "isCorrect": true
+      },
+      {
+        "text": "Non-planarity",
+        "isCorrect": false
+      },
+      {
+        "text": "Saturated bonds",
+        "isCorrect": false
+      },
+      {
+        "text": "Presence of triple bonds",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aromatic hydrocarbons are characterized by their planarity and delocalized π-electrons.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "EASY"
+  },
+  {
+    "qno": "101",
+    "questionText": "What is the product of the reaction between benzene and bromine in the presence of $FeBr_3$?",
+    "options": [
+      {
+        "text": "Bromobenzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Dibromobenzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrobenzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene bromide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene reacts with bromine in the presence of ferric bromide ($FeBr_3$) to form bromobenzene.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "102",
+    "questionText": "Which of the following is a polycyclic aromatic hydrocarbon?",
+    "options": [
+      {
+        "text": "Anthracene",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethylene",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Anthracene is a polycyclic aromatic hydrocarbon consisting of three fused benzene rings.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "103",
+    "questionText": "Which of the following is not a characteristic of aromatic hydrocarbons?",
+    "options": [
+      {
+        "text": "Presence of conjugated π-electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "High degree of unsaturation",
+        "isCorrect": false
+      },
+      {
+        "text": "Low reactivity towards electrophiles",
+        "isCorrect": true
+      },
+      {
+        "text": "Planar structure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aromatic hydrocarbons have a high reactivity towards electrophiles due to the presence of conjugated π-electrons.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "HARD"
+  },
+  {
+    "qno": "104",
+    "questionText": "What is the product formed when benzene reacts with $HNO_3$ in the presence of $H_2SO_4$?",
+    "options": [
+      {
+        "text": "Nitrobenzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene sulfonic acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromobenzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene reacts with nitric acid ($HNO_3$) in the presence of sulfuric acid ($H_2SO_4$) to form nitrobenzene.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "EASY"
+  },
+  {
+    "qno": "105",
+    "questionText": "Which of the following is a test for the presence of aromaticity in a compound?",
+    "options": [
+      {
+        "text": "Bromine water test",
+        "isCorrect": false
+      },
+      {
+        "text": "Bayer's test",
+        "isCorrect": false
+      },
+      {
+        "text": "Friedel-Crafts test",
+        "isCorrect": false
+      },
+      {
+        "text": "Huckel's rule",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Huckel's rule is used to determine the aromaticity of a compound, based on the number of π-electrons.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "106",
+    "questionText": "Which of the following compounds is used as a standard in NMR spectroscopy for aromatic compounds?",
+    "options": [
+      {
+        "text": "TMS (Tetramethylsilane)",
+        "isCorrect": true
+      },
+      {
+        "text": "Chloroform",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "TMS (Tetramethylsilane) is used as a standard in NMR spectroscopy for aromatic compounds.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "107",
+    "questionText": "Which of the following compounds does not contain an aromatic ring?",
+    "options": [
+      {
+        "text": "Cyclohexane",
+        "isCorrect": true
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cyclohexane is a saturated hydrocarbon and does not contain an aromatic ring.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "EASY"
+  },
+  {
+    "qno": "108",
+    "questionText": "The reaction of benzene with methyl chloride in the presence of $AlCl_3$ results in the formation of:",
+    "options": [
+      {
+        "text": "Toluene",
+        "isCorrect": true
+      },
+      {
+        "text": "Xylene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylbenzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene reacts with methyl chloride ($CH_3Cl$) in the presence of aluminum chloride ($AlCl_3$) to form toluene.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "109",
+    "questionText": "Which of the following reactions is used to convert benzene to bromobenzene?",
+    "options": [
+      {
+        "text": "Bromination",
+        "isCorrect": true
+      },
+      {
+        "text": "Nitration",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfonation",
+        "isCorrect": false
+      },
+      {
+        "text": "Friedel-Crafts alkylation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bromination is the reaction used to convert benzene to bromobenzene by treating it with bromine in the presence of a catalyst.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "EASY"
+  },
+  {
+    "qno": "110",
+    "questionText": "Which of the following is a heterocyclic aromatic compound?",
+    "options": [
+      {
+        "text": "Pyridine",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pyridine is a heterocyclic aromatic compound containing a nitrogen atom in the ring.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "HARD"
+  },
+  {
+    "qno": "111",
+    "questionText": "Which of the following is an example of an aromatic hydrocarbon?",
+    "options": [
+      {
+        "text": "Toluene",
+        "isCorrect": true
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclohexane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Toluene is an aromatic hydrocarbon with a benzene ring and a methyl group.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "EASY"
+  },
+  {
+    "qno": "112",
+    "questionText": "Which reagent is used in the nitration of benzene?",
+    "options": [
+      {
+        "text": "Nitric acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Sulfuric acid",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromine",
+        "isCorrect": false
+      },
+      {
+        "text": "Chlorine",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nitric acid is used in the nitration of benzene, typically in the presence of sulfuric acid as a catalyst.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "EASY"
+  },
+  {
+    "qno": "113",
+    "questionText": "Which of the following reactions is used to convert benzene to ethylbenzene?",
+    "options": [
+      {
+        "text": "Friedel-Crafts alkylation",
+        "isCorrect": true
+      },
+      {
+        "text": "Nitration",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfonation",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Friedel-Crafts alkylation is used to convert benzene to ethylbenzene by treating it with ethyl chloride and aluminum chloride.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "114",
+    "questionText": "What is the IUPAC name of the following compound: $C_6H_5CH_3$?",
+    "options": [
+      {
+        "text": "Toluene",
+        "isCorrect": true
+      },
+      {
+        "text": "Xylene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylbenzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The compound $C_6H_5CH_3$ is named toluene according to IUPAC nomenclature.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "EASY"
+  },
+  {
+    "qno": "115",
+    "questionText": "Which of the following aromatic hydrocarbons is used as a solvent in paints and coatings?",
+    "options": [
+      {
+        "text": "Toluene",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Toluene is commonly used as a solvent in paints and coatings.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "116",
+    "questionText": "Which of the following is not a property of aromatic hydrocarbons?",
+    "options": [
+      {
+        "text": "Planarity",
+        "isCorrect": false
+      },
+      {
+        "text": "Presence of conjugated π-electrons",
+        "isCorrect": false
+      },
+      {
+        "text": "High reactivity towards electrophiles",
+        "isCorrect": false
+      },
+      {
+        "text": "Non-polarity",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Aromatic hydrocarbons are generally non-polar due to the delocalization of π-electrons, but they do exhibit planarity and high reactivity towards electrophiles.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "HARD"
+  },
+  {
+    "qno": "117",
+    "questionText": "Which of the following is the product of the Friedel-Crafts acylation of benzene with acetyl chloride?",
+    "options": [
+      {
+        "text": "Acetophenone",
+        "isCorrect": true
+      },
+      {
+        "text": "Toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethylbenzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Friedel-Crafts acylation of benzene with acetyl chloride results in the formation of acetophenone.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "118",
+    "questionText": "Which of the following compounds is not an aromatic hydrocarbon?",
+    "options": [
+      {
+        "text": "Cyclohexane",
+        "isCorrect": true
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cyclohexane is a saturated hydrocarbon and does not have an aromatic ring.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "EASY"
+  },
+  {
+    "qno": "119",
+    "questionText": "Which of the following reactions is used to synthesize phenol from benzene?",
+    "options": [
+      {
+        "text": "Hydroxylation",
+        "isCorrect": true
+      },
+      {
+        "text": "Nitration",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulfonation",
+        "isCorrect": false
+      },
+      {
+        "text": "Friedel-Crafts alkylation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hydroxylation of benzene is used to synthesize phenol.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "HARD"
+  },
+  {
+    "qno": "120",
+    "questionText": "Which of the following compounds is a common precursor to polymers and resins?",
+    "options": [
+      {
+        "text": "Styrene",
+        "isCorrect": true
+      },
+      {
+        "text": "Toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Styrene is a common precursor to polymers and resins.",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "121",
+    "questionText": "Which of the following aromatic hydrocarbons is known to be carcinogenic?",
+    "options": [
+      {
+        "text": "Benzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene is known to be a carcinogenic compound, associated with an increased risk of leukemia.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "122",
+    "questionText": "Which of the following is a common source of polycyclic aromatic hydrocarbons (PAHs) in the environment?",
+    "options": [
+      {
+        "text": "Incomplete combustion of fossil fuels",
+        "isCorrect": true
+      },
+      {
+        "text": "Photosynthesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaporation of water",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrolysis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polycyclic aromatic hydrocarbons (PAHs) are commonly produced by the incomplete combustion of fossil fuels.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "123",
+    "questionText": "Which of the following aromatic hydrocarbons is used as an industrial solvent but is also toxic?",
+    "options": [
+      {
+        "text": "Toluene",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Toluene is used as an industrial solvent but is also toxic when inhaled in large quantities.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "124",
+    "questionText": "Which of the following is a health effect associated with exposure to benzene?",
+    "options": [
+      {
+        "text": "Leukemia",
+        "isCorrect": true
+      },
+      {
+        "text": "Asthma",
+        "isCorrect": false
+      },
+      {
+        "text": "Diabetes",
+        "isCorrect": false
+      },
+      {
+        "text": "Hypertension",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure to benzene is associated with an increased risk of developing leukemia.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "125",
+    "questionText": "Which of the following compounds is not classified as a polycyclic aromatic hydrocarbon (PAH)?",
+    "options": [
+      {
+        "text": "Cyclohexane",
+        "isCorrect": true
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      },
+      {
+        "text": "Benz(a)pyrene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cyclohexane is a saturated hydrocarbon and is not classified as a polycyclic aromatic hydrocarbon (PAH).",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "126",
+    "questionText": "Which of the following is a method for detecting PAHs in the environment?",
+    "options": [
+      {
+        "text": "Gas chromatography-mass spectrometry (GC-MS)",
+        "isCorrect": true
+      },
+      {
+        "text": "Flame photometry",
+        "isCorrect": false
+      },
+      {
+        "text": "Ion chromatography",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic absorption spectroscopy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gas chromatography-mass spectrometry (GC-MS) is a method used for detecting polycyclic aromatic hydrocarbons (PAHs) in the environment.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "127",
+    "questionText": "Which of the following aromatic hydrocarbons is used in mothballs and is also toxic?",
+    "options": [
+      {
+        "text": "Naphthalene",
+        "isCorrect": true
+      },
+      {
+        "text": "Toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Naphthalene is used in mothballs and is toxic when inhaled or ingested.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "128",
+    "questionText": "Which of the following is a potential environmental effect of PAHs?",
+    "options": [
+      {
+        "text": "Soil and water contamination",
+        "isCorrect": true
+      },
+      {
+        "text": "Global warming",
+        "isCorrect": false
+      },
+      {
+        "text": "Ozone layer depletion",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased biodiversity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polycyclic aromatic hydrocarbons (PAHs) can lead to soil and water contamination, affecting ecosystems.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "129",
+    "questionText": "Which of the following is an effect of long-term exposure to toluene?",
+    "options": [
+      {
+        "text": "Damage to the nervous system",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased blood pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "Weight gain",
+        "isCorrect": false
+      },
+      {
+        "text": "Hair loss",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Long-term exposure to toluene can cause damage to the nervous system.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "130",
+    "questionText": "Which of the following is not a use of benzene?",
+    "options": [
+      {
+        "text": "Food additive",
+        "isCorrect": true
+      },
+      {
+        "text": "Industrial solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "Raw material for plastics",
+        "isCorrect": false
+      },
+      {
+        "text": "Component of gasoline",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene is not used as a food additive due to its toxic and carcinogenic properties.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "131",
+    "questionText": "Which of the following aromatic hydrocarbons is used in the production of dyes but is also toxic?",
+    "options": [
+      {
+        "text": "Aniline",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aniline is used in the production of dyes but is toxic when inhaled or ingested.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "132",
+    "questionText": "Which of the following is a method for removing PAHs from contaminated soil?",
+    "options": [
+      {
+        "text": "Bioremediation",
+        "isCorrect": true
+      },
+      {
+        "text": "Chlorination",
+        "isCorrect": false
+      },
+      {
+        "text": "Electrolysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaporation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bioremediation is a method used to remove polycyclic aromatic hydrocarbons (PAHs) from contaminated soil using microorganisms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "133",
+    "questionText": "Which of the following is a health risk associated with exposure to naphthalene?",
+    "options": [
+      {
+        "text": "Hemolytic anemia",
+        "isCorrect": true
+      },
+      {
+        "text": "Hypertension",
+        "isCorrect": false
+      },
+      {
+        "text": "Diabetes",
+        "isCorrect": false
+      },
+      {
+        "text": "Osteoporosis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure to naphthalene can cause hemolytic anemia, especially in individuals with G6PD deficiency.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "134",
+    "questionText": "Which of the following aromatic hydrocarbons is known for its sweet smell but is also toxic?",
+    "options": [
+      {
+        "text": "Benzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene has a sweet smell but is toxic and carcinogenic.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "135",
+    "questionText": "Which of the following is a method for assessing the carcinogenic potential of a chemical?",
+    "options": [
+      {
+        "text": "Animal testing",
+        "isCorrect": true
+      },
+      {
+        "text": "Evaporation",
+        "isCorrect": false
+      },
+      {
+        "text": "Distillation",
+        "isCorrect": false
+      },
+      {
+        "text": "Filtration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Animal testing is a method used to assess the carcinogenic potential of chemicals by observing their effects on test animals.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "136",
+    "questionText": "Which of the following is a characteristic effect of exposure to high levels of benzene?",
+    "options": [
+      {
+        "text": "Bone marrow suppression",
+        "isCorrect": true
+      },
+      {
+        "text": "Skin irritation",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased appetite",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved vision",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure to high levels of benzene can cause bone marrow suppression, leading to decreased production of blood cells.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "137",
+    "questionText": "Which of the following is not a common use of toluene?",
+    "options": [
+      {
+        "text": "Food additive",
+        "isCorrect": true
+      },
+      {
+        "text": "Industrial solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "Paint thinner",
+        "isCorrect": false
+      },
+      {
+        "text": "Fuel additive",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Toluene is not used as a food additive due to its toxic properties.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "138",
+    "questionText": "Which of the following aromatic hydrocarbons is used in the manufacture of dyes but is also considered toxic?",
+    "options": [
+      {
+        "text": "Aniline",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aniline is used in the manufacture of dyes but is toxic when inhaled or ingested.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "139",
+    "questionText": "Which of the following is a common symptom of chronic exposure to benzene?",
+    "options": [
+      {
+        "text": "Fatigue",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased appetite",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved vision",
+        "isCorrect": false
+      },
+      {
+        "text": "Weight gain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chronic exposure to benzene can cause fatigue and other symptoms due to its effects on the bone marrow.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "140",
+    "questionText": "Which of the following aromatic hydrocarbons is associated with an increased risk of bladder cancer?",
+    "options": [
+      {
+        "text": "Aniline",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aniline is associated with an increased risk of bladder cancer due to its toxic properties.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "141",
+    "questionText": "Which of the following is a method for assessing the toxicity of a chemical?",
+    "options": [
+      {
+        "text": "LD50 test",
+        "isCorrect": true
+      },
+      {
+        "text": "Distillation",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaporation",
+        "isCorrect": false
+      },
+      {
+        "text": "Filtration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The LD50 test is used to assess the toxicity of a chemical by determining the dose required to kill 50% of a test population.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "142",
+    "questionText": "Which of the following is a common environmental contaminant that is also a polycyclic aromatic hydrocarbon (PAH)?",
+    "options": [
+      {
+        "text": "Benz(a)pyrene",
+        "isCorrect": true
+      },
+      {
+        "text": "Cyclohexane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benz(a)pyrene is a common environmental contaminant and a polycyclic aromatic hydrocarbon (PAH) known for its carcinogenic properties.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "143",
+    "questionText": "Which of the following is not a characteristic property of polycyclic aromatic hydrocarbons (PAHs)?",
+    "options": [
+      {
+        "text": "High melting point",
+        "isCorrect": true
+      },
+      {
+        "text": "Planarity",
+        "isCorrect": false
+      },
+      {
+        "text": "Aromaticity",
+        "isCorrect": false
+      },
+      {
+        "text": "Carcinogenicity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polycyclic aromatic hydrocarbons (PAHs) typically have high melting points, are planar, aromatic, and many are carcinogenic.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "11",
+    "questionText": "Which of the following hydrocarbons is not classified as an alkane?",
+    "options": [
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propene",
+        "isCorrect": true
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Propene is an alkene, not an alkane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "12",
+    "questionText": "Which of the following hydrocarbons has a triple bond?",
+    "options": [
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyne",
+        "isCorrect": true
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethyne is an alkyne with a triple bond between carbon atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "What is the name of the hydrocarbon with the formula $C_2H_4$?",
+    "options": [
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethene, also known as ethylene, is an alkene with the formula $C_2H_4$.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "14",
+    "questionText": "Which of the following hydrocarbons is an aromatic hydrocarbon?",
+    "options": [
+      {
+        "text": "Cyclohexane",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene is an aromatic hydrocarbon with a ring structure and delocalized π-electrons.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "15",
+    "questionText": "What is the IUPAC name of the hydrocarbon $C_3H_6$?",
+    "options": [
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propene",
+        "isCorrect": true
+      },
+      {
+        "text": "Propyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclopropane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The hydrocarbon $C_3H_6$ is named propene, which is an alkene.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "16",
+    "questionText": "Which of the following is a saturated hydrocarbon?",
+    "options": [
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Methane",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methane is a saturated hydrocarbon with single bonds only.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "What type of hybridization is present in the carbon atoms of ethene?",
+    "options": [
+      {
+        "text": "$sp$",
+        "isCorrect": false
+      },
+      {
+        "text": "$sp^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$sp^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$dsp^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In ethene, each carbon atom is $sp^2$ hybridized.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "18",
+    "questionText": "Which of the following is an alkyne?",
+    "options": [
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyne",
+        "isCorrect": true
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethyne is an alkyne with a triple bond between carbon atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "19",
+    "questionText": "What is the common name for $C_2H_2$?",
+    "options": [
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyne",
+        "isCorrect": true
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The common name for $C_2H_2$ is acetylene, which is an alkyne.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "20",
+    "questionText": "Which of the following hydrocarbons contains a double bond?",
+    "options": [
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": true
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethene is an alkene with a double bond between carbon atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "What is the boiling point trend in alkanes?",
+    "options": [
+      {
+        "text": "Increases with increasing molecular weight",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreases with increasing molecular weight",
+        "isCorrect": false
+      },
+      {
+        "text": "Remains constant",
+        "isCorrect": false
+      },
+      {
+        "text": "Depends on the presence of double bonds",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The boiling points of alkanes increase with increasing molecular weight due to stronger van der Waals forces.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "22",
+    "questionText": "What is the major product formed when propane undergoes chlorination?",
+    "options": [
+      {
+        "text": "1-Chloropropane",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Chloropropane",
+        "isCorrect": true
+      },
+      {
+        "text": "Dichloropropane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propyl chloride",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The chlorination of propane can yield both 1-chloropropane and 2-chloropropane as major products.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "HARD"
+  },
+  {
+    "qno": "23",
+    "questionText": "Which of the following is a primary alkane?",
+    "options": [
+      {
+        "text": "Methane",
+        "isCorrect": true
+      },
+      {
+        "text": "Propane",
+        "isCorrect": true
+      },
+      {
+        "text": "Butane",
+        "isCorrect": true
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Methane, propane, and butane are all primary alkanes with a single carbon or simple straight-chain structures.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "24",
+    "questionText": "Which of the following is the correct order of reactivity in alkanes?",
+    "options": [
+      {
+        "text": "Methane > Ethane > Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane > Ethane > Methane",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethane > Methane > Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane > Methane > Ethane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The reactivity of alkanes generally increases with the size of the molecule, hence Propane > Ethane > Methane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "25",
+    "questionText": "Which alkane is commonly used as a fuel for lighters?",
+    "options": [
+      {
+        "text": "Butane",
+        "isCorrect": true
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Butane is commonly used as a fuel in lighters due to its easy liquefaction and storage properties.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "26",
+    "questionText": "Which process is used to separate alkanes based on their boiling points?",
+    "options": [
+      {
+        "text": "Fractional distillation",
+        "isCorrect": true
+      },
+      {
+        "text": "Filtration",
+        "isCorrect": false
+      },
+      {
+        "text": "Decantation",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaporation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fractional distillation is used to separate alkanes based on their boiling points.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "27",
+    "questionText": "What type of isomerism is shown by butane and isobutane?",
+    "options": [
+      {
+        "text": "Chain isomerism",
+        "isCorrect": true
+      },
+      {
+        "text": "Geometric isomerism",
+        "isCorrect": false
+      },
+      {
+        "text": "Functional isomerism",
+        "isCorrect": false
+      },
+      {
+        "text": "Position isomerism",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Butane and isobutane show chain isomerism as they differ in the branching of the carbon chain.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "28",
+    "questionText": "Which alkane is known as marsh gas?",
+    "options": [
+      {
+        "text": "Methane",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methane is commonly known as marsh gas as it is produced by the anaerobic decomposition of organic matter in wetlands.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "29",
+    "questionText": "What is the major use of alkanes in the industry?",
+    "options": [
+      {
+        "text": "Fuel",
+        "isCorrect": true
+      },
+      {
+        "text": "Plastic production",
+        "isCorrect": false
+      },
+      {
+        "text": "Medicine",
+        "isCorrect": false
+      },
+      {
+        "text": "Textile",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alkanes are primarily used as fuels in the industry due to their high energy content.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "30",
+    "questionText": "Which catalyst is used in the catalytic cracking of alkanes?",
+    "options": [
+      {
+        "text": "Zeolites",
+        "isCorrect": true
+      },
+      {
+        "text": "Platinum",
+        "isCorrect": false
+      },
+      {
+        "text": "Nickel",
+        "isCorrect": false
+      },
+      {
+        "text": "Iron",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Zeolites are used as catalysts in the catalytic cracking of alkanes to produce smaller alkanes and alkenes.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "HARD"
+  },
+  {
+    "qno": "91",
+    "questionText": "Which of the following is an example of a terminal alkyne?",
+    "options": [
+      {
+        "text": "1-Butyne",
+        "isCorrect": true
+      },
+      {
+        "text": "2-Butyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Propene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "1-Butyne is a terminal alkyne with a triple bond at the end of the carbon chain.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "92",
+    "questionText": "What type of reaction is commonly used to prepare alkynes from dihalides?",
+    "options": [
+      {
+        "text": "Dehydrohalogenation",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydrohalogenation",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydration",
+        "isCorrect": false
+      },
+      {
+        "text": "Halogenation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dehydrohalogenation of dihalides is commonly used to prepare alkynes.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "93",
+    "questionText": "What is the product of the reaction between acetylene and chlorine?",
+    "options": [
+      {
+        "text": "1,2-Dichloroethene",
+        "isCorrect": false
+      },
+      {
+        "text": "1,2-Dichloroethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Chloroethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Chloroethene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acetylene reacts with chlorine to form 1,2-dichloroethane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "94",
+    "questionText": "Which of the following is a product of the ozonolysis of alkynes?",
+    "options": [
+      {
+        "text": "Carboxylic acids",
+        "isCorrect": true
+      },
+      {
+        "text": "Alcohols",
+        "isCorrect": false
+      },
+      {
+        "text": "Alkenes",
+        "isCorrect": false
+      },
+      {
+        "text": "Alkanes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ozonolysis of alkynes results in the formation of carboxylic acids.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "95",
+    "questionText": "Which reagent is used for the partial hydrogenation of alkynes to cis-alkenes?",
+    "options": [
+      {
+        "text": "Lindlar's catalyst",
+        "isCorrect": true
+      },
+      {
+        "text": "Raney nickel",
+        "isCorrect": false
+      },
+      {
+        "text": "Palladium on carbon",
+        "isCorrect": false
+      },
+      {
+        "text": "Platinum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lindlar's catalyst is used for the partial hydrogenation of alkynes to cis-alkenes.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "level": "HARD"
+  },
+  {
+    "qno": "144",
+    "questionText": "Which of the following PAHs is considered highly carcinogenic?",
+    "options": [
+      {
+        "text": "Benz(a)pyrene",
+        "isCorrect": true
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      },
+      {
+        "text": "Phen &#8203;:citation[oaicite:0]{index=0}&#8203;anthrene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benz(a)pyrene is a highly carcinogenic polycyclic aromatic hydrocarbon (PAH).",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "145",
+    "questionText": "Which of the following compounds is a common environmental contaminant from vehicle exhaust?",
+    "options": [
+      {
+        "text": "Benzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene is a common environmental contaminant from vehicle exhaust and is known for its toxic properties.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "146",
+    "questionText": "What is the main health effect of exposure to benz(a)pyrene?",
+    "options": [
+      {
+        "text": "Liver cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Lung cancer",
+        "isCorrect": true
+      },
+      {
+        "text": "Skin cancer",
+        "isCorrect": false
+      },
+      {
+        "text": "Bone cancer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benz(a)pyrene is primarily associated with an increased risk of lung cancer.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "147",
+    "questionText": "Which of the following compounds is used as a solvent but is toxic to the central nervous system?",
+    "options": [
+      {
+        "text": "Toluene",
+        "isCorrect": true
+      },
+      {
+        "text": "Cyclohexane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Toluene is used as an industrial solvent but is toxic to the central nervous system when inhaled in large quantities.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "148",
+    "questionText": "Which of the following is a method for assessing the chronic toxicity of a chemical?",
+    "options": [
+      {
+        "text": "Long-term animal studies",
+        "isCorrect": true
+      },
+      {
+        "text": "Short-term exposure tests",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaporation rate studies",
+        "isCorrect": false
+      },
+      {
+        "text": "Distillation tests",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Long-term animal studies are used to assess the chronic toxicity of chemicals by observing the effects of prolonged exposure.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "149",
+    "questionText": "Which of the following PAHs is commonly found in tobacco smoke?",
+    "options": [
+      {
+        "text": "Benzo(a)pyrene",
+        "isCorrect": true
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenanthrene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzo(a)pyrene is a polycyclic aromatic hydrocarbon commonly found in tobacco smoke and is known for its carcinogenic properties.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "150",
+    "questionText": "Which of the following aromatic hydrocarbons is used in the production of styrene but is also toxic?",
+    "options": [
+      {
+        "text": "Ethylbenzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethylbenzene is used in the production of styrene but is toxic when inhaled in large quantities.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "151",
+    "questionText": "Which of the following is a common symptom of acute benzene exposure?",
+    "options": [
+      {
+        "text": "Dizziness",
+        "isCorrect": true
+      },
+      {
+        "text": "Weight gain",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved vision",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased appetite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Acute exposure to benzene can cause dizziness and other neurological symptoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "152",
+    "questionText": "Which of the following is a method used to remove benzene from contaminated water?",
+    "options": [
+      {
+        "text": "Activated carbon filtration",
+        "isCorrect": true
+      },
+      {
+        "text": "Distillation",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaporation",
+        "isCorrect": false
+      },
+      {
+        "text": "Chlorination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Activated carbon filtration is used to remove benzene and other organic contaminants from water.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "153",
+    "questionText": "Which of the following aromatic hydrocarbons is used in the production of pesticides but is also toxic?",
+    "options": [
+      {
+        "text": "Naphthalene",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      },
+      {
+        "text": "Toluene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Naphthalene is used in the production of certain pesticides but is toxic when inhaled or ingested.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "154",
+    "questionText": "What is the main toxic effect of chronic exposure to benzene?",
+    "options": [
+      {
+        "text": "Bone marrow suppression",
+        "isCorrect": true
+      },
+      {
+        "text": "Skin irritation",
+        "isCorrect": false
+      },
+      {
+        "text": "Weight gain",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved vision",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chronic exposure to benzene can cause bone marrow suppression, leading to decreased production of blood cells.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "155",
+    "questionText": "Which of the following is a characteristic property of polycyclic aromatic hydrocarbons (PAHs)?",
+    "options": [
+      {
+        "text": "Aromaticity",
+        "isCorrect": true
+      },
+      {
+        "text": "Non-polarity",
+        "isCorrect": false
+      },
+      {
+        "text": "High reactivity towards electrophiles",
+        "isCorrect": false
+      },
+      {
+        "text": "Planarity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Polycyclic aromatic hydrocarbons (PAHs) are characterized by their aromaticity due to the presence of multiple fused benzene rings.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "156",
+    "questionText": "Which of the following is not a health effect associated with exposure to benzene?",
+    "options": [
+      {
+        "text": "Improved vision",
+        "isCorrect": true
+      },
+      {
+        "text": "Leukemia",
+        "isCorrect": false
+      },
+      {
+        "text": "Bone marrow suppression",
+        "isCorrect": false
+      },
+      {
+        "text": "Dizziness",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure to benzene is not associated with improved vision. It is linked to leukemia, bone marrow suppression, and dizziness.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "Which of the following hydrocarbons is an alkane?",
+    "options": [
+      {
+        "text": "Methane",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      },
+      {
+        "text": "Propyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methane is an alkane, which is a saturated hydrocarbon with single bonds only.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "22",
+    "questionText": "Which of the following hydrocarbons has the formula $C_3H_4$?",
+    "options": [
+      {
+        "text": "Propene",
+        "isCorrect": false
+      },
+      {
+        "text": "Propyne",
+        "isCorrect": true
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclopropane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Propyne is an alkyne with the molecular formula $C_3H_4$.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "Which of the following is a characteristic property of aromatic hydrocarbons?",
+    "options": [
+      {
+        "text": "Planar structure",
+        "isCorrect": true
+      },
+      {
+        "text": "Presence of single bonds",
+        "isCorrect": false
+      },
+      {
+        "text": "Non-polarity",
+        "isCorrect": false
+      },
+      {
+        "text": "High reactivity towards nucleophiles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aromatic hydrocarbons are characterized by their planar structure and delocalized π-electrons.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "Which of the following hydrocarbons is classified as an alkyne?",
+    "options": [
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyne",
+        "isCorrect": true
+      },
+      {
+        "text": "Cyclohexane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethyne is an alkyne with a triple bond between carbon atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "25",
+    "questionText": "What is the IUPAC name of the hydrocarbon $C_4H_8$?",
+    "options": [
+      {
+        "text": "Butane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butene",
+        "isCorrect": true
+      },
+      {
+        "text": "Butyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Cyclobutane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The hydrocarbon $C_4H_8$ is named butene, which is an alkene.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "26",
+    "questionText": "Which of the following is an example of a cyclic hydrocarbon?",
+    "options": [
+      {
+        "text": "Cyclohexane",
+        "isCorrect": true
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cyclohexane is a cyclic hydrocarbon with a ring structure.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "27",
+    "questionText": "What is the hybridization of carbon atoms in benzene?",
+    "options": [
+      {
+        "text": "$sp^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$sp$",
+        "isCorrect": false
+      },
+      {
+        "text": "$sp^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$dsp^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In benzene, each carbon atom is $sp^2$ hybridized.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "28",
+    "questionText": "Which of the following hydrocarbons is a saturated hydrocarbon?",
+    "options": [
+      {
+        "text": "Methane",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      },
+      {
+        "text": "Propyne",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methane is a saturated hydrocarbon with single bonds only.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "29",
+    "questionText": "Which of the following is a characteristic feature of alkenes?",
+    "options": [
+      {
+        "text": "Presence of a double bond",
+        "isCorrect": true
+      },
+      {
+        "text": "Presence of a single bond",
+        "isCorrect": false
+      },
+      {
+        "text": "Presence of a triple bond",
+        "isCorrect": false
+      },
+      {
+        "text": "Aromaticity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alkenes are characterized by the presence of a double bond between carbon atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "30",
+    "questionText": "Which of the following hydrocarbons is an example of an aromatic hydrocarbon?",
+    "options": [
+      {
+        "text": "Benzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Cyclohexane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene is an aromatic hydrocarbon with a ring structure and delocalized π-electrons.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "31",
+    "questionText": "Which of the following is a hydrocarbon with a triple bond?",
+    "options": [
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyne",
+        "isCorrect": true
+      },
+      {
+        "text": "Cyclohexane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethyne is an alkyne with a triple bond between carbon atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "32",
+    "questionText": "What is the general formula for alkenes?",
+    "options": [
+      {
+        "text": "$C_nH_{2n}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_nH_{2n+2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_nH_{2n-2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_nH_{2n-6}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The general formula for alkenes is $C_nH_{2n}$, where $n$ is the number of carbon atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "33",
+    "questionText": "Which of the following is the simplest alkyne?",
+    "options": [
+      {
+        "text": "Ethyne",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethene",
+        "isCorrect": false
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethyne, also known as acetylene, is the simplest alkyne with a triple bond between carbon atoms.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "44",
+    "questionText": "Which of the following hydrocarbons is an aromatic hydrocarbon?",
+    "options": [
+      {
+        "text": "Benzene",
+        "isCorrect": true
+      },
+      {
+        "text": "Cyclohexane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benzene is an aromatic hydrocarbon with a ring structure and delocalized π-electrons.",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification",
+    "level": "EASY"
+  },
+  {
+    "qno": "41",
+    "questionText": "What is the IUPAC name of the compound with the formula $CH_3-CH_2-CH_2-CH_3$?",
+    "options": [
+      {
+        "text": "Butane",
+        "isCorrect": true
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Pentane",
+        "isCorrect": false
+      },
+      {
+        "text": "Hexane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The compound with the formula $CH_3-CH_2-CH_2-CH_3$ is called butane according to IUPAC nomenclature.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "42",
+    "questionText": "Which of the following is a property of alkanes?",
+    "options": [
+      {
+        "text": "Non-polar",
+        "isCorrect": true
+      },
+      {
+        "text": "High melting point",
+        "isCorrect": false
+      },
+      {
+        "text": "High reactivity",
+        "isCorrect": false
+      },
+      {
+        "text": "Soluble in water",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alkanes are non-polar molecules with low reactivity and are insoluble in water.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "43",
+    "questionText": "Which of the following reactions is characteristic of alkanes?",
+    "options": [
+      {
+        "text": "Substitution",
+        "isCorrect": true
+      },
+      {
+        "text": "Addition",
+        "isCorrect": false
+      },
+      {
+        "text": "Elimination",
+        "isCorrect": false
+      },
+      {
+        "text": "Condensation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alkanes typically undergo substitution reactions, where one or more hydrogen atoms are replaced by other atoms or groups.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "45",
+    "questionText": "Which of the following is not a property of alkanes?",
+    "options": [
+      {
+        "text": "High reactivity",
+        "isCorrect": true
+      },
+      {
+        "text": "Non-polarity",
+        "isCorrect": false
+      },
+      {
+        "text": "Low boiling point",
+        "isCorrect": false
+      },
+      {
+        "text": "Solubility in non-polar solvents",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Alkanes are known for their low reactivity, non-polarity, low boiling points, and solubility in non-polar solvents.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "46",
+    "questionText": "Which of the following alkanes is a gas at room temperature?",
+    "options": [
+      {
+        "text": "Methane",
+        "isCorrect": true
+      },
+      {
+        "text": "Pentane",
+        "isCorrect": false
+      },
+      {
+        "text": "Hexane",
+        "isCorrect": false
+      },
+      {
+        "text": "Heptane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methane is a gas at room temperature, while pentane, hexane, and heptane are liquids.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "47",
+    "questionText": "What is the primary use of methane in the industry?",
+    "options": [
+      {
+        "text": "Fuel",
+        "isCorrect": true
+      },
+      {
+        "text": "Plastic production",
+        "isCorrect": false
+      },
+      {
+        "text": "Medicine",
+        "isCorrect": false
+      },
+      {
+        "text": "Textile",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methane is primarily used as a fuel in the industry due to its high energy content.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "48",
+    "questionText": "Which of the following alkanes is used as a refrigerant?",
+    "options": [
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Propane is used as a refrigerant in some refrigeration systems.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "49",
+    "questionText": "Which of the following is a liquid alkane at room temperature?",
+    "options": [
+      {
+        "text": "Pentane",
+        "isCorrect": true
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pentane is a liquid alkane at room temperature, while methane, ethane, and butane are gases.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "50",
+    "questionText": "Which of the following alkanes is used as a solvent?",
+    "options": [
+      {
+        "text": "Hexane",
+        "isCorrect": true
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hexane is commonly used as a solvent in laboratories and industries.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "51",
+    "questionText": "What is the chemical formula for propane?",
+    "options": [
+      {
+        "text": "$C_3H_8$",
+        "isCorrect": true
+      },
+      {
+        "text": "$C_2H_6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_4H_{10}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$C_5H_{12}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The chemical formula for propane is $C_3H_8$.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "52",
+    "questionText": "Which of the following is an example of a branched alkane?",
+    "options": [
+      {
+        "text": "Isobutane",
+        "isCorrect": true
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isobutane is an example of a branched alkane.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "53",
+    "questionText": "What is the major product formed when methane undergoes chlorination?",
+    "options": [
+      {
+        "text": "Chloromethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Dichloromethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Trichloromethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Tetrachloromethane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The chlorination of methane primarily yields chloromethane as the major product.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "HARD"
+  },
+  {
+    "qno": "54",
+    "questionText": "What is the hybridization of carbon atoms in alkanes?",
+    "options": [
+      {
+        "text": "$sp^3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$sp^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$sp$",
+        "isCorrect": false
+      },
+      {
+        "text": "$dsp^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In alkanes, each carbon atom is $sp^3$ hybridized.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "55",
+    "questionText": "Which of the following alkanes is used in the production of polyethylene?",
+    "options": [
+      {
+        "text": "Ethane",
+        "isCorrect": true
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      },
+      {
+        "text": "Butane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethane is used in the production of polyethylene through the process of polymerization.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "56",
+    "questionText": "Which of the following alkanes has the highest boiling point?",
+    "options": [
+      {
+        "text": "Hexane",
+        "isCorrect": true
+      },
+      {
+        "text": "Methane",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethane",
+        "isCorrect": false
+      },
+      {
+        "text": "Propane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Among the given alkanes, hexane has the highest boiling point due to its larger molecular size.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "57",
+    "questionText": "What is the major use of butane in the industry?",
+    "options": [
+      {
+        "text": "Fuel for lighters",
+        "isCorrect": true
+      },
+      {
+        "text": "Solvent",
+        "isCorrect": false
+      },
+      {
+        "text": "Refrigerant",
+        "isCorrect": false
+      },
+      {
+        "text": "Plastic production",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Butane is primarily used as a fuel for lighters and portable stoves.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "58",
+    "questionText": "Which of the following reactions is used to synthesize alkanes?",
+    "options": [
+      {
+        "text": "Wurtz reaction",
+        "isCorrect": true
+      },
+      {
+        "text": "Aldol condensation",
+        "isCorrect": false
+      },
+      {
+        "text": "Friedel-Crafts alkylation",
+        "isCorrect": false
+      },
+      {
+        "text": "Cannizzaro reaction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Wurtz reaction is used to synthesize alkanes by coupling two alkyl halides in the presence of sodium.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "59",
+    "questionText": "Which of the following is a common method for refining alkanes?",
+    "options": [
+      {
+        "text": "Fractional distillation",
+        "isCorrect": true
+      },
+      {
+        "text": "Simple distillation",
+        "isCorrect": false
+      },
+      {
+        "text": "Crystallization",
+        "isCorrect": false
+      },
+      {
+        "text": "Decantation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fractional distillation is a common method for refining alkanes based on their boiling points.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "60",
+    "questionText": "Which of the following is the product of the complete combustion of alkanes?",
+    "options": [
+      {
+        "text": "Carbon dioxide and water",
+        "isCorrect": true
+      },
+      {
+        "text": "Carbon monoxide and water",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbon and hydrogen",
+        "isCorrect": false
+      },
+      {
+        "text": "Methane and ethane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The complete combustion of alkanes produces carbon dioxide and water as the main products.",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "level": "EASY"
+  },
+  {
+    "qno": "157",
+    "questionText": "Which of the following PAHs is considered highly carcinogenic?",
+    "options": [
+      {
+        "text": "Benz(a)pyrene",
+        "isCorrect": true
+      },
+      {
+        "text": "Naphthalene",
+        "isCorrect": false
+      },
+      {
+        "text": "Anthracene",
+        "isCorrect": false
+      },
+      {
+        "text": "Phenanthrene",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benz(a)pyrene is a highly carcinogenic polycyclic aromatic hydrocarbon (PAH).",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  },
+  {
+    "qno": "170",
+    "questionText": "Which of the following methods is used to assess the carcinogenic potential of a chemical?",
+    "options": [
+      {
+        "text": "Long-term animal studies",
+        "isCorrect": true
+      },
+      {
+        "text": "Short-term exposure tests",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaporation rate studies",
+        "isCorrect": false
+      },
+      {
+        "text": "Distillation tests",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Long-term animal studies are used to assess the carcinogenic potential of chemicals by observing the effects of prolonged exposure.",
+    "chapter": "Hydrocarbons",
+    "topic": "Carcinogenicity and Toxicity",
+    "level": "HARD"
+  }
+]

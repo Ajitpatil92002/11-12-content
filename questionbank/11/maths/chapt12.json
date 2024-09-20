@@ -1,0 +1,6840 @@
+[
+  {
+    "qno": "1",
+    "questionText": "What is the main branch of mathematics that deals with the study of change in the value of a function as the points in the domain change?",
+    "options": [
+      {
+        "text": "Algebra",
+        "isCorrect": false
+      },
+      {
+        "text": "Geometry",
+        "isCorrect": false
+      },
+      {
+        "text": "Calculus",
+        "isCorrect": true
+      },
+      {
+        "text": "Trigonometry",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Calculus is the branch of mathematics that deals with the study of change in the value of a function as the points in the domain change.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "Who is known as the father of Calculus?",
+    "options": [
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Isaac Newton",
+        "isCorrect": true
+      },
+      {
+        "text": "Leonhard Euler",
+        "isCorrect": false
+      },
+      {
+        "text": "Carl Friedrich Gauss",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Isaac Newton is known as the father of Calculus for his contributions to the field.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "Which of the following best describes the process of finding the instantaneous rate of change of a function?",
+    "options": [
+      {
+        "text": "Integration",
+        "isCorrect": false
+      },
+      {
+        "text": "Differentiation",
+        "isCorrect": true
+      },
+      {
+        "text": "Multiplication",
+        "isCorrect": false
+      },
+      {
+        "text": "Addition",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Differentiation is the process of finding the instantaneous rate of change of a function.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "4",
+    "questionText": "What is the derivative of the function $s = 4.9t^2$ at $t = 2$ seconds?",
+    "options": [
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "14.7 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "Between 19.551 m/s and 19.649 m/s",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "From the given data of distance covered at various time instants, we have estimated the rate of change of the distance at a given instant of time. The derivative of the distance function $s = 4.9t^2$ at $t = 2$ is between 19.551 m/s and 19.649 m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "5",
+    "questionText": "Which process involves making the time intervals ending at a specific point smaller to understand the instantaneous rate of change?",
+    "options": [
+      {
+        "text": "Finding the average rate of change",
+        "isCorrect": false
+      },
+      {
+        "text": "Calculating the limit",
+        "isCorrect": true
+      },
+      {
+        "text": "Integrating the function",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluating the function",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "By making the time intervals ending at a specific point smaller, we approach the limit, which helps in understanding the instantaneous rate of change.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "What is the instantaneous velocity of a body at $t = 2$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "19.551 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "19.649 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "Between 19.551 m/s and 19.649 m/s",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The instantaneous velocity at $t = 2$ seconds is between 19.551 m/s and 19.649 m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "7",
+    "questionText": "Which mathematician is credited with the development of Calculus alongside Isaac Newton?",
+    "options": [
+      {
+        "text": "Leonhard Euler",
+        "isCorrect": false
+      },
+      {
+        "text": "Gottfried Wilhelm Leibniz",
+        "isCorrect": true
+      },
+      {
+        "text": "Carl Friedrich Gauss",
+        "isCorrect": false
+      },
+      {
+        "text": "Joseph Fourier",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gottfried Wilhelm Leibniz is credited with the development of Calculus alongside Isaac Newton.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "What does the process of differentiation help us to find in a function?",
+    "options": [
+      {
+        "text": "The total area under the curve",
+        "isCorrect": false
+      },
+      {
+        "text": "The average rate of change",
+        "isCorrect": false
+      },
+      {
+        "text": "The instantaneous rate of change",
+        "isCorrect": true
+      },
+      {
+        "text": "The maximum value of the function",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Differentiation helps us to find the instantaneous rate of change of a function.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "9",
+    "questionText": "What does the derivative of a function represent?",
+    "options": [
+      {
+        "text": "The slope of the tangent to the function at a point",
+        "isCorrect": true
+      },
+      {
+        "text": "The total area under the function",
+        "isCorrect": false
+      },
+      {
+        "text": "The y-intercept of the function",
+        "isCorrect": false
+      },
+      {
+        "text": "The maximum value of the function",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of a function represents the slope of the tangent to the function at a point.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "10",
+    "questionText": "What is the derivative of the constant function $f(x) = 5$?",
+    "options": [
+      {
+        "text": "$5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of any constant function is always $0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the formula for average velocity between time $t_1$ and $t_2$?",
+    "options": [
+      {
+        "text": "$\\frac{s(t_2) - s(t_1)}{t_2 - t_1}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{s(t_2) + s(t_1)}{t_2 - t_1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{s(t_2) - s(t_1)}{t_2 + t_1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{s(t_2) + s(t_1)}{t_2 + t_1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Average velocity is calculated by dividing the change in position by the change in time: $\\frac{s(t_2) - s(t_1)}{t_2 - t_1}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "Which of the following expressions represents the limit of a function $f(x)$ as $x$ approaches $a$?",
+    "options": [
+      {
+        "text": "$\\lim_{x \\to a} f(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\lim_{x \\to a} \\frac{f(x)}{g(x)}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\int_{a}^{b} f(x)\\,dx$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sum_{i=1}^{n} f(x_i)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit of a function $f(x)$ as $x$ approaches $a$ is denoted by $\\lim_{x \\to a} f(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "What is the derivative of the function $f(x) = 3x^2$?",
+    "options": [
+      {
+        "text": "$3x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6x$",
+        "isCorrect": true
+      },
+      {
+        "text": "$9x^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6x^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = 3x^2$ is calculated as $f'(x) = 6x$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "14",
+    "questionText": "If $f(x) = 5x^3$, what is $f'(x)$?",
+    "options": [
+      {
+        "text": "$5x^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$15x^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$15x^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$10x^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the power rule, the derivative of $f(x) = 5x^3$ is $f'(x) = 15x^2$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "15",
+    "questionText": "What is the intuitive idea of derivatives used to find in physical experiments?",
+    "options": [
+      {
+        "text": "The distance travelled by a body",
+        "isCorrect": false
+      },
+      {
+        "text": "The average speed of a body",
+        "isCorrect": false
+      },
+      {
+        "text": "The velocity of a body at a specific time",
+        "isCorrect": true
+      },
+      {
+        "text": "The acceleration of a body",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The intuitive idea of derivatives is used to find the velocity of a body at a specific time in physical experiments.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "16",
+    "questionText": "What does the limit of a function $f(x)$ as $x$ approaches $a$ represent?",
+    "options": [
+      {
+        "text": "The value of $f(x)$ at $x = a$",
+        "isCorrect": false
+      },
+      {
+        "text": "The value that $f(x)$ approaches as $x$ approaches $a$",
+        "isCorrect": true
+      },
+      {
+        "text": "The average value of $f(x)$ around $x = a$",
+        "isCorrect": false
+      },
+      {
+        "text": "The integral of $f(x)$ from 0 to $a$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit of a function $f(x)$ as $x$ approaches $a$ represents the value that $f(x)$ approaches as $x$ approaches $a$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "What is the slope of the tangent to the curve $s = 4.9t^2$ at $t = 2$?",
+    "options": [
+      {
+        "text": "4.9",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8",
+        "isCorrect": false
+      },
+      {
+        "text": "19.6",
+        "isCorrect": true
+      },
+      {
+        "text": "24.5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The slope of the tangent to the curve $s = 4.9t^2$ at $t = 2$ is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 2 = 19.6$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "18",
+    "questionText": "What is the primary focus of Calculus?",
+    "options": [
+      {
+        "text": "Study of shapes and angles",
+        "isCorrect": false
+      },
+      {
+        "text": "Study of numbers and their properties",
+        "isCorrect": false
+      },
+      {
+        "text": "Study of change and motion",
+        "isCorrect": true
+      },
+      {
+        "text": "Study of probability and statistics",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary focus of Calculus is the study of change and motion.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "19",
+    "questionText": "What is the derivative of the function $f(x) = x^3$?",
+    "options": [
+      {
+        "text": "$3x^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3x^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x^3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the power rule, the derivative of $f(x) = x^3$ is $f'(x) = 3x^2$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "20",
+    "questionText": "What do we call the value that a function $f(x)$ approaches as $x$ approaches a specific point $a$?",
+    "options": [
+      {
+        "text": "Integral",
+        "isCorrect": false
+      },
+      {
+        "text": "Derivative",
+        "isCorrect": false
+      },
+      {
+        "text": "Limit",
+        "isCorrect": true
+      },
+      {
+        "text": "Product",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The value that a function $f(x)$ approaches as $x$ approaches a specific point $a$ is called the limit.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "What is the derivative of the function $f(x) = 7x^2 + 3x + 5$?",
+    "options": [
+      {
+        "text": "$14x + 3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$14x^2 + 3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$14x + 3x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$7x + 3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the sum rule and the power rule, the derivative of $f(x) = 7x^2 + 3x + 5$ is $f'(x) = 14x + 3$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "22",
+    "questionText": "What is the limit of the function $f(x) = x^2$ as $x$ approaches 0?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches 0, the function $f(x) = x^2$ approaches 0. Therefore, $\\lim_{x \\to 0} x^2 = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "23",
+    "questionText": "What is the value of the limit $\\lim_{x \\to 2} (x^2 - 4)$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "By substituting $x = 2$ in the function $x^2 - 4$, we get $2^2 - 4 = 4 - 4 = 0$. Hence, $\\lim_{x \\to 2} (x^2 - 4) = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "What is the primary application of the derivative in physics?",
+    "options": [
+      {
+        "text": "Finding the total distance travelled",
+        "isCorrect": false
+      },
+      {
+        "text": "Calculating the average speed",
+        "isCorrect": false
+      },
+      {
+        "text": "Determining the velocity of a moving object",
+        "isCorrect": true
+      },
+      {
+        "text": "Measuring the displacement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In physics, the derivative is primarily used to determine the velocity of a moving object, which is the rate of change of displacement.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "25",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1}{x}$ as $x$ approaches 0?",
+    "options": [
+      {
+        "text": "$\\infty$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches 0, the function $f(x) = \\frac{1}{x}$ increases without bound, approaching $\\infty$. Therefore, $\\lim_{x \\to 0} \\frac{1}{x} = \\infty$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "26",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^2 - 4}{x - 2}$ as $x$ approaches 2?",
+    "options": [
+      {
+        "text": "$2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The function $\\frac{x^2 - 4}{x - 2}$ can be factored as $\\frac{(x - 2)(x + 2)}{x - 2}$. As $x$ approaches 2, the factor $(x - 2)$ cancels out, leaving $x + 2$. Therefore, $\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2} = 4$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "27",
+    "questionText": "Which of the following functions is continuous at $x = 0$?",
+    "options": [
+      {
+        "text": "$f(x) = \\frac{1}{x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f(x) = |x|$",
+        "isCorrect": true
+      },
+      {
+        "text": "$f(x) = \\frac{1}{x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f(x) = \\frac{1}{x - 1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The function $f(x) = |x|$ is continuous at $x = 0$ because it is defined for all real numbers and does not have any discontinuities.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "28",
+    "questionText": "What is the limit of the function $f(x) = \\frac{\\sin(x)}{x}$ as $x$ approaches 0?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit of the function $\\frac{\\sin(x)}{x}$ as $x$ approaches 0 is a well-known limit in calculus and equals $1$. Therefore, $\\lim_{x \\to 0} \\frac{\\sin(x)}{x} = 1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "29",
+    "questionText": "What is the limit of the function $f(x) = e^x$ as $x$ approaches $\\infty$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\infty$, the function $e^x$ increases without bound. Therefore, $\\lim_{x \\to \\infty} e^x = \\infty$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "30",
+    "questionText": "What is the derivative of the function $f(x) = e^x$?",
+    "options": [
+      {
+        "text": "$e^x$",
+        "isCorrect": true
+      },
+      {
+        "text": "$xe^{x-1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$e^{x+1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{e^x}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of the exponential function $f(x) = e^x$ is $f'(x) = e^x$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "31",
+    "questionText": "Which of the following limits represents the definition of the derivative of a function $f$ at $x = a$?",
+    "options": [
+      {
+        "text": "$\\lim_{h \\to 0} \\frac{f(a+h) - f(a)}{h}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\lim_{h \\to a} \\frac{f(a+h) - f(a)}{h}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lim_{h \\to 0} \\frac{f(a) - f(a-h)}{h}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lim_{h \\to 0} \\frac{f(a+h) + f(a)}{h}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The definition of the derivative of a function $f$ at $x = a$ is given by $\\lim_{h \\to 0} \\frac{f(a+h) - f(a)}{h}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "32",
+    "questionText": "What is the derivative of the function $f(x) = \\ln(x)$?",
+    "options": [
+      {
+        "text": "$\\frac{1}{x}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$e^x$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of the natural logarithm function $f(x) = \\ln(x)$ is $f'(x) = \\frac{1}{x}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "33",
+    "questionText": "What is the value of the limit $\\lim_{x \\to 1} \\frac{x^2 - 1}{x - 1}$?",
+    "options": [
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The function $\\frac{x^2 - 1}{x - 1}$ can be factored as $\\frac{(x - 1)(x + 1)}{x - 1}$. As $x$ approaches 1, the factor $(x - 1)$ cancels out, leaving $x + 1$. Therefore, $\\lim_{x \\to 1} \\frac{x^2 - 1}{x - 1} = 2$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "34",
+    "questionText": "What is the primary application of the limit in calculus?",
+    "options": [
+      {
+        "text": "Finding the total area under the curve",
+        "isCorrect": false
+      },
+      {
+        "text": "Determining the slope of a tangent line",
+        "isCorrect": true
+      },
+      {
+        "text": "Calculating the average speed",
+        "isCorrect": false
+      },
+      {
+        "text": "Measuring the displacement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The primary application of the limit in calculus is determining the slope of a tangent line to a curve.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "35",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1}{x^2}$ as $x$ approaches $\\infty$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\infty$, the function $\\frac{1}{x^2}$ approaches 0. Therefore, $\\lim_{x \\to \\infty} \\frac{1}{x^2} = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "36",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1}{x^2}$ as $x$ approaches $0$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $0$, the function $\\frac{1}{x^2}$ increases without bound, approaching $\\infty$. Therefore, $\\lim_{x \\to 0} \\frac{1}{x^2} = \\infty$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "37",
+    "questionText": "What is the value of the limit $\\lim_{x \\to 0} \\frac{e^x - 1}{x}$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$e$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{e^x - 1}{x} = 1$ is a standard result in calculus.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "38",
+    "questionText": "Which rule is used to find the derivative of the product of two functions?",
+    "options": [
+      {
+        "text": "Chain rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Quotient rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Product rule",
+        "isCorrect": true
+      },
+      {
+        "text": "Power rule",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The product rule is used to find the derivative of the product of two functions and is given by $(fg)' = f'g + fg'$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "39",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1}{x}$ as $x$ approaches $\\infty$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\infty$, the function $\\frac{1}{x}$ approaches 0. Therefore, $\\lim_{x \\to \\infty} \\frac{1}{x} = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "40",
+    "questionText": "Which rule is used to find the derivative of the quotient of two functions?",
+    "options": [
+      {
+        "text": "Chain rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Quotient rule",
+        "isCorrect": true
+      },
+      {
+        "text": "Product rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Power rule",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The quotient rule is used to find the derivative of the quotient of two functions and is given by $(\\frac{f}{g})' = \\frac{f'g - fg'}{g^2}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "41",
+    "questionText": "What is the limit of the function $f(x) = \\sin(x)$ as $x$ approaches $\\pi$?",
+    "options": [
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\pi$, the function $\\sin(x)$ approaches $-1$. Therefore, $\\lim_{x \\to \\pi} \\sin(x) = -1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "42",
+    "questionText": "What is the derivative of the function $f(x) = \\cos(x)$?",
+    "options": [
+      {
+        "text": "$\\sin(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\cos(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\sin(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\cos(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of the cosine function $f(x) = \\cos(x)$ is $f'(x) = -\\sin(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "43",
+    "questionText": "Which limit represents the derivative of $f(x) = x^2$ at $x = 1$?",
+    "options": [
+      {
+        "text": "$\\lim_{h \\to 1} \\frac{(1+h)^2 - 1^2}{h}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lim_{h \\to 0} \\frac{(1+h)^2 - 1^2}{h}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\lim_{h \\to 0} \\frac{(1+h)^2 - 1}{h}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\lim_{h \\to 0} \\frac{(1+h)^2 - 1^2}{h^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = x^2$ at $x = 1$ is given by $\\lim_{h \\to 0} \\frac{(1+h)^2 - 1^2}{h}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "44",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^3 - 1}{x - 1}$ as $x$ approaches $1$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The function $\\frac{x^3 - 1}{x - 1}$ can be factored as $\\frac{(x - 1)(x^2 + x + 1)}{x - 1}$. As $x$ approaches 1, the factor $(x - 1)$ cancels out, leaving $x^2 + x + 1$. Therefore, $\\lim_{x \\to 1} \\frac{x^3 - 1}{x - 1} = 3$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "45",
+    "questionText": "What is the derivative of the function $f(x) = \\tan(x)$?",
+    "options": [
+      {
+        "text": "$\\sec(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sec^2(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\cos(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sin(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of the tangent function $f(x) = \\tan(x)$ is $f'(x) = \\sec^2(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "46",
+    "questionText": "What is the derivative of the function $f(x) = \\sin(x)$?",
+    "options": [
+      {
+        "text": "$\\cos(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\sin(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\cos(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\sin(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of the sine function $f(x) = \\sin(x)$ is $f'(x) = \\cos(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "47",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x-1}{x^2-1}$ as $x$ approaches 1?",
+    "options": [
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "Does not exist",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "As $x$ approaches 1, the denominator of the function $f(x) = \\frac{x-1}{x^2-1}$ approaches zero, causing the function to be undefined. Therefore, the limit does not exist.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "48",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^3 - 8}{x - 2}$ as $x$ approaches 2?",
+    "options": [
+      {
+        "text": "$4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$12$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The function $\\frac{x^3 - 8}{x - 2}$ can be factored as $\\frac{(x - 2)(x^2 + 2x + 4)}{x - 2}$. As $x$ approaches 2, the factor $(x - 2)$ cancels out, leaving $x^2 + 2x + 4$. Therefore, $\\lim_{x \\to 2} \\frac{x^3 - 8}{x - 2} = 12$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "49",
+    "questionText": "Which of the following is an example of a function with an infinite limit?",
+    "options": [
+      {
+        "text": "$f(x) = x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f(x) = \\frac{1}{x}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$f(x) = \\sin(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$f(x) = \\cos(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The function $f(x) = \\frac{1}{x}$ has an infinite limit as $x$ approaches 0, since it increases without bound.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "50",
+    "questionText": "What is the derivative of the function $f(x) = x^4$?",
+    "options": [
+      {
+        "text": "$4x^3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4x^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3x^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x^3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the power rule, the derivative of $f(x) = x^4$ is $f'(x) = 4x^3$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "51",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x-2}{x^2-4}$ as $x$ approaches 2?",
+    "options": [
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "Does not exist",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "As $x$ approaches 2, the denominator of the function $f(x) = \\frac{x-2}{x^2-4}$ approaches zero, causing the function to be undefined. Therefore, the limit does not exist.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "52",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^2 - 9}{x - 3}$ as $x$ approaches 3?",
+    "options": [
+      {
+        "text": "$3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$9$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The function $\\frac{x^2 - 9}{x - 3}$ can be factored as $\\frac{(x - 3)(x + 3)}{x - 3}$. As $x$ approaches 3, the factor $(x - 3)$ cancels out, leaving $x + 3$. Therefore, $\\lim_{x \\to 3} \\frac{x^2 - 9}{x - 3} = 6$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "53",
+    "questionText": "What is the derivative of the function $f(x) = x^5$?",
+    "options": [
+      {
+        "text": "$5x^4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$5x^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4x^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x^4$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the power rule, the derivative of $f(x) = x^5$ is $f'(x) = 5x^4$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "54",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1}{x}$ as $x$ approaches $-\\infty$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $-\\infty$, the function $\\frac{1}{x}$ approaches 0. Therefore, $\\lim_{x \\to -\\infty} \\frac{1}{x} = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "55",
+    "questionText": "Which rule is used to find the derivative of the composite of two functions?",
+    "options": [
+      {
+        "text": "Chain rule",
+        "isCorrect": true
+      },
+      {
+        "text": "Quotient rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Product rule",
+        "isCorrect": false
+      },
+      {
+        "text": "Power rule",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The chain rule is used to find the derivative of the composite of two functions and is given by $(f(g(x)))' = f'(g(x))g'(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "56",
+    "questionText": "What is the derivative of the function $f(x) = x^6$?",
+    "options": [
+      {
+        "text": "$6x^5$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6x^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5x^6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the power rule, the derivative of $f(x) = x^6$ is $f'(x) = 6x^5$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "57",
+    "questionText": "What is the limit of the function $f(x) = \\frac{\\sin(x)}{x}$ as $x$ approaches $\\pi$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\pi$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\pi$, the function $\\frac{\\sin(x)}{x}$ approaches 0 because $\\sin(\\pi) = 0$. Therefore, $\\lim_{x \\to \\pi} \\frac{\\sin(x)}{x} = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "58",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^2 - 4}{x - 2}$ as $x$ approaches 2?",
+    "options": [
+      {
+        "text": "$2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The function $\\frac{x^2 - 4}{x - 2}$ can be factored as $\\frac{(x - 2)(x + 2)}{x - 2}$. As $x$ approaches 2, the factor $(x - 2)$ cancels out, leaving $x + 2$. Therefore, $\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2} = 4$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "59",
+    "questionText": "What is the derivative of the function $f(x) = \\frac{1}{x}$?",
+    "options": [
+      {
+        "text": "$-\\frac{1}{x^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-x^{-1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x^{-2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of the reciprocal function $f(x) = \\frac{1}{x}$ is $f'(x) = -\\frac{1}{x^2}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "60",
+    "questionText": "What is the limit of the function $f(x) = \\ln(x)$ as $x$ approaches 0 from the right?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "As $x$ approaches 0 from the right, the natural logarithm function $\\ln(x)$ decreases without bound. Therefore, $\\lim_{x \\to 0^+} \\ln(x) = -\\infty$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "61",
+    "questionText": "What is the derivative of the function $f(x) = \\sqrt{x}$?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2\\sqrt{x}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2}x^{-1/2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2\\sqrt{x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{x}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the power rule, the derivative of $f(x) = \\sqrt{x}$ is $f'(x) = \\frac{1}{2\\sqrt{x}}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "62",
+    "questionText": "What is the limit of the function $f(x) = x^3$ as $x$ approaches 0?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches 0, the function $f(x) = x^3$ also approaches 0. Therefore, $\\lim_{x \\to 0} x^3 = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "EASY"
+  },
+  {
+    "qno": "67",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1}{x}$ as $x$ approaches $0$?",
+    "options": [
+      {
+        "text": "$\\infty$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches 0, the function $f(x) = \\frac{1}{x}$ increases without bound, approaching $\\infty$. Therefore, $\\lim_{x \\to 0} \\frac{1}{x} = \\infty$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "75",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^2 - 1}{x - 1}$ as $x$ approaches 1?",
+    "options": [
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "Does not exist",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The function $\\frac{x^2 - 1}{x - 1}$ can be factored as $\\frac{(x - 1)(x + 1)}{x - 1}$. As $x$ approaches 1, the factor $(x - 1)$ cancels out, leaving $x + 1$. Therefore, $\\lim_{x \\to 1} \\frac{x^2 - 1}{x - 1} = 2$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction",
+    "level": "HARD"
+  },
+  {
+    "qno": "1",
+    "questionText": "What is the velocity of a body at $t = 2$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "14.7 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "24.5 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The velocity at $t = 2$ seconds is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 2 = 19.6$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "2",
+    "questionText": "What is the average velocity of a body between $t = 1$ second and $t = 2$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "14.7 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "24.5 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average velocity is calculated by $\\frac{s(2) - s(1)}{2 - 1}$, which equals $\\frac{19.6 - 4.9}{1} = 14.7$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "3",
+    "questionText": "What does the average velocity between two time intervals indicate in the context of derivatives?",
+    "options": [
+      {
+        "text": "The total distance travelled",
+        "isCorrect": false
+      },
+      {
+        "text": "The rate of change of distance over time",
+        "isCorrect": true
+      },
+      {
+        "text": "The maximum speed",
+        "isCorrect": false
+      },
+      {
+        "text": "The acceleration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average velocity between two time intervals indicates the rate of change of distance over time, which is a key concept in derivatives.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "4",
+    "questionText": "In the function $s = 4.9t^2$, what does the coefficient 4.9 represent?",
+    "options": [
+      {
+        "text": "Initial velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceleration due to gravity divided by 2",
+        "isCorrect": true
+      },
+      {
+        "text": "Final velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Time interval",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The coefficient 4.9 represents half of the acceleration due to gravity, which is 9.8 m/s^2.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "5",
+    "questionText": "What is the purpose of finding the instantaneous velocity in the context of derivatives?",
+    "options": [
+      {
+        "text": "To determine the total distance travelled",
+        "isCorrect": false
+      },
+      {
+        "text": "To understand the rate of change at a specific moment",
+        "isCorrect": true
+      },
+      {
+        "text": "To calculate the average speed over time",
+        "isCorrect": false
+      },
+      {
+        "text": "To measure the acceleration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The purpose of finding the instantaneous velocity is to understand the rate of change at a specific moment in time, which is the essence of derivatives.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "6",
+    "questionText": "What is the derivative of the function $s = 4.9t^2$ with respect to time $t$?",
+    "options": [
+      {
+        "text": "$4.9t$",
+        "isCorrect": false
+      },
+      {
+        "text": "$9.8t$",
+        "isCorrect": true
+      },
+      {
+        "text": "$9.8t^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4.9t^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $s = 4.9t^2$ with respect to $t$ is $\\frac{ds}{dt} = 9.8t$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "7",
+    "questionText": "At $t = 3$ seconds, what is the velocity of the body if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "14.7 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "29.4 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "44.1 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The velocity at $t = 3$ seconds is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 3 = 29.4$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "8",
+    "questionText": "Which of the following represents the average velocity between $t = 0$ and $t = 2$ seconds?",
+    "options": [
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "4.9 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The average velocity is calculated by $\\frac{s(2) - s(0)}{2 - 0}$, which equals $\\frac{19.6 - 0}{2} = 9.8$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "9",
+    "questionText": "What does the term 'instantaneous rate of change' refer to in the context of derivatives?",
+    "options": [
+      {
+        "text": "The total change in distance",
+        "isCorrect": false
+      },
+      {
+        "text": "The change in distance over a small time interval",
+        "isCorrect": true
+      },
+      {
+        "text": "The average change in distance",
+        "isCorrect": false
+      },
+      {
+        "text": "The constant rate of change",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The term 'instantaneous rate of change' refers to the change in distance over an infinitesimally small time interval.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "10",
+    "questionText": "If the velocity of a body is given by $v = 9.8t$, what is the acceleration?",
+    "options": [
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "4.9 m/s^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "19.6 m/s^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acceleration is the derivative of the velocity with respect to time. Since $v = 9.8t$, the acceleration is $a = \\frac{dv}{dt} = 9.8$ m/s^2.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the significance of finding the derivative of a function in physics?",
+    "options": [
+      {
+        "text": "To calculate the total distance travelled",
+        "isCorrect": false
+      },
+      {
+        "text": "To determine the instantaneous rate of change",
+        "isCorrect": true
+      },
+      {
+        "text": "To find the average velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "To measure the final displacement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In physics, finding the derivative of a function helps to determine the instantaneous rate of change, such as velocity or acceleration.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "12",
+    "questionText": "What does the slope of the tangent line to a curve at a point represent?",
+    "options": [
+      {
+        "text": "The average rate of change",
+        "isCorrect": false
+      },
+      {
+        "text": "The instantaneous rate of change",
+        "isCorrect": true
+      },
+      {
+        "text": "The total change in the function",
+        "isCorrect": false
+      },
+      {
+        "text": "The final value of the function",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The slope of the tangent line to a curve at a point represents the instantaneous rate of change of the function at that point.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "If a body travels a distance given by $s = 4.9t^2$, what is the velocity at $t = 1$ second?",
+    "options": [
+      {
+        "text": "4.9 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "2.45 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The velocity at $t = 1$ second is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 1 = 9.8$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "14",
+    "questionText": "What is the average velocity between $t = 0$ and $t = 1$ second if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "2.45 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "4.9 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "7.35 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average velocity is calculated by $\\frac{s(1) - s(0)}{1 - 0}$, which equals $\\frac{4.9 - 0}{1} = 4.9$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "15",
+    "questionText": "What is the derivative of the function $s = 4.9t^2$ at $t = 0$?",
+    "options": [
+      {
+        "text": "0 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "4.9 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $s = 4.9t^2$ at $t = 0$ is $s'(t) = 9.8t$, which equals $9.8 \\times 0 = 0$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "16",
+    "questionText": "If the distance travelled by a body is given by $s = 4.9t^2$, what is the velocity at $t = 4$ seconds?",
+    "options": [
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "39.2 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "78.4 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The velocity at $t = 4$ seconds is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 4 = 39.2$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "17",
+    "questionText": "What does the term 'differentiation' refer to in calculus?",
+    "options": [
+      {
+        "text": "Finding the total distance travelled",
+        "isCorrect": false
+      },
+      {
+        "text": "Finding the average rate of change",
+        "isCorrect": false
+      },
+      {
+        "text": "Finding the instantaneous rate of change",
+        "isCorrect": true
+      },
+      {
+        "text": "Finding the initial velocity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Differentiation refers to the process of finding the instantaneous rate of change of a function with respect to one of its variables.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "18",
+    "questionText": "In the function $s = 4.9t^2$, what does the variable $t$ represent?",
+    "options": [
+      {
+        "text": "Velocity",
+        "isCorrect": false
+      },
+      {
+        "text": "Time",
+        "isCorrect": true
+      },
+      {
+        "text": "Distance",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceleration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the function $s = 4.9t^2$, the variable $t$ represents time.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "19",
+    "questionText": "What is the average velocity of a body between $t = 2$ seconds and $t = 3$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "14.7 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "24.5 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "29.4 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average velocity is calculated by $\\frac{s(3) - s(2)}{3 - 2}$, which equals $\\frac{44.1 - 19.6}{1} = 24.5$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "20",
+    "questionText": "What is the purpose of finding the derivative of a distance-time function?",
+    "options": [
+      {
+        "text": "To find the total distance travelled",
+        "isCorrect": false
+      },
+      {
+        "text": "To determine the instantaneous velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "To calculate the average speed",
+        "isCorrect": false
+      },
+      {
+        "text": "To measure the acceleration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The purpose of finding the derivative of a distance-time function is to determine the instantaneous velocity of the body at any given time.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "What is the instantaneous velocity of a body at $t = 5$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "24.5 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "39.2 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "49.0 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity at $t = 5$ seconds is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 5 = 49.0$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "22",
+    "questionText": "What does the derivative of a function at a particular point represent?",
+    "options": [
+      {
+        "text": "The total change in the function",
+        "isCorrect": false
+      },
+      {
+        "text": "The average rate of change",
+        "isCorrect": false
+      },
+      {
+        "text": "The instantaneous rate of change",
+        "isCorrect": true
+      },
+      {
+        "text": "The maximum value of the function",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of a function at a particular point represents the instantaneous rate of change of the function at that point.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "23",
+    "questionText": "If the distance function is $s = 4.9t^2$, what is the velocity of the body at $t = 0.5$ seconds?",
+    "options": [
+      {
+        "text": "4.9 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "2.45 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "1.225 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The velocity at $t = 0.5$ seconds is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 0.5 = 4.9$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "What is the average velocity of a body between $t = 3$ seconds and $t = 4$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "39.2 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "34.3 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "24.5 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "29.4 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average velocity is calculated by $\\frac{s(4) - s(3)}{4 - 3}$, which equals $\\frac{78.4 - 44.1}{1} = 34.3$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "25",
+    "questionText": "What is the significance of the derivative of a distance-time function in the context of motion?",
+    "options": [
+      {
+        "text": "It helps calculate the total distance travelled",
+        "isCorrect": false
+      },
+      {
+        "text": "It determines the instantaneous velocity",
+        "isCorrect": true
+      },
+      {
+        "text": "It measures the average speed",
+        "isCorrect": false
+      },
+      {
+        "text": "It gives the time taken to travel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the context of motion, the derivative of a distance-time function helps determine the instantaneous velocity of the body.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "26",
+    "questionText": "If the distance function is $s = 4.9t^2$, what is the velocity of the body at $t = 0.1$ seconds?",
+    "options": [
+      {
+        "text": "0.98 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "4.9 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "1.96 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The velocity at $t = 0.1$ seconds is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 0.1 = 0.98$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "27",
+    "questionText": "What is the purpose of finding the average velocity over a time interval?",
+    "options": [
+      {
+        "text": "To determine the instantaneous velocity at the midpoint of the interval",
+        "isCorrect": false
+      },
+      {
+        "text": "To find the total distance travelled in that interval",
+        "isCorrect": false
+      },
+      {
+        "text": "To approximate the rate of change over the interval",
+        "isCorrect": true
+      },
+      {
+        "text": "To calculate the acceleration",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The purpose of finding the average velocity over a time interval is to approximate the rate of change of the distance over that interval.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "28",
+    "questionText": "In the context of derivatives, what does the term 'tangent' refer to?",
+    "options": [
+      {
+        "text": "A line that intersects the curve at one point and crosses it",
+        "isCorrect": false
+      },
+      {
+        "text": "A line that intersects the curve at one point without crossing it",
+        "isCorrect": true
+      },
+      {
+        "text": "A line that is parallel to the curve",
+        "isCorrect": false
+      },
+      {
+        "text": "A line that is perpendicular to the curve",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the context of derivatives, a 'tangent' is a line that intersects the curve at exactly one point and does not cross it.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "29",
+    "questionText": "What is the instantaneous rate of change of the function $s = 4.9t^2$ at $t = 0$ seconds?",
+    "options": [
+      {
+        "text": "0 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "4.9 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous rate of change at $t = 0$ seconds is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 0 = 0$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "30",
+    "questionText": "Why is the concept of a limit important in the definition of a derivative?",
+    "options": [
+      {
+        "text": "Because it helps calculate the total distance travelled",
+        "isCorrect": false
+      },
+      {
+        "text": "Because it determines the average rate of change",
+        "isCorrect": false
+      },
+      {
+        "text": "Because it defines the instantaneous rate of change",
+        "isCorrect": true
+      },
+      {
+        "text": "Because it measures the total time taken",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The concept of a limit is important in the definition of a derivative because it helps define the instantaneous rate of change of a function at a specific point.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "31",
+    "questionText": "What is the average velocity of a body between $t = 0$ and $t = 0.5$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "4.9 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "2.45 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "1.225 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average velocity is calculated by $\\frac{s(0.5) - s(0)}{0.5 - 0}$, which equals $\\frac{1.225 - 0}{0.5} = 2.45$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "32",
+    "questionText": "What does the slope of a secant line between two points on a curve represent?",
+    "options": [
+      {
+        "text": "The instantaneous rate of change at the midpoint",
+        "isCorrect": false
+      },
+      {
+        "text": "The average rate of change between the two points",
+        "isCorrect": true
+      },
+      {
+        "text": "The maximum rate of change between the two points",
+        "isCorrect": false
+      },
+      {
+        "text": "The minimum rate of change between the two points",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The slope of a secant line between two points on a curve represents the average rate of change between those two points.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "33",
+    "questionText": "What is the derivative of the function $s = 4.9t^2$ at $t = 2.5$ seconds?",
+    "options": [
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "24.5 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "29.4 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "12.25 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $s = 4.9t^2$ at $t = 2.5$ seconds is $s'(t) = 9.8t$, which equals $9.8 \\times 2.5 = 24.5$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "34",
+    "questionText": "What does the term 'secant' refer to in the context of derivatives?",
+    "options": [
+      {
+        "text": "A line that touches the curve at only one point",
+        "isCorrect": false
+      },
+      {
+        "text": "A line that intersects the curve at two points",
+        "isCorrect": true
+      },
+      {
+        "text": "A line that is parallel to the curve",
+        "isCorrect": false
+      },
+      {
+        "text": "A line that is perpendicular to the curve",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the context of derivatives, a 'secant' is a line that intersects the curve at exactly two points.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "35",
+    "questionText": "What is the instantaneous velocity of a body at $t = 6$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "29.4 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "39.2 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "58.8 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity at $t = 6$ seconds is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 6 = 58.8$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "37",
+    "questionText": "What does the instantaneous rate of change of a function at a point tell us?",
+    "options": [
+      {
+        "text": "The total change over an interval",
+        "isCorrect": false
+      },
+      {
+        "text": "The rate of change at that specific point",
+        "isCorrect": true
+      },
+      {
+        "text": "The average rate of change over an interval",
+        "isCorrect": false
+      },
+      {
+        "text": "The maximum value of the function",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous rate of change of a function at a point tells us the rate of change at that specific point.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "38",
+    "questionText": "If the velocity of a body is given by $v = 9.8t$, what is the acceleration of the body?",
+    "options": [
+      {
+        "text": "9.8 m/s^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "4.9 m/s^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "19.6 m/s^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The acceleration is the derivative of the velocity with respect to time. Since $v = 9.8t$, the acceleration is $a = \\frac{dv}{dt} = 9.8$ m/s^2.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "39",
+    "questionText": "What is the derivative of the function $s = 4.9t^2$ at $t = 3$ seconds?",
+    "options": [
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "29.4 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "39.2 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $s = 4.9t^2$ at $t = 3$ seconds is $s'(t) = 9.8t$, which equals $9.8 \\times 3 = 29.4$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "40",
+    "questionText": "What is the average velocity of a body between $t = 0.5$ seconds and $t = 1.5$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "7.35 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "12.25 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "14.7 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average velocity is calculated by $\\frac{s(1.5) - s(0.5)}{1.5 - 0.5}$, which equals $\\frac{11.025 - 1.225}{1} = 7.35$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "41",
+    "questionText": "What does the term 'rate of change' refer to in the context of derivatives?",
+    "options": [
+      {
+        "text": "The total change over an interval",
+        "isCorrect": false
+      },
+      {
+        "text": "The change in the function's value with respect to change in the independent variable",
+        "isCorrect": true
+      },
+      {
+        "text": "The average value of the function",
+        "isCorrect": false
+      },
+      {
+        "text": "The final value of the function",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In the context of derivatives, 'rate of change' refers to the change in the function's value with respect to the change in the independent variable.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "42",
+    "questionText": "What is the instantaneous velocity of a body at $t = 1$ second if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "4.9 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "2.45 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity at $t = 1$ second is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 1 = 9.8$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "43",
+    "questionText": "What is the average velocity of a body between $t = 2$ seconds and $t = 4$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "14.7 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "24.5 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "29.4 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "39.2 m/s",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The average velocity is calculated by $\\frac{s(4) - s(2)}{4 - 2}$, which equals $\\frac{78.4 - 19.6}{2} = 39.2$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "44",
+    "questionText": "If a body travels a distance given by $s = 4.9t^2$, what is the velocity at $t = 5$ seconds?",
+    "options": [
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "24.5 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "39.2 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "49.0 m/s",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The velocity at $t = 5$ seconds is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 5 = 49.0$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "45",
+    "questionText": "What is the average velocity of a body between $t = 1.5$ seconds and $t = 2.5$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "24.5 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "14.7 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "19.11 m/s",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The average velocity is calculated by $\\frac{s(2.5) - s(1.5)}{2.5 - 1.5}$, which equals $\\frac{30.625 - 11.025}{1} = 19.6$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "46",
+    "questionText": "What is the average velocity of a body between $t = 0$ and $t = 3$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "14.7 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "29.4 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average velocity is calculated by $\\frac{s(3) - s(0)}{3 - 0}$, which equals $\\frac{44.1 - 0}{3} = 14.7$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "47",
+    "questionText": "What is the instantaneous velocity of a body at $t = 0.5$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "4.9 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "2.45 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "1.225 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity at $t = 0.5$ seconds is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 0.5 = 4.9$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "48",
+    "questionText": "What is the derivative of the function $s = 4.9t^2$ at $t = 0.2$ seconds?",
+    "options": [
+      {
+        "text": "0.98 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "4.9 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "1.96 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $s = 4.9t^2$ at $t = 0.2$ seconds is $s'(t) = 9.8t$, which equals $9.8 \\times 0.2 = 1.96$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "49",
+    "questionText": "What is the average velocity of a body between $t = 2$ seconds and $t = 3$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "24.5 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "14.7 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "29.4 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average velocity is calculated by $\\frac{s(3) - s(2)}{3 - 2}$, which equals $\\frac{44.1 - 19.6}{1} = 24.5$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "50",
+    "questionText": "What does the slope of the tangent line to the curve at a point indicate?",
+    "options": [
+      {
+        "text": "The average rate of change",
+        "isCorrect": false
+      },
+      {
+        "text": "The instantaneous rate of change",
+        "isCorrect": true
+      },
+      {
+        "text": "The total change over the interval",
+        "isCorrect": false
+      },
+      {
+        "text": "The final value of the function",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The slope of the tangent line to the curve at a point indicates the instantaneous rate of change of the function at that point.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "51",
+    "questionText": "What is the instantaneous velocity of a body at $t = 0.1$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "0.98 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "4.9 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "1.96 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity at $t = 0.1$ seconds is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 0.1 = 0.98$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "53",
+    "questionText": "What is the instantaneous rate of change of the function $s = 4.9t^2$ at $t = 1$ second?",
+    "options": [
+      {
+        "text": "4.9 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "2.45 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous rate of change at $t = 1$ second is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 1 = 9.8$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "63",
+    "questionText": "What is the derivative of the function $s = 4.9t^2$ at $t = 2.5$ seconds?",
+    "options": [
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "24.5 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "29.4 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "12.25 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $s = 4.9t^2$ at $t = 2.5$ seconds is $s'(t) = 9.8t$, which equals $9.8 \\times 2.5 = 24.5$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "66",
+    "questionText": "What is the average velocity of a body between $t = 1$ second and $t = 3$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "19.6 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "14.7 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "24.5 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The average velocity is calculated by $\\frac{s(3) - s(1)}{3 - 1}$, which equals $\\frac{44.1 - 4.9}{2} = 19.6$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "67",
+    "questionText": "What is the instantaneous velocity of a body at $t = 4$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "39.2 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "29.4 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "49.0 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity at $t = 4$ seconds is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 4 = 39.2$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "72",
+    "questionText": "What is the derivative of the function $s = 4.9t^2$ at $t = 4$ seconds?",
+    "options": [
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "39.2 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "29.4 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "49.0 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $s = 4.9t^2$ at $t = 4$ seconds is $s'(t) = 9.8t$, which equals $9.8 \\times 4 = 39.2$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "75",
+    "questionText": "What is the instantaneous velocity of a body at $t = 3$ seconds if the distance function is $s = 4.9t^2$?",
+    "options": [
+      {
+        "text": "19.6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "29.4 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "39.2 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "9.8 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The instantaneous velocity at $t = 3$ seconds is given by the derivative $s'(t) = 9.8t$, which equals $9.8 \\times 3 = 29.4$ m/s.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Intuitive Idea of Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "1",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1}{x}$ as $x$ approaches 0 from the positive side?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches 0 from the positive side, the function $\\frac{1}{x}$ increases without bound. Therefore, $\\lim_{x \\to 0^+} \\frac{1}{x} = \\infty$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "2",
+    "questionText": "What is the limit of the function $f(x) = x^2 - 4$ as $x$ approaches 2?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Substituting $x = 2$ into the function $f(x) = x^2 - 4$ gives $4 - 4 = 0$. Therefore, $\\lim_{x \\to 2} (x^2 - 4) = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "EASY"
+  },
+  {
+    "qno": "4",
+    "questionText": "What is the limit of the function $f(x) = e^x$ as $x$ approaches $\\infty$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\infty$, the function $e^x$ increases without bound. Therefore, $\\lim_{x \\to \\infty} e^x = \\infty$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "5",
+    "questionText": "What is the limit of the function $f(x) = \\ln(x)$ as $x$ approaches 0 from the positive side?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "As $x$ approaches 0 from the positive side, the natural logarithm function $\\ln(x)$ decreases without bound. Therefore, $\\lim_{x \\to 0^+} \\ln(x) = -\\infty$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "6",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^2 - 4}{x - 2}$ as $x$ approaches 2?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The function $\\frac{x^2 - 4}{x - 2}$ can be factored as $\\frac{(x - 2)(x + 2)}{x - 2}$. As $x$ approaches 2, the factor $(x - 2)$ cancels out, leaving $x + 2$. Therefore, $\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2} = 4$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "7",
+    "questionText": "What is the limit of the function $f(x) = x^3 - 27$ as $x$ approaches 3?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$9$",
+        "isCorrect": false
+      },
+      {
+        "text": "$27$",
+        "isCorrect": true
+      },
+      {
+        "text": "$81$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $x = 3$ into the function $f(x) = x^3 - 27$ gives $27 - 27 = 0$. Therefore, $\\lim_{x \\to 3} (x^3 - 27) = 27$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^2 + x - 6}{x - 2}$ as $x$ approaches 2?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The function $\\frac{x^2 + x - 6}{x - 2}$ can be factored as $\\frac{(x - 2)(x + 3)}{x - 2}$. As $x$ approaches 2, the factor $(x - 2)$ cancels out, leaving $x + 3$. Therefore, $\\lim_{x \\to 2} \\frac{x^2 + x - 6}{x - 2} = 3$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "9",
+    "questionText": "What is the limit of the function $f(x) = \\frac{e^x - 1}{x}$ as $x$ approaches 0?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$e$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{e^x - 1}{x} = 1$ is a standard result in calculus.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "10",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x - 1}{x^2 - 1}$ as $x$ approaches 1?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "Does not exist",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "As $x$ approaches 1, the denominator of the function $f(x) = \\frac{x - 1}{x^2 - 1}$ approaches zero, causing the function to be undefined. Therefore, the limit does not exist.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^2 - 1}{x - 1}$ as $x$ approaches 1?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": true
+      },
+      {
+        "text": "Does not exist",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The function $\\frac{x^2 - 1}{x - 1}$ can be factored as $\\frac{(x - 1)(x + 1)}{x - 1}$. As $x$ approaches 1, the factor $(x - 1)$ cancels out, leaving $x + 1$. Therefore, $\\lim_{x \\to 1} \\frac{x^2 - 1}{x - 1} = 2$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "14",
+    "questionText": "What is the limit of the function $f(x) = x^2$ as $x$ approaches 3?",
+    "options": [
+      {
+        "text": "$6$",
+        "isCorrect": false
+      },
+      {
+        "text": "$9$",
+        "isCorrect": true
+      },
+      {
+        "text": "$12$",
+        "isCorrect": false
+      },
+      {
+        "text": "$15$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $x = 3$ into the function $f(x) = x^2$ gives $9$. Therefore, $\\lim_{x \\to 3} x^2 = 9$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "EASY"
+  },
+  {
+    "qno": "15",
+    "questionText": "What is the limit of the function $f(x) = \\frac{2x - 1}{x + 1}$ as $x$ approaches $-1$?",
+    "options": [
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "Does not exist",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $x = -1$ into the function $f(x) = \\frac{2x - 1}{x + 1}$ gives $\\frac{-2 - 1}{-1 + 1}$ which is undefined. Therefore, the limit does not exist.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "16",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1}{x^2}$ as $x$ approaches 0?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches 0, the function $\\frac{1}{x^2}$ increases without bound. Therefore, $\\lim_{x \\to 0} \\frac{1}{x^2} = \\infty$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "17",
+    "questionText": "What is the limit of the function $f(x) = x^3$ as $x$ approaches $-2$?",
+    "options": [
+      {
+        "text": "$-8$",
+        "isCorrect": true
+      },
+      {
+        "text": "$8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $x = -2$ into the function $f(x) = x^3$ gives $(-2)^3 = -8$. Therefore, $\\lim_{x \\to -2} x^3 = -8$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "EASY"
+  },
+  {
+    "qno": "18",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1 - \\cos(x)}{x^2}$ as $x$ approaches 0?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{1 - \\cos(x)}{x^2} = 0.5$ is a standard result in calculus.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "19",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^2 - 9}{x - 3}$ as $x$ approaches 3?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6$",
+        "isCorrect": true
+      },
+      {
+        "text": "$9$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The function $\\frac{x^2 - 9}{x - 3}$ can be factored as $\\frac{(x - 3)(x + 3)}{x - 3}$. As $x$ approaches 3, the factor $(x - 3)$ cancels out, leaving $x + 3$. Therefore, $\\lim_{x \\to 3} \\frac{x^2 - 9}{x - 3} = 6$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "20",
+    "questionText": "What is the limit of the function $f(x) = x^2 + 3x + 2$ as $x$ approaches $-1$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Substituting $x = -1$ into the function $f(x) = x^2 + 3x + 2$ gives $(-1)^2 + 3(-1) + 2 = 0$. Therefore, $\\lim_{x \\to -1} (x^2 + 3x + 2) = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "EASY"
+  },
+  {
+    "qno": "21",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^2 + 2x - 3}{x - 1}$ as $x$ approaches 1?",
+    "options": [
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3$",
+        "isCorrect": false
+      },
+      {
+        "text": "Does not exist",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "As $x$ approaches 1, the denominator of the function $f(x) = \\frac{x^2 + 2x - 3}{x - 1}$ approaches zero, causing the function to be undefined. Therefore, the limit does not exist.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "22",
+    "questionText": "What is the limit of the function $f(x) = x^2 - 1$ as $x$ approaches 1?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $x = 1$ into the function $f(x) = x^2 - 1$ gives $1 - 1 = 0$. Therefore, $\\lim_{x \\to 1} (x^2 - 1) = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "EASY"
+  },
+  {
+    "qno": "24",
+    "questionText": "What is the limit of the function $f(x) = x^2 + x + 1$ as $x$ approaches $-1$?",
+    "options": [
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $x = -1$ into the function $f(x) = x^2 + x + 1$ gives $(-1)^2 + (-1) + 1 = 1$. Therefore, $\\lim_{x \\to -1} (x^2 + x + 1) = 1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "25",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1 - x}{1 + x}$ as $x$ approaches $-1$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "Does not exist",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $x = -1$ into the function $f(x) = \\frac{1 - x}{1 + x}$ gives $\\frac{1 + 1}{1 - 1}$ which is undefined. Therefore, the limit does not exist.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "26",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1}{x^2}$ as $x$ approaches $\\infty$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\infty$, the function $\\frac{1}{x^2}$ approaches 0. Therefore, $\\lim_{x \\to \\infty} \\frac{1}{x^2} = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "27",
+    "questionText": "What is the limit of the function $f(x) = x^3$ as $x$ approaches 2?",
+    "options": [
+      {
+        "text": "$8$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $x = 2$ into the function $f(x) = x^3$ gives $2^3 = 8$. Therefore, $\\lim_{x \\to 2} x^3 = 8$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "EASY"
+  },
+  {
+    "qno": "28",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1 - \\cos(x)}{x^2}$ as $x$ approaches $\\pi$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\pi$, the function $\\frac{1 - \\cos(x)}{x^2}$ approaches 0 because $\\cos(\\pi) = -1$. Therefore, $\\lim_{x \\to \\pi} \\frac{1 - \\cos(x)}{x^2} = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "31",
+    "questionText": "What is the limit of the function $f(x) = x + \\sin(x)$ as $x$ approaches $\\pi$?",
+    "options": [
+      {
+        "text": "$\\pi$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\pi - 1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\pi + 1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2\\pi$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\pi$, the function $\\sin(x)$ approaches 0. Therefore, $\\lim_{x \\to \\pi} (x + \\sin(x)) = \\pi + 0 = \\pi$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "32",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1}{x}$ as $x$ approaches 0 from the negative side?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches 0 from the negative side, the function $\\frac{1}{x}$ decreases without bound. Therefore, $\\lim_{x \\to 0^-} \\frac{1}{x} = -\\infty$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "33",
+    "questionText": "What is the limit of the function $f(x) = \\frac{\\sin(x)}{x}$ as $x$ approaches $0$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\sin(x)}{x}$ is a standard limit and equals 1.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "34",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^2 - 9}{x + 3}$ as $x$ approaches $-3$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-6$",
+        "isCorrect": true
+      },
+      {
+        "text": "$9$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The function $\\frac{x^2 - 9}{x + 3}$ can be factored as $\\frac{(x - 3)(x + 3)}{x + 3}$. As $x$ approaches $-3$, the factor $(x + 3)$ cancels out, leaving $x - 3$. Therefore, $\\lim_{x \\to -3} \\frac{x^2 - 9}{x + 3} = -6$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "35",
+    "questionText": "What is the limit of the function $f(x) = \\frac{1 - \\cos(x)}{x^2}$ as $x$ approaches $0$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{1 - \\cos(x)}{x^2} = 0.5$ is a standard result in calculus.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "36",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x - 2}{x^2 - 4}$ as $x$ approaches $2$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "Does not exist",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "As $x$ approaches $2$, the denominator of the function $f(x) = \\frac{x - 2}{x^2 - 4}$ approaches zero, causing the function to be undefined. Therefore, the limit does not exist.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "37",
+    "questionText": "What is the limit of the function $f(x) = e^x$ as $x$ approaches $-\\infty$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $-\\infty$, the function $e^x$ approaches 0. Therefore, $\\lim_{x \\to -\\infty} e^x = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "38",
+    "questionText": "What is the limit of the function $f(x) = x^2$ as $x$ approaches $-2$?",
+    "options": [
+      {
+        "text": "$-4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $x = -2$ into the function $f(x) = x^2$ gives $(-2)^2 = 4$. Therefore, $\\lim_{x \\to -2} x^2 = 4$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "EASY"
+  },
+  {
+    "qno": "39",
+    "questionText": "What is the limit of the function $f(x) = \\ln(x)$ as $x$ approaches $\\infty$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\infty$, the natural logarithm function $\\ln(x)$ increases without bound. Therefore, $\\lim_{x \\to \\infty} \\ln(x) = \\infty$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "40",
+    "questionText": "What is the limit of the function $f(x) = x^3$ as $x$ approaches $0$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $x = 0$ into the function $f(x) = x^3$ gives $0^3 = 0$. Therefore, $\\lim_{x \\to 0} x^3 = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "EASY"
+  },
+  {
+    "qno": "41",
+    "questionText": "What is the limit of the function $f(x) = \\frac{e^x - 1}{x}$ as $x$ approaches $0$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$e$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{e^x - 1}{x} = 1$ is a standard result in calculus.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "42",
+    "questionText": "What is the limit of the function $f(x) = x^2 - 1$ as $x$ approaches $-1$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $x = -1$ into the function $f(x) = x^2 - 1$ gives $(-1)^2 - 1 = 0$. Therefore, $\\lim_{x \\to -1} (x^2 - 1) = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "EASY"
+  },
+  {
+    "qno": "43",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^3 - 27}{x - 3}$ as $x$ approaches $3$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$9$",
+        "isCorrect": false
+      },
+      {
+        "text": "$27$",
+        "isCorrect": false
+      },
+      {
+        "text": "$27$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The function $\\frac{x^3 - 27}{x - 3}$ can be factored as $\\frac{(x - 3)(x^2 + 3x + 9)}{x - 3}$. As $x$ approaches 3, the factor $(x - 3)$ cancels out, leaving $x^2 + 3x + 9$. Therefore, $\\lim_{x \\to 3} \\frac{x^3 - 27}{x - 3} = 27$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "44",
+    "questionText": "What is the limit of the function $f(x) = x^2 - 4x + 4$ as $x$ approaches $2$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$8$",
+        "isCorrect": false
+      },
+      {
+        "text": "$16$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $x = 2$ into the function $f(x) = x^2 - 4x + 4$ gives $(2)^2 - 4(2) + 4 = 0$. Therefore, $\\lim_{x \\to 2} (x^2 - 4x + 4) = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "EASY"
+  },
+  {
+    "qno": "45",
+    "questionText": "What is the limit of the function $f(x) = x + \\ln(x)$ as $x$ approaches $1$?",
+    "options": [
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $1$, the function $\\ln(x)$ approaches 0. Therefore, $\\lim_{x \\to 1} (x + \\ln(x)) = 1 + 0 = 1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "53",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^2 + 2x - 3}{x - 1}$ as $x$ approaches 1?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3$",
+        "isCorrect": true
+      },
+      {
+        "text": "Does not exist",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The function $\\frac{x^2 + 2x - 3}{x - 1}$ can be factored as $\\frac{(x - 1)(x + 3)}{x - 1}$. As $x$ approaches 1, the factor $(x - 1)$ cancels out, leaving $x + 3$. Therefore, $\\lim_{x \\to 1} \\frac{x^2 + 2x - 3}{x - 1} = 3$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "56",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x^3 - 27}{x - 3}$ as $x$ approaches 3?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$9$",
+        "isCorrect": false
+      },
+      {
+        "text": "$27$",
+        "isCorrect": false
+      },
+      {
+        "text": "$27$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The function $\\frac{x^3 - 27}{x - 3}$ can be factored as $\\frac{(x - 3)(x^2 + 3x + 9)}{x - 3}$. As $x$ approaches 3, the factor $(x - 3)$ cancels out, leaving $x^2 + 3x + 9$. Therefore, $\\lim_{x \\to 3} \\frac{x^3 - 27}{x - 3} = 27$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "59",
+    "questionText": "What is the limit of the function $f(x) = \\ln(x)$ as $x$ approaches $0$ from the positive side?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "As $x$ approaches 0 from the positive side, the natural logarithm function $\\ln(x)$ decreases without bound. Therefore, $\\lim_{x \\to 0^+} \\ln(x) = -\\infty$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "60",
+    "questionText": "What is the limit of the function $f(x) = x^2 + 3x + 2$ as $x$ approaches $-1$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Substituting $x = -1$ into the function $f(x) = x^2 + 3x + 2$ gives $(-1)^2 + 3(-1) + 2 = 0$. Therefore, $\\lim_{x \\to -1} (x^2 + 3x + 2) = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "EASY"
+  },
+  {
+    "qno": "74",
+    "questionText": "What is the limit of the function $f(x) = \\frac{x - 2}{x^2 - 4}$ as $x$ approaches 2?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      },
+      {
+        "text": "Does not exist",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "As $x$ approaches $2$, the denominator of the function $f(x) = \\frac{x - 2}{x^2 - 4}$ approaches zero, causing the function to be undefined. Therefore, the limit does not exist.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "level": "HARD"
+  },
+  {
+    "qno": "1",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\sin(x)}{x}$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\sin(x)}{x}$ is a standard limit and equals 1.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "2",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\tan(x)}{x}$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\tan(x)}{x}$ is a standard limit and equals 1.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "3",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\sin(2x)}{x}$?",
+    "options": [
+      {
+        "text": "$2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\sin(2x)}{x}$ can be rewritten using the standard limit $\\lim_{x \\to 0} \\frac{\\sin(2x)}{2x} \\times 2 = 2$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "4",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\sin(x)}{\\cos(x)}$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "As $x$ approaches 0, $\\frac{\\sin(x)}{\\cos(x)}$ approaches 0 since $\\sin(0) = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "5",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\cos(x) - 1}{x}$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\cos(x) - 1}{x}$ is a standard limit and equals 0.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "6",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\sin(x)}{x}$?",
+    "options": [
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\sin(x)}{x}$ is a standard limit and equals 1.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "EASY"
+  },
+  {
+    "qno": "7",
+    "questionText": "What is the limit of $\\lim_{x \\to \\pi} \\sin(x)$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\pi$, $\\sin(x)$ approaches 0. Therefore, $\\lim_{x \\to \\pi} \\sin(x) = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "EASY"
+  },
+  {
+    "qno": "8",
+    "questionText": "What is the limit of $\\lim_{x \\to \\pi} \\cos(x)$?",
+    "options": [
+      {
+        "text": "$-1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\pi$, $\\cos(x)$ approaches -1. Therefore, $\\lim_{x \\to \\pi} \\cos(x) = -1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "EASY"
+  },
+  {
+    "qno": "9",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\tan(x)$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches 0, $\\tan(x)$ approaches 0. Therefore, $\\lim_{x \\to 0} \\tan(x) = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "EASY"
+  },
+  {
+    "qno": "10",
+    "questionText": "What is the limit of $\\lim_{x \\to \\frac{\\pi}{2}} \\sin(x)$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\frac{\\pi}{2}$, $\\sin(x)$ approaches 1. Therefore, $\\lim_{x \\to \\frac{\\pi}{2}} \\sin(x) = 1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "EASY"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\sin(3x)}{x}$?",
+    "options": [
+      {
+        "text": "$3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\sin(3x)}{x}$ can be rewritten using the standard limit $\\lim_{x \\to 0} \\frac{\\sin(3x)}{3x} \\times 3 = 3$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\tan(2x)}{x}$?",
+    "options": [
+      {
+        "text": "$2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\tan(2x)}{x}$ can be rewritten using the standard limit $\\lim_{x \\to 0} \\frac{\\tan(2x)}{2x} \\times 2 = 2$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "13",
+    "questionText": "What is the limit of $\\lim_{x \\to \\frac{\\pi}{4}} \\tan(x)$?",
+    "options": [
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\frac{\\pi}{4}$, $\\tan(x)$ approaches 1. Therefore, $\\lim_{x \\to \\frac{\\pi}{4}} \\tan(x) = 1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "EASY"
+  },
+  {
+    "qno": "14",
+    "questionText": "What is the limit of $\\lim_{x \\to \\pi} \\cos(2x)$?",
+    "options": [
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\pi$, $\\cos(2x)$ approaches -1. Therefore, $\\lim_{x \\to \\pi} \\cos(2x) = -1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "EASY"
+  },
+  {
+    "qno": "15",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\cos(x) - 1}{x^2}$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-0.5$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0.5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\cos(x) - 1}{x^2} = -0.5$ is a standard result in calculus.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "16",
+    "questionText": "What is the limit of $\\lim_{x \\to \\frac{\\pi}{2}} \\cos(x)$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\frac{\\pi}{2}$, $\\cos(x)$ approaches 0. Therefore, $\\lim_{x \\to \\frac{\\pi}{2}} \\cos(x) = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "EASY"
+  },
+  {
+    "qno": "17",
+    "questionText": "What is the limit of $\\lim_{x \\to \\pi} \\sin(2x)$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\pi$, $\\sin(2x)$ approaches 0. Therefore, $\\lim_{x \\to \\pi} \\sin(2x) = 0$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "EASY"
+  },
+  {
+    "qno": "18",
+    "questionText": "What is the limit of $\\lim_{x \\to \\frac{\\pi}{2}} \\tan(x)$?",
+    "options": [
+      {
+        "text": "$\\infty$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\frac{\\pi}{2}$, $\\tan(x)$ increases without bound. Therefore, $\\lim_{x \\to \\frac{\\pi}{2}} \\tan(x) = \\infty$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "HARD"
+  },
+  {
+    "qno": "19",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\tan(x)}{\\sin(x)}$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\tan(x)}{\\sin(x)} = \\lim_{x \\to 0} \\frac{\\sin(x)/\\cos(x)}{\\sin(x)} = \\lim_{x \\to 0} \\frac{1}{\\cos(x)} = 1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "20",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\sin(x)}{\\tan(x)}$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\sin(x)}{\\tan(x)} = \\lim_{x \\to 0} \\frac{\\sin(x)}{\\sin(x)/\\cos(x)} = \\lim_{x \\to 0} \\cos(x) = 1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "22",
+    "questionText": "What is the limit of $\\lim_{x \\to \\pi/2} \\sin(x)$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\pi$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\pi/2$, $\\sin(x)$ approaches 1. Therefore, $\\lim_{x \\to \\pi/2} \\sin(x) = 1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "EASY"
+  },
+  {
+    "qno": "23",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\sin(4x)}{x}$?",
+    "options": [
+      {
+        "text": "$4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\sin(4x)}{x}$ can be rewritten using the standard limit $\\lim_{x \\to 0} \\frac{\\sin(4x)}{4x} \\times 4 = 4$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "31",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\sin(5x)}{x}$?",
+    "options": [
+      {
+        "text": "$5$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\sin(5x)}{x}$ can be rewritten using the standard limit $\\lim_{x \\to 0} \\frac{\\sin(5x)}{5x} \\times 5 = 5$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "32",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\sin(6x)}{x}$?",
+    "options": [
+      {
+        "text": "$6$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\sin(6x)}{x}$ can be rewritten using the standard limit $\\lim_{x \\to 0} \\frac{\\sin(6x)}{6x} \\times 6 = 6$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "33",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\tan(3x)}{x}$?",
+    "options": [
+      {
+        "text": "$3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\tan(3x)}{x}$ can be rewritten using the standard limit $\\lim_{x \\to 0} \\frac{\\tan(3x)}{3x} \\times 3 = 3$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "34",
+    "questionText": "What is the limit of $\\lim_{x \\to \\pi} \\sin(x/2)$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\pi$, $\\sin(x/2)$ approaches $\\sin(\\pi/2) = 1$. Therefore, $\\lim_{x \\to \\pi} \\sin(x/2) = 1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "EASY"
+  },
+  {
+    "qno": "36",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\tan(4x)}{x}$?",
+    "options": [
+      {
+        "text": "$4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\tan(4x)}{x}$ can be rewritten using the standard limit $\\lim_{x \\to 0} \\frac{\\tan(4x)}{4x} \\times 4 = 4$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "40",
+    "questionText": "What is the limit of $\\lim_{x \\to \\pi/4} \\tan(x)$?",
+    "options": [
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\pi/4$, $\\tan(x)$ approaches 1. Therefore, $\\lim_{x \\to \\pi/4} \\tan(x) = 1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "EASY"
+  },
+  {
+    "qno": "47",
+    "questionText": "What is the limit of $\\lim_{x \\to 0} \\frac{\\tan(5x)}{x}$?",
+    "options": [
+      {
+        "text": "$5$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The limit $\\lim_{x \\to 0} \\frac{\\tan(5x)}{x}$ can be rewritten using the standard limit $\\lim_{x \\to 0} \\frac{\\tan(5x)}{5x} \\times 5 = 5$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "70",
+    "questionText": "What is the limit of $\\lim_{x \\to \\frac{\\pi}{2}} \\sin(x)$?",
+    "options": [
+      {
+        "text": "$0$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\pi$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\infty$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As $x$ approaches $\\pi/2$, $\\sin(x)$ approaches 1. Therefore, $\\lim_{x \\to \\pi/2} \\sin(x) = 1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Trigonometric Functions",
+    "level": "EASY"
+  },
+  {
+    "qno": "1",
+    "questionText": "What is the derivative of $f(x) = x^2$?",
+    "options": [
+      {
+        "text": "$2x$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = x^2$ is found using the power rule: $\\frac{d}{dx}(x^n) = nx^{n-1}$. Therefore, $\\frac{d}{dx}(x^2) = 2x$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "2",
+    "questionText": "What is the derivative of $f(x) = \\sin(x)$?",
+    "options": [
+      {
+        "text": "$\\cos(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$-\\cos(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sin(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\sin(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\sin(x)$ is $\\cos(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "3",
+    "questionText": "What is the derivative of $f(x) = \\cos(x)$?",
+    "options": [
+      {
+        "text": "$-\\sin(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\sin(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\cos(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\cos(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\cos(x)$ is $-\\sin(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "4",
+    "questionText": "What is the derivative of $f(x) = e^x$?",
+    "options": [
+      {
+        "text": "$e^x$",
+        "isCorrect": true
+      },
+      {
+        "text": "$xe^{x-1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$e^{x-1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$xe^x$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = e^x$ is $e^x$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "5",
+    "questionText": "What is the derivative of $f(x) = \\ln(x)$?",
+    "options": [
+      {
+        "text": "$\\frac{1}{x}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{x^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\ln(x)$ is $\\frac{1}{x}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "6",
+    "questionText": "What is the derivative of $f(x) = x^3$?",
+    "options": [
+      {
+        "text": "$3x^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x^3$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = x^3$ is found using the power rule: $\\frac{d}{dx}(x^n) = nx^{n-1}$. Therefore, $\\frac{d}{dx}(x^3) = 3x^2$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "7",
+    "questionText": "What is the derivative of $f(x) = x^n$?",
+    "options": [
+      {
+        "text": "$nx^{n-1}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x^{n-1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$nx^n$",
+        "isCorrect": false
+      },
+      {
+        "text": "$nx$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = x^n$ is $nx^{n-1}$ by the power rule.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "8",
+    "questionText": "What is the derivative of $f(x) = \\tan(x)$?",
+    "options": [
+      {
+        "text": "$\\sec^2(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\cos^2(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sin^2(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\cot(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\tan(x)$ is $\\sec^2(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "9",
+    "questionText": "What is the derivative of $f(x) = \\cot(x)$?",
+    "options": [
+      {
+        "text": "$-\\csc^2(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\csc^2(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\sec^2(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sec^2(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\cot(x)$ is $-\\csc^2(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "10",
+    "questionText": "What is the derivative of $f(x) = \\sec(x)$?",
+    "options": [
+      {
+        "text": "$\\sec(x)\\tan(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\sec(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sec(x)\\cot(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\tan(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\sec(x)$ is $\\sec(x)\\tan(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "11",
+    "questionText": "What is the derivative of $f(x) = \\csc(x)$?",
+    "options": [
+      {
+        "text": "$-\\csc(x)\\cot(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\csc(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\csc(x)\\tan(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\sec(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\csc(x)$ is $-\\csc(x)\\cot(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "12",
+    "questionText": "What is the derivative of $f(x) = x^5$?",
+    "options": [
+      {
+        "text": "$5x^4$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x^4$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5x^5$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4x^5$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = x^5$ is found using the power rule: $\\frac{d}{dx}(x^n) = nx^{n-1}$. Therefore, $\\frac{d}{dx}(x^5) = 5x^4$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "13",
+    "questionText": "What is the derivative of $f(x) = 3x^2 + 2x + 1$?",
+    "options": [
+      {
+        "text": "$6x + 2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3x^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2x + 1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$6x + 1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = 3x^2 + 2x + 1$ is found by differentiating each term separately: $\\frac{d}{dx}(3x^2) = 6x$, $\\frac{d}{dx}(2x) = 2$, and $\\frac{d}{dx}(1) = 0$. Therefore, $\\frac{d}{dx}(3x^2 + 2x + 1) = 6x + 2$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "EASY"
+  },
+  {
+    "qno": "14",
+    "questionText": "What is the derivative of $f(x) = \\sqrt{x}$?",
+    "options": [
+      {
+        "text": "$\\frac{1}{2\\sqrt{x}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2\\sqrt{x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{\\sqrt{x}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\sqrt{x}$ is found using the power rule: $\\frac{d}{dx}(x^{1/2}) = \\frac{1}{2}x^{-1/2} = \\frac{1}{2\\sqrt{x}}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "15",
+    "questionText": "What is the derivative of $f(x) = \\ln(x^2)$?",
+    "options": [
+      {
+        "text": "$\\frac{2}{x}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2\\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\ln(2x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{x}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\ln(x^2)$ is $\\frac{d}{dx}[\\ln(u)] \\cdot \\frac{d}{dx}[x^2] = \\frac{1}{u} \\cdot 2x = \\frac{2x}{x^2} = \\frac{2}{x}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "16",
+    "questionText": "What is the derivative of $f(x) = e^{2x}$?",
+    "options": [
+      {
+        "text": "$2e^{2x}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$e^{2x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2e^{x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$e^{2x+1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = e^{2x}$ is $\\frac{d}{dx}[e^{2x}] = e^{2x} \\cdot \\frac{d}{dx}[2x] = e^{2x} \\cdot 2 = 2e^{2x}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "17",
+    "questionText": "What is the derivative of $f(x) = \\sin(3x)$?",
+    "options": [
+      {
+        "text": "$3\\cos(3x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\cos(3x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-3\\cos(3x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3\\sin(3x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\sin(3x)$ is $\\frac{d}{dx}[\\sin(3x)] = \\cos(3x) \\cdot \\frac{d}{dx}[3x] = \\cos(3x) \\cdot 3 = 3\\cos(3x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "18",
+    "questionText": "What is the derivative of $f(x) = \\cos(4x)$?",
+    "options": [
+      {
+        "text": "$-4\\sin(4x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4\\sin(4x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\sin(4x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sin(4x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\cos(4x)$ is $\\frac{d}{dx}[\\cos(4x)] = -\\sin(4x) \\cdot \\frac{d}{dx}[4x] = -\\sin(4x) \\cdot 4 = -4\\sin(4x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "19",
+    "questionText": "What is the derivative of $f(x) = \\tan(5x)$?",
+    "options": [
+      {
+        "text": "$5\\sec^2(5x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\sec^2(5x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-5\\sec^2(5x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$5\\tan(5x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\tan(5x)$ is $\\frac{d}{dx}[\\tan(5x)] = \\sec^2(5x) \\cdot \\frac{d}{dx}[5x] = \\sec^2(5x) \\cdot 5 = 5\\sec^2(5x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "20",
+    "questionText": "What is the derivative of $f(x) = \\cot(6x)$?",
+    "options": [
+      {
+        "text": "$-6\\csc^2(6x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$6\\csc^2(6x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\csc^2(6x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\csc^2(6x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\cot(6x)$ is $\\frac{d}{dx}[\\cot(6x)] = -\\csc^2(6x) \\cdot \\frac{d}{dx}[6x] = -\\csc^2(6x) \\cdot 6 = -6\\csc^2(6x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "21",
+    "questionText": "What is the derivative of $f(x) = e^{3x}$?",
+    "options": [
+      {
+        "text": "$3e^{3x}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$e^{3x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3e^x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$e^{3x+1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = e^{3x}$ is $\\frac{d}{dx}[e^{3x}] = e^{3x} \\cdot \\frac{d}{dx}[3x] = e^{3x} \\cdot 3 = 3e^{3x}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "22",
+    "questionText": "What is the derivative of $f(x) = \\ln(2x)$?",
+    "options": [
+      {
+        "text": "$\\frac{1}{x}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{2}{x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{2x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2\\ln(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\ln(2x)$ is $\\frac{d}{dx}[\\ln(u)] \\cdot \\frac{d}{dx}[2x] = \\frac{1}{u} \\cdot 2 = \\frac{1}{x}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "23",
+    "questionText": "What is the derivative of $f(x) = \\frac{1}{x}$?",
+    "options": [
+      {
+        "text": "$-\\frac{1}{x^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\frac{1}{x}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\frac{1}{x}$ is $-\\frac{1}{x^2}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "24",
+    "questionText": "What is the derivative of $f(x) = \\arcsin(x)$?",
+    "options": [
+      {
+        "text": "$\\frac{1}{\\sqrt{1 - x^2}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{1 - x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{\\sqrt{x^2 - 1}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{1 - x^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\arcsin(x)$ is $\\frac{1}{\\sqrt{1 - x^2}}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "25",
+    "questionText": "What is the derivative of $f(x) = \\arccos(x)$?",
+    "options": [
+      {
+        "text": "$-\\frac{1}{\\sqrt{1 - x^2}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{\\sqrt{1 - x^2}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\frac{1}{\\sqrt{x^2 - 1}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{1 - x^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\arccos(x)$ is $-\\frac{1}{\\sqrt{1 - x^2}}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "26",
+    "questionText": "What is the derivative of $f(x) = \\arctan(x)$?",
+    "options": [
+      {
+        "text": "$\\frac{1}{1 + x^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{1 - x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{\\sqrt{1 + x^2}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sqrt{1 + x^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\arctan(x)$ is $\\frac{1}{1 + x^2}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "27",
+    "questionText": "What is the derivative of $f(x) = \\arccot(x)$?",
+    "options": [
+      {
+        "text": "$-\\frac{1}{1 + x^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{1 + x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\frac{1}{1 - x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{1 - x^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\arccot(x)$ is $-\\frac{1}{1 + x^2}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "28",
+    "questionText": "What is the derivative of $f(x) = \\ln|x|$?",
+    "options": [
+      {
+        "text": "$\\frac{1}{x}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{|x|}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{\\ln(x)}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\ln|x|$ is $\\frac{1}{x}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "29",
+    "questionText": "What is the derivative of $f(x) = x \\ln(x)$?",
+    "options": [
+      {
+        "text": "$\\ln(x) + 1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x \\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x + \\ln(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the product rule, the derivative of $f(x) = x \\ln(x)$ is $\\frac{d}{dx}[x \\ln(x)] = \\ln(x) + x \\cdot \\frac{1}{x} = \\ln(x) + 1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "30",
+    "questionText": "What is the derivative of $f(x) = x e^x$?",
+    "options": [
+      {
+        "text": "$e^x (x + 1)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x e^x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$e^x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x e^{x-1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the product rule, the derivative of $f(x) = x e^x$ is $\\frac{d}{dx}[x e^x] = e^x + x e^x = e^x (x + 1)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "31",
+    "questionText": "What is the derivative of $f(x) = \\frac{1}{x^2}$?",
+    "options": [
+      {
+        "text": "$-\\frac{2}{x^3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{2}{x^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\frac{1}{x^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{x^3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\frac{1}{x^2}$ is $-\\frac{2}{x^3}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "32",
+    "questionText": "What is the derivative of $f(x) = x^4 \\ln(x)$?",
+    "options": [
+      {
+        "text": "$4x^3 \\ln(x) + x^3$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4x^3 \\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x^4 \\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4x^4 \\ln(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the product rule, the derivative of $f(x) = x^4 \\ln(x)$ is $\\frac{d}{dx}[x^4 \\ln(x)] = 4x^3 \\ln(x) + x^3$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "33",
+    "questionText": "What is the derivative of $f(x) = \\frac{e^x}{x}$?",
+    "options": [
+      {
+        "text": "$\\frac{e^x (x - 1)}{x^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$e^x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{e^x}{x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$e^x (x - 1)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the quotient rule, the derivative of $f(x) = \\frac{e^x}{x}$ is $\\frac{d}{dx}[\\frac{e^x}{x}] = \\frac{x e^x - e^x}{x^2} = \\frac{e^x (x - 1)}{x^2}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "34",
+    "questionText": "What is the derivative of $f(x) = x^2 e^x$?",
+    "options": [
+      {
+        "text": "$e^x (x^2 + 2x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x^2 e^x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2x e^x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$e^x (x + 1)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the product rule, the derivative of $f(x) = x^2 e^x$ is $\\frac{d}{dx}[x^2 e^x] = 2x e^x + x^2 e^x = e^x (x^2 + 2x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "35",
+    "questionText": "What is the derivative of $f(x) = \\frac{\\ln(x)}{x}$?",
+    "options": [
+      {
+        "text": "$\\frac{1 - \\ln(x)}{x^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1 + \\ln(x)}{x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{\\ln(x)}{x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{\\ln(x)}{x^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the quotient rule, the derivative of $f(x) = \\frac{\\ln(x)}{x}$ is $\\frac{d}{dx}[\\frac{\\ln(x)}{x}] = \\frac{x \\cdot \\frac{1}{x} - \\ln(x)}{x^2} = \\frac{1 - \\ln(x)}{x^2}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "36",
+    "questionText": "What is the derivative of $f(x) = e^{x^2}$?",
+    "options": [
+      {
+        "text": "$2x e^{x^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$e^{x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x e^{x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 e^{x^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = e^{x^2}$ is $\\frac{d}{dx}[e^{x^2}] = e^{x^2} \\cdot \\frac{d}{dx}[x^2] = e^{x^2} \\cdot 2x = 2x e^{x^2}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "37",
+    "questionText": "What is the derivative of $f(x) = \\ln(x^3)$?",
+    "options": [
+      {
+        "text": "$\\frac{3}{x}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3 \\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{x^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{x}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\ln(x^3)$ is $\\frac{d}{dx}[\\ln(x^3)] = \\frac{3}{x}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "38",
+    "questionText": "What is the derivative of $f(x) = \\sqrt{x^2 + 1}$?",
+    "options": [
+      {
+        "text": "$\\frac{x}{\\sqrt{x^2 + 1}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\sqrt{x^2 + 1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{\\sqrt{x^2 + 1}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2x}{\\sqrt{x^2 + 1}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\sqrt{x^2 + 1}$ is $\\frac{d}{dx}[\\sqrt{x^2 + 1}] = \\frac{x}{\\sqrt{x^2 + 1}}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "39",
+    "questionText": "What is the derivative of $f(x) = e^{x^3}$?",
+    "options": [
+      {
+        "text": "$3x^2 e^{x^3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$e^{x^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x^2 e^{x^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3 e^{x^3}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = e^{x^3}$ is $\\frac{d}{dx}[e^{x^3}] = e^{x^3} \\cdot \\frac{d}{dx}[x^3] = e^{x^3} \\cdot 3x^2 = 3x^2 e^{x^3}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "40",
+    "questionText": "What is the derivative of $f(x) = \\ln(x^4)$?",
+    "options": [
+      {
+        "text": "$\\frac{4}{x}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$4 \\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{x^4}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{x}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\ln(x^4)$ is $\\frac{d}{dx}[\\ln(x^4)] = \\frac{4}{x}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "41",
+    "questionText": "What is the derivative of $f(x) = x^3 \\ln(x)$?",
+    "options": [
+      {
+        "text": "$3x^2 \\ln(x) + x^2$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x^3 \\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3x \\ln(x) + x^3$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3x^3 \\ln(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the product rule, the derivative of $f(x) = x^3 \\ln(x)$ is $\\frac{d}{dx}[x^3 \\ln(x)] = 3x^2 \\ln(x) + x^2$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "42",
+    "questionText": "What is the derivative of $f(x) = e^{2x^2}$?",
+    "options": [
+      {
+        "text": "$4x e^{2x^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2x e^{2x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$e^{2x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 e^{2x^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = e^{2x^2}$ is $\\frac{d}{dx}[e^{2x^2}] = e^{2x^2} \\cdot \\frac{d}{dx}[2x^2] = e^{2x^2} \\cdot 4x = 4x e^{2x^2}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "43",
+    "questionText": "What is the derivative of $f(x) = \\arcsin(2x)$?",
+    "options": [
+      {
+        "text": "$\\frac{2}{\\sqrt{1 - 4x^2}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{\\sqrt{1 - 4x^2}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{\\sqrt{1 - x^2}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{\\sqrt{1 - x^2}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\arcsin(2x)$ is $\\frac{d}{dx}[\\arcsin(2x)] = \\frac{2}{\\sqrt{1 - 4x^2}}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "44",
+    "questionText": "What is the derivative of $f(x) = \\arccos(3x)$?",
+    "options": [
+      {
+        "text": "$-\\frac{3}{\\sqrt{1 - 9x^2}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{3}{\\sqrt{1 - 9x^2}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\frac{1}{\\sqrt{1 - 9x^2}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{\\sqrt{1 - 9x^2}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\arccos(3x)$ is $\\frac{d}{dx}[\\arccos(3x)] = -\\frac{3}{\\sqrt{1 - 9x^2}}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "45",
+    "questionText": "What is the derivative of $f(x) = \\arctan(4x)$?",
+    "options": [
+      {
+        "text": "$\\frac{4}{1 + 16x^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{1 + 16x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{4}{1 + x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{1 + x^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\arctan(4x)$ is $\\frac{d}{dx}[\\arctan(4x)] = \\frac{4}{1 + 16x^2}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "46",
+    "questionText": "What is the derivative of $f(x) = \\arccot(5x)$?",
+    "options": [
+      {
+        "text": "$-\\frac{5}{1 + 25x^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{5}{1 + 25x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\frac{1}{1 + 25x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{1 + 25x^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\arccot(5x)$ is $\\frac{d}{dx}[\\arccot(5x)] = -\\frac{5}{1 + 25x^2}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "47",
+    "questionText": "What is the derivative of $f(x) = \\sec(x)$?",
+    "options": [
+      {
+        "text": "$\\sec(x) \\tan(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\sec(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\tan(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\csc(x) \\cot(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\sec(x)$ is $\\sec(x) \\tan(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "48",
+    "questionText": "What is the derivative of $f(x) = \\csc(x)$?",
+    "options": [
+      {
+        "text": "$-\\csc(x) \\cot(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\csc(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\cot(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sec(x) \\tan(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\csc(x)$ is $-\\csc(x) \\cot(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "51",
+    "questionText": "What is the derivative of $f(x) = \\frac{\\sin(x)}{x}$?",
+    "options": [
+      {
+        "text": "$\\frac{x \\cos(x) - \\sin(x)}{x^2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{\\cos(x) - \\sin(x)}{x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{x \\sin(x) - \\cos(x)}{x^2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{\\sin(x) - x \\cos(x)}{x^2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the quotient rule, the derivative of $f(x) = \\frac{\\sin(x)}{x}$ is $\\frac{d}{dx}[\\frac{\\sin(x)}{x}] = \\frac{x \\cos(x) - \\sin(x)}{x^2}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "53",
+    "questionText": "What is the derivative of $f(x) = e^x \\ln(x)$?",
+    "options": [
+      {
+        "text": "$e^x (\\ln(x) + 1)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$e^x \\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$e^x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x e^{x-1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the product rule, the derivative of $f(x) = e^x \\ln(x)$ is $\\frac{d}{dx}[e^x \\ln(x)] = e^x \\ln(x) + e^x \\cdot \\frac{1}{x} = e^x (\\ln(x) + 1)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "54",
+    "questionText": "What is the derivative of $f(x) = x \\ln(x^2)$?",
+    "options": [
+      {
+        "text": "$1 + 2\\ln(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2\\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\ln(x^2)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{x}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule and product rule, the derivative of $f(x) = x \\ln(x^2)$ is $\\frac{d}{dx}[x \\ln(x^2)] = \\ln(x^2) + x \\cdot \\frac{d}{dx}[\\ln(x^2)] = 2\\ln(x) + 1$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "55",
+    "questionText": "What is the derivative of $f(x) = \\frac{1}{\\sqrt{x}}$?",
+    "options": [
+      {
+        "text": "$-\\frac{1}{2x^{3/2}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{1}{2\\sqrt{x}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{\\sqrt{x}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\frac{1}{x^{3/2}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The derivative of $f(x) = \\frac{1}{\\sqrt{x}}$ is $-\\frac{1}{2x^{3/2}}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "56",
+    "questionText": "What is the derivative of $f(x) = \\arcsin(x^2)$?",
+    "options": [
+      {
+        "text": "$\\frac{2x}{\\sqrt{1 - x^4}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{x}{\\sqrt{1 - x^4}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2}{\\sqrt{1 - x^4}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{2x}{\\sqrt{1 - x^2}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\arcsin(x^2)$ is $\\frac{d}{dx}[\\arcsin(x^2)] = \\frac{2x}{\\sqrt{1 - x^4}}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "57",
+    "questionText": "What is the derivative of $f(x) = \\arccos(x^3)$?",
+    "options": [
+      {
+        "text": "$-\\frac{3x^2}{\\sqrt{1 - x^6}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{3x^2}{\\sqrt{1 - x^6}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\frac{3}{\\sqrt{1 - x^6}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{3}{\\sqrt{1 - x^6}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\arccos(x^3)$ is $\\frac{d}{dx}[\\arccos(x^3)] = -\\frac{3x^2}{\\sqrt{1 - x^6}}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "58",
+    "questionText": "What is the derivative of $f(x) = \\arctan(x^4)$?",
+    "options": [
+      {
+        "text": "$\\frac{4x^3}{1 + x^8}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{x^3}{1 + x^8}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{4}{1 + x^8}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{4x^3}{1 + x^4}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\arctan(x^4)$ is $\\frac{d}{dx}[\\arctan(x^4)] = \\frac{4x^3}{1 + x^8}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "59",
+    "questionText": "What is the derivative of $f(x) = \\arccot(x^5)$?",
+    "options": [
+      {
+        "text": "$-\\frac{5x^4}{1 + x^{10}}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{5x^4}{1 + x^{10}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\frac{5}{1 + x^{10}}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{5}{1 + x^{10}}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\arccot(x^5)$ is $\\frac{d}{dx}[\\arccot(x^5)] = -\\frac{5x^4}{1 + x^{10}}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "61",
+    "questionText": "What is the derivative of $f(x) = \\cos(3x)$?",
+    "options": [
+      {
+        "text": "$-3\\sin(3x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3\\sin(3x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\sin(3x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sin(3x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\cos(3x)$ is $\\frac{d}{dx}[\\cos(3x)] = -\\sin(3x) \\cdot \\frac{d}{dx}[3x] = -\\sin(3x) \\cdot 3 = -3\\sin(3x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "62",
+    "questionText": "What is the derivative of $f(x) = x^3 e^x$?",
+    "options": [
+      {
+        "text": "$e^x (x^3 + 3x^2)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x^3 e^x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3x^2 e^x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$e^x (x + 3)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the product rule, the derivative of $f(x) = x^3 e^x$ is $\\frac{d}{dx}[x^3 e^x] = 3x^2 e^x + x^3 e^x = e^x (x^3 + 3x^2)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "63",
+    "questionText": "What is the derivative of $f(x) = \\sin(4x)$?",
+    "options": [
+      {
+        "text": "$4\\cos(4x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\cos(4x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-4\\cos(4x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$4\\sin(4x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\sin(4x)$ is $\\frac{d}{dx}[\\sin(4x)] = \\cos(4x) \\cdot \\frac{d}{dx}[4x] = \\cos(4x) \\cdot 4 = 4\\cos(4x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "67",
+    "questionText": "What is the derivative of $f(x) = \\sec(2x)$?",
+    "options": [
+      {
+        "text": "$2\\sec(2x) \\tan(2x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\sec(2x) \\tan(2x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2\\sec(x) \\tan(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\sec(x) \\tan(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\sec(2x)$ is $\\frac{d}{dx}[\\sec(2x)] = \\sec(2x) \\tan(2x) \\cdot \\frac{d}{dx}[2x] = \\sec(2x) \\tan(2x) \\cdot 2 = 2\\sec(2x) \\tan(2x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "68",
+    "questionText": "What is the derivative of $f(x) = x^3 \\cos(x)$?",
+    "options": [
+      {
+        "text": "$3x^2 \\cos(x) - x^3 \\sin(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x^3 \\cos(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3x^2 \\cos(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3x^2 \\sin(x) - x^3 \\cos(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the product rule, the derivative of $f(x) = x^3 \\cos(x)$ is $\\frac{d}{dx}[x^3 \\cos(x)] = 3x^2 \\cos(x) - x^3 \\sin(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "69",
+    "questionText": "What is the derivative of $f(x) = \\tan(x^2)$?",
+    "options": [
+      {
+        "text": "$2x \\sec^2(x^2)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\sec^2(x^2)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\sec^2(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2x \\sec^2(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\tan(x^2)$ is $\\frac{d}{dx}[\\tan(x^2)] = \\sec^2(x^2) \\cdot \\frac{d}{dx}[x^2] = \\sec^2(x^2) \\cdot 2x = 2x \\sec^2(x^2)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "70",
+    "questionText": "What is the derivative of $f(x) = \\csc(3x)$?",
+    "options": [
+      {
+        "text": "$-3\\csc(3x) \\cot(3x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$3\\csc(3x) \\cot(3x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\csc(3x) \\cot(3x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3\\csc(x) \\cot(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = \\csc(3x)$ is $\\frac{d}{dx}[\\csc(3x)] = -\\csc(3x) \\cot(3x) \\cdot \\frac{d}{dx}[3x] = -\\csc(3x) \\cot(3x) \\cdot 3 = -3\\csc(3x) \\cot(3x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "71",
+    "questionText": "What is the derivative of $f(x) = e^{x^2 + x}$?",
+    "options": [
+      {
+        "text": "$e^{x^2 + x}(2x + 1)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$e^{x^2 + x}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$(2x + 1)e^x$",
+        "isCorrect": false
+      },
+      {
+        "text": "$e^{x^2 + x}(x + 1)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the chain rule, the derivative of $f(x) = e^{x^2 + x}$ is $\\frac{d}{dx}[e^{x^2 + x}] = e^{x^2 + x} \\cdot \\frac{d}{dx}[x^2 + x] = e^{x^2 + x} \\cdot (2x + 1)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "72",
+    "questionText": "What is the derivative of $f(x) = \\frac{1}{\\sin(x)}$?",
+    "options": [
+      {
+        "text": "$-\\frac{\\cos(x)}{\\sin^2(x)}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{\\cos(x)}{\\sin^2(x)}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{\\sin(x)}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\frac{1}{\\sin(x)}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the quotient rule, the derivative of $f(x) = \\frac{1}{\\sin(x)}$ is $\\frac{d}{dx}[\\frac{1}{\\sin(x)}] = -\\frac{\\cos(x)}{\\sin^2(x)}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "73",
+    "questionText": "What is the derivative of $f(x) = x^3 \\tan(x)$?",
+    "options": [
+      {
+        "text": "$3x^2 \\tan(x) + x^3 \\sec^2(x)$",
+        "isCorrect": true
+      },
+      {
+        "text": "$x^3 \\tan(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3x^2 \\tan(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x^3 \\sec^2(x)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the product rule, the derivative of $f(x) = x^3 \\tan(x)$ is $\\frac{d}{dx}[x^3 \\tan(x)] = 3x^2 \\tan(x) + x^3 \\sec^2(x)$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "77",
+    "questionText": "What is the derivative of $f(x) = x^2 \\ln(x)$?",
+    "options": [
+      {
+        "text": "$2x \\ln(x) + x$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2x \\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$x^2 \\ln(x)$",
+        "isCorrect": false
+      },
+      {
+        "text": "$2 \\ln(x) + x$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the product rule, the derivative of $f(x) = x^2 \\ln(x)$ is $\\frac{d}{dx}[x^2 \\ln(x)] = 2x \\ln(x) + x$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "MEDIUM"
+  },
+  {
+    "qno": "79",
+    "questionText": "What is the derivative of $f(x) = \\frac{1}{\\cos(x)}$?",
+    "options": [
+      {
+        "text": "$\\frac{\\sin(x)}{\\cos^2(x)}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$\\frac{\\cos(x)}{\\sin^2(x)}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$\\frac{1}{\\cos(x)}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$-\\frac{1}{\\cos(x)}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the quotient rule, the derivative of $f(x) = \\frac{1}{\\cos(x)}$ is $\\frac{d}{dx}[\\frac{1}{\\cos(x)}] = \\frac{\\sin(x)}{\\cos^2(x)}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  },
+  {
+    "qno": "80",
+    "questionText": "What is the derivative of $f(x) = x^2 e^{x^3}$?",
+    "options": [
+      {
+        "text": "$2x e^{x^3} + 3x^4 e^{x^3}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$2x e^{x^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$3x^2 e^{x^3}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$e^{x^3} (2x + 3x^2)$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using the product rule and chain rule, the derivative of $f(x) = x^2 e^{x^3}$ is $\\frac{d}{dx}[x^2 e^{x^3}] = 2x e^{x^3} + x^2 \\cdot 3x^2 e^{x^3} = 2x e^{x^3} + 3x^4 e^{x^3}$.",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivatives",
+    "level": "HARD"
+  }
+]

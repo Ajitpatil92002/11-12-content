@@ -1,0 +1,3327 @@
+[
+  {
+    "questionText": "Why do we need to classify elements?",
+    "options": [
+      {
+        "text": "To organize the elements systematically.",
+        "isCorrect": true
+      },
+      {
+        "text": "To memorize the elements easily.",
+        "isCorrect": false
+      },
+      {
+        "text": "To create new elements.",
+        "isCorrect": false
+      },
+      {
+        "text": "To simplify atomic theory.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Classifying elements helps in organizing them systematically and understanding their properties better.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.1 Why do we Need to Classify Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Who first noted a similarity among the properties of elements and proposed the law of triads?",
+    "options": [
+      {
+        "text": "Dmitri Mendeleev",
+        "isCorrect": false
+      },
+      {
+        "text": "Johann Dobereiner",
+        "isCorrect": true
+      },
+      {
+        "text": "Henry Moseley",
+        "isCorrect": false
+      },
+      {
+        "text": "John Newlands",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Johann Dobereiner was the first to propose the law of triads based on the similarity among the properties of elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.2 Genesis of Periodic Classification",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "According to the Modern Periodic Law, the properties of elements are periodic functions of their:",
+    "options": [
+      {
+        "text": "Atomic masses",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic numbers",
+        "isCorrect": true
+      },
+      {
+        "text": "Number of neutrons",
+        "isCorrect": false
+      },
+      {
+        "text": "Number of isotopes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Modern Periodic Law states that the properties of elements are periodic functions of their atomic numbers.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.3 Modern Periodic Law and the Present Form of the Periodic Table",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What would be the IUPAC name for the element with atomic number 120?",
+    "options": [
+      {
+        "text": "Unbinilium",
+        "isCorrect": true
+      },
+      {
+        "text": "Unbiunium",
+        "isCorrect": false
+      },
+      {
+        "text": "Unnilhexium",
+        "isCorrect": false
+      },
+      {
+        "text": "Unnilquadium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the IUPAC nomenclature, the element with atomic number 120 is named Unbinilium.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.4 Nomenclature of Elements with Atomic Numbers",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the electronic configuration of Sodium (Na)?",
+    "options": [
+      {
+        "text": "$1s^2 2s^2 2p^6 3s^1$",
+        "isCorrect": true
+      },
+      {
+        "text": "$1s^2 2s^2 2p^5 3s^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1s^2 2s^2 2p^6 3p^1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$1s^2 2s^2 2p^4 3s^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The electronic configuration of Sodium (Na) is $1s^2 2s^2 2p^6 3s^1$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which group of elements is characterized by having ns1 and ns2 outermost electronic configurations?",
+    "options": [
+      {
+        "text": "s-Block Elements",
+        "isCorrect": true
+      },
+      {
+        "text": "p-Block Elements",
+        "isCorrect": false
+      },
+      {
+        "text": "d-Block Elements",
+        "isCorrect": false
+      },
+      {
+        "text": "f-Block Elements",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The elements of Group 1 (alkali metals) and Group 2 (alkaline earth metals) belong to the s-Block Elements with ns1 and ns2 outermost electronic configurations.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.6 Electronic Configurations and Types of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which property generally increases across a period and decreases down a group?",
+    "options": [
+      {
+        "text": "Atomic radius",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization enthalpy",
+        "isCorrect": true
+      },
+      {
+        "text": "Metallic character",
+        "isCorrect": false
+      },
+      {
+        "text": "Electron gain enthalpy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ionization enthalpy generally increases across a period and decreases down a group in the periodic table.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the term used for the energy required to remove an electron from an isolated gaseous atom?",
+    "options": [
+      {
+        "text": "Electron gain enthalpy",
+        "isCorrect": false
+      },
+      {
+        "text": "Electronegativity",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization enthalpy",
+        "isCorrect": true
+      },
+      {
+        "text": "Atomic radius",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ionization enthalpy is the energy required to remove an electron from an isolated gaseous atom.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which element has the electronic configuration $[Ar]3d^{10}4s^2$?",
+    "options": [
+      {
+        "text": "Calcium",
+        "isCorrect": false
+      },
+      {
+        "text": "Zinc",
+        "isCorrect": true
+      },
+      {
+        "text": "Scandium",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Zinc has the electronic configuration $[Ar]3d^{10}4s^2$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.6 Electronic Configurations and Types of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Arrange the following elements in increasing order of their metallic character: Si, Be, Mg, Na, P.",
+    "options": [
+      {
+        "text": "P < Si < Be < Mg < Na",
+        "isCorrect": true
+      },
+      {
+        "text": "Si < P < Be < Na < Mg",
+        "isCorrect": false
+      },
+      {
+        "text": "Be < P < Si < Na < Mg",
+        "isCorrect": false
+      },
+      {
+        "text": "Na < Mg < Be < Si < P",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Metallic character increases down a group and decreases along a period. Therefore, the order is: P < Si < Be < Mg < Na.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Who is credited with the development of the Modern Periodic Table?",
+    "options": [
+      {
+        "text": "Dmitri Mendeleev",
+        "isCorrect": true
+      },
+      {
+        "text": "Henry Moseley",
+        "isCorrect": false
+      },
+      {
+        "text": "Johann Dobereiner",
+        "isCorrect": false
+      },
+      {
+        "text": "John Newlands",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dmitri Mendeleev is credited with the development of the Modern Periodic Table.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.2 Genesis of Periodic Classification",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the Modern Periodic Law?",
+    "options": [
+      {
+        "text": "The properties of the elements are a periodic function of their atomic masses.",
+        "isCorrect": false
+      },
+      {
+        "text": "The properties of the elements are a periodic function of their atomic numbers.",
+        "isCorrect": true
+      },
+      {
+        "text": "The properties of the elements are a periodic function of their electron configurations.",
+        "isCorrect": false
+      },
+      {
+        "text": "The properties of the elements are a periodic function of their densities.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Modern Periodic Law states that the properties of the elements are a periodic function of their atomic numbers.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.3 Modern Periodic Law and the Present Form of the Periodic Table",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following is the correct IUPAC name for the element with atomic number 117?",
+    "options": [
+      {
+        "text": "Ununseptium",
+        "isCorrect": true
+      },
+      {
+        "text": "Unseptium",
+        "isCorrect": false
+      },
+      {
+        "text": "Septunium",
+        "isCorrect": false
+      },
+      {
+        "text": "Septium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the IUPAC nomenclature, the element with atomic number 117 is named Ununseptium.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.4 Nomenclature of Elements with Atomic Numbers",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the electronic configuration $[Rn] 5f^{14} 6d^{10} 7s^{2} 7p^{5}$?",
+    "options": [
+      {
+        "text": "Element 117",
+        "isCorrect": true
+      },
+      {
+        "text": "Element 120",
+        "isCorrect": false
+      },
+      {
+        "text": "Element 114",
+        "isCorrect": false
+      },
+      {
+        "text": "Element 116",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The element with atomic number 117 has the electronic configuration $[Rn] 5f^{14} 6d^{10} 7s^{2} 7p^{5}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.4 Nomenclature of Elements with Atomic Numbers",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which elements belong to the s-Block in the periodic table?",
+    "options": [
+      {
+        "text": "Elements in Group 1 and Group 2",
+        "isCorrect": true
+      },
+      {
+        "text": "Elements in Group 13 and Group 14",
+        "isCorrect": false
+      },
+      {
+        "text": "Elements in Group 3 to Group 12",
+        "isCorrect": false
+      },
+      {
+        "text": "Elements in Group 15 to Group 18",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The elements of Group 1 (alkali metals) and Group 2 (alkaline earth metals) belong to the s-Block Elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.6 Electronic Configurations and Types of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the general trend in atomic radius across a period?",
+    "options": [
+      {
+        "text": "Atomic radius decreases across a period.",
+        "isCorrect": true
+      },
+      {
+        "text": "Atomic radius increases across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius remains constant across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius first decreases and then increases across a period.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Atomic radius generally decreases across a period due to an increase in effective nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following has the highest ionization enthalpy?",
+    "options": [
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrogen (N)",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbon (C)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorine has the highest ionization enthalpy in the given options due to its small atomic size and high effective nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which property shows a decrease down a group in the periodic table?",
+    "options": [
+      {
+        "text": "Electronegativity",
+        "isCorrect": true
+      },
+      {
+        "text": "Atomic radius",
+        "isCorrect": false
+      },
+      {
+        "text": "Metallic character",
+        "isCorrect": false
+      },
+      {
+        "text": "Reactivity of metals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electronegativity generally decreases down a group due to the increase in atomic radius and shielding effect.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the electronic configuration of an element in Group 2 of the periodic table?",
+    "options": [
+      {
+        "text": "ns^2",
+        "isCorrect": true
+      },
+      {
+        "text": "ns^1",
+        "isCorrect": false
+      },
+      {
+        "text": "ns^2 np^1",
+        "isCorrect": false
+      },
+      {
+        "text": "ns^2 np^2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The elements in Group 2 have the outer electronic configuration of ns^2.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.6 Electronic Configurations and Types of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Arrange the following elements in the decreasing order of their ionization enthalpies: C, N, O, F.",
+    "options": [
+      {
+        "text": "F > O > N > C",
+        "isCorrect": false
+      },
+      {
+        "text": "F > N > O > C",
+        "isCorrect": true
+      },
+      {
+        "text": "O > F > N > C",
+        "isCorrect": false
+      },
+      {
+        "text": "N > F > O > C",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The correct order of ionization enthalpy is F > N > O > C.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the general electronic configuration of the d-block elements?",
+    "options": [
+      {
+        "text": "$(n-1)d^{1-10}ns^{0-2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$ns^2 np^{1-6}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$ns^1$",
+        "isCorrect": false
+      },
+      {
+        "text": "$ns^2$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The d-block elements have the general electronic configuration $(n-1)d^{1-10}ns^{0-2}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.6 Electronic Configurations and Types of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following has the smallest atomic radius?",
+    "options": [
+      {
+        "text": "Na",
+        "isCorrect": false
+      },
+      {
+        "text": "Mg",
+        "isCorrect": false
+      },
+      {
+        "text": "Al",
+        "isCorrect": false
+      },
+      {
+        "text": "Si",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Atomic radius decreases across a period. Therefore, Si has the smallest atomic radius among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the first ionization enthalpy of Sodium (Na)?",
+    "options": [
+      {
+        "text": "496 kJ/mol",
+        "isCorrect": true
+      },
+      {
+        "text": "520 kJ/mol",
+        "isCorrect": false
+      },
+      {
+        "text": "737 kJ/mol",
+        "isCorrect": false
+      },
+      {
+        "text": "800 kJ/mol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The first ionization enthalpy of Sodium (Na) is 496 kJ/mol.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the electronic configuration $[Ar]3d^{10}4s^{2}4p^{5}$?",
+    "options": [
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromine (Br)",
+        "isCorrect": true
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bromine (Br) has the electronic configuration $[Ar]3d^{10}4s^{2}4p^{5}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the most negative electron gain enthalpy?",
+    "options": [
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": false
+      },
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": true
+      },
+      {
+        "text": "Bromine (Br)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chlorine (Cl) has the most negative electron gain enthalpy due to its smaller size and higher effective nuclear charge compared to the other halogens.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which element is expected to have the highest electronegativity?",
+    "options": [
+      {
+        "text": "Lithium (Li)",
+        "isCorrect": false
+      },
+      {
+        "text": "Beryllium (Be)",
+        "isCorrect": false
+      },
+      {
+        "text": "Boron (B)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Fluorine (F) has the highest electronegativity due to its small size and high effective nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Arrange the following elements in the order of increasing electron affinity: O, S, Se, Te.",
+    "options": [
+      {
+        "text": "O < S < Se < Te",
+        "isCorrect": false
+      },
+      {
+        "text": "Te < Se < S < O",
+        "isCorrect": false
+      },
+      {
+        "text": "O < S < Te < Se",
+        "isCorrect": false
+      },
+      {
+        "text": "Te < Se < O < S",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Electron affinity generally becomes less negative as we move down the group. Therefore, the correct order is: Te < Se < O < S.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the electronic configuration of an element with atomic number 24?",
+    "options": [
+      {
+        "text": "$[Ar] 3d^{5} 4s^{1}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[Ar] 3d^{6} 4s^{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Ar] 3d^{4} 4s^{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Ar] 3d^{3} 4s^{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The electronic configuration of Chromium (Cr), which has atomic number 24, is $[Ar] 3d^{5} 4s^{1}$ due to stability associated with a half-filled d-subshell.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following statements is true regarding the periodic table?",
+    "options": [
+      {
+        "text": "Elements in the same group have different valence electron configurations.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elements in the same period have similar physical and chemical properties.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elements in the same group have similar chemical properties.",
+        "isCorrect": true
+      },
+      {
+        "text": "Elements in the same period have the same atomic number.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elements in the same group have similar chemical properties because they have the same number of valence electrons.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.2 Genesis of Periodic Classification",
+    "level": "EASY"
+  },
+  {
+    "questionText": "How does the metallic character change across a period in the periodic table?",
+    "options": [
+      {
+        "text": "Metallic character increases across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Metallic character decreases across a period.",
+        "isCorrect": true
+      },
+      {
+        "text": "Metallic character remains the same across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Metallic character first increases and then decreases across a period.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Metallic character decreases across a period due to the increase in ionization enthalpy and non-metallic character.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the IUPAC name for the element with atomic number 118?",
+    "options": [
+      {
+        "text": "Ununoctium",
+        "isCorrect": true
+      },
+      {
+        "text": "Ununseptium",
+        "isCorrect": false
+      },
+      {
+        "text": "Ununhexium",
+        "isCorrect": false
+      },
+      {
+        "text": "Ununnilium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the IUPAC nomenclature, the element with atomic number 118 is named Ununoctium.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.4 Nomenclature of Elements with Atomic Numbers",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following has the highest second ionization enthalpy?",
+    "options": [
+      {
+        "text": "Na",
+        "isCorrect": true
+      },
+      {
+        "text": "Mg",
+        "isCorrect": false
+      },
+      {
+        "text": "Al",
+        "isCorrect": false
+      },
+      {
+        "text": "Si",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodium (Na) has the highest second ionization enthalpy due to the removal of an electron from a stable noble gas configuration after the first ionization.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the electronic configuration of Copper (Cu)?",
+    "options": [
+      {
+        "text": "$[Ar] 3d^{10} 4s^{1}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[Ar] 3d^9 4s^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Ar] 3d^{10} 4s^2$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Ar] 3d^8 4s^1$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Copper (Cu) has the electronic configuration $[Ar] 3d^{10} 4s^{1}$ due to the stability of a completely filled d-subshell.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements is a metalloid?",
+    "options": [
+      {
+        "text": "Silicon (Si)",
+        "isCorrect": true
+      },
+      {
+        "text": "Sodium (Na)",
+        "isCorrect": false
+      },
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": false
+      },
+      {
+        "text": "Aluminum (Al)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Silicon (Si) is a metalloid, exhibiting properties of both metals and non-metals.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.6 Electronic Configurations and Types of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the lowest electronegativity?",
+    "options": [
+      {
+        "text": "Lithium (Li)",
+        "isCorrect": false
+      },
+      {
+        "text": "Beryllium (Be)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodium (Na)",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnesium (Mg)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodium (Na) has the lowest electronegativity among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Kr]4d^{10}5s^{2}5p^{2}$?",
+    "options": [
+      {
+        "text": "Tin (Sn)",
+        "isCorrect": true
+      },
+      {
+        "text": "Antimony (Sb)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tellurium (Te)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tin (Sn) has the electron configuration $[Kr]4d^{10}5s^{2}5p^{2}$. It belongs to group 14 and period 5 of the periodic table.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following trends is observed in the periodic table as you move from left to right across a period?",
+    "options": [
+      {
+        "text": "Metallic character increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius increases",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization energy increases",
+        "isCorrect": true
+      },
+      {
+        "text": "Electronegativity decreases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "As you move from left to right across a period, ionization energy increases due to increasing nuclear charge and decreasing atomic radius.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Xe]4f^{14}5d^{10}6s^{2}6p^{2}$?",
+    "options": [
+      {
+        "text": "Lead (Pb)",
+        "isCorrect": true
+      },
+      {
+        "text": "Bismuth (Bi)",
+        "isCorrect": false
+      },
+      {
+        "text": "Polonium (Po)",
+        "isCorrect": false
+      },
+      {
+        "text": "Radon (Rn)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lead (Pb) has the electron configuration $[Xe]4f^{14}5d^{10}6s^{2}6p^{2}$. It belongs to group 14 and period 6 of the periodic table.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the highest electron gain enthalpy?",
+    "options": [
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": false
+      },
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": true
+      },
+      {
+        "text": "Bromine (Br)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chlorine (Cl) has the highest electron gain enthalpy among the given elements due to its smaller size and higher effective nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following statements is correct about the periodic trends in atomic radius?",
+    "options": [
+      {
+        "text": "Atomic radius decreases across a period and increases down a group.",
+        "isCorrect": true
+      },
+      {
+        "text": "Atomic radius increases across a period and decreases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius remains constant across a period and decreases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius decreases across a period and remains constant down a group.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Atomic radius decreases across a period due to increasing nuclear charge and increases down a group due to the addition of electron shells.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Kr]4d^{10}5s^{2}5p^{5}$?",
+    "options": [
+      {
+        "text": "Iodine (I)",
+        "isCorrect": true
+      },
+      {
+        "text": "Tellurium (Te)",
+        "isCorrect": false
+      },
+      {
+        "text": "Xenon (Xe)",
+        "isCorrect": false
+      },
+      {
+        "text": "Antimony (Sb)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Iodine (I) has the electron configuration $[Kr]4d^{10}5s^{2}5p^{5}$, belonging to Group 17 and Period 5.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the general trend in ionization energy down a group?",
+    "options": [
+      {
+        "text": "Ionization energy increases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization energy decreases down a group.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ionization energy remains constant down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization energy first increases and then decreases down a group.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ionization energy generally decreases down a group due to increasing atomic size and shielding effect.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following elements has the highest first ionization energy?",
+    "options": [
+      {
+        "text": "Nitrogen (N)",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      },
+      {
+        "text": "Neon (Ne)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorine (F) has the highest first ionization energy among the given elements due to its small size and high nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the electron configuration of Iron (Fe)?",
+    "options": [
+      {
+        "text": "$[Ar]3d^{6}4s^{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Ar]3d^{5}4s^{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Ar]3d^{6}4s^{1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Ar]3d^{6}4s^{2}$",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Iron (Fe) has the electron configuration $[Ar]3d^{6}4s^{2}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following statements is true about elements in the same group?",
+    "options": [
+      {
+        "text": "They have different valence electron configurations.",
+        "isCorrect": false
+      },
+      {
+        "text": "They have similar chemical properties.",
+        "isCorrect": true
+      },
+      {
+        "text": "They have the same atomic number.",
+        "isCorrect": false
+      },
+      {
+        "text": "They have different physical states.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elements in the same group have similar chemical properties due to having the same number of valence electrons.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.2 Genesis of Periodic Classification",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the trend in atomic radius across a period?",
+    "options": [
+      {
+        "text": "Atomic radius increases across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius decreases across a period.",
+        "isCorrect": true
+      },
+      {
+        "text": "Atomic radius remains constant across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius first increases and then decreases across a period.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Atomic radius decreases across a period due to increasing nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which element has the electronic configuration $[Ar]3d^{10}4s^{2}$?",
+    "options": [
+      {
+        "text": "Zinc (Zn)",
+        "isCorrect": true
+      },
+      {
+        "text": "Nickel (Ni)",
+        "isCorrect": false
+      },
+      {
+        "text": "Copper (Cu)",
+        "isCorrect": false
+      },
+      {
+        "text": "Gallium (Ga)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Zinc (Zn) has the electronic configuration $[Ar]3d^{10}4s^{2}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the IUPAC name for the element with atomic number 120?",
+    "options": [
+      {
+        "text": "Unbinilium",
+        "isCorrect": true
+      },
+      {
+        "text": "Unbiunium",
+        "isCorrect": false
+      },
+      {
+        "text": "Unnilhexium",
+        "isCorrect": false
+      },
+      {
+        "text": "Unnilquadium",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "According to the IUPAC nomenclature, the element with atomic number 120 is named Unbinilium.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.4 Nomenclature of Elements with Atomic Numbers",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the electronic configuration $[Ne]3s^{2}3p^{5}$?",
+    "options": [
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": true
+      },
+      {
+        "text": "Sodium (Na)",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnesium (Mg)",
+        "isCorrect": false
+      },
+      {
+        "text": "Aluminum (Al)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chlorine (Cl) has the electronic configuration $[Ne]3s^{2}3p^{5}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the general trend in electronegativity across a period?",
+    "options": [
+      {
+        "text": "Electronegativity increases across a period.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electronegativity decreases across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electronegativity remains constant across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electronegativity first decreases and then increases across a period.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electronegativity generally increases across a period due to increasing nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following elements has the highest metallic character?",
+    "options": [
+      {
+        "text": "Sodium (Na)",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnesium (Mg)",
+        "isCorrect": false
+      },
+      {
+        "text": "Aluminum (Al)",
+        "isCorrect": false
+      },
+      {
+        "text": "Silicon (Si)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodium (Na) has the highest metallic character among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Xe]4f^{14}5d^{10}6s^{2}$?",
+    "options": [
+      {
+        "text": "Mercury (Hg)",
+        "isCorrect": true
+      },
+      {
+        "text": "Gold (Au)",
+        "isCorrect": false
+      },
+      {
+        "text": "Thallium (Tl)",
+        "isCorrect": false
+      },
+      {
+        "text": "Lead (Pb)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mercury (Hg) has the electron configuration $[Xe]4f^{14}5d^{10}6s^{2}$, belonging to Group 12 and Period 6.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following statements is true about ionization energy?",
+    "options": [
+      {
+        "text": "Ionization energy decreases across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization energy increases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization energy decreases down a group.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ionization energy remains constant across a period.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ionization energy decreases down a group due to increasing atomic size and shielding effect.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which element is represented by the electron configuration $[Kr]4d^{10}5s^{2}5p^{2}$?",
+    "options": [
+      {
+        "text": "Tin (Sn)",
+        "isCorrect": true
+      },
+      {
+        "text": "Antimony (Sb)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tellurium (Te)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tin (Sn) has the electron configuration $[Kr]4d^{10}5s^{2}5p^{2}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the trend in metallic character down a group?",
+    "options": [
+      {
+        "text": "Metallic character increases down a group.",
+        "isCorrect": true
+      },
+      {
+        "text": "Metallic character decreases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Metallic character remains constant down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Metallic character first decreases and then increases down a group.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Metallic character generally increases down a group due to increasing atomic size and shielding effect.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following elements has the lowest first ionization energy?",
+    "options": [
+      {
+        "text": "Lithium (Li)",
+        "isCorrect": true
+      },
+      {
+        "text": "Beryllium (Be)",
+        "isCorrect": false
+      },
+      {
+        "text": "Boron (B)",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbon (C)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lithium (Li) has the lowest first ionization energy among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the highest electronegativity?",
+    "options": [
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      },
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromine (Br)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorine (F) has the highest electronegativity among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Rn]5f^{14}6d^{2}7s^{2}$?",
+    "options": [
+      {
+        "text": "Thorium (Th)",
+        "isCorrect": false
+      },
+      {
+        "text": "Uranium (U)",
+        "isCorrect": true
+      },
+      {
+        "text": "Neptunium (Np)",
+        "isCorrect": false
+      },
+      {
+        "text": "Plutonium (Pu)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Uranium (U) has the electron configuration $[Rn]5f^{14}6d^{2}7s^{2}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the highest atomic radius?",
+    "options": [
+      {
+        "text": "Lithium (Li)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodium (Na)",
+        "isCorrect": false
+      },
+      {
+        "text": "Potassium (K)",
+        "isCorrect": true
+      },
+      {
+        "text": "Rubidium (Rb)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Potassium (K) has the highest atomic radius among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the highest ionization enthalpy?",
+    "options": [
+      {
+        "text": "Helium (He)",
+        "isCorrect": true
+      },
+      {
+        "text": "Neon (Ne)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Helium (He) has the highest ionization enthalpy due to its small size and stable electron configuration.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the electron configuration of Manganese (Mn)?",
+    "options": [
+      {
+        "text": "$[Ar]3d^{5}4s^{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[Ar]3d^{6}4s^{1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Ar]3d^{4}4s^{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Ar]3d^{5}4s^{1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Manganese (Mn) has the electron configuration $[Ar]3d^{5}4s^{2}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the most negative electron gain enthalpy?",
+    "options": [
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      },
+      {
+        "text": "Bromine (Br)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorine (F) has the most negative electron gain enthalpy due to its small size and high effective nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following has the highest electronegativity?",
+    "options": [
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrogen (N)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      },
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorine (F) has the highest electronegativity due to its small atomic radius and high effective nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which element is represented by the electron configuration $[Kr]4d^{10}5s^{2}5p^{3}$?",
+    "options": [
+      {
+        "text": "Antimony (Sb)",
+        "isCorrect": true
+      },
+      {
+        "text": "Tellurium (Te)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tin (Sn)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Antimony (Sb) has the electron configuration $[Kr]4d^{10}5s^{2}5p^{3}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following has the smallest atomic radius?",
+    "options": [
+      {
+        "text": "Boron (B)",
+        "isCorrect": true
+      },
+      {
+        "text": "Carbon (C)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrogen (N)",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Boron (B) has the smallest atomic radius among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the trend in electron affinity across a period?",
+    "options": [
+      {
+        "text": "Electron affinity increases across a period.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electron affinity decreases across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electron affinity remains constant across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electron affinity first increases and then decreases across a period.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electron affinity generally increases across a period due to increasing nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following elements has the lowest electronegativity?",
+    "options": [
+      {
+        "text": "Sodium (Na)",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnesium (Mg)",
+        "isCorrect": false
+      },
+      {
+        "text": "Aluminum (Al)",
+        "isCorrect": false
+      },
+      {
+        "text": "Silicon (Si)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodium (Na) has the lowest electronegativity among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the highest second ionization enthalpy?",
+    "options": [
+      {
+        "text": "Magnesium (Mg)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodium (Na)",
+        "isCorrect": true
+      },
+      {
+        "text": "Aluminum (Al)",
+        "isCorrect": false
+      },
+      {
+        "text": "Potassium (K)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodium (Na) has the highest second ionization enthalpy due to the removal of an electron from a stable noble gas configuration.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the general trend in metallic character down a group?",
+    "options": [
+      {
+        "text": "Metallic character increases down a group.",
+        "isCorrect": true
+      },
+      {
+        "text": "Metallic character decreases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Metallic character remains constant down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Metallic character first decreases and then increases down a group.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Metallic character generally increases down a group due to increasing atomic size and shielding effect.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following elements has the highest atomic radius?",
+    "options": [
+      {
+        "text": "Rubidium (Rb)",
+        "isCorrect": true
+      },
+      {
+        "text": "Cesium (Cs)",
+        "isCorrect": false
+      },
+      {
+        "text": "Potassium (K)",
+        "isCorrect": false
+      },
+      {
+        "text": "Francium (Fr)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rubidium (Rb) has the highest atomic radius among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the electron configuration of Zinc (Zn)?",
+    "options": [
+      {
+        "text": "$[Ar]3d^{10}4s^{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[Ar]3d^{9}4s^{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Ar]3d^{10}4s^{1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Ar]3d^{8}4s^{2}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Zinc (Zn) has the electron configuration $[Ar]3d^{10}4s^{2}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the lowest ionization energy?",
+    "options": [
+      {
+        "text": "Francium (Fr)",
+        "isCorrect": true
+      },
+      {
+        "text": "Cesium (Cs)",
+        "isCorrect": false
+      },
+      {
+        "text": "Rubidium (Rb)",
+        "isCorrect": false
+      },
+      {
+        "text": "Potassium (K)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Francium (Fr) has the lowest ionization energy among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following statements is true about elements in the same period?",
+    "options": [
+      {
+        "text": "They have similar chemical properties.",
+        "isCorrect": false
+      },
+      {
+        "text": "They have the same number of valence electrons.",
+        "isCorrect": false
+      },
+      {
+        "text": "They have the same number of electron shells.",
+        "isCorrect": true
+      },
+      {
+        "text": "They have the same atomic number.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elements in the same period have the same number of electron shells but different chemical properties.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.2 Genesis of Periodic Classification",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following elements has the highest electron affinity?",
+    "options": [
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": true
+      },
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromine (Br)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chlorine (Cl) has the highest electron affinity due to its small size and high effective nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the highest ionization energy?",
+    "options": [
+      {
+        "text": "Helium (He)",
+        "isCorrect": true
+      },
+      {
+        "text": "Neon (Ne)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Helium (He) has the highest ionization energy due to its small size and stable electron configuration.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the most metallic character?",
+    "options": [
+      {
+        "text": "Sodium (Na)",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnesium (Mg)",
+        "isCorrect": false
+      },
+      {
+        "text": "Aluminum (Al)",
+        "isCorrect": false
+      },
+      {
+        "text": "Silicon (Si)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodium (Na) has the most metallic character among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the electron configuration of Titanium (Ti)?",
+    "options": [
+      {
+        "text": "$[Ar]3d^{2}4s^{2}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[Ar]3d^{3}4s^{1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Ar]3d^{1}4s^{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Ar]3d^{2}4s^{1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Titanium (Ti) has the electron configuration $[Ar]3d^{2}4s^{2}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the highest second ionization enthalpy?",
+    "options": [
+      {
+        "text": "Sodium (Na)",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnesium (Mg)",
+        "isCorrect": false
+      },
+      {
+        "text": "Aluminum (Al)",
+        "isCorrect": false
+      },
+      {
+        "text": "Silicon (Si)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodium (Na) has the highest second ionization enthalpy due to the removal of an electron from a stable noble gas configuration.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the lowest first ionization energy?",
+    "options": [
+      {
+        "text": "Francium (Fr)",
+        "isCorrect": true
+      },
+      {
+        "text": "Cesium (Cs)",
+        "isCorrect": false
+      },
+      {
+        "text": "Rubidium (Rb)",
+        "isCorrect": false
+      },
+      {
+        "text": "Potassium (K)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Francium (Fr) has the lowest first ionization energy among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the lowest electronegativity?",
+    "options": [
+      {
+        "text": "Francium (Fr)",
+        "isCorrect": true
+      },
+      {
+        "text": "Cesium (Cs)",
+        "isCorrect": false
+      },
+      {
+        "text": "Rubidium (Rb)",
+        "isCorrect": false
+      },
+      {
+        "text": "Potassium (K)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Francium (Fr) has the lowest electronegativity among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Xe]4f^{14}5d^{10}6s^{2}6p^{3}$?",
+    "options": [
+      {
+        "text": "Bismuth (Bi)",
+        "isCorrect": true
+      },
+      {
+        "text": "Polonium (Po)",
+        "isCorrect": false
+      },
+      {
+        "text": "Astatine (At)",
+        "isCorrect": false
+      },
+      {
+        "text": "Radon (Rn)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bismuth (Bi) has the electron configuration $[Xe]4f^{14}5d^{10}6s^{2}6p^{3}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the trend in ionization energy across a period?",
+    "options": [
+      {
+        "text": "Ionization energy increases across a period.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ionization energy decreases across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization energy remains constant across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization energy first decreases and then increases across a period.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ionization energy generally increases across a period due to increasing nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following elements has the highest second ionization enthalpy?",
+    "options": [
+      {
+        "text": "Lithium (Li)",
+        "isCorrect": true
+      },
+      {
+        "text": "Beryllium (Be)",
+        "isCorrect": false
+      },
+      {
+        "text": "Boron (B)",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbon (C)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lithium (Li) has the highest second ionization enthalpy due to the removal of an electron from a stable noble gas configuration.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the smallest atomic radius?",
+    "options": [
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrogen (N)",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbon (C)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorine (F) has the smallest atomic radius among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Rn]5f^{14}6d^{1}7s^{2}$?",
+    "options": [
+      {
+        "text": "Actinium (Ac)",
+        "isCorrect": true
+      },
+      {
+        "text": "Thorium (Th)",
+        "isCorrect": false
+      },
+      {
+        "text": "Protactinium (Pa)",
+        "isCorrect": false
+      },
+      {
+        "text": "Uranium (U)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Actinium (Ac) has the electron configuration $[Rn]5f^{14}6d^{1}7s^{2}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the general trend in electron affinity down a group?",
+    "options": [
+      {
+        "text": "Electron affinity decreases down a group.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electron affinity increases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electron affinity remains constant down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electron affinity first decreases and then increases down a group.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electron affinity generally decreases down a group due to increasing atomic size and shielding effect.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following elements has the highest electron gain enthalpy?",
+    "options": [
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": true
+      },
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromine (Br)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chlorine (Cl) has the highest electron gain enthalpy due to its small size and high effective nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the electron configuration of Palladium (Pd)?",
+    "options": [
+      {
+        "text": "$[Kr]4d^{10}$",
+        "isCorrect": true
+      },
+      {
+        "text": "$[Kr]4d^{8}5s^{2}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Kr]4d^{9}5s^{1}$",
+        "isCorrect": false
+      },
+      {
+        "text": "$[Kr]4d^{8}5s^{1}$",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Palladium (Pd) has the electron configuration $[Kr]4d^{10}$, which is an exception to the usual pattern.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following statements is true regarding the periodic trends in atomic radius?",
+    "options": [
+      {
+        "text": "Atomic radius decreases across a period and increases down a group.",
+        "isCorrect": true
+      },
+      {
+        "text": "Atomic radius increases across a period and decreases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius remains constant across a period and decreases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius decreases across a period and remains constant down a group.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Atomic radius decreases across a period due to increasing nuclear charge and increases down a group due to the addition of electron shells.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Ar]3d^{3}4s^{2}$?",
+    "options": [
+      {
+        "text": "Vanadium (V)",
+        "isCorrect": true
+      },
+      {
+        "text": "Titanium (Ti)",
+        "isCorrect": false
+      },
+      {
+        "text": "Chromium (Cr)",
+        "isCorrect": false
+      },
+      {
+        "text": "Manganese (Mn)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Vanadium (V) has the electron configuration $[Ar]3d^{3}4s^{2}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the highest first ionization energy?",
+    "options": [
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      },
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromine (Br)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorine (F) has the highest first ionization energy among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the trend in electronegativity down a group?",
+    "options": [
+      {
+        "text": "Electronegativity decreases down a group.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electronegativity increases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electronegativity remains constant down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electronegativity first increases and then decreases down a group.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electronegativity generally decreases down a group due to increasing atomic size and shielding effect.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Ar]3d^{2}4s^{2}$?",
+    "options": [
+      {
+        "text": "Titanium (Ti)",
+        "isCorrect": true
+      },
+      {
+        "text": "Vanadium (V)",
+        "isCorrect": false
+      },
+      {
+        "text": "Chromium (Cr)",
+        "isCorrect": false
+      },
+      {
+        "text": "Manganese (Mn)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Titanium (Ti) has the electron configuration $[Ar]3d^{2}4s^{2}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the highest electronegativity?",
+    "options": [
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrogen (N)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      },
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorine (F) has the highest electronegativity due to its small atomic radius and high effective nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the smallest atomic radius?",
+    "options": [
+      {
+        "text": "Neon (Ne)",
+        "isCorrect": true
+      },
+      {
+        "text": "Helium (He)",
+        "isCorrect": false
+      },
+      {
+        "text": "Argon (Ar)",
+        "isCorrect": false
+      },
+      {
+        "text": "Krypton (Kr)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Neon (Ne) has the smallest atomic radius among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Xe]4f^{14}5d^{10}6s^{2}6p^{1}$?",
+    "options": [
+      {
+        "text": "Thallium (Tl)",
+        "isCorrect": true
+      },
+      {
+        "text": "Lead (Pb)",
+        "isCorrect": false
+      },
+      {
+        "text": "Bismuth (Bi)",
+        "isCorrect": false
+      },
+      {
+        "text": "Polonium (Po)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Thallium (Tl) has the electron configuration $[Xe]4f^{14}5d^{10}6s^{2}6p^{1}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following has the highest ionization energy?",
+    "options": [
+      {
+        "text": "Neon (Ne)",
+        "isCorrect": true
+      },
+      {
+        "text": "Helium (He)",
+        "isCorrect": false
+      },
+      {
+        "text": "Argon (Ar)",
+        "isCorrect": false
+      },
+      {
+        "text": "Krypton (Kr)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Neon (Ne) has the highest ionization energy among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Kr]4d^{10}5s^{2}5p^{4}$?",
+    "options": [
+      {
+        "text": "Tellurium (Te)",
+        "isCorrect": true
+      },
+      {
+        "text": "Antimony (Sb)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      },
+      {
+        "text": "Xenon (Xe)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tellurium (Te) has the electron configuration $[Kr]4d^{10}5s^{2}5p^{4}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the highest electronegativity?",
+    "options": [
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrogen (N)",
+        "isCorrect": false
+      },
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorine (F) has the highest electronegativity due to its small atomic radius and high effective nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the smallest atomic radius?",
+    "options": [
+      {
+        "text": "Helium (He)",
+        "isCorrect": true
+      },
+      {
+        "text": "Neon (Ne)",
+        "isCorrect": false
+      },
+      {
+        "text": "Argon (Ar)",
+        "isCorrect": false
+      },
+      {
+        "text": "Krypton (Kr)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Helium (He) has the smallest atomic radius due to having the fewest electron shells and highest effective nuclear charge relative to its size.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Ar]3d^{5}4s^{1}$?",
+    "options": [
+      {
+        "text": "Chromium (Cr)",
+        "isCorrect": true
+      },
+      {
+        "text": "Manganese (Mn)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iron (Fe)",
+        "isCorrect": false
+      },
+      {
+        "text": "Cobalt (Co)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chromium (Cr) has the electron configuration $[Ar]3d^{5}4s^{1}$ due to the stability of a half-filled d-subshell.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the trend in atomic radius down a group?",
+    "options": [
+      {
+        "text": "Atomic radius increases down a group.",
+        "isCorrect": true
+      },
+      {
+        "text": "Atomic radius decreases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius remains constant down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius first increases and then decreases down a group.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Atomic radius generally increases down a group due to the addition of electron shells.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the trend in ionization energy down a group?",
+    "options": [
+      {
+        "text": "Ionization energy decreases down a group.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ionization energy increases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization energy remains constant down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization energy first increases and then decreases down a group.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ionization energy generally decreases down a group due to increasing atomic size and shielding effect.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the general trend in ionization energy down a group?",
+    "options": [
+      {
+        "text": "Ionization energy decreases down a group.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ionization energy increases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization energy remains constant down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization energy first increases and then decreases down a group.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ionization energy generally decreases down a group due to increasing atomic size and shielding effect.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following elements has the highest ionization energy?",
+    "options": [
+      {
+        "text": "Neon (Ne)",
+        "isCorrect": true
+      },
+      {
+        "text": "Helium (He)",
+        "isCorrect": false
+      },
+      {
+        "text": "Argon (Ar)",
+        "isCorrect": false
+      },
+      {
+        "text": "Krypton (Kr)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Neon (Ne) has the highest ionization energy among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the general trend in electronegativity down a group?",
+    "options": [
+      {
+        "text": "Electronegativity decreases down a group.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electronegativity increases down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electronegativity remains constant down a group.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electronegativity first increases and then decreases down a group.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electronegativity generally decreases down a group due to increasing atomic size and shielding effect.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "What is the trend in atomic radius across a period?",
+    "options": [
+      {
+        "text": "Atomic radius decreases across a period.",
+        "isCorrect": true
+      },
+      {
+        "text": "Atomic radius increases across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius remains constant across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius first increases and then decreases across a period.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Atomic radius decreases across a period due to increasing nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Ar]3d^{10}4s^{1}$?",
+    "options": [
+      {
+        "text": "Copper (Cu)",
+        "isCorrect": true
+      },
+      {
+        "text": "Zinc (Zn)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nickel (Ni)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iron (Fe)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Copper (Cu) has the electron configuration $[Ar]3d^{10}4s^{1}$ due to the stability associated with a completely filled d-subshell.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the most negative electron gain enthalpy?",
+    "options": [
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      },
+      {
+        "text": "Chlorine (Cl)",
+        "isCorrect": false
+      },
+      {
+        "text": "Bromine (Br)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorine (F) has the most negative electron gain enthalpy due to its small size and high effective nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following has the smallest atomic radius?",
+    "options": [
+      {
+        "text": "Beryllium (Be)",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnesium (Mg)",
+        "isCorrect": false
+      },
+      {
+        "text": "Calcium (Ca)",
+        "isCorrect": false
+      },
+      {
+        "text": "Strontium (Sr)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Beryllium (Be) has the smallest atomic radius among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the trend in atomic radius across a period?",
+    "options": [
+      {
+        "text": "Atomic radius decreases across a period.",
+        "isCorrect": true
+      },
+      {
+        "text": "Atomic radius increases across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius remains constant across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomic radius first decreases and then increases across a period.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Atomic radius generally decreases across a period due to increasing nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Xe]4f^{14}5d^{10}6s^{2}$?",
+    "options": [
+      {
+        "text": "Mercury (Hg)",
+        "isCorrect": true
+      },
+      {
+        "text": "Thallium (Tl)",
+        "isCorrect": false
+      },
+      {
+        "text": "Lead (Pb)",
+        "isCorrect": false
+      },
+      {
+        "text": "Bismuth (Bi)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mercury (Hg) has the electron configuration $[Xe]4f^{14}5d^{10}6s^{2}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "What is the trend in electronegativity across a period?",
+    "options": [
+      {
+        "text": "Electronegativity increases across a period.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electronegativity decreases across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electronegativity remains constant across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Electronegativity first increases and then decreases across a period.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Electronegativity generally increases across a period due to increasing nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following elements has the highest ionization energy?",
+    "options": [
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false
+      },
+      {
+        "text": "Neon (Ne)",
+        "isCorrect": false
+      },
+      {
+        "text": "Helium (He)",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Helium (He) has the highest ionization energy due to its small size and stable electron configuration.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Kr]4d^{10}5s^{2}5p^{3}$?",
+    "options": [
+      {
+        "text": "Antimony (Sb)",
+        "isCorrect": true
+      },
+      {
+        "text": "Tellurium (Te)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tin (Sn)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iodine (I)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Antimony (Sb) has the electron configuration $[Kr]4d^{10}5s^{2}5p^{3}$.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the smallest atomic radius?",
+    "options": [
+      {
+        "text": "Carbon (C)",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrogen (N)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Fluorine (F) has the smallest atomic radius due to its high effective nuclear charge and small number of electron shells.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following has the largest atomic radius?",
+    "options": [
+      {
+        "text": "Potassium (K)",
+        "isCorrect": false
+      },
+      {
+        "text": "Rubidium (Rb)",
+        "isCorrect": false
+      },
+      {
+        "text": "Cesium (Cs)",
+        "isCorrect": true
+      },
+      {
+        "text": "Francium (Fr)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cesium (Cs) has the largest atomic radius due to its position at the bottom of Group 1 and the large number of electron shells.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Ar]3d^{10}4s^{2}$?",
+    "options": [
+      {
+        "text": "Zinc (Zn)",
+        "isCorrect": true
+      },
+      {
+        "text": "Copper (Cu)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nickel (Ni)",
+        "isCorrect": false
+      },
+      {
+        "text": "Iron (Fe)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Zinc (Zn) has the electron configuration $[Ar]3d^{10}4s^{2}$, indicating a completely filled d-subshell.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the highest ionization energy?",
+    "options": [
+      {
+        "text": "Neon (Ne)",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      },
+      {
+        "text": "Nitrogen (N)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorine (F) has the highest ionization energy among the given elements due to its small atomic radius and high nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Xe]4f^{14}5d^{10}6s^{2}6p^{5}$?",
+    "options": [
+      {
+        "text": "Astatine (At)",
+        "isCorrect": true
+      },
+      {
+        "text": "Polonium (Po)",
+        "isCorrect": false
+      },
+      {
+        "text": "Radon (Rn)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tennessine (Ts)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Astatine (At) has the electron configuration $[Xe]4f^{14}5d^{10}6s^{2}6p^{5}$, placing it in Group 17 (halogens).",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Kr]4d^{10}5s^{2}5p^{1}$?",
+    "options": [
+      {
+        "text": "Indium (In)",
+        "isCorrect": true
+      },
+      {
+        "text": "Tin (Sn)",
+        "isCorrect": false
+      },
+      {
+        "text": "Antimony (Sb)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tellurium (Te)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Indium (In) has the electron configuration $[Kr]4d^{10}5s^{2}5p^{1}$, indicating it is in Group 13.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the lowest ionization energy?",
+    "options": [
+      {
+        "text": "Cesium (Cs)",
+        "isCorrect": true
+      },
+      {
+        "text": "Rubidium (Rb)",
+        "isCorrect": false
+      },
+      {
+        "text": "Potassium (K)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodium (Na)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cesium (Cs) has the lowest ionization energy due to its large atomic radius and low effective nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Rn]5f^{14}6d^{2}7s^{2}$?",
+    "options": [
+      {
+        "text": "Thorium (Th)",
+        "isCorrect": true
+      },
+      {
+        "text": "Protactinium (Pa)",
+        "isCorrect": false
+      },
+      {
+        "text": "Uranium (U)",
+        "isCorrect": false
+      },
+      {
+        "text": "Neptunium (Np)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Thorium (Th) has the electron configuration $[Rn]5f^{14}6d^{2}7s^{2}$, placing it in the actinide series.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following has the smallest atomic radius?",
+    "options": [
+      {
+        "text": "Lithium (Li)",
+        "isCorrect": false
+      },
+      {
+        "text": "Beryllium (Be)",
+        "isCorrect": true
+      },
+      {
+        "text": "Boron (B)",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbon (C)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Beryllium (Be) has the smallest atomic radius due to its high nuclear charge and fewer electron shells compared to other elements in its period.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which element has the electron configuration $[Kr]4d^{10}5s^{2}5p^{5}$?",
+    "options": [
+      {
+        "text": "Iodine (I)",
+        "isCorrect": true
+      },
+      {
+        "text": "Xenon (Xe)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tellurium (Te)",
+        "isCorrect": false
+      },
+      {
+        "text": "Antimony (Sb)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Iodine (I) has the electron configuration $[Kr]4d^{10}5s^{2}5p^{5}$, indicating it is in Group 17 (halogens).",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.5 Electronic Configurations of Elements and the Periodic Table",
+    "level": "MEDIUM"
+  },
+  {
+    "questionText": "Which of the following elements has the highest second ionization energy?",
+    "options": [
+      {
+        "text": "Magnesium (Mg)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodium (Na)",
+        "isCorrect": true
+      },
+      {
+        "text": "Aluminum (Al)",
+        "isCorrect": false
+      },
+      {
+        "text": "Silicon (Si)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodium (Na) has the highest second ionization energy due to the removal of an electron from a stable noble gas configuration.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the highest second ionization energy?",
+    "options": [
+      {
+        "text": "Sodium (Na)",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnesium (Mg)",
+        "isCorrect": false
+      },
+      {
+        "text": "Aluminum (Al)",
+        "isCorrect": false
+      },
+      {
+        "text": "Potassium (K)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodium (Na) has the highest second ionization energy due to the removal of an electron from a stable noble gas configuration.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the highest first ionization energy?",
+    "options": [
+      {
+        "text": "Neon (Ne)",
+        "isCorrect": false
+      },
+      {
+        "text": "Helium (He)",
+        "isCorrect": true
+      },
+      {
+        "text": "Argon (Ar)",
+        "isCorrect": false
+      },
+      {
+        "text": "Krypton (Kr)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Helium (He) has the highest first ionization energy among the given elements due to its small size and stable electron configuration.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the highest ionization energy?",
+    "options": [
+      {
+        "text": "Fluorine (F)",
+        "isCorrect": true
+      },
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false
+      },
+      {
+        "text": "Nitrogen (N)",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbon (C)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fluorine (F) has the highest ionization energy among the given elements.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the highest ionization energy?",
+    "options": [
+      {
+        "text": "Helium (He)",
+        "isCorrect": true
+      },
+      {
+        "text": "Neon (Ne)",
+        "isCorrect": false
+      },
+      {
+        "text": "Argon (Ar)",
+        "isCorrect": false
+      },
+      {
+        "text": "Krypton (Kr)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Helium (He) has the highest ionization energy due to its small size and stable electron configuration.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "What is the general trend in ionization energy across a period?",
+    "options": [
+      {
+        "text": "Ionization energy increases across a period.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ionization energy decreases across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization energy remains constant across a period.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ionization energy first decreases and then increases across a period.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ionization energy generally increases across a period due to increasing nuclear charge.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "EASY"
+  },
+  {
+    "questionText": "Which of the following elements has the highest first ionization energy?",
+    "options": [
+      {
+        "text": "Helium (He)",
+        "isCorrect": true
+      },
+      {
+        "text": "Neon (Ne)",
+        "isCorrect": false
+      },
+      {
+        "text": "Argon (Ar)",
+        "isCorrect": false
+      },
+      {
+        "text": "Krypton (Kr)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Helium (He) has the highest first ionization energy among the given elements due to its small size and stable electron configuration.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  },
+  {
+    "questionText": "Which of the following elements has the highest second ionization energy?",
+    "options": [
+      {
+        "text": "Sodium (Na)",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnesium (Mg)",
+        "isCorrect": false
+      },
+      {
+        "text": "Aluminum (Al)",
+        "isCorrect": false
+      },
+      {
+        "text": "Silicon (Si)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodium (Na) has the highest second ionization energy due to the removal of an electron from a stable noble gas configuration.",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "3.7 Periodic Trends in Properties of Elements",
+    "level": "HARD"
+  }
+]

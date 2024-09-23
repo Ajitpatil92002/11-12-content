@@ -1,0 +1,35 @@
+{
+  "chapter": "Gravitation",
+  "topics": [
+    {
+      "topic": "7.1 Introduction"
+    },
+    {
+      "topic": "7.2 Kepler’s laws"
+    },
+    {
+      "topic": "7.3 Universal law of gravitation"
+    },
+    {
+      "topic": "7.4 The gravitational constant"
+    },
+    {
+      "topic": "7.5 Acceleration due to gravity of the earth"
+    },
+    {
+      "topic": "7.6 Acceleration due to gravity below and above the surface of earth"
+    },
+    {
+      "topic": "7.7 Gravitational potential energy"
+    },
+    {
+      "topic": "7.8 Escape speed"
+    },
+    {
+      "topic": "7.9 Earth satellites"
+    },
+    {
+      "topic": "7.10 Energy of an orbiting satellite"
+    }
+  ]
+}

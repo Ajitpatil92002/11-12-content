@@ -1,0 +1,26 @@
+{
+  "chapter": "Thermodynamics",
+  "topics": [
+    {
+      "topic": "Thermodynamic Terms"
+    },
+    {
+      "topic": "Applications"
+    },
+    {
+      "topic": "Measurement of ∆U and ∆H: Calorimetry"
+    },
+    {
+      "topic": "Gibbs Energy Change and Equilibrium"
+    },
+    {
+      "topic": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy"
+    },
+    {
+      "topic": "Spontaneity"
+    },
+    {
+      "topic": "Enthalpies for Different Types of Reactions"
+    }
+  ]
+}

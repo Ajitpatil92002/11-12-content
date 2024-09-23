@@ -1,0 +1,35 @@
+{
+  "chapter": "Sets",
+  "topics": [
+    {
+      "topic": "Introduction"
+    },
+    {
+      "topic": "Sets and their Representations"
+    },
+    {
+      "topic": "The Empty Set"
+    },
+    {
+      "topic": "Finite and Infinite Sets"
+    },
+    {
+      "topic": "Equal Sets"
+    },
+    {
+      "topic": "Subsets"
+    },
+    {
+      "topic": "Universal Set"
+    },
+    {
+      "topic": "Venn Diagrams"
+    },
+    {
+      "topic": "Operations on Sets"
+    },
+    {
+      "topic": "Complement of a Set"
+    }
+  ]
+}

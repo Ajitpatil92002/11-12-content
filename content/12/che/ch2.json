@@ -1,0 +1,29 @@
+{
+  "chapter": "Electrochemistry",
+  "topics": [
+    {
+      "topic": "Electrochemical Cells"
+    },
+    {
+      "topic": "Galvanic Cells"
+    },
+    {
+      "topic": "Nernst Equation"
+    },
+    {
+      "topic": "Conductance of Electrolytic Solutions"
+    },
+    {
+      "topic": "Electrolytic Cells and Electrolysis"
+    },
+    {
+      "topic": "Batteries"
+    },
+    {
+      "topic": "Fuel Cells"
+    },
+    {
+      "topic": "Corrosion"
+    }
+  ]
+}

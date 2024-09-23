@@ -1,0 +1,29 @@
+{
+  "chapter": "Alternating Current",
+  "topics": [
+    {
+      "topic": "7.1 Introduction"
+    },
+    {
+      "topic": "7.2 AC Voltage Applied to a Resistor"
+    },
+    {
+      "topic": "7.3 Representation of AC Current and Voltage by Rotating Vectors — Phasors"
+    },
+    {
+      "topic": "7.4 AC Voltage Applied to an Inductor"
+    },
+    {
+      "topic": "7.5 AC Voltage Applied to a Capacitor"
+    },
+    {
+      "topic": "7.6 AC Voltage Applied to a Series LCR Circuit"
+    },
+    {
+      "topic": "7.7 Power in AC Circuit: The Power Factor"
+    },
+    {
+      "topic": "7.8 Transformers"
+    }
+  ]
+}

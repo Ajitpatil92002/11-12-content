@@ -1,0 +1,41 @@
+{
+  "chapter": "Equilibrium",
+  "topics": [
+    {
+      "topic": "Equilibrium in Physical Processes"
+    },
+    {
+      "topic": "Equilibrium in Chemical Processes – Dynamic Equilibrium"
+    },
+    {
+      "topic": "Law of Chemical Equilibrium and Equilibrium Constant"
+    },
+    {
+      "topic": "Homogeneous Equilibria"
+    },
+    {
+      "topic": "Heterogeneous Equilibria"
+    },
+    {
+      "topic": "Applications of Equilibrium Constants"
+    },
+    {
+      "topic": "Relationship between Equilibrium Constant $K$, Reaction Quotient $Q$, and Gibbs Energy $G$"
+    },
+    {
+      "topic": "Factors Affecting Equilibria"
+    },
+    {
+      "topic": "Ionic Equilibrium in Solution"
+    },
+    {
+      "topic": "Acids, Bases and Salts"
+    },
+    {
+      "topic": "Ionization of Acids and Bases"
+    },
+    {
+      "topic": "Buffer Solutions"
+    }
+  ]
+}

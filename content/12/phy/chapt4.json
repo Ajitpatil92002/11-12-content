@@ -1,0 +1,35 @@
+{
+  "chapter": "Moving Charges and Magnetism",
+  "topics": [
+    {
+      "topic": "4.1 Introduction"
+    },
+    {
+      "topic": "4.2 Magnetic Force"
+    },
+    {
+      "topic": "4.3 Motion in a Magnetic Field"
+    },
+    {
+      "topic": "4.4 Magnetic Field due to a Current Element, Biot-Savart Law"
+    },
+    {
+      "topic": "4.5 Magnetic Field on the Axis of a Circular Current Loop"
+    },
+    {
+      "topic": "4.6 Ampere’s Circuital Law"
+    },
+    {
+      "topic": "4.7 The Solenoid"
+    },
+    {
+      "topic": "4.8 Force between Two Parallel Currents, the Ampere"
+    },
+    {
+      "topic": "4.9 Torque on Current Loop, Magnetic Dipole"
+    },
+    {
+      "topic": "4.10 The Moving Coil Galvanometer"
+    }
+  ]
+}

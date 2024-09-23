@@ -1,0 +1,26 @@
+{
+  "chapter": "Semiconductor Electronics",
+  "topics": [
+    {
+      "topic": "Introduction"
+    },
+    {
+      "topic": "Classification of Metals, Conductors and Semiconductors"
+    },
+    {
+      "topic": "Intrinsic Semiconductor"
+    },
+    {
+      "topic": "Extrinsic Semiconductor"
+    },
+    {
+      "topic": "p-n Junction"
+    },
+    {
+      "topic": "Semiconductor Diode"
+    },
+    {
+      "topic": "Application of Junction Diode as a Rectifier"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chapter": "Laws of Motion",
+  "topics": [
+    {
+      "topic": "4.1 Introduction"
+    },
+    {
+      "topic": "4.2 Aristotle's Fallacy"
+    },
+    {
+      "topic": "4.3 The Law of Inertia"
+    },
+    {
+      "topic": "4.4 Newton's First Law of Motion"
+    },
+    {
+      "topic": "4.5 Newton's Second Law of Motion"
+    },
+    {
+      "topic": "4.6 Newton's Third Law of Motion"
+    },
+    {
+      "topic": "4.7 Conservation of Momentum"
+    },
+    {
+      "topic": "4.8 Equilibrium of a Particle"
+    },
+    {
+      "topic": "4.9 Common Forces in Mechanics"
+    },
+    {
+      "topic": "4.10 Circular Motion"
+    },
+    {
+      "topic": "4.11 Solving Problems in Mechanics"
+    }
+  ]
+}

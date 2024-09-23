@@ -12,16 +12,6 @@ const openai = new OpenAI({
 
 // Function to generate the dynamic AI prompt
 const generateDynamicPrompt = (subject, chapter, topic) => {
-  const subjectPrompts = {
-    maths: "Explain the mathematical concept of",
-    phy: "Describe the physics principle behind",
-    che: "Explain the chemical concept of",
-    bio: "Describe the biological process of",
-  };
-
-  const defaultPrompt = "Provide a detailed explanation of";
-  const subjectPrompt = subjectPrompts[subject.toLowerCase()] || defaultPrompt;
-
   const prompt = `
 As an expert educator in ${subject}, provide a comprehensive explanation of the topic "${topic}" from the chapter "${chapter}". Your explanation should:
 

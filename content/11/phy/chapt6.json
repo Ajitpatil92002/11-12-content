@@ -1,0 +1,41 @@
+{
+  "chapter": "Systems of Particles and Rotational Motion",
+  "topics": [
+    {
+      "topic": "6.1 Introduction"
+    },
+    {
+      "topic": "6.2 Centre of Mass"
+    },
+    {
+      "topic": "6.3 Motion of Centre of Mass"
+    },
+    {
+      "topic": "6.4 Linear Momentum of a System of Particles"
+    },
+    {
+      "topic": "6.5 Vector Product of Two Vectors"
+    },
+    {
+      "topic": "6.6 Angular Velocity and its Relation with Linear Velocity"
+    },
+    {
+      "topic": "6.7 Torque and Angular Momentum"
+    },
+    {
+      "topic": "6.8 Equilibrium of a Rigid Body"
+    },
+    {
+      "topic": "6.9 Moment of Inertia"
+    },
+    {
+      "topic": "6.10 Kinematics of Rotational Motion about a Fixed Axis"
+    },
+    {
+      "topic": "6.11 Dynamics of Rotational Motion about a Fixed Axis"
+    },
+    {
+      "topic": "6.12 Angular Momentum in Case of Rotations about a Fixed Axis"
+    }
+  ]
+}

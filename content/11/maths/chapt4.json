@@ -1,0 +1,20 @@
+{
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "topics": [
+    {
+      "topic": "Introduction"
+    },
+    {
+      "topic": "Complex Numbers"
+    },
+    {
+      "topic": "Algebra of Complex Numbers"
+    },
+    {
+      "topic": "The Modulus and the Conjugate of a Complex Number"
+    },
+    {
+      "topic": "Argand Plane and Polar Representation"
+    }
+  ]
+}

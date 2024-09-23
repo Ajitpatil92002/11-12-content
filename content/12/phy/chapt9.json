@@ -1,0 +1,26 @@
+{
+  "chapter": "Ray Optics and Optical Instruments",
+  "topics": [
+    {
+      "topic": "Introduction"
+    },
+    {
+      "topic": "Reflection of Light by Spherical Mirrors"
+    },
+    {
+      "topic": "Refraction"
+    },
+    {
+      "topic": "Total Internal Reflection"
+    },
+    {
+      "topic": "Refraction at Spherical Surfaces and by Lenses"
+    },
+    {
+      "topic": "Refraction through a Prism"
+    },
+    {
+      "topic": "Optical Instruments"
+    }
+  ]
+}

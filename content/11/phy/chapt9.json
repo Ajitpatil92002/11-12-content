@@ -1,0 +1,23 @@
+{
+  "chapter": "Mechanical Properties of Fluids",
+  "topics": [
+    {
+      "topic": "Introduction"
+    },
+    {
+      "topic": "Pressure"
+    },
+    {
+      "topic": "Streamline Flow"
+    },
+    {
+      "topic": "Bernoulli’s Principle"
+    },
+    {
+      "topic": "Viscosity"
+    },
+    {
+      "topic": "Surface Tension"
+    }
+  ]
+}

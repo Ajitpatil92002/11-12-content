@@ -1,0 +1,35 @@
+{
+  "chapter": "Motion in a Plane",
+  "topics": [
+    {
+      "topic": "3.1 Introduction"
+    },
+    {
+      "topic": "3.2 Scalars and Vectors"
+    },
+    {
+      "topic": "3.3 Multiplication of Vectors by Real Numbers"
+    },
+    {
+      "topic": "3.4 Addition and Subtraction of Vectors – Graphical Method"
+    },
+    {
+      "topic": "3.5 Resolution of Vectors"
+    },
+    {
+      "topic": "3.6 Vector Addition – Analytical Method"
+    },
+    {
+      "topic": "3.7 Motion in a Plane"
+    },
+    {
+      "topic": "3.8 Motion in a Plane with Constant Acceleration"
+    },
+    {
+      "topic": "3.9 Projectile Motion"
+    },
+    {
+      "topic": "3.10 Uniform Circular Motion"
+    }
+  ]
+}

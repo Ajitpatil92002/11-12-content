@@ -1,0 +1,50 @@
+{
+  "chapter": "Electrostatic Potential and Capacitance",
+  "topics": [
+    {
+      "topic": "2.1 Introduction"
+    },
+    {
+      "topic": "2.2 Electrostatic Potential"
+    },
+    {
+      "topic": "2.3 Potential due to a Point Charge"
+    },
+    {
+      "topic": "2.4 Potential due to an Electric Dipole"
+    },
+    {
+      "topic": "2.5 Potential due to a System of Charges"
+    },
+    {
+      "topic": "2.6 Equipotential Surfaces"
+    },
+    {
+      "topic": "2.7 Potential Energy of a System of Charges"
+    },
+    {
+      "topic": "2.8 Potential Energy in an External Field"
+    },
+    {
+      "topic": "2.9 Electrostatics of Conductors"
+    },
+    {
+      "topic": "2.10 Dielectrics and Polarisation"
+    },
+    {
+      "topic": "2.11 Capacitors and Capacitance"
+    },
+    {
+      "topic": "2.12 The Parallel Plate Capacitor"
+    },
+    {
+      "topic": "2.13 Effect of Dielectric on Capacitance"
+    },
+    {
+      "topic": "2.14 Combination of Capacitors"
+    },
+    {
+      "topic": "2.15 Energy Stored in a Capacitor"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chapter": "Thermodynamics",
+  "topics": [
+    {
+      "topic": "11.1 Introduction"
+    },
+    {
+      "topic": "11.2 Thermal equilibrium"
+    },
+    {
+      "topic": "11.3 Zeroth law of thermodynamics"
+    },
+    {
+      "topic": "11.4 Heat, internal energy and work"
+    },
+    {
+      "topic": "11.5 First law of thermodynamics"
+    },
+    {
+      "topic": "11.6 Specific heat capacity"
+    },
+    {
+      "topic": "11.7 Thermodynamic state variables and equation of state"
+    },
+    {
+      "topic": "11.8 Thermodynamic processes"
+    },
+    {
+      "topic": "11.9 Second law of thermodynamics"
+    },
+    {
+      "topic": "11.10 Reversible and irreversible processes"
+    },
+    {
+      "topic": "11.11 Carnot engine"
+    }
+  ]
+}

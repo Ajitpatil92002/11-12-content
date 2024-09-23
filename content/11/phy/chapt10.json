@@ -1,0 +1,35 @@
+{
+  "chapter": "Thermal Properties of Matter",
+  "topics": [
+    {
+      "topic": "Introduction"
+    },
+    {
+      "topic": "Temperature and heat"
+    },
+    {
+      "topic": "Measurement of temperature"
+    },
+    {
+      "topic": "Ideal-gas equation and absolute temperature"
+    },
+    {
+      "topic": "Thermal expansion"
+    },
+    {
+      "topic": "Specific heat capacity"
+    },
+    {
+      "topic": "Calorimetry"
+    },
+    {
+      "topic": "Change of state"
+    },
+    {
+      "topic": "Heat transfer"
+    },
+    {
+      "topic": "Newton’s law of cooling"
+    }
+  ]
+}

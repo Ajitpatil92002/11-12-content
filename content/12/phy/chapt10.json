@@ -1,0 +1,26 @@
+{
+  "chapter": "Wave Optics",
+  "topics": [
+    {
+      "topic": "Introduction"
+    },
+    {
+      "topic": "Huygens Principle"
+    },
+    {
+      "topic": "Refraction and Reflection of Plane Waves using Huygens Principle"
+    },
+    {
+      "topic": "Coherent and Incoherent Addition of Waves"
+    },
+    {
+      "topic": "Interference of Light Waves and Young’s Experiment"
+    },
+    {
+      "topic": "Diffraction"
+    },
+    {
+      "topic": "Polarisation"
+    }
+  ]
+}

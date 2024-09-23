@@ -1,0 +1,38 @@
+{
+  "chapter": "Oscillations",
+  "topics": [
+    {
+      "topic": "Introduction"
+    },
+    {
+      "topic": "Periodic and Oscillatory Motions"
+    },
+    {
+      "topic": "Simple Harmonic Motion"
+    },
+    {
+      "topic": "Simple Harmonic Motion and Uniform Circular Motion"
+    },
+    {
+      "topic": "Velocity and Acceleration in SHM"
+    },
+    {
+      "topic": "Force Law for SHM"
+    },
+    {
+      "topic": "Energy in SHM"
+    },
+    {
+      "topic": "The Simple Pendulum"
+    },
+    {
+      "topic": "Velocity and Acceleration in Simple Harmonic Motion"
+    },
+    {
+      "topic": "Force Law for Simple Harmonic Motion"
+    },
+    {
+      "topic": "Energy in Simple Harmonic Motion"
+    }
+  ]
+}

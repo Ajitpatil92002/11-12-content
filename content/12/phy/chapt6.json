@@ -1,0 +1,29 @@
+{
+  "chapter": "Electromagnetic Induction",
+  "topics": [
+    {
+      "topic": "6.1 Introduction"
+    },
+    {
+      "topic": "6.2 The Experiments of Faraday and Henry"
+    },
+    {
+      "topic": "6.3 Magnetic Flux"
+    },
+    {
+      "topic": "6.4 Faraday’s Law of Induction"
+    },
+    {
+      "topic": "6.5 Lenz’s Law and Conservation of Energy"
+    },
+    {
+      "topic": "6.6 Motional Electromotive Force"
+    },
+    {
+      "topic": "6.7 Inductance"
+    },
+    {
+      "topic": "6.8 AC Generator"
+    }
+  ]
+}

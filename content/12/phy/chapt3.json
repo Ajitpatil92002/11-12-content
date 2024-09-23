@@ -1,0 +1,44 @@
+{
+  "chapter": "Current Electricity",
+  "topics": [
+    {
+      "topic": "3.1 Introduction"
+    },
+    {
+      "topic": "3.2 Electric Current"
+    },
+    {
+      "topic": "3.3 Electric Currents in Conductors"
+    },
+    {
+      "topic": "3.4 Ohm’s Law"
+    },
+    {
+      "topic": "3.5 Drift of Electrons and the Origin of Resistivity"
+    },
+    {
+      "topic": "3.6 Limitations of Ohm’s Law"
+    },
+    {
+      "topic": "3.7 Resistivity of Various Materials"
+    },
+    {
+      "topic": "3.8 Temperature Dependence of Resistivity"
+    },
+    {
+      "topic": "3.9 Electrical Energy, Power"
+    },
+    {
+      "topic": "3.10 Cells, emf, Internal Resistance"
+    },
+    {
+      "topic": "3.11 Cells in Series and in Parallel"
+    },
+    {
+      "topic": "3.12 Kirchhoff’s Rules"
+    },
+    {
+      "topic": "3.13 Wheatstone Bridge"
+    }
+  ]
+}
